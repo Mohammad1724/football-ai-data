@@ -1,0 +1,307 @@
+date,league,home_team,away_team,home_xg,away_xg
+2022-08-05,D1,Ein Frankfurt,Bayern Munich,0.85,4.14
+2022-08-06,D1,Augsburg,Freiburg,0.65,1.27
+2022-08-06,D1,Bochum,Mainz,0.87,1.45
+2022-08-06,D1,Dortmund,Leverkusen,1.62,1.31
+2022-08-06,D1,M'gladbach,Hoffenheim,1.99,0.13
+2022-08-06,D1,Union Berlin,Hertha,1.05,0.34
+2022-08-06,D1,Wolfsburg,Werder Bremen,0.97,0.80
+2022-08-07,D1,FC Koln,Schalke 04,4.25,0.24
+2022-08-07,D1,Stuttgart,RB Leipzig,0.83,1.69
+2022-08-12,D1,Freiburg,Dortmund,1.02,1.12
+2022-08-13,D1,Hertha,Ein Frankfurt,1.70,1.57
+2022-08-13,D1,Hoffenheim,Bochum,2.63,1.52
+2022-08-13,D1,Leverkusen,Augsburg,2.57,0.44
+2022-08-13,D1,RB Leipzig,FC Koln,0.96,1.52
+2022-08-13,D1,Schalke 04,M'gladbach,1.35,1.30
+2022-08-13,D1,Werder Bremen,Stuttgart,0.52,1.44
+2022-08-14,D1,Bayern Munich,Wolfsburg,2.16,0.47
+2022-08-14,D1,Mainz,Union Berlin,0.67,0.40
+2022-08-19,D1,M'gladbach,Hertha,2.82,0.96
+2022-08-20,D1,Augsburg,Mainz,0.50,2.11
+2022-08-20,D1,Dortmund,Werder Bremen,0.51,1.31
+2022-08-20,D1,Leverkusen,Hoffenheim,1.20,1.51
+2022-08-20,D1,Stuttgart,Freiburg,0.87,0.59
+2022-08-20,D1,Union Berlin,RB Leipzig,0.71,0.91
+2022-08-20,D1,Wolfsburg,Schalke 04,1.28,1.11
+2022-08-21,D1,Bochum,Bayern Munich,0.74,3.02
+2022-08-21,D1,Ein Frankfurt,FC Koln,0.89,0.32
+2022-08-26,D1,Freiburg,Bochum,3.95,1.26
+2022-08-27,D1,Bayern Munich,M'gladbach,2.82,0.49
+2022-08-27,D1,Hertha,Dortmund,0.49,2.70
+2022-08-27,D1,Hoffenheim,Augsburg,1.87,0.63
+2022-08-27,D1,Mainz,Leverkusen,1.41,1.89
+2022-08-27,D1,RB Leipzig,Wolfsburg,3.67,0.55
+2022-08-27,D1,Schalke 04,Union Berlin,1.92,1.13
+2022-08-28,D1,FC Koln,Stuttgart,0.58,2.16
+2022-08-28,D1,Werder Bremen,Ein Frankfurt,1.77,1.83
+2022-09-02,D1,Dortmund,Hoffenheim,1.99,0.45
+2022-09-03,D1,Bochum,Werder Bremen,0.80,1.99
+2022-09-03,D1,Ein Frankfurt,RB Leipzig,3.10,0.18
+2022-09-03,D1,Leverkusen,Freiburg,1.84,1.87
+2022-09-03,D1,Stuttgart,Schalke 04,0.63,2.26
+2022-09-03,D1,Union Berlin,Bayern Munich,0.27,1.51
+2022-09-03,D1,Wolfsburg,FC Koln,1.04,2.72
+2022-09-04,D1,Augsburg,Hertha,0.41,2.10
+2022-09-04,D1,M'gladbach,Mainz,1.18,0.65
+2022-09-09,D1,Werder Bremen,Augsburg,1.27,0.99
+2022-09-10,D1,Bayern Munich,Stuttgart,2.20,1.24
+2022-09-10,D1,Ein Frankfurt,Wolfsburg,0.73,1.01
+2022-09-10,D1,Hertha,Leverkusen,1.94,1.33
+2022-09-10,D1,Hoffenheim,Mainz,4.28,0.71
+2022-09-10,D1,RB Leipzig,Dortmund,2.04,0.60
+2022-09-10,D1,Schalke 04,Bochum,1.49,1.12
+2022-09-11,D1,FC Koln,Union Berlin,0.58,1.49
+2022-09-11,D1,Freiburg,M'gladbach,1.13,1.25
+2022-09-16,D1,Mainz,Hertha,0.72,0.39
+2022-09-17,D1,Augsburg,Bayern Munich,1.78,1.62
+2022-09-17,D1,Dortmund,Schalke 04,1.80,0.07
+2022-09-17,D1,Leverkusen,Werder Bremen,1.80,2.12
+2022-09-17,D1,M'gladbach,RB Leipzig,2.81,0.87
+2022-09-17,D1,Stuttgart,Ein Frankfurt,1.06,1.00
+2022-09-18,D1,Bochum,FC Koln,0.24,2.15
+2022-09-18,D1,Hoffenheim,Freiburg,0.70,1.03
+2022-09-18,D1,Union Berlin,Wolfsburg,1.37,0.26
+2022-09-30,D1,Bayern Munich,Leverkusen,1.87,0.84
+2022-10-01,D1,Ein Frankfurt,Union Berlin,0.85,0.97
+2022-10-01,D1,FC Koln,Dortmund,1.89,3.12
+2022-10-01,D1,Freiburg,Mainz,2.02,1.68
+2022-10-01,D1,RB Leipzig,Bochum,3.93,0.11
+2022-10-01,D1,Werder Bremen,M'gladbach,1.92,2.31
+2022-10-01,D1,Wolfsburg,Stuttgart,2.09,1.53
+2022-10-02,D1,Hertha,Hoffenheim,0.93,1.45
+2022-10-02,D1,Schalke 04,Augsburg,1.88,1.38
+2022-10-07,D1,Hoffenheim,Werder Bremen,1.75,1.35
+2022-10-08,D1,Augsburg,Wolfsburg,2.04,1.88
+2022-10-08,D1,Bochum,Ein Frankfurt,0.61,0.87
+2022-10-08,D1,Dortmund,Bayern Munich,1.62,0.61
+2022-10-08,D1,Leverkusen,Schalke 04,1.56,0.40
+2022-10-08,D1,Mainz,RB Leipzig,0.57,1.11
+2022-10-09,D1,Hertha,Freiburg,1.61,1.02
+2022-10-09,D1,M'gladbach,FC Koln,2.99,1.29
+2022-10-09,D1,Stuttgart,Union Berlin,1.04,0.66
+2022-10-14,D1,Schalke 04,Hoffenheim,0.71,3.32
+2022-10-15,D1,Ein Frankfurt,Leverkusen,3.93,0.43
+2022-10-15,D1,RB Leipzig,Hertha,2.96,2.36
+2022-10-15,D1,Stuttgart,Bochum,2.24,1.60
+2022-10-15,D1,Werder Bremen,Mainz,1.30,1.08
+2022-10-15,D1,Wolfsburg,M'gladbach,1.79,0.82
+2022-10-16,D1,Bayern Munich,Freiburg,2.09,0.35
+2022-10-16,D1,FC Koln,Augsburg,1.47,0.43
+2022-10-16,D1,Union Berlin,Dortmund,1.88,0.85
+2022-10-21,D1,Mainz,FC Koln,1.95,0.72
+2022-10-22,D1,Augsburg,RB Leipzig,1.55,2.40
+2022-10-22,D1,Dortmund,Stuttgart,2.59,0.99
+2022-10-22,D1,Freiburg,Werder Bremen,2.98,0.48
+2022-10-22,D1,Hoffenheim,Bayern Munich,0.78,2.47
+2022-10-22,D1,Leverkusen,Wolfsburg,2.28,1.24
+2022-10-22,D1,M'gladbach,Ein Frankfurt,1.04,1.91
+2022-10-23,D1,Bochum,Union Berlin,1.08,1.03
+2022-10-23,D1,Hertha,Schalke 04,0.75,0.55
+2022-10-28,D1,Werder Bremen,Hertha,1.36,0.42
+2022-10-29,D1,Bayern Munich,Mainz,3.19,2.21
+2022-10-29,D1,Ein Frankfurt,Dortmund,1.91,0.60
+2022-10-29,D1,RB Leipzig,Leverkusen,1.20,0.14
+2022-10-29,D1,Stuttgart,Augsburg,2.69,1.03
+2022-10-29,D1,Wolfsburg,Bochum,2.02,0.50
+2022-10-30,D1,FC Koln,Hoffenheim,1.22,0.91
+2022-10-30,D1,Schalke 04,Freiburg,0.60,2.29
+2022-10-30,D1,Union Berlin,M'gladbach,0.89,0.99
+2022-11-04,D1,M'gladbach,Stuttgart,0.87,1.17
+2022-11-05,D1,Augsburg,Ein Frankfurt,1.15,1.19
+2022-11-05,D1,Dortmund,Bochum,1.54,0.59
+2022-11-05,D1,Hertha,Bayern Munich,1.17,1.95
+2022-11-05,D1,Hoffenheim,RB Leipzig,0.93,1.71
+2022-11-05,D1,Mainz,Wolfsburg,0.97,0.56
+2022-11-05,D1,Werder Bremen,Schalke 04,1.04,1.38
+2022-11-06,D1,Freiburg,FC Koln,1.44,0.48
+2022-11-06,D1,Leverkusen,Union Berlin,1.92,0.33
+2022-11-08,D1,Bayern Munich,Werder Bremen,4.41,1.28
+2022-11-08,D1,Bochum,M'gladbach,2.00,0.82
+2022-11-08,D1,Stuttgart,Hertha,2.04,0.69
+2022-11-08,D1,Wolfsburg,Dortmund,2.54,1.58
+2022-11-09,D1,Ein Frankfurt,Hoffenheim,2.84,1.84
+2022-11-09,D1,FC Koln,Leverkusen,1.48,1.44
+2022-11-09,D1,RB Leipzig,Freiburg,2.95,0.18
+2022-11-09,D1,Schalke 04,Mainz,1.55,0.78
+2022-11-09,D1,Union Berlin,Augsburg,1.18,0.57
+2022-11-11,D1,M'gladbach,Dortmund,2.08,3.13
+2022-11-12,D1,Augsburg,Bochum,2.28,1.09
+2022-11-12,D1,Hertha,FC Koln,1.78,1.82
+2022-11-12,D1,Hoffenheim,Wolfsburg,1.38,0.73
+2022-11-12,D1,Leverkusen,Stuttgart,1.56,0.31
+2022-11-12,D1,Schalke 04,Bayern Munich,0.78,1.91
+2022-11-12,D1,Werder Bremen,RB Leipzig,0.91,1.66
+2022-11-13,D1,Freiburg,Union Berlin,2.28,1.73
+2022-11-13,D1,Mainz,Ein Frankfurt,1.55,1.78
+2023-01-20,D1,RB Leipzig,Bayern Munich,0.76,0.67
+2023-01-21,D1,Bochum,Hertha,1.57,1.01
+2023-01-21,D1,Ein Frankfurt,Schalke 04,1.22,1.94
+2023-01-21,D1,FC Koln,Werder Bremen,3.20,0.28
+2023-01-21,D1,Stuttgart,Mainz,1.91,1.47
+2023-01-21,D1,Union Berlin,Hoffenheim,2.87,0.99
+2023-01-21,D1,Wolfsburg,Freiburg,2.68,0.71
+2023-01-22,D1,Dortmund,Augsburg,2.94,1.70
+2023-01-22,D1,M'gladbach,Leverkusen,1.04,2.06
+2023-01-24,D1,Bayern Munich,FC Koln,1.37,0.81
+2023-01-24,D1,Hertha,Wolfsburg,0.36,3.23
+2023-01-24,D1,Hoffenheim,Stuttgart,2.00,0.80
+2023-01-24,D1,Schalke 04,RB Leipzig,0.73,2.72
+2023-01-25,D1,Augsburg,M'gladbach,0.95,0.29
+2023-01-25,D1,Freiburg,Ein Frankfurt,1.93,0.16
+2023-01-25,D1,Leverkusen,Bochum,1.73,0.75
+2023-01-25,D1,Mainz,Dortmund,1.16,1.55
+2023-01-25,D1,Werder Bremen,Union Berlin,0.64,1.14
+2023-01-27,D1,RB Leipzig,Stuttgart,1.01,1.69
+2023-01-28,D1,Bayern Munich,Ein Frankfurt,1.69,0.62
+2023-01-28,D1,Freiburg,Augsburg,1.78,1.73
+2023-01-28,D1,Hertha,Union Berlin,0.46,1.02
+2023-01-28,D1,Hoffenheim,M'gladbach,1.85,1.67
+2023-01-28,D1,Mainz,Bochum,2.10,1.48
+2023-01-28,D1,Werder Bremen,Wolfsburg,2.28,0.68
+2023-01-29,D1,Leverkusen,Dortmund,1.70,0.92
+2023-01-29,D1,Schalke 04,FC Koln,1.25,0.33
+2023-02-03,D1,Augsburg,Leverkusen,0.90,0.62
+2023-02-04,D1,Bochum,Hoffenheim,2.68,0.89
+2023-02-04,D1,Dortmund,Freiburg,1.92,0.42
+2023-02-04,D1,Ein Frankfurt,Hertha,2.24,0.92
+2023-02-04,D1,FC Koln,RB Leipzig,0.77,1.27
+2023-02-04,D1,M'gladbach,Schalke 04,1.10,0.98
+2023-02-04,D1,Union Berlin,Mainz,1.11,1.34
+2023-02-05,D1,Stuttgart,Werder Bremen,1.37,0.51
+2023-02-05,D1,Wolfsburg,Bayern Munich,2.30,0.51
+2023-02-10,D1,Schalke 04,Wolfsburg,1.35,1.30
+2023-02-11,D1,Bayern Munich,Bochum,3.72,0.29
+2023-02-11,D1,Freiburg,Stuttgart,2.07,1.05
+2023-02-11,D1,Hoffenheim,Leverkusen,0.74,1.44
+2023-02-11,D1,Mainz,Augsburg,2.45,1.48
+2023-02-11,D1,RB Leipzig,Union Berlin,0.56,1.72
+2023-02-11,D1,Werder Bremen,Dortmund,0.58,2.50
+2023-02-12,D1,FC Koln,Ein Frankfurt,1.17,0.34
+2023-02-12,D1,Hertha,M'gladbach,3.02,0.47
+2023-02-17,D1,Augsburg,Hoffenheim,1.63,0.65
+2023-02-18,D1,Bochum,Freiburg,1.44,2.69
+2023-02-18,D1,Ein Frankfurt,Werder Bremen,2.06,0.28
+2023-02-18,D1,M'gladbach,Bayern Munich,2.41,1.09
+2023-02-18,D1,Stuttgart,FC Koln,1.59,0.47
+2023-02-18,D1,Wolfsburg,RB Leipzig,0.24,3.07
+2023-02-19,D1,Dortmund,Hertha,2.59,1.05
+2023-02-19,D1,Leverkusen,Mainz,2.36,1.63
+2023-02-19,D1,Union Berlin,Schalke 04,0.90,0.37
+2023-02-24,D1,Mainz,M'gladbach,1.81,1.20
+2023-02-25,D1,FC Koln,Wolfsburg,1.26,1.01
+2023-02-25,D1,Hertha,Augsburg,0.58,0.50
+2023-02-25,D1,Hoffenheim,Dortmund,1.32,2.48
+2023-02-25,D1,RB Leipzig,Ein Frankfurt,1.72,0.84
+2023-02-25,D1,Schalke 04,Stuttgart,1.58,1.20
+2023-02-25,D1,Werder Bremen,Bochum,1.16,0.47
+2023-02-26,D1,Bayern Munich,Union Berlin,3.60,0.36
+2023-02-26,D1,Freiburg,Leverkusen,0.76,2.20
+2023-03-03,D1,Dortmund,RB Leipzig,1.19,2.24
+2023-03-04,D1,Augsburg,Werder Bremen,0.62,2.39
+2023-03-04,D1,Bochum,Schalke 04,1.30,0.58
+2023-03-04,D1,M'gladbach,Freiburg,1.49,0.34
+2023-03-04,D1,Mainz,Hoffenheim,1.17,0.82
+2023-03-04,D1,Stuttgart,Bayern Munich,0.79,2.13
+2023-03-04,D1,Union Berlin,FC Koln,0.49,0.94
+2023-03-05,D1,Leverkusen,Hertha,1.69,1.05
+2023-03-05,D1,Wolfsburg,Ein Frankfurt,1.88,0.63
+2023-03-10,D1,FC Koln,Bochum,0.74,1.41
+2023-03-11,D1,Bayern Munich,Augsburg,2.42,2.52
+2023-03-11,D1,Ein Frankfurt,Stuttgart,0.73,0.80
+2023-03-11,D1,Hertha,Mainz,1.49,0.53
+2023-03-11,D1,RB Leipzig,M'gladbach,2.55,1.60
+2023-03-11,D1,Schalke 04,Dortmund,1.51,2.02
+2023-03-12,D1,Freiburg,Hoffenheim,0.59,1.05
+2023-03-12,D1,Werder Bremen,Leverkusen,1.79,0.95
+2023-03-12,D1,Wolfsburg,Union Berlin,1.72,1.32
+2023-03-17,D1,M'gladbach,Werder Bremen,3.39,1.26
+2023-03-18,D1,Augsburg,Schalke 04,0.33,1.83
+2023-03-18,D1,Bochum,RB Leipzig,1.10,1.85
+2023-03-18,D1,Dortmund,FC Koln,3.26,1.59
+2023-03-18,D1,Hoffenheim,Hertha,2.68,1.03
+2023-03-18,D1,Stuttgart,Wolfsburg,0.54,0.58
+2023-03-19,D1,Leverkusen,Bayern Munich,2.01,0.95
+2023-03-19,D1,Mainz,Freiburg,1.04,1.74
+2023-03-19,D1,Union Berlin,Ein Frankfurt,1.52,2.69
+2023-03-31,D1,Ein Frankfurt,Bochum,3.20,1.11
+2023-04-01,D1,Bayern Munich,Dortmund,2.42,1.71
+2023-04-01,D1,Freiburg,Hertha,1.18,1.87
+2023-04-01,D1,RB Leipzig,Mainz,0.81,3.09
+2023-04-01,D1,Schalke 04,Leverkusen,1.12,2.75
+2023-04-01,D1,Union Berlin,Stuttgart,1.92,2.24
+2023-04-01,D1,Wolfsburg,Augsburg,3.65,0.58
+2023-04-02,D1,FC Koln,M'gladbach,0.96,0.98
+2023-04-02,D1,Werder Bremen,Hoffenheim,0.87,1.12
+2023-04-08,D1,Augsburg,FC Koln,0.87,1.74
+2023-04-08,D1,Dortmund,Union Berlin,2.63,0.49
+2023-04-08,D1,Freiburg,Bayern Munich,1.02,3.55
+2023-04-08,D1,Hertha,RB Leipzig,0.51,1.97
+2023-04-08,D1,Leverkusen,Ein Frankfurt,1.95,0.92
+2023-04-08,D1,Mainz,Werder Bremen,1.89,0.94
+2023-04-09,D1,Bochum,Stuttgart,2.38,2.22
+2023-04-09,D1,Hoffenheim,Schalke 04,2.23,0.74
+2023-04-09,D1,M'gladbach,Wolfsburg,1.64,1.50
+2023-04-14,D1,Schalke 04,Hertha,2.19,1.56
+2023-04-15,D1,Bayern Munich,Hoffenheim,1.68,0.45
+2023-04-15,D1,Ein Frankfurt,M'gladbach,2.18,1.19
+2023-04-15,D1,FC Koln,Mainz,1.03,0.78
+2023-04-15,D1,RB Leipzig,Augsburg,1.82,0.75
+2023-04-15,D1,Stuttgart,Dortmund,1.39,1.86
+2023-04-16,D1,Union Berlin,Bochum,1.20,1.85
+2023-04-16,D1,Werder Bremen,Freiburg,1.72,0.79
+2023-04-16,D1,Wolfsburg,Leverkusen,0.91,1.22
+2023-04-21,D1,Augsburg,Stuttgart,0.68,1.12
+2023-04-22,D1,Bochum,Wolfsburg,2.64,3.57
+2023-04-22,D1,Dortmund,Ein Frankfurt,1.12,0.57
+2023-04-22,D1,Hertha,Werder Bremen,1.61,2.03
+2023-04-22,D1,Hoffenheim,FC Koln,0.90,1.74
+2023-04-22,D1,Mainz,Bayern Munich,1.57,1.93
+2023-04-23,D1,Freiburg,Schalke 04,2.12,0.35
+2023-04-23,D1,Leverkusen,RB Leipzig,1.13,2.00
+2023-04-23,D1,M'gladbach,Union Berlin,0.68,1.34
+2023-04-28,D1,Bochum,Dortmund,0.93,2.85
+2023-04-29,D1,Ein Frankfurt,Augsburg,0.58,0.68
+2023-04-29,D1,FC Koln,Freiburg,1.58,1.59
+2023-04-29,D1,RB Leipzig,Hoffenheim,1.41,0.33
+2023-04-29,D1,Schalke 04,Werder Bremen,1.56,1.18
+2023-04-29,D1,Stuttgart,M'gladbach,2.34,1.25
+2023-04-29,D1,Union Berlin,Leverkusen,0.79,0.75
+2023-04-30,D1,Bayern Munich,Hertha,2.71,0.11
+2023-04-30,D1,Wolfsburg,Mainz,1.93,1.71
+2023-05-05,D1,Leverkusen,FC Koln,0.95,0.80
+2023-05-05,D1,Mainz,Schalke 04,1.42,3.22
+2023-05-06,D1,Augsburg,Union Berlin,0.86,0.73
+2023-05-06,D1,Freiburg,RB Leipzig,0.40,1.95
+2023-05-06,D1,Hertha,Stuttgart,1.20,1.55
+2023-05-06,D1,Hoffenheim,Ein Frankfurt,2.23,2.27
+2023-05-06,D1,M'gladbach,Bochum,1.94,1.07
+2023-05-06,D1,Werder Bremen,Bayern Munich,0.73,1.42
+2023-05-07,D1,Dortmund,Wolfsburg,4.22,1.25
+2023-05-12,D1,FC Koln,Hertha,4.39,1.07
+2023-05-13,D1,Bayern Munich,Schalke 04,5.33,0.42
+2023-05-13,D1,Bochum,Augsburg,1.25,1.89
+2023-05-13,D1,Dortmund,M'gladbach,4.65,1.97
+2023-05-13,D1,Ein Frankfurt,Mainz,2.25,1.04
+2023-05-13,D1,Union Berlin,Freiburg,1.49,2.06
+2023-05-13,D1,Wolfsburg,Hoffenheim,1.13,1.05
+2023-05-14,D1,RB Leipzig,Werder Bremen,2.19,1.14
+2023-05-14,D1,Stuttgart,Leverkusen,1.37,1.85
+2023-05-19,D1,Freiburg,Wolfsburg,1.32,0.72
+2023-05-20,D1,Bayern Munich,RB Leipzig,1.67,3.04
+2023-05-20,D1,Hertha,Bochum,1.16,1.11
+2023-05-20,D1,Hoffenheim,Union Berlin,2.43,1.96
+2023-05-20,D1,Schalke 04,Ein Frankfurt,1.00,1.64
+2023-05-20,D1,Werder Bremen,FC Koln,1.92,1.43
+2023-05-21,D1,Augsburg,Dortmund,0.25,3.12
+2023-05-21,D1,Leverkusen,M'gladbach,1.57,1.64
+2023-05-21,D1,Mainz,Stuttgart,1.42,1.78
+2023-05-27,D1,Bochum,Leverkusen,1.30,0.83
+2023-05-27,D1,Dortmund,Mainz,4.00,1.83
+2023-05-27,D1,Ein Frankfurt,Freiburg,2.08,1.63
+2023-05-27,D1,FC Koln,Bayern Munich,1.29,1.35
+2023-05-27,D1,M'gladbach,Augsburg,3.23,0.52
+2023-05-27,D1,RB Leipzig,Schalke 04,2.69,1.25
+2023-05-27,D1,Stuttgart,Hoffenheim,2.51,0.85
+2023-05-27,D1,Union Berlin,Werder Bremen,0.89,0.41
+2023-05-27,D1,Wolfsburg,Hertha,3.46,2.08

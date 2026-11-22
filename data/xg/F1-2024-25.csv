@@ -1,0 +1,307 @@
+date,league,home_team,away_team,home_xg,away_xg
+2024-08-16,F1,Le Havre,Paris SG,0.21,2.87
+2024-08-17,F1,Brest,Marseille,1.32,2.38
+2024-08-17,F1,Monaco,St Etienne,1.96,0.45
+2024-08-17,F1,Reims,Lille,0.07,2.10
+2024-08-18,F1,Angers,Lens,0.39,1.23
+2024-08-18,F1,Auxerre,Nice,1.96,0.71
+2024-08-18,F1,Montpellier,Strasbourg,1.41,0.91
+2024-08-18,F1,Rennes,Lyon,2.05,2.06
+2024-08-18,F1,Toulouse,Nantes,1.71,0.47
+2024-08-23,F1,Paris SG,Montpellier,3.82,0.63
+2024-08-24,F1,Lille,Angers,0.88,0.58
+2024-08-24,F1,Lyon,Monaco,0.03,2.26
+2024-08-24,F1,St Etienne,Le Havre,1.11,2.38
+2024-08-25,F1,Lens,Brest,2.97,0.86
+2024-08-25,F1,Marseille,Reims,3.17,0.88
+2024-08-25,F1,Nantes,Auxerre,1.44,1.11
+2024-08-25,F1,Nice,Toulouse,1.28,0.98
+2024-08-25,F1,Strasbourg,Rennes,0.72,1.09
+2024-08-30,F1,Lyon,Strasbourg,2.92,2.72
+2024-08-31,F1,Brest,St Etienne,3.12,0.17
+2024-08-31,F1,Montpellier,Nantes,0.92,1.48
+2024-08-31,F1,Toulouse,Marseille,0.99,1.10
+2024-09-01,F1,Angers,Nice,1.42,2.24
+2024-09-01,F1,Le Havre,Auxerre,2.76,0.58
+2024-09-01,F1,Lille,Paris SG,1.40,2.60
+2024-09-01,F1,Monaco,Lens,1.03,2.24
+2024-09-01,F1,Reims,Rennes,1.39,0.79
+2024-09-13,F1,St Etienne,Lille,1.25,1.24
+2024-09-14,F1,Auxerre,Monaco,0.56,3.49
+2024-09-14,F1,Marseille,Nice,0.67,2.05
+2024-09-14,F1,Paris SG,Brest,2.88,0.97
+2024-09-15,F1,Lens,Lyon,1.05,0.56
+2024-09-15,F1,Nantes,Reims,1.53,0.51
+2024-09-15,F1,Rennes,Montpellier,1.29,0.33
+2024-09-15,F1,Strasbourg,Angers,2.26,0.92
+2024-09-15,F1,Toulouse,Le Havre,1.32,0.21
+2024-09-20,F1,Nice,St Etienne,4.73,0.32
+2024-09-21,F1,Lille,Strasbourg,2.75,3.23
+2024-09-21,F1,Reims,Paris SG,0.31,1.59
+2024-09-21,F1,Rennes,Lens,1.37,0.56
+2024-09-22,F1,Angers,Nantes,0.85,0.62
+2024-09-22,F1,Brest,Toulouse,0.46,2.73
+2024-09-22,F1,Lyon,Marseille,3.01,0.79
+2024-09-22,F1,Monaco,Le Havre,1.98,0.57
+2024-09-22,F1,Montpellier,Auxerre,2.04,1.27
+2024-09-27,F1,Auxerre,Brest,2.57,0.80
+2024-09-27,F1,Paris SG,Rennes,3.05,1.50
+2024-09-28,F1,Le Havre,Lille,0.41,3.61
+2024-09-28,F1,Lens,Nice,1.99,1.15
+2024-09-28,F1,Monaco,Montpellier,3.25,0.88
+2024-09-29,F1,Angers,Reims,1.12,2.91
+2024-09-29,F1,Nantes,St Etienne,1.80,1.02
+2024-09-29,F1,Strasbourg,Marseille,1.31,0.50
+2024-09-29,F1,Toulouse,Lyon,0.94,0.42
+2024-10-04,F1,Marseille,Angers,0.89,0.83
+2024-10-05,F1,Lille,Toulouse,1.61,1.11
+2024-10-05,F1,Rennes,Monaco,0.75,0.58
+2024-10-05,F1,St Etienne,Auxerre,2.73,0.79
+2024-10-06,F1,Brest,Le Havre,0.75,1.06
+2024-10-06,F1,Lyon,Nantes,3.28,0.88
+2024-10-06,F1,Nice,Paris SG,0.45,1.42
+2024-10-06,F1,Reims,Montpellier,3.03,0.50
+2024-10-06,F1,Strasbourg,Lens,1.24,0.99
+2024-10-18,F1,Monaco,Lille,1.23,0.25
+2024-10-19,F1,Brest,Rennes,1.47,1.17
+2024-10-19,F1,Paris SG,Strasbourg,3.49,1.96
+2024-10-19,F1,St Etienne,Lens,0.78,1.22
+2024-10-20,F1,Auxerre,Reims,2.91,1.08
+2024-10-20,F1,Le Havre,Lyon,0.49,2.72
+2024-10-20,F1,Montpellier,Marseille,1.19,3.36
+2024-10-20,F1,Nantes,Nice,0.49,0.85
+2024-10-20,F1,Toulouse,Angers,1.97,1.38
+2024-10-25,F1,Rennes,Le Havre,1.59,0.43
+2024-10-26,F1,Angers,St Etienne,2.96,1.47
+2024-10-26,F1,Lens,Lille,1.09,1.72
+2024-10-26,F1,Reims,Brest,0.79,1.50
+2024-10-27,F1,Lyon,Auxerre,2.05,1.54
+2024-10-27,F1,Marseille,Paris SG,0.22,3.10
+2024-10-27,F1,Montpellier,Toulouse,0.21,1.88
+2024-10-27,F1,Nice,Monaco,1.63,0.40
+2024-10-27,F1,Strasbourg,Nantes,1.73,0.76
+2024-11-01,F1,Lille,Lyon,1.67,1.24
+2024-11-01,F1,Monaco,Angers,1.39,0.46
+2024-11-02,F1,Brest,Nice,1.02,1.52
+2024-11-02,F1,Paris SG,Lens,2.88,0.83
+2024-11-02,F1,St Etienne,Strasbourg,2.65,0.53
+2024-11-03,F1,Auxerre,Rennes,2.79,0.80
+2024-11-03,F1,Le Havre,Montpellier,2.18,1.01
+2024-11-03,F1,Nantes,Marseille,1.36,1.22
+2024-11-03,F1,Toulouse,Reims,0.88,1.09
+2024-11-08,F1,Marseille,Auxerre,2.59,1.92
+2024-11-09,F1,Angers,Paris SG,1.03,3.50
+2024-11-09,F1,Lens,Nantes,2.99,1.42
+2024-11-09,F1,Strasbourg,Monaco,0.79,3.89
+2024-11-10,F1,Le Havre,Reims,1.63,2.65
+2024-11-10,F1,Lyon,St Etienne,1.17,0.68
+2024-11-10,F1,Montpellier,Brest,2.47,0.93
+2024-11-10,F1,Nice,Lille,2.11,1.68
+2024-11-10,F1,Rennes,Toulouse,0.58,0.97
+2024-11-22,F1,Monaco,Brest,2.70,1.04
+2024-11-22,F1,Paris SG,Toulouse,1.16,1.39
+2024-11-23,F1,Lens,Marseille,2.72,1.21
+2024-11-23,F1,Reims,Lyon,1.01,1.70
+2024-11-23,F1,St Etienne,Montpellier,1.49,0.95
+2024-11-24,F1,Auxerre,Angers,0.59,0.88
+2024-11-24,F1,Lille,Rennes,0.41,0.19
+2024-11-24,F1,Nantes,Le Havre,0.87,0.83
+2024-11-24,F1,Nice,Strasbourg,2.12,0.32
+2024-11-29,F1,Reims,Lens,0.85,1.82
+2024-11-30,F1,Brest,Strasbourg,2.46,1.02
+2024-11-30,F1,Paris SG,Nantes,2.73,0.65
+2024-11-30,F1,Rennes,St Etienne,3.36,0.11
+2024-12-01,F1,Le Havre,Angers,0.17,2.14
+2024-12-01,F1,Lyon,Nice,2.86,2.16
+2024-12-01,F1,Marseille,Monaco,1.94,1.02
+2024-12-01,F1,Montpellier,Lille,1.47,2.22
+2024-12-01,F1,Toulouse,Auxerre,2.33,0.12
+2024-12-06,F1,Auxerre,Paris SG,0.29,2.51
+2024-12-06,F1,Lille,Brest,2.51,0.65
+2024-12-07,F1,Angers,Lyon,0.63,2.03
+2024-12-07,F1,Monaco,Toulouse,3.23,0.51
+2024-12-07,F1,Nice,Le Havre,2.03,1.01
+2024-12-08,F1,Lens,Montpellier,1.27,1.10
+2024-12-08,F1,Nantes,Rennes,1.19,0.39
+2024-12-08,F1,St Etienne,Marseille,0.16,2.51
+2024-12-08,F1,Strasbourg,Reims,0.80,1.11
+2024-12-13,F1,Toulouse,St Etienne,1.41,0.52
+2024-12-14,F1,Auxerre,Lens,0.58,1.61
+2024-12-14,F1,Marseille,Lille,1.27,1.44
+2024-12-14,F1,Reims,Monaco,1.51,1.30
+2024-12-15,F1,Brest,Nantes,1.99,1.15
+2024-12-15,F1,Le Havre,Strasbourg,0.86,0.99
+2024-12-15,F1,Montpellier,Nice,1.97,1.12
+2024-12-15,F1,Paris SG,Lyon,2.88,1.46
+2024-12-15,F1,Rennes,Angers,0.56,0.36
+2024-12-18,F1,Monaco,Paris SG,2.48,1.77
+2025-01-03,F1,Nice,Rennes,1.50,1.71
+2025-01-04,F1,Lille,Nantes,1.19,1.33
+2025-01-04,F1,Lyon,Montpellier,1.35,1.17
+2025-01-04,F1,St Etienne,Reims,2.22,1.11
+2025-01-05,F1,Angers,Brest,1.78,0.98
+2025-01-05,F1,Lens,Toulouse,1.41,2.03
+2025-01-05,F1,Marseille,Le Havre,3.23,0.45
+2025-01-05,F1,Strasbourg,Auxerre,2.42,1.38
+2025-01-10,F1,Auxerre,Lille,0.82,1.47
+2025-01-10,F1,Nantes,Monaco,0.81,3.59
+2025-01-11,F1,Brest,Lyon,1.07,1.43
+2025-01-11,F1,Reims,Nice,0.79,2.47
+2025-01-11,F1,Rennes,Marseille,1.63,1.66
+2025-01-12,F1,Le Havre,Lens,1.99,2.79
+2025-01-12,F1,Montpellier,Angers,1.30,3.81
+2025-01-12,F1,Paris SG,St Etienne,4.07,0.24
+2025-01-12,F1,Toulouse,Strasbourg,1.24,2.35
+2025-01-17,F1,Lille,Nice,1.12,2.93
+2025-01-17,F1,Montpellier,Monaco,2.41,1.85
+2025-01-18,F1,Lens,Paris SG,0.72,1.23
+2025-01-18,F1,Lyon,Toulouse,0.74,1.23
+2025-01-18,F1,Rennes,Brest,1.46,0.99
+2025-01-19,F1,Angers,Auxerre,0.93,0.70
+2025-01-19,F1,Marseille,Strasbourg,2.92,0.80
+2025-01-19,F1,Reims,Le Havre,0.78,0.94
+2025-01-19,F1,St Etienne,Nantes,0.82,1.35
+2025-01-24,F1,Auxerre,St Etienne,0.84,1.17
+2025-01-25,F1,Monaco,Rennes,3.53,1.77
+2025-01-25,F1,Paris SG,Reims,1.25,0.97
+2025-01-25,F1,Strasbourg,Lille,1.06,1.76
+2025-01-26,F1,Le Havre,Brest,0.96,2.05
+2025-01-26,F1,Lens,Angers,1.91,0.16
+2025-01-26,F1,Nantes,Lyon,1.26,1.11
+2025-01-26,F1,Nice,Marseille,1.13,0.83
+2025-01-26,F1,Toulouse,Montpellier,0.98,0.58
+2025-01-31,F1,Montpellier,Lens,0.83,2.08
+2025-02-01,F1,Brest,Paris SG,0.87,3.59
+2025-02-01,F1,Lille,St Etienne,3.41,2.11
+2025-02-01,F1,Monaco,Auxerre,2.62,1.48
+2025-02-02,F1,Angers,Le Havre,1.48,2.07
+2025-02-02,F1,Marseille,Lyon,3.24,1.75
+2025-02-02,F1,Reims,Nantes,1.04,1.92
+2025-02-02,F1,Rennes,Strasbourg,0.91,1.19
+2025-02-02,F1,Toulouse,Nice,1.47,1.69
+2025-02-07,F1,Nantes,Brest,1.10,2.51
+2025-02-07,F1,Paris SG,Monaco,3.14,1.00
+2025-02-08,F1,Lille,Le Havre,1.52,2.04
+2025-02-08,F1,Nice,Lens,2.28,1.17
+2025-02-08,F1,St Etienne,Rennes,0.48,3.75
+2025-02-09,F1,Angers,Marseille,0.49,2.47
+2025-02-09,F1,Auxerre,Toulouse,0.90,0.91
+2025-02-09,F1,Lyon,Reims,3.30,0.35
+2025-02-09,F1,Strasbourg,Montpellier,2.75,1.83
+2025-02-14,F1,Brest,Auxerre,2.18,1.15
+2025-02-15,F1,Marseille,St Etienne,6.43,0.96
+2025-02-15,F1,Monaco,Nantes,4.44,1.18
+2025-02-15,F1,Toulouse,Paris SG,0.88,2.44
+2025-02-16,F1,Le Havre,Nice,0.70,1.42
+2025-02-16,F1,Lens,Strasbourg,0.36,2.35
+2025-02-16,F1,Montpellier,Lyon,1.40,0.95
+2025-02-16,F1,Reims,Angers,1.68,1.61
+2025-02-16,F1,Rennes,Lille,0.46,3.18
+2025-02-21,F1,Rennes,Reims,2.38,0.18
+2025-02-22,F1,Auxerre,Marseille,1.96,0.66
+2025-02-22,F1,Lille,Monaco,1.11,2.34
+2025-02-22,F1,St Etienne,Angers,1.69,2.94
+2025-02-23,F1,Le Havre,Toulouse,0.77,2.38
+2025-02-23,F1,Lyon,Paris SG,1.78,2.46
+2025-02-23,F1,Nantes,Lens,4.41,1.77
+2025-02-23,F1,Nice,Montpellier,1.77,0.57
+2025-02-23,F1,Strasbourg,Brest,0.54,0.56
+2025-02-28,F1,Monaco,Reims,3.83,0.63
+2025-03-01,F1,Lens,Le Havre,1.88,1.44
+2025-03-01,F1,Paris SG,Lille,3.59,1.07
+2025-03-01,F1,St Etienne,Nice,0.89,1.91
+2025-03-02,F1,Angers,Toulouse,0.35,3.54
+2025-03-02,F1,Auxerre,Strasbourg,2.24,0.95
+2025-03-02,F1,Lyon,Brest,1.39,2.00
+2025-03-02,F1,Marseille,Nantes,2.15,0.88
+2025-03-02,F1,Montpellier,Rennes,1.64,2.46
+2025-03-07,F1,Toulouse,Monaco,0.57,2.43
+2025-03-08,F1,Lille,Montpellier,1.54,0.33
+2025-03-08,F1,Marseille,Lens,1.01,0.87
+2025-03-08,F1,Rennes,Paris SG,1.75,3.85
+2025-03-09,F1,Brest,Angers,3.57,0.37
+2025-03-09,F1,Le Havre,St Etienne,2.08,1.51
+2025-03-09,F1,Nantes,Strasbourg,0.82,0.98
+2025-03-09,F1,Nice,Lyon,1.44,1.07
+2025-03-09,F1,Reims,Auxerre,1.55,2.14
+2025-03-14,F1,Nice,Auxerre,2.17,0.75
+2025-03-15,F1,Angers,Monaco,0.49,2.05
+2025-03-15,F1,Lens,Rennes,0.75,0.59
+2025-03-15,F1,Nantes,Lille,1.21,1.58
+2025-03-16,F1,Brest,Reims,0.33,1.19
+2025-03-16,F1,Lyon,Le Havre,3.98,1.70
+2025-03-16,F1,Montpellier,St Etienne,1.46,1.21
+2025-03-16,F1,Paris SG,Marseille,2.59,1.19
+2025-03-16,F1,Strasbourg,Toulouse,1.65,1.74
+2025-03-28,F1,Strasbourg,Lyon,1.09,1.99
+2025-03-29,F1,Monaco,Nice,2.45,0.51
+2025-03-29,F1,Reims,Marseille,0.98,1.09
+2025-03-29,F1,St Etienne,Paris SG,0.97,3.27
+2025-03-30,F1,Angers,Rennes,0.81,1.54
+2025-03-30,F1,Auxerre,Montpellier,2.10,0.53
+2025-03-30,F1,Le Havre,Nantes,4.33,0.90
+2025-03-30,F1,Lille,Lens,1.86,0.41
+2025-03-30,F1,Toulouse,Brest,2.06,1.36
+2025-04-04,F1,Nice,Nantes,1.90,0.57
+2025-04-05,F1,Brest,Monaco,1.00,1.71
+2025-04-05,F1,Lyon,Lille,1.82,0.91
+2025-04-05,F1,Paris SG,Angers,1.92,0.18
+2025-04-06,F1,Lens,St Etienne,2.18,1.42
+2025-04-06,F1,Marseille,Toulouse,1.03,1.23
+2025-04-06,F1,Montpellier,Le Havre,1.02,1.37
+2025-04-06,F1,Reims,Strasbourg,1.45,2.55
+2025-04-06,F1,Rennes,Auxerre,1.21,0.78
+2025-04-11,F1,Lens,Reims,3.43,1.34
+2025-04-12,F1,Monaco,Marseille,2.67,1.06
+2025-04-12,F1,Strasbourg,Nice,0.71,1.75
+2025-04-12,F1,Toulouse,Lille,0.91,0.40
+2025-04-13,F1,Angers,Montpellier,1.35,0.38
+2025-04-13,F1,Auxerre,Lyon,0.74,3.09
+2025-04-13,F1,Le Havre,Rennes,0.62,2.79
+2025-04-13,F1,St Etienne,Brest,0.70,1.53
+2025-04-18,F1,Rennes,Nantes,2.77,0.68
+2025-04-19,F1,Marseille,Montpellier,4.17,0.30
+2025-04-19,F1,Monaco,Strasbourg,0.93,0.39
+2025-04-19,F1,Paris SG,Le Havre,3.14,0.45
+2025-04-20,F1,Brest,Lens,0.73,2.52
+2025-04-20,F1,Lille,Auxerre,2.04,0.25
+2025-04-20,F1,Nice,Angers,2.86,0.45
+2025-04-20,F1,Reims,Toulouse,0.74,1.29
+2025-04-20,F1,St Etienne,Lyon,1.60,0.76
+2025-04-22,F1,Nantes,Paris SG,0.49,1.60
+2025-04-25,F1,Paris SG,Nice,3.16,0.96
+2025-04-26,F1,Le Havre,Monaco,0.51,3.20
+2025-04-26,F1,Lyon,Rennes,1.88,0.82
+2025-04-26,F1,Strasbourg,St Etienne,2.83,2.06
+2025-04-27,F1,Angers,Lille,0.72,1.43
+2025-04-27,F1,Lens,Auxerre,1.44,2.65
+2025-04-27,F1,Marseille,Brest,0.96,1.47
+2025-04-27,F1,Montpellier,Reims,0.59,0.60
+2025-04-27,F1,Nantes,Toulouse,1.05,0.36
+2025-05-02,F1,Nice,Reims,1.51,1.28
+2025-05-03,F1,St Etienne,Monaco,0.60,1.98
+2025-05-03,F1,Strasbourg,Paris SG,0.73,1.73
+2025-05-03,F1,Toulouse,Rennes,0.81,1.48
+2025-05-04,F1,Auxerre,Le Havre,0.24,1.54
+2025-05-04,F1,Brest,Montpellier,1.10,0.56
+2025-05-04,F1,Lille,Marseille,0.46,1.32
+2025-05-04,F1,Lyon,Lens,1.04,0.73
+2025-05-04,F1,Nantes,Angers,0.52,1.12
+2025-05-10,F1,Angers,Strasbourg,0.75,0.99
+2025-05-10,F1,Auxerre,Nantes,0.43,0.67
+2025-05-10,F1,Brest,Lille,1.20,2.06
+2025-05-10,F1,Le Havre,Marseille,0.96,2.57
+2025-05-10,F1,Monaco,Lyon,1.16,0.39
+2025-05-10,F1,Montpellier,Paris SG,0.61,1.50
+2025-05-10,F1,Reims,St Etienne,1.91,0.66
+2025-05-10,F1,Rennes,Nice,1.24,1.07
+2025-05-10,F1,Toulouse,Lens,1.14,0.79
+2025-05-17,F1,Lens,Monaco,1.78,0.45
+2025-05-17,F1,Lille,Reims,2.06,0.11
+2025-05-17,F1,Lyon,Angers,3.95,0.50
+2025-05-17,F1,Marseille,Rennes,3.99,1.15
+2025-05-17,F1,Nantes,Montpellier,2.51,0.79
+2025-05-17,F1,Nice,Brest,5.69,1.00
+2025-05-17,F1,Paris SG,Auxerre,3.11,0.63
+2025-05-17,F1,St Etienne,Toulouse,1.33,3.21
+2025-05-17,F1,Strasbourg,Le Havre,1.46,2.52

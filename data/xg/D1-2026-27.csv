@@ -1,0 +1,89 @@
+date,league,home_team,away_team,home_xg,away_xg
+2026-08-28,D1,Bayern Munich,Stuttgart,4.06,0.79
+2026-08-29,D1,Dortmund,Hamburg,1.51,0.91
+2026-08-29,D1,Elversberg,Leverkusen,1.27,1.88
+2026-08-29,D1,FC Koln,Hoffenheim,1.95,1.88
+2026-08-29,D1,Mainz,Paderborn,1.23,0.73
+2026-08-29,D1,RB Leipzig,M'gladbach,3.96,1.09
+2026-08-29,D1,Union Berlin,Ein Frankfurt,1.84,1.47
+2026-08-30,D1,Augsburg,Schalke 04,3.72,2.10
+2026-08-30,D1,Freiburg,Werder Bremen,2.37,0.54
+2026-09-04,D1,Stuttgart,FC Koln,3.47,2.79
+2026-09-05,D1,Hoffenheim,Dortmund,1.76,2.04
+2026-09-05,D1,Leverkusen,Union Berlin,3.11,0.39
+2026-09-05,D1,M'gladbach,Elversberg,2.36,2.31
+2026-09-05,D1,Paderborn,Freiburg,0.77,1.24
+2026-09-05,D1,Schalke 04,Bayern Munich,0.21,1.94
+2026-09-05,D1,Werder Bremen,RB Leipzig,0.95,1.50
+2026-09-06,D1,Ein Frankfurt,Augsburg,2.22,1.13
+2026-09-06,D1,Hamburg,Mainz,0.19,2.77
+2026-09-11,D1,Union Berlin,Schalke 04,1.95,2.52
+2026-09-12,D1,Augsburg,Leverkusen,1.11,2.64
+2026-09-12,D1,Dortmund,Paderborn,1.76,0.49
+2026-09-12,D1,FC Koln,Werder Bremen,1.65,1.12
+2026-09-12,D1,Freiburg,M'gladbach,2.60,0.19
+2026-09-12,D1,Hoffenheim,Stuttgart,2.76,2.16
+2026-09-12,D1,Mainz,Ein Frankfurt,2.12,2.04
+2026-09-13,D1,Elversberg,Bayern Munich,0.94,2.83
+2026-09-13,D1,RB Leipzig,Hamburg,2.43,1.10
+2026-09-18,D1,Bayern Munich,Union Berlin,3.71,0.34
+2026-09-19,D1,Ein Frankfurt,Freiburg,2.18,3.09
+2026-09-19,D1,Hamburg,FC Koln,1.45,1.41
+2026-09-19,D1,M'gladbach,Mainz,3.24,2.82
+2026-09-19,D1,Stuttgart,Dortmund,1.15,1.33
+2026-09-19,D1,Werder Bremen,Augsburg,2.78,1.12
+2026-09-20,D1,Leverkusen,RB Leipzig,2.27,0.97
+2026-09-20,D1,Paderborn,Hoffenheim,0.68,1.50
+2026-09-20,D1,Schalke 04,Elversberg,1.01,1.01
+2026-10-09,D1,Dortmund,Werder Bremen,2.31,1.31
+2026-10-10,D1,Augsburg,Bayern Munich,2.37,4.96
+2026-10-10,D1,Hoffenheim,Hamburg,0.93,1.28
+2026-10-10,D1,Mainz,Leverkusen,3.13,2.09
+2026-10-10,D1,Paderborn,Stuttgart,1.96,2.47
+2026-10-10,D1,RB Leipzig,Ein Frankfurt,4.03,1.46
+2026-10-10,D1,Union Berlin,Elversberg,1.13,0.24
+2026-10-11,D1,FC Koln,M'gladbach,1.32,1.17
+2026-10-11,D1,Freiburg,Schalke 04,1.15,0.32
+2026-10-16,D1,Ein Frankfurt,FC Koln,1.80,0.80
+2026-10-17,D1,Bayern Munich,RB Leipzig,3.40,0.84
+2026-10-17,D1,Elversberg,Augsburg,3.78,3.92
+2026-10-17,D1,Hamburg,Stuttgart,1.50,2.28
+2026-10-17,D1,Schalke 04,Mainz,0.43,1.94
+2026-10-17,D1,Union Berlin,Dortmund,0.80,1.09
+2026-10-17,D1,Werder Bremen,Paderborn,3.21,1.15
+2026-10-18,D1,Leverkusen,Freiburg,1.64,1.21
+2026-10-18,D1,M'gladbach,Hoffenheim,0.47,1.80
+2026-10-23,D1,Stuttgart,M'gladbach,1.53,3.08
+2026-10-24,D1,Augsburg,Union Berlin,1.92,1.16
+2026-10-24,D1,Dortmund,Ein Frankfurt,1.48,0.85
+2026-10-24,D1,FC Koln,Schalke 04,1.24,0.61
+2026-10-24,D1,Mainz,Werder Bremen,1.70,2.69
+2026-10-24,D1,Paderborn,Hamburg,1.37,0.46
+2026-10-24,D1,RB Leipzig,Elversberg,2.87,0.80
+2026-10-25,D1,Freiburg,Bayern Munich,1.01,2.91
+2026-10-25,D1,Hoffenheim,Leverkusen,3.46,0.57
+2026-10-30,D1,Elversberg,Mainz,0.94,1.17
+2026-10-31,D1,Augsburg,Freiburg,1.19,1.19
+2026-10-31,D1,Bayern Munich,Dortmund,4.48,0.74
+2026-10-31,D1,Leverkusen,Stuttgart,1.79,2.61
+2026-10-31,D1,M'gladbach,Paderborn,1.32,0.99
+2026-10-31,D1,Schalke 04,RB Leipzig,0.49,3.66
+2026-10-31,D1,Werder Bremen,Hoffenheim,1.29,1.06
+2026-11-01,D1,Ein Frankfurt,Hamburg,1.95,1.16
+2026-11-01,D1,Union Berlin,FC Koln,0.68,1.18
+2026-11-06,D1,Hamburg,M'gladbach,2.27,2.22
+2026-11-07,D1,Dortmund,Elversberg,1.57,1.22
+2026-11-07,D1,Mainz,Bayern Munich,0.54,2.78
+2026-11-07,D1,Paderborn,Ein Frankfurt,2.23,1.75
+2026-11-07,D1,RB Leipzig,Augsburg,2.23,2.03
+2026-11-07,D1,Stuttgart,Werder Bremen,0.71,1.40
+2026-11-08,D1,FC Koln,Leverkusen,1.61,1.87
+2026-11-08,D1,Freiburg,Union Berlin,2.58,0.34
+2026-11-08,D1,Hoffenheim,Schalke 04,2.23,2.60
+2026-11-20,D1,Bayern Munich,FC Koln,1.07,1.99
+2026-11-21,D1,Ein Frankfurt,Hoffenheim,2.32,2.18
+2026-11-21,D1,Elversberg,Freiburg,1.15,0.87
+2026-11-21,D1,Leverkusen,Paderborn,4.37,0.50
+2026-11-21,D1,M'gladbach,Dortmund,0.47,1.61
+2026-11-21,D1,Schalke 04,Stuttgart,1.83,2.46
+2026-11-21,D1,Union Berlin,RB Leipzig,0.86,5.94
