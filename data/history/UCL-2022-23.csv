@@ -1,0 +1,126 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG
+UCL,06/09/2022,17:45,Dinamo Zagreb,Chelsea,1,0
+UCL,06/09/2022,17:45,Dortmund,FC København,3,0
+UCL,06/09/2022,20:00,Benfica,Maccabi Haifa,2,0
+UCL,06/09/2022,20:00,Celtic,Real Madrid,0,3
+UCL,06/09/2022,20:00,PSG,Juventus,2,1
+UCL,06/09/2022,20:00,RB Leipzig,Shakhtar Donetsk,1,4
+UCL,06/09/2022,20:00,Salzburg,Milan,1,1
+UCL,06/09/2022,20:00,Sevilla,Man City,0,4
+UCL,07/09/2022,17:45,Ajax,Rangers,4,0
+UCL,07/09/2022,17:45,Frankfurt,Sporting CP,0,3
+UCL,07/09/2022,20:00,Atlético Madrid,FC Porto,2,1
+UCL,07/09/2022,20:00,Barcelona,Viktoria Plzeň,5,1
+UCL,07/09/2022,20:00,Club Brugge,Leverkusen,1,0
+UCL,07/09/2022,20:00,Inter,Bayern München,0,2
+UCL,07/09/2022,20:00,Napoli,Liverpool,4,1
+UCL,07/09/2022,20:00,Tottenham,Marseille,2,0
+UCL,13/09/2022,17:45,Sporting CP,Tottenham,2,0
+UCL,13/09/2022,17:45,Viktoria Plzeň,Inter,0,2
+UCL,13/09/2022,20:00,Bayern München,Barcelona,2,0
+UCL,13/09/2022,20:00,FC Porto,Club Brugge,0,4
+UCL,13/09/2022,20:00,Leverkusen,Atlético Madrid,2,0
+UCL,13/09/2022,20:00,Liverpool,Ajax,2,1
+UCL,13/09/2022,20:00,Marseille,Frankfurt,0,1
+UCL,14/09/2022,17:45,Milan,Dinamo Zagreb,3,1
+UCL,14/09/2022,17:45,Shakhtar Donetsk,Celtic,1,1
+UCL,14/09/2022,20:00,Chelsea,Salzburg,1,1
+UCL,14/09/2022,20:00,FC København,Sevilla,0,0
+UCL,14/09/2022,20:00,Juventus,Benfica,1,2
+UCL,14/09/2022,20:00,Maccabi Haifa,PSG,1,3
+UCL,14/09/2022,20:00,Man City,Dortmund,2,1
+UCL,14/09/2022,20:00,Rangers,Napoli,0,3
+UCL,14/09/2022,20:00,Real Madrid,RB Leipzig,2,0
+UCL,04/10/2022,17:45,Bayern München,Viktoria Plzeň,5,0
+UCL,04/10/2022,18:05,Marseille,Sporting CP,4,1
+UCL,04/10/2022,20:00,Ajax,Napoli,1,6
+UCL,04/10/2022,20:00,Club Brugge,Atlético Madrid,2,0
+UCL,04/10/2022,20:00,FC Porto,Leverkusen,2,0
+UCL,04/10/2022,20:00,Frankfurt,Tottenham,0,0
+UCL,04/10/2022,20:00,Inter,Barcelona,1,0
+UCL,04/10/2022,20:00,Liverpool,Rangers,2,0
+UCL,05/10/2022,17:45,RB Leipzig,Celtic,3,1
+UCL,05/10/2022,17:45,Salzburg,Dinamo Zagreb,1,0
+UCL,05/10/2022,20:00,Benfica,PSG,1,1
+UCL,05/10/2022,20:00,Chelsea,Milan,3,0
+UCL,05/10/2022,20:00,Juventus,Maccabi Haifa,3,1
+UCL,05/10/2022,20:00,Man City,FC København,5,0
+UCL,05/10/2022,20:00,Real Madrid,Shakhtar Donetsk,2,1
+UCL,05/10/2022,20:00,Sevilla,Dortmund,1,4
+UCL,11/10/2022,17:45,FC København,Man City,0,0
+UCL,11/10/2022,17:45,Maccabi Haifa,Juventus,2,0
+UCL,11/10/2022,20:00,Celtic,RB Leipzig,0,2
+UCL,11/10/2022,20:00,Dinamo Zagreb,Salzburg,1,1
+UCL,11/10/2022,20:00,Dortmund,Sevilla,1,1
+UCL,11/10/2022,20:00,Milan,Chelsea,0,2
+UCL,11/10/2022,20:00,PSG,Benfica,1,1
+UCL,11/10/2022,20:00,Shakhtar Donetsk,Real Madrid,1,1
+UCL,12/10/2022,17:45,Atlético Madrid,Club Brugge,0,0
+UCL,12/10/2022,17:45,Napoli,Ajax,4,2
+UCL,12/10/2022,20:00,Barcelona,Inter,3,3
+UCL,12/10/2022,20:00,Leverkusen,FC Porto,0,3
+UCL,12/10/2022,20:00,Rangers,Liverpool,1,7
+UCL,12/10/2022,20:00,Sporting CP,Marseille,0,2
+UCL,12/10/2022,20:00,Tottenham,Frankfurt,3,2
+UCL,12/10/2022,20:00,Viktoria Plzeň,Bayern München,2,4
+UCL,25/10/2022,17:45,Salzburg,Chelsea,1,2
+UCL,25/10/2022,17:45,Sevilla,FC København,3,0
+UCL,25/10/2022,20:00,Benfica,Juventus,4,3
+UCL,25/10/2022,20:00,Celtic,Shakhtar Donetsk,1,1
+UCL,25/10/2022,20:00,Dinamo Zagreb,Milan,0,4
+UCL,25/10/2022,20:00,Dortmund,Man City,0,0
+UCL,25/10/2022,20:00,PSG,Maccabi Haifa,7,2
+UCL,25/10/2022,20:00,RB Leipzig,Real Madrid,3,2
+UCL,26/10/2022,17:45,Club Brugge,FC Porto,0,4
+UCL,26/10/2022,17:45,Inter,Viktoria Plzeň,4,0
+UCL,26/10/2022,20:00,Ajax,Liverpool,0,3
+UCL,26/10/2022,20:00,Atlético Madrid,Leverkusen,2,2
+UCL,26/10/2022,20:00,Barcelona,Bayern München,0,3
+UCL,26/10/2022,20:00,Frankfurt,Marseille,2,1
+UCL,26/10/2022,20:00,Napoli,Rangers,3,0
+UCL,26/10/2022,20:00,Tottenham,Sporting CP,1,1
+UCL,01/11/2022,17:45,FC Porto,Atlético Madrid,2,1
+UCL,01/11/2022,17:45,Leverkusen,Club Brugge,0,0
+UCL,01/11/2022,20:00,Bayern München,Inter,2,0
+UCL,01/11/2022,20:00,Liverpool,Napoli,2,0
+UCL,01/11/2022,20:00,Marseille,Tottenham,1,2
+UCL,01/11/2022,20:00,Rangers,Ajax,1,3
+UCL,01/11/2022,20:00,Sporting CP,Frankfurt,1,2
+UCL,01/11/2022,20:00,Viktoria Plzeň,Barcelona,2,4
+UCL,02/11/2022,17:45,Real Madrid,Celtic,5,1
+UCL,02/11/2022,17:45,Shakhtar Donetsk,RB Leipzig,0,4
+UCL,02/11/2022,20:00,Chelsea,Dinamo Zagreb,2,1
+UCL,02/11/2022,20:00,FC København,Dortmund,1,1
+UCL,02/11/2022,20:00,Juventus,PSG,1,2
+UCL,02/11/2022,20:00,Maccabi Haifa,Benfica,1,6
+UCL,02/11/2022,20:00,Man City,Sevilla,3,1
+UCL,02/11/2022,20:00,Milan,Salzburg,4,0
+UCL,14/02/2023,20:00,Milan,Tottenham,1,0
+UCL,14/02/2023,20:00,PSG,Bayern München,0,1
+UCL,15/02/2023,20:00,Club Brugge,Benfica,0,2
+UCL,15/02/2023,20:00,Dortmund,Chelsea,1,0
+UCL,21/02/2023,20:00,Frankfurt,Napoli,0,2
+UCL,21/02/2023,20:00,Liverpool,Real Madrid,2,5
+UCL,22/02/2023,20:00,Inter,FC Porto,1,0
+UCL,22/02/2023,20:00,RB Leipzig,Man City,1,1
+UCL,07/03/2023,20:00,Benfica,Club Brugge,5,1
+UCL,07/03/2023,20:10,Chelsea,Dortmund,2,0
+UCL,08/03/2023,20:00,Bayern München,PSG,2,0
+UCL,08/03/2023,20:10,Tottenham,Milan,0,0
+UCL,14/03/2023,20:00,FC Porto,Inter,0,0
+UCL,14/03/2023,20:00,Man City,RB Leipzig,7,0
+UCL,15/03/2023,20:00,Napoli,Frankfurt,3,0
+UCL,15/03/2023,20:00,Real Madrid,Liverpool,1,0
+UCL,11/04/2023,20:00,Benfica,Inter,0,2
+UCL,11/04/2023,20:00,Man City,Bayern München,3,0
+UCL,12/04/2023,20:00,Milan,Napoli,1,0
+UCL,12/04/2023,20:00,Real Madrid,Chelsea,2,0
+UCL,18/04/2023,20:00,Chelsea,Real Madrid,0,2
+UCL,18/04/2023,20:00,Napoli,Milan,1,1
+UCL,19/04/2023,20:00,Bayern München,Man City,1,1
+UCL,19/04/2023,20:00,Inter,Benfica,3,3
+UCL,09/05/2023,20:00,Real Madrid,Man City,1,1
+UCL,10/05/2023,20:00,Milan,Inter,0,2
+UCL,16/05/2023,20:00,Inter,Milan,1,0
+UCL,17/05/2023,20:00,Man City,Real Madrid,4,0
+UCL,10/06/2023,20:00,Man City,Inter,1,0

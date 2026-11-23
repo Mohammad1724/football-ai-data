@@ -1,0 +1,186 @@
+date,league,home_team,away_team,home_xg,away_xg
+2024-09-17,UCL,Bayern München,Dinamo Zagreb,6.26,0.70
+2024-09-17,UCL,Juventus,PSV Eindhoven,2.92,1.04
+2024-09-17,UCL,Milan,Liverpool,0.61,3.09
+2024-09-17,UCL,Real Madrid,VfB Stuttgart,2.61,1.94
+2024-09-17,UCL,Sporting CP,Lille,1.62,0.41
+2024-09-17,UCL,Young Boys,Aston Villa,0.59,2.04
+2024-09-18,UCL,Bologna,Shakhtar Donetsk,1.17,0.87
+2024-09-18,UCL,Celtic,Slovan Bratislava,3.79,0.51
+2024-09-18,UCL,Club Brugge,Dortmund,1.30,1.88
+2024-09-18,UCL,Man City,Inter,2.35,0.75
+2024-09-18,UCL,PSG,Girona,2.10,0.25
+2024-09-18,UCL,Sparta Prague,Salzburg,2.55,0.58
+2024-09-19,UCL,Atalanta,Arsenal,1.20,0.78
+2024-09-19,UCL,Atlético Madrid,RB Leipzig,1.75,0.71
+2024-09-19,UCL,Brest,Sturm Graz,2.09,0.48
+2024-09-19,UCL,FK Crvena Zvezda,Benfica,1.02,1.27
+2024-09-19,UCL,Feyenoord,Leverkusen,0.79,1.73
+2024-09-19,UCL,Monaco,Barcelona,1.32,0.41
+2024-10-01,UCL,Arsenal,PSG,0.71,0.40
+2024-10-01,UCL,Barcelona,Young Boys,3.64,0.78
+2024-10-01,UCL,Dortmund,Celtic,2.60,2.13
+2024-10-01,UCL,Inter,FK Crvena Zvezda,2.79,0.52
+2024-10-01,UCL,Leverkusen,Milan,1.82,1.00
+2024-10-01,UCL,PSV Eindhoven,Sporting CP,2.56,1.34
+2024-10-01,UCL,Salzburg,Brest,1.62,2.02
+2024-10-01,UCL,Slovan Bratislava,Man City,0.10,3.72
+2024-10-01,UCL,VfB Stuttgart,Sparta Prague,1.71,1.00
+2024-10-02,UCL,Aston Villa,Bayern München,0.40,1.55
+2024-10-02,UCL,Benfica,Atlético Madrid,4.46,0.24
+2024-10-02,UCL,Dinamo Zagreb,Monaco,0.99,2.07
+2024-10-02,UCL,Girona,Feyenoord,2.30,1.86
+2024-10-02,UCL,Lille,Real Madrid,1.19,2.18
+2024-10-02,UCL,Liverpool,Bologna,1.21,0.59
+2024-10-02,UCL,RB Leipzig,Juventus,3.37,1.20
+2024-10-02,UCL,Shakhtar Donetsk,Atalanta,0.29,2.60
+2024-10-02,UCL,Sturm Graz,Club Brugge,0.40,0.68
+2024-10-22,UCL,Arsenal,Shakhtar Donetsk,1.82,0.70
+2024-10-22,UCL,Aston Villa,Bologna,1.18,0.86
+2024-10-22,UCL,Girona,Slovan Bratislava,1.72,0.44
+2024-10-22,UCL,Juventus,VfB Stuttgart,0.25,2.52
+2024-10-22,UCL,Milan,Club Brugge,1.22,0.57
+2024-10-22,UCL,Monaco,FK Crvena Zvezda,3.33,1.01
+2024-10-22,UCL,PSG,PSV Eindhoven,2.57,0.25
+2024-10-22,UCL,Real Madrid,Dortmund,3.55,1.59
+2024-10-22,UCL,Sturm Graz,Sporting CP,0.75,1.50
+2024-10-23,UCL,Atalanta,Celtic,2.38,0.26
+2024-10-23,UCL,Atlético Madrid,Lille,2.35,1.30
+2024-10-23,UCL,Barcelona,Bayern München,2.23,1.04
+2024-10-23,UCL,Benfica,Feyenoord,1.68,1.01
+2024-10-23,UCL,Brest,Leverkusen,0.46,1.03
+2024-10-23,UCL,Man City,Sparta Prague,2.93,0.23
+2024-10-23,UCL,RB Leipzig,Liverpool,0.77,2.31
+2024-10-23,UCL,Salzburg,Dinamo Zagreb,1.17,1.71
+2024-10-23,UCL,Young Boys,Inter,0.92,3.27
+2024-11-05,UCL,Bologna,Monaco,0.46,0.97
+2024-11-05,UCL,Celtic,RB Leipzig,1.79,1.28
+2024-11-05,UCL,Dortmund,Sturm Graz,1.99,0.60
+2024-11-05,UCL,Lille,Juventus,0.77,1.46
+2024-11-05,UCL,Liverpool,Leverkusen,3.79,0.80
+2024-11-05,UCL,PSV Eindhoven,Girona,2.04,0.76
+2024-11-05,UCL,Real Madrid,Milan,2.66,2.45
+2024-11-05,UCL,Slovan Bratislava,Dinamo Zagreb,1.74,1.61
+2024-11-05,UCL,Sporting CP,Man City,2.87,2.23
+2024-11-06,UCL,Bayern München,Benfica,1.45,0.08
+2024-11-06,UCL,Club Brugge,Aston Villa,1.38,0.42
+2024-11-06,UCL,FK Crvena Zvezda,Barcelona,0.31,3.63
+2024-11-06,UCL,Feyenoord,Salzburg,0.77,1.82
+2024-11-06,UCL,Inter,Arsenal,1.19,1.80
+2024-11-06,UCL,PSG,Atlético Madrid,2.12,0.67
+2024-11-06,UCL,Shakhtar Donetsk,Young Boys,1.96,0.95
+2024-11-06,UCL,Sparta Prague,Brest,0.52,1.60
+2024-11-06,UCL,VfB Stuttgart,Atalanta,0.97,2.27
+2024-11-26,UCL,Barcelona,Brest,2.86,0.07
+2024-11-26,UCL,Bayern München,PSG,2.41,0.77
+2024-11-26,UCL,Inter,RB Leipzig,1.37,0.15
+2024-11-26,UCL,Leverkusen,Salzburg,4.56,0.33
+2024-11-26,UCL,Man City,Feyenoord,2.21,2.16
+2024-11-26,UCL,Slovan Bratislava,Milan,1.51,1.88
+2024-11-26,UCL,Sparta Prague,Atlético Madrid,0.22,3.11
+2024-11-26,UCL,Sporting CP,Arsenal,1.05,3.89
+2024-11-26,UCL,Young Boys,Atalanta,0.81,2.54
+2024-11-27,UCL,Aston Villa,Juventus,1.22,0.39
+2024-11-27,UCL,Bologna,Lille,1.45,2.16
+2024-11-27,UCL,Celtic,Club Brugge,1.01,1.10
+2024-11-27,UCL,Dinamo Zagreb,Dortmund,0.14,1.72
+2024-11-27,UCL,FK Crvena Zvezda,VfB Stuttgart,1.47,0.64
+2024-11-27,UCL,Liverpool,Real Madrid,2.73,1.22
+2024-11-27,UCL,Monaco,Benfica,1.70,3.03
+2024-11-27,UCL,PSV Eindhoven,Shakhtar Donetsk,2.77,1.03
+2024-11-27,UCL,Sturm Graz,Girona,0.84,1.67
+2024-12-10,UCL,Atalanta,Real Madrid,3.33,2.10
+2024-12-10,UCL,Brest,PSV Eindhoven,1.58,1.58
+2024-12-10,UCL,Club Brugge,Sporting CP,1.01,1.33
+2024-12-10,UCL,Dinamo Zagreb,Celtic,0.53,0.43
+2024-12-10,UCL,Girona,Liverpool,1.21,1.84
+2024-12-10,UCL,Leverkusen,Inter,1.14,0.29
+2024-12-10,UCL,RB Leipzig,Aston Villa,2.23,2.14
+2024-12-10,UCL,Salzburg,PSG,0.15,3.18
+2024-12-10,UCL,Shakhtar Donetsk,Bayern München,1.23,3.59
+2024-12-11,UCL,Arsenal,Monaco,2.29,0.38
+2024-12-11,UCL,Atlético Madrid,Slovan Bratislava,1.99,1.02
+2024-12-11,UCL,Benfica,Bologna,1.27,0.21
+2024-12-11,UCL,Dortmund,Barcelona,2.73,2.04
+2024-12-11,UCL,Feyenoord,Sparta Prague,0.95,0.66
+2024-12-11,UCL,Juventus,Man City,1.13,1.26
+2024-12-11,UCL,Lille,Sturm Graz,2.01,1.25
+2024-12-11,UCL,Milan,FK Crvena Zvezda,2.00,0.49
+2024-12-11,UCL,VfB Stuttgart,Young Boys,2.33,0.19
+2025-01-21,UCL,Atalanta,Sturm Graz,5.34,0.79
+2025-01-21,UCL,Atlético Madrid,Leverkusen,0.77,0.82
+2025-01-21,UCL,Benfica,Barcelona,3.34,3.63
+2025-01-21,UCL,Bologna,Dortmund,2.02,0.99
+2025-01-21,UCL,Club Brugge,Juventus,0.75,0.44
+2025-01-21,UCL,FK Crvena Zvezda,PSV Eindhoven,2.66,0.83
+2025-01-21,UCL,Liverpool,Lille,2.46,0.49
+2025-01-21,UCL,Monaco,Aston Villa,1.57,0.97
+2025-01-21,UCL,Slovan Bratislava,VfB Stuttgart,0.63,3.46
+2025-01-22,UCL,Arsenal,Dinamo Zagreb,2.48,0.13
+2025-01-22,UCL,Celtic,Young Boys,1.85,1.02
+2025-01-22,UCL,Feyenoord,Bayern München,1.77,2.42
+2025-01-22,UCL,Milan,Girona,1.31,0.94
+2025-01-22,UCL,PSG,Man City,2.81,1.76
+2025-01-22,UCL,RB Leipzig,Sporting CP,2.32,0.92
+2025-01-22,UCL,Real Madrid,Salzburg,2.84,0.45
+2025-01-22,UCL,Shakhtar Donetsk,Brest,1.93,0.43
+2025-01-22,UCL,Sparta Prague,Inter,0.36,0.88
+2025-01-29,UCL,Aston Villa,Celtic,3.97,0.81
+2025-01-29,UCL,Barcelona,Atalanta,2.39,1.22
+2025-01-29,UCL,Bayern München,Slovan Bratislava,3.74,1.07
+2025-01-29,UCL,Brest,Real Madrid,1.43,2.60
+2025-01-29,UCL,Dinamo Zagreb,Milan,1.19,1.11
+2025-01-29,UCL,Dortmund,Shakhtar Donetsk,2.43,0.39
+2025-01-29,UCL,Girona,Arsenal,0.77,2.12
+2025-01-29,UCL,Inter,Monaco,3.89,0.25
+2025-01-29,UCL,Juventus,Benfica,0.95,2.18
+2025-01-29,UCL,Leverkusen,Sparta Prague,1.68,0.82
+2025-01-29,UCL,Lille,Feyenoord,1.32,0.77
+2025-01-29,UCL,Man City,Club Brugge,1.98,1.17
+2025-01-29,UCL,PSV Eindhoven,Liverpool,1.32,1.61
+2025-01-29,UCL,Salzburg,Atlético Madrid,0.64,2.13
+2025-01-29,UCL,Sporting CP,Bologna,1.38,1.14
+2025-01-29,UCL,Sturm Graz,RB Leipzig,1.27,1.54
+2025-01-29,UCL,VfB Stuttgart,PSG,0.77,2.41
+2025-01-29,UCL,Young Boys,FK Crvena Zvezda,0.39,1.77
+2025-02-11,UCL,Brest,PSG,0.96,2.72
+2025-02-11,UCL,Juventus,PSV Eindhoven,1.27,0.81
+2025-02-11,UCL,Man City,Real Madrid,1.60,3.30
+2025-02-11,UCL,Sporting CP,Dortmund,0.70,1.81
+2025-02-12,UCL,Celtic,Bayern München,1.37,0.70
+2025-02-12,UCL,Club Brugge,Atalanta,1.53,1.05
+2025-02-12,UCL,Feyenoord,Milan,0.50,0.57
+2025-02-12,UCL,Monaco,Benfica,0.39,2.17
+2025-02-18,UCL,Atalanta,Club Brugge,3.28,1.15
+2025-02-18,UCL,Bayern München,Celtic,2.38,1.12
+2025-02-18,UCL,Benfica,Monaco,1.92,1.26
+2025-02-18,UCL,Milan,Feyenoord,1.71,0.71
+2025-02-19,UCL,Dortmund,Sporting CP,1.86,0.34
+2025-02-19,UCL,PSG,Brest,3.24,0.97
+2025-02-19,UCL,Real Madrid,Man City,1.80,1.32
+2025-03-04,UCL,Club Brugge,Aston Villa,1.05,1.27
+2025-03-04,UCL,Dortmund,Lille,0.27,0.88
+2025-03-04,UCL,PSV Eindhoven,Arsenal,1.38,1.91
+2025-03-04,UCL,Real Madrid,Atlético Madrid,0.68,0.20
+2025-03-05,UCL,Bayern München,Leverkusen,2.68,0.33
+2025-03-05,UCL,Benfica,Barcelona,1.75,1.19
+2025-03-05,UCL,Feyenoord,Inter,0.45,2.25
+2025-03-05,UCL,PSG,Liverpool,1.78,0.27
+2025-03-11,UCL,Barcelona,Benfica,2.52,0.74
+2025-03-11,UCL,Inter,Feyenoord,2.19,1.50
+2025-03-11,UCL,Leverkusen,Bayern München,1.45,2.10
+2025-03-12,UCL,Arsenal,PSV Eindhoven,1.25,1.55
+2025-03-12,UCL,Aston Villa,Club Brugge,2.45,0.12
+2025-03-12,UCL,Lille,Dortmund,1.48,3.06
+2025-04-08,UCL,Arsenal,Real Madrid,1.64,0.50
+2025-04-08,UCL,Bayern München,Inter,2.30,0.78
+2025-04-09,UCL,Barcelona,Dortmund,3.69,1.45
+2025-04-09,UCL,PSG,Aston Villa,1.95,0.74
+2025-04-15,UCL,Aston Villa,PSG,2.05,1.69
+2025-04-15,UCL,Dortmund,Barcelona,3.81,0.49
+2025-04-16,UCL,Inter,Bayern München,1.49,1.40
+2025-04-16,UCL,Real Madrid,Arsenal,1.41,2.05
+2025-04-29,UCL,Arsenal,PSG,1.63,1.16
+2025-04-30,UCL,Barcelona,Inter,1.36,0.90
+2025-05-07,UCL,PSG,Arsenal,1.74,2.91
+2025-05-31,UCL,PSG,Inter,3.12,0.49

@@ -1,0 +1,126 @@
+date,league,home_team,away_team,missing_home,missing_away
+2023-09-19,UCL,Barcelona,Royal Antwerp,,
+2023-09-19,UCL,Feyenoord,Celtic,,
+2023-09-19,UCL,Lazio,Atlético Madrid,,
+2023-09-19,UCL,Man City,FK Crvena Zvezda,,
+2023-09-19,UCL,Milan,Newcastle,,
+2023-09-19,UCL,PSG,Dortmund,,
+2023-09-19,UCL,Shakhtar Donetsk,FC Porto,,
+2023-09-19,UCL,Young Boys,RB Leipzig,,
+2023-09-20,UCL,Arsenal,PSV Eindhoven,,
+2023-09-20,UCL,Bayern München,Man United,,
+2023-09-20,UCL,Benfica,Salzburg,,
+2023-09-20,UCL,Braga,Napoli,,
+2023-09-20,UCL,Galatasaray,FC København,,
+2023-09-20,UCL,Real Madrid,Union Berlin,,
+2023-09-20,UCL,Real Sociedad,Inter,,
+2023-09-20,UCL,Sevilla,Lens,,
+2023-10-03,UCL,FC København,Bayern München,,
+2023-10-03,UCL,Inter,Benfica,,
+2023-10-03,UCL,Lens,Arsenal,,
+2023-10-03,UCL,Man United,Galatasaray,,
+2023-10-03,UCL,Napoli,Real Madrid,,
+2023-10-03,UCL,PSV Eindhoven,Sevilla,,
+2023-10-03,UCL,Salzburg,Real Sociedad,,
+2023-10-03,UCL,Union Berlin,Braga,,
+2023-10-04,UCL,Atlético Madrid,Feyenoord,,
+2023-10-04,UCL,Celtic,Lazio,,
+2023-10-04,UCL,Dortmund,Milan,,
+2023-10-04,UCL,FC Porto,Barcelona,,
+2023-10-04,UCL,FK Crvena Zvezda,Young Boys,,
+2023-10-04,UCL,Newcastle,PSG,,
+2023-10-04,UCL,RB Leipzig,Man City,,
+2023-10-04,UCL,Royal Antwerp,Shakhtar Donetsk,,
+2023-10-24,UCL,Benfica,Real Sociedad,,
+2023-10-24,UCL,Braga,Real Madrid,,
+2023-10-24,UCL,Galatasaray,Bayern München,,
+2023-10-24,UCL,Inter,Salzburg,,
+2023-10-24,UCL,Lens,PSV Eindhoven,,
+2023-10-24,UCL,Man United,FC København,,
+2023-10-24,UCL,Sevilla,Arsenal,,
+2023-10-24,UCL,Union Berlin,Napoli,,
+2023-10-25,UCL,Barcelona,Shakhtar Donetsk,,
+2023-10-25,UCL,Celtic,Atlético Madrid,,
+2023-10-25,UCL,Feyenoord,Lazio,,
+2023-10-25,UCL,Newcastle,Dortmund,,
+2023-10-25,UCL,PSG,Milan,,
+2023-10-25,UCL,RB Leipzig,FK Crvena Zvezda,,
+2023-10-25,UCL,Royal Antwerp,FC Porto,,
+2023-10-25,UCL,Young Boys,Man City,,
+2023-11-07,UCL,Atlético Madrid,Celtic,0.0000,0.0000
+2023-11-07,UCL,Dortmund,Newcastle,0.0000,0.0000
+2023-11-07,UCL,FC Porto,Royal Antwerp,0.0000,0.0147
+2023-11-07,UCL,FK Crvena Zvezda,RB Leipzig,0.0000,0.0000
+2023-11-07,UCL,Lazio,Feyenoord,0.0000,0.0000
+2023-11-07,UCL,Man City,Young Boys,0.0000,0.0000
+2023-11-07,UCL,Milan,PSG,0.0000,0.0000
+2023-11-07,UCL,Shakhtar Donetsk,Barcelona,0.0848,0.0000
+2023-11-08,UCL,Arsenal,Sevilla,0.0781,0.0000
+2023-11-08,UCL,Bayern München,Galatasaray,0.0000,0.0000
+2023-11-08,UCL,FC København,Man United,0.0000,0.0303
+2023-11-08,UCL,Napoli,Union Berlin,0.0000,0.0000
+2023-11-08,UCL,PSV Eindhoven,Lens,0.0000,0.0000
+2023-11-08,UCL,Real Madrid,Braga,0.0000,0.0000
+2023-11-08,UCL,Real Sociedad,Benfica,0.0000,0.0635
+2023-11-08,UCL,Salzburg,Inter,0.0606,0.0000
+2023-11-28,UCL,Barcelona,FC Porto,0.0000,0.0000
+2023-11-28,UCL,Feyenoord,Atlético Madrid,0.0000,0.0000
+2023-11-28,UCL,Lazio,Celtic,0.0000,0.0000
+2023-11-28,UCL,Man City,RB Leipzig,0.0419,0.0000
+2023-11-28,UCL,Milan,Dortmund,0.0000,0.0000
+2023-11-28,UCL,PSG,Newcastle,0.0909,0.0000
+2023-11-28,UCL,Shakhtar Donetsk,Royal Antwerp,0.0000,0.0110
+2023-11-28,UCL,Young Boys,FK Crvena Zvezda,0.0000,0.0000
+2023-11-29,UCL,Arsenal,Lens,0.0000,0.0000
+2023-11-29,UCL,Bayern München,FC København,0.0000,0.0000
+2023-11-29,UCL,Benfica,Inter,0.0476,0.0000
+2023-11-29,UCL,Braga,Union Berlin,0.0000,0.0000
+2023-11-29,UCL,Galatasaray,Man United,0.0000,0.0227
+2023-11-29,UCL,Real Madrid,Napoli,0.0000,0.0000
+2023-11-29,UCL,Real Sociedad,Salzburg,0.0000,0.0455
+2023-11-29,UCL,Sevilla,PSV Eindhoven,0.0000,0.0000
+2023-12-12,UCL,FC København,Galatasaray,0.0000,0.0000
+2023-12-12,UCL,Inter,Real Sociedad,0.0446,0.0760
+2023-12-12,UCL,Lens,Sevilla,0.0000,0.0078
+2023-12-12,UCL,Man United,Bayern München,0.0182,0.0000
+2023-12-12,UCL,Napoli,Braga,0.0000,0.0000
+2023-12-12,UCL,PSV Eindhoven,Arsenal,0.0884,0.0611
+2023-12-12,UCL,Salzburg,Benfica,0.0000,0.0381
+2023-12-12,UCL,Union Berlin,Real Madrid,0.0000,0.0000
+2023-12-13,UCL,Atlético Madrid,Lazio,0.0000,0.0000
+2023-12-13,UCL,Celtic,Feyenoord,0.0000,0.0000
+2023-12-13,UCL,Dortmund,PSG,0.0591,0.1158
+2023-12-13,UCL,FC Porto,Shakhtar Donetsk,0.0000,0.0509
+2023-12-13,UCL,FK Crvena Zvezda,Man City,0.0000,0.0000
+2023-12-13,UCL,Newcastle,Milan,0.0440,0.0000
+2023-12-13,UCL,RB Leipzig,Young Boys,0.0000,0.0000
+2023-12-13,UCL,Royal Antwerp,Barcelona,0.0088,0.0000
+2024-02-13,UCL,FC København,Man City,0.0000,0.0400
+2024-02-13,UCL,RB Leipzig,Real Madrid,0.0000,0.0000
+2024-02-14,UCL,Lazio,Bayern München,0.0000,0.1581
+2024-02-14,UCL,PSG,Real Sociedad,0.0000,0.0297
+2024-02-20,UCL,Inter,Atlético Madrid,0.0000,0.0000
+2024-02-20,UCL,PSV Eindhoven,Dortmund,0.0000,0.0000
+2024-02-21,UCL,FC Porto,Arsenal,0.0000,0.1040
+2024-02-21,UCL,Napoli,Barcelona,0.0000,0.0000
+2024-03-05,UCL,Bayern München,Lazio,0.1336,0.0539
+2024-03-05,UCL,Real Sociedad,PSG,0.0000,0.0000
+2024-03-06,UCL,Man City,FC København,0.0000,0.0000
+2024-03-06,UCL,Real Madrid,RB Leipzig,0.0000,0.0000
+2024-03-12,UCL,Arsenal,FC Porto,0.0000,0.0000
+2024-03-12,UCL,Barcelona,Napoli,0.0000,0.0000
+2024-03-13,UCL,Atlético Madrid,Inter,0.0000,0.0000
+2024-03-13,UCL,Dortmund,PSV Eindhoven,0.0760,0.0461
+2024-04-09,UCL,Arsenal,Bayern München,0.0000,0.0000
+2024-04-09,UCL,Real Madrid,Man City,0.0000,0.0000
+2024-04-10,UCL,Atlético Madrid,Dortmund,0.0000,0.0000
+2024-04-10,UCL,PSG,Barcelona,0.0000,0.0468
+2024-04-16,UCL,Barcelona,PSG,0.0249,0.0000
+2024-04-16,UCL,Dortmund,Atlético Madrid,0.0000,0.0000
+2024-04-17,UCL,Bayern München,Arsenal,0.1204,0.0000
+2024-04-17,UCL,Man City,Real Madrid,0.0000,0.0278
+2024-04-30,UCL,Bayern München,Real Madrid,0.0439,0.0669
+2024-05-01,UCL,Dortmund,PSG,0.0000,0.0000
+2024-05-07,UCL,PSG,Dortmund,0.0000,0.0000
+2024-05-08,UCL,Real Madrid,Bayern München,0.0000,0.0399
+2024-06-01,UCL,Dortmund,Real Madrid,0.0000,0.0000

@@ -1,0 +1,190 @@
+date,league,home_team,away_team,missing_home,missing_away
+2025-09-16,UCL,Athletic Club,Arsenal,,
+2025-09-16,UCL,Benfica,Qarabağ FK,,
+2025-09-16,UCL,Juventus,Dortmund,,
+2025-09-16,UCL,PSV Eindhoven,Union St.Gilloise,,
+2025-09-16,UCL,Real Madrid,Marseille,,
+2025-09-16,UCL,Tottenham,Villarreal,,
+2025-09-17,UCL,Ajax,Inter,,
+2025-09-17,UCL,Bayern München,Chelsea,,
+2025-09-17,UCL,Liverpool,Atlético Madrid,,
+2025-09-17,UCL,Olympiacos,Pafos FC,,
+2025-09-17,UCL,PSG,Atalanta,,
+2025-09-17,UCL,Slavia Prague,Bodø/Glimt,,
+2025-09-18,UCL,Club Brugge,Monaco,,
+2025-09-18,UCL,FC København,Leverkusen,,
+2025-09-18,UCL,Frankfurt,Galatasaray,,
+2025-09-18,UCL,Man City,Napoli,,
+2025-09-18,UCL,Newcastle,Barcelona,,
+2025-09-18,UCL,Sporting CP,Kairat Almaty,,
+2025-09-30,UCL,Atalanta,Club Brugge,,
+2025-09-30,UCL,Atlético Madrid,Frankfurt,,
+2025-09-30,UCL,Bodø/Glimt,Tottenham,,
+2025-09-30,UCL,Chelsea,Benfica,,
+2025-09-30,UCL,Galatasaray,Liverpool,,
+2025-09-30,UCL,Inter,Slavia Prague,,
+2025-09-30,UCL,Kairat Almaty,Real Madrid,,
+2025-09-30,UCL,Marseille,Ajax,,
+2025-09-30,UCL,Pafos FC,Bayern München,,
+2025-10-01,UCL,Arsenal,Olympiacos,,
+2025-10-01,UCL,Barcelona,PSG,,
+2025-10-01,UCL,Dortmund,Athletic Club,,
+2025-10-01,UCL,Leverkusen,PSV Eindhoven,,
+2025-10-01,UCL,Monaco,Man City,,
+2025-10-01,UCL,Napoli,Sporting CP,,
+2025-10-01,UCL,Qarabağ FK,FC København,,
+2025-10-01,UCL,Union St.Gilloise,Newcastle,,
+2025-10-01,UCL,Villarreal,Juventus,,
+2025-10-21,UCL,Arsenal,Atlético Madrid,,
+2025-10-21,UCL,Barcelona,Olympiacos,,
+2025-10-21,UCL,FC København,Dortmund,,
+2025-10-21,UCL,Kairat Almaty,Pafos FC,,
+2025-10-21,UCL,Leverkusen,PSG,,
+2025-10-21,UCL,Newcastle,Benfica,,
+2025-10-21,UCL,PSV Eindhoven,Napoli,,
+2025-10-21,UCL,Union St.Gilloise,Inter,,
+2025-10-21,UCL,Villarreal,Man City,,
+2025-10-22,UCL,Atalanta,Slavia Prague,,
+2025-10-22,UCL,Athletic Club,Qarabağ FK,,
+2025-10-22,UCL,Bayern München,Club Brugge,,
+2025-10-22,UCL,Chelsea,Ajax,,
+2025-10-22,UCL,Frankfurt,Liverpool,,
+2025-10-22,UCL,Galatasaray,Bodø/Glimt,,
+2025-10-22,UCL,Monaco,Tottenham,,
+2025-10-22,UCL,Real Madrid,Juventus,,
+2025-10-22,UCL,Sporting CP,Marseille,,
+2025-11-04,UCL,Atlético Madrid,Union St.Gilloise,0.0000,0.0000
+2025-11-04,UCL,Bodø/Glimt,Monaco,0.0000,0.0530
+2025-11-04,UCL,Juventus,Sporting CP,0.0000,0.0000
+2025-11-04,UCL,Liverpool,Real Madrid,0.0000,0.0590
+2025-11-04,UCL,Napoli,Frankfurt,0.0000,0.0000
+2025-11-04,UCL,Olympiacos,PSV Eindhoven,0.0817,0.0000
+2025-11-04,UCL,PSG,Bayern München,0.0000,0.0000
+2025-11-04,UCL,Slavia Prague,Arsenal,0.0000,0.0612
+2025-11-04,UCL,Tottenham,FC København,0.0000,0.0000
+2025-11-05,UCL,Ajax,Galatasaray,0.0000,0.0000
+2025-11-05,UCL,Benfica,Leverkusen,0.0000,0.0000
+2025-11-05,UCL,Club Brugge,Barcelona,0.0517,0.0000
+2025-11-05,UCL,Inter,Kairat Almaty,0.0061,0.0000
+2025-11-05,UCL,Man City,Dortmund,0.0000,0.0600
+2025-11-05,UCL,Marseille,Atalanta,0.1183,0.0000
+2025-11-05,UCL,Newcastle,Athletic Club,0.0000,0.0000
+2025-11-05,UCL,Pafos FC,Villarreal,0.0000,0.0000
+2025-11-05,UCL,Qarabağ FK,Chelsea,0.0000,0.0000
+2025-11-25,UCL,Ajax,Benfica,0.0000,0.0000
+2025-11-25,UCL,Bodø/Glimt,Juventus,0.0000,0.0000
+2025-11-25,UCL,Chelsea,Barcelona,0.0000,0.0000
+2025-11-25,UCL,Dortmund,Villarreal,0.0167,0.0000
+2025-11-25,UCL,Galatasaray,Union St.Gilloise,0.0306,0.0000
+2025-11-25,UCL,Man City,Leverkusen,0.0289,0.0000
+2025-11-25,UCL,Marseille,Newcastle,0.0730,0.0835
+2025-11-25,UCL,Napoli,Qarabağ FK,0.0510,0.0000
+2025-11-25,UCL,Slavia Prague,Athletic Club,0.0000,0.0000
+2025-11-26,UCL,Arsenal,Bayern München,0.0000,0.0000
+2025-11-26,UCL,Atlético Madrid,Inter,0.0000,0.0866
+2025-11-26,UCL,FC København,Kairat Almaty,0.0000,0.0000
+2025-11-26,UCL,Frankfurt,Atalanta,0.0000,0.0000
+2025-11-26,UCL,Liverpool,PSV Eindhoven,0.0000,0.0000
+2025-11-26,UCL,Olympiacos,Real Madrid,0.0227,0.0443
+2025-11-26,UCL,PSG,Tottenham,0.0000,0.0000
+2025-11-26,UCL,Pafos FC,Monaco,0.0000,0.0000
+2025-11-26,UCL,Sporting CP,Club Brugge,0.0000,0.0388
+2025-12-09,UCL,Atalanta,Chelsea,0.0000,0.0163
+2025-12-09,UCL,Barcelona,Frankfurt,0.0000,0.0071
+2025-12-09,UCL,Bayern München,Sporting CP,0.0000,0.1575
+2025-12-09,UCL,Inter,Liverpool,0.0693,0.0000
+2025-12-09,UCL,Kairat Almaty,Olympiacos,0.0000,0.0182
+2025-12-09,UCL,Monaco,Galatasaray,0.0354,0.0300
+2025-12-09,UCL,PSV Eindhoven,Atlético Madrid,0.0033,0.0000
+2025-12-09,UCL,Tottenham,Slavia Prague,0.0379,0.0000
+2025-12-09,UCL,Union St.Gilloise,Marseille,0.0000,0.0251
+2025-12-10,UCL,Athletic Club,PSG,0.0000,0.0000
+2025-12-10,UCL,Benfica,Napoli,0.0042,0.0408
+2025-12-10,UCL,Club Brugge,Arsenal,0.0000,0.0410
+2025-12-10,UCL,Dortmund,Bodø/Glimt,0.0000,0.0000
+2025-12-10,UCL,Juventus,Pafos FC,0.0387,0.0000
+2025-12-10,UCL,Leverkusen,Newcastle,0.0000,0.0668
+2025-12-10,UCL,Qarabağ FK,Ajax,0.0000,0.1481
+2025-12-10,UCL,Real Madrid,Man City,0.0354,0.0917
+2025-12-10,UCL,Villarreal,FC København,0.0681,0.0000
+2026-01-20,UCL,Bodø/Glimt,Man City,0.0000,0.1911
+2026-01-20,UCL,FC København,Napoli,0.0000,0.0000
+2026-01-20,UCL,Inter,Arsenal,0.0547,0.0225
+2026-01-20,UCL,Kairat Almaty,Club Brugge,0.0734,0.1569
+2026-01-20,UCL,Olympiacos,Leverkusen,0.0152,0.0000
+2026-01-20,UCL,Real Madrid,Monaco,0.0758,0.0737
+2026-01-20,UCL,Sporting CP,PSG,0.1112,0.0313
+2026-01-20,UCL,Tottenham,Dortmund,0.0470,0.0000
+2026-01-20,UCL,Villarreal,Ajax,0.0000,0.0477
+2026-01-21,UCL,Atalanta,Athletic Club,0.0000,0.0000
+2026-01-21,UCL,Bayern München,Union St.Gilloise,0.0000,0.0000
+2026-01-21,UCL,Chelsea,Pafos FC,0.0407,0.0000
+2026-01-21,UCL,Galatasaray,Atlético Madrid,0.0000,0.0483
+2026-01-21,UCL,Juventus,Benfica,0.0322,0.0000
+2026-01-21,UCL,Marseille,Liverpool,0.0000,0.0000
+2026-01-21,UCL,Newcastle,PSV Eindhoven,0.0000,0.0027
+2026-01-21,UCL,Qarabağ FK,Frankfurt,0.0000,0.0059
+2026-01-21,UCL,Slavia Prague,Barcelona,0.0000,0.0405
+2026-01-28,UCL,Ajax,Olympiacos,0.0649,0.0130
+2026-01-28,UCL,Arsenal,Kairat Almaty,0.0000,0.0629
+2026-01-28,UCL,Athletic Club,Sporting CP,0.0640,0.0543
+2026-01-28,UCL,Atlético Madrid,Bodø/Glimt,0.0432,0.0000
+2026-01-28,UCL,Barcelona,FC København,0.0000,0.0331
+2026-01-28,UCL,Benfica,Real Madrid,0.0000,0.0000
+2026-01-28,UCL,Club Brugge,Marseille,0.0130,0.0000
+2026-01-28,UCL,Dortmund,Inter,0.0096,0.0469
+2026-01-28,UCL,Frankfurt,Tottenham,0.0051,0.0000
+2026-01-28,UCL,Leverkusen,Villarreal,0.0000,0.0000
+2026-01-28,UCL,Liverpool,Qarabağ FK,0.0725,0.0000
+2026-01-28,UCL,Man City,Galatasaray,0.1076,0.0000
+2026-01-28,UCL,Monaco,Juventus,0.0000,0.0276
+2026-01-28,UCL,Napoli,Chelsea,0.0909,0.0349
+2026-01-28,UCL,PSG,Newcastle,0.0268,0.0000
+2026-01-28,UCL,PSV Eindhoven,Bayern München,0.0815,0.0361
+2026-01-28,UCL,Pafos FC,Slavia Prague,0.0000,0.0000
+2026-01-28,UCL,Union St.Gilloise,Atalanta,0.0521,0.0000
+2026-02-17,UCL,Benfica,Real Madrid,0.0000,0.0000
+2026-02-17,UCL,Dortmund,Atalanta,0.0084,0.0000
+2026-02-17,UCL,Galatasaray,Juventus,0.0000,0.0242
+2026-02-17,UCL,Monaco,PSG,0.0663,0.0000
+2026-02-18,UCL,Bodø/Glimt,Inter,0.0000,0.0410
+2026-02-18,UCL,Club Brugge,Atlético Madrid,0.0114,0.0420
+2026-02-18,UCL,Olympiacos,Leverkusen,0.0000,0.0000
+2026-02-18,UCL,Qarabağ FK,Newcastle,0.0000,0.0667
+2026-02-24,UCL,Atlético Madrid,Club Brugge,0.0373,0.0101
+2026-02-24,UCL,Inter,Bodø/Glimt,0.0000,0.0000
+2026-02-24,UCL,Leverkusen,Olympiacos,0.0000,0.0000
+2026-02-24,UCL,Newcastle,Qarabağ FK,0.0593,0.0000
+2026-02-25,UCL,Atalanta,Dortmund,0.0000,0.0074
+2026-02-25,UCL,Juventus,Galatasaray,0.0215,0.0000
+2026-02-25,UCL,PSG,Monaco,0.0000,0.0327
+2026-02-25,UCL,Real Madrid,Benfica,0.0276,0.0000
+2026-03-10,UCL,Atalanta,Bayern München,0.0000,0.0000
+2026-03-10,UCL,Atlético Madrid,Tottenham,0.0000,0.0000
+2026-03-10,UCL,Galatasaray,Liverpool,0.0000,0.0000
+2026-03-10,UCL,Newcastle,Barcelona,0.0534,0.0000
+2026-03-11,UCL,Bodø/Glimt,Sporting CP,0.0000,0.0554
+2026-03-11,UCL,Leverkusen,Arsenal,0.0000,0.0350
+2026-03-11,UCL,PSG,Chelsea,0.0000,0.0000
+2026-03-11,UCL,Real Madrid,Man City,0.0372,0.0000
+2026-03-17,UCL,Arsenal,Leverkusen,0.0000,0.0000
+2026-03-17,UCL,Chelsea,PSG,0.0000,0.0000
+2026-03-17,UCL,Man City,Real Madrid,0.0000,0.0226
+2026-03-17,UCL,Sporting CP,Bodø/Glimt,0.0492,0.0000
+2026-03-18,UCL,Barcelona,Newcastle,0.0000,0.0485
+2026-03-18,UCL,Bayern München,Atalanta,0.0000,0.0000
+2026-03-18,UCL,Liverpool,Galatasaray,0.0000,0.0000
+2026-03-18,UCL,Tottenham,Atlético Madrid,0.0443,0.0000
+2026-04-07,UCL,Real Madrid,Bayern München,0.0000,0.0000
+2026-04-07,UCL,Sporting CP,Arsenal,0.0378,0.0364
+2026-04-08,UCL,Barcelona,Atlético Madrid,0.0000,0.0000
+2026-04-08,UCL,PSG,Liverpool,0.0698,0.0000
+2026-04-14,UCL,Atlético Madrid,Barcelona,0.0000,0.0000
+2026-04-14,UCL,Liverpool,PSG,0.0000,0.0000
+2026-04-15,UCL,Arsenal,Sporting CP,0.0000,0.0000
+2026-04-15,UCL,Bayern München,Real Madrid,0.0000,0.0000
+2026-04-28,UCL,PSG,Bayern München,0.0000,0.0284
+2026-04-29,UCL,Atlético Madrid,Arsenal,0.0293,0.0000
+2026-05-05,UCL,Arsenal,Atlético Madrid,0.0000,0.0273
+2026-05-06,UCL,Bayern München,PSG,0.0000,0.0000
+2026-05-30,UCL,PSG,Arsenal,0.0000,0.0000
