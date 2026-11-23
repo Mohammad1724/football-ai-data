@@ -1,0 +1,383 @@
+date,league,home_team,away_team,missing_home,missing_away
+2021-08-06,F1,Monaco,Nantes,,
+2021-08-07,F1,Lyon,Brest,,
+2021-08-07,F1,Troyes,Paris SG,,
+2021-08-08,F1,Bordeaux,Clermont,,
+2021-08-08,F1,Metz,Lille,,
+2021-08-08,F1,Montpellier,Marseille,,
+2021-08-08,F1,Nice,Reims,,
+2021-08-08,F1,Rennes,Lens,,
+2021-08-08,F1,St Etienne,Lorient,,
+2021-08-08,F1,Strasbourg,Angers,,
+2021-08-13,F1,Lorient,Monaco,,
+2021-08-14,F1,Lille,Nice,,
+2021-08-14,F1,Paris SG,Strasbourg,,
+2021-08-15,F1,Angers,Lyon,,
+2021-08-15,F1,Brest,Rennes,,
+2021-08-15,F1,Clermont,Troyes,,
+2021-08-15,F1,Lens,St Etienne,,
+2021-08-15,F1,Marseille,Bordeaux,,
+2021-08-15,F1,Nantes,Metz,,
+2021-08-15,F1,Reims,Montpellier,,
+2021-08-20,F1,Brest,Paris SG,,
+2021-08-21,F1,Monaco,Lens,,
+2021-08-21,F1,St Etienne,Lille,,
+2021-08-22,F1,Bordeaux,Angers,,
+2021-08-22,F1,Lyon,Clermont,,
+2021-08-22,F1,Metz,Reims,,
+2021-08-22,F1,Montpellier,Lorient,,
+2021-08-22,F1,Nice,Marseille,,
+2021-08-22,F1,Rennes,Nantes,,
+2021-08-22,F1,Strasbourg,Troyes,,
+2021-08-27,F1,Nantes,Lyon,0.0000,0.0000
+2021-08-28,F1,Marseille,St Etienne,0.0000,0.0000
+2021-08-28,F1,Nice,Bordeaux,0.0000,0.0000
+2021-08-29,F1,Angers,Rennes,0.0000,0.0000
+2021-08-29,F1,Clermont,Metz,0.0000,0.0000
+2021-08-29,F1,Lens,Lorient,0.0000,0.0000
+2021-08-29,F1,Lille,Montpellier,0.0000,0.0000
+2021-08-29,F1,Reims,Paris SG,0.0000,0.0000
+2021-08-29,F1,Strasbourg,Brest,0.0000,0.0000
+2021-08-29,F1,Troyes,Monaco,0.0303,0.1512
+2021-09-10,F1,Lorient,Lille,0.0000,0.0000
+2021-09-11,F1,Monaco,Marseille,0.0000,0.0000
+2021-09-11,F1,Paris SG,Clermont,0.0000,0.0000
+2021-09-12,F1,Bordeaux,Lens,0.0000,0.0000
+2021-09-12,F1,Brest,Angers,0.0000,0.0000
+2021-09-12,F1,Lyon,Strasbourg,0.0000,0.0000
+2021-09-12,F1,Metz,Troyes,0.0000,0.0000
+2021-09-12,F1,Montpellier,St Etienne,0.0000,0.0000
+2021-09-12,F1,Nantes,Nice,0.0000,0.0000
+2021-09-12,F1,Rennes,Reims,0.0000,0.0000
+2021-09-17,F1,Strasbourg,Metz,0.0000,0.0000
+2021-09-18,F1,Lens,Lille,0.0000,0.0000
+2021-09-18,F1,St Etienne,Bordeaux,0.0000,0.0000
+2021-09-19,F1,Angers,Nantes,0.0000,0.0000
+2021-09-19,F1,Clermont,Brest,0.0000,0.0000
+2021-09-19,F1,Marseille,Rennes,0.0000,0.0000
+2021-09-19,F1,Nice,Monaco,0.0000,0.0000
+2021-09-19,F1,Paris SG,Lyon,0.0000,0.0000
+2021-09-19,F1,Reims,Lorient,0.0000,0.0000
+2021-09-19,F1,Troyes,Montpellier,0.0000,0.0000
+2021-09-22,F1,Angers,Marseille,0.0000,0.0000
+2021-09-22,F1,Lens,Strasbourg,0.0000,0.0000
+2021-09-22,F1,Lille,Reims,0.0000,0.0000
+2021-09-22,F1,Lorient,Nice,0.0000,0.0000
+2021-09-22,F1,Lyon,Troyes,0.0000,0.0000
+2021-09-22,F1,Metz,Paris SG,0.0000,0.0000
+2021-09-22,F1,Monaco,St Etienne,0.0000,0.0000
+2021-09-22,F1,Montpellier,Bordeaux,0.0000,0.0000
+2021-09-22,F1,Nantes,Brest,0.0000,0.0000
+2021-09-22,F1,Rennes,Clermont,0.0000,0.0000
+2021-09-25,F1,Lyon,Lorient,0.0000,0.0000
+2021-09-25,F1,Paris SG,Montpellier,0.0000,0.0000
+2021-09-25,F1,St Etienne,Nice,0.0000,0.0000
+2021-09-25,F1,Strasbourg,Lille,0.0000,0.0000
+2021-09-26,F1,Bordeaux,Rennes,0.0000,0.0000
+2021-09-26,F1,Brest,Metz,0.0000,0.0000
+2021-09-26,F1,Clermont,Monaco,0.0000,0.0000
+2021-09-26,F1,Marseille,Lens,0.0000,0.0000
+2021-09-26,F1,Reims,Nantes,0.0000,0.0000
+2021-09-26,F1,Troyes,Angers,0.0000,0.0000
+2021-10-01,F1,Lens,Reims,0.0000,0.0000
+2021-10-02,F1,Montpellier,Strasbourg,0.0000,0.0000
+2021-10-02,F1,Nice,Brest,0.0000,0.0161
+2021-10-03,F1,Angers,Metz,0.0000,0.0000
+2021-10-03,F1,Lille,Marseille,0.0000,0.0000
+2021-10-03,F1,Lorient,Clermont,0.0000,0.0000
+2021-10-03,F1,Monaco,Bordeaux,0.0000,0.0000
+2021-10-03,F1,Nantes,Troyes,0.0000,0.0000
+2021-10-03,F1,Rennes,Paris SG,0.0000,0.0000
+2021-10-03,F1,St Etienne,Lyon,0.0000,0.0000
+2021-10-15,F1,Paris SG,Angers,0.0606,0.0000
+2021-10-16,F1,Clermont,Lille,0.0000,0.0000
+2021-10-16,F1,Lyon,Monaco,0.0000,0.0000
+2021-10-17,F1,Bordeaux,Nantes,0.0000,0.0000
+2021-10-17,F1,Brest,Reims,0.0000,0.0000
+2021-10-17,F1,Marseille,Lorient,0.0000,0.0000
+2021-10-17,F1,Metz,Rennes,0.0000,0.0000
+2021-10-17,F1,Montpellier,Lens,0.0298,0.0000
+2021-10-17,F1,Strasbourg,St Etienne,0.0000,0.0000
+2021-10-17,F1,Troyes,Nice,0.0000,0.0000
+2021-10-22,F1,St Etienne,Angers,0.0000,0.0000
+2021-10-23,F1,Lille,Brest,0.0000,0.0129
+2021-10-23,F1,Nantes,Clermont,0.0000,0.0000
+2021-10-24,F1,Lens,Metz,0.0000,0.0000
+2021-10-24,F1,Lorient,Bordeaux,0.0000,0.0000
+2021-10-24,F1,Marseille,Paris SG,0.0000,0.0000
+2021-10-24,F1,Monaco,Montpellier,0.0000,0.0000
+2021-10-24,F1,Nice,Lyon,0.0000,0.0000
+2021-10-24,F1,Reims,Troyes,0.0000,0.0000
+2021-10-24,F1,Rennes,Strasbourg,0.0000,0.0000
+2021-10-27,F1,Nice,Marseille,0.0000,0.0000
+2021-10-29,F1,Paris SG,Lille,0.0000,0.0000
+2021-10-30,F1,Lyon,Lens,0.0000,0.0000
+2021-10-30,F1,Metz,St Etienne,0.0000,0.0000
+2021-10-31,F1,Angers,Nice,0.0000,0.0000
+2021-10-31,F1,Bordeaux,Reims,0.0000,0.0000
+2021-10-31,F1,Brest,Monaco,0.0000,0.0000
+2021-10-31,F1,Clermont,Marseille,0.0000,0.0000
+2021-10-31,F1,Montpellier,Nantes,0.0000,0.0000
+2021-10-31,F1,Strasbourg,Lorient,0.0000,0.0000
+2021-10-31,F1,Troyes,Rennes,0.0000,0.0000
+2021-11-05,F1,Lens,Troyes,0.0000,0.0000
+2021-11-06,F1,Bordeaux,Paris SG,0.0000,0.0000
+2021-11-06,F1,Lille,Angers,0.0000,0.0000
+2021-11-07,F1,Lorient,Brest,0.0000,0.0000
+2021-11-07,F1,Marseille,Metz,0.0000,0.0000
+2021-11-07,F1,Nantes,Strasbourg,0.0000,0.0000
+2021-11-07,F1,Nice,Montpellier,0.0000,0.0223
+2021-11-07,F1,Reims,Monaco,0.0000,0.0000
+2021-11-07,F1,Rennes,Lyon,0.0000,0.0000
+2021-11-07,F1,St Etienne,Clermont,0.0000,0.0000
+2021-11-19,F1,Monaco,Lille,0.0000,0.0000
+2021-11-20,F1,Paris SG,Nantes,0.0000,0.0000
+2021-11-20,F1,Rennes,Montpellier,0.0000,0.0000
+2021-11-21,F1,Angers,Lorient,0.0000,0.0000
+2021-11-21,F1,Brest,Lens,0.0000,0.0000
+2021-11-21,F1,Clermont,Nice,0.0000,0.0000
+2021-11-21,F1,Lyon,Marseille,0.0000,0.0554
+2021-11-21,F1,Metz,Bordeaux,0.0000,0.0000
+2021-11-21,F1,Strasbourg,Reims,0.0000,0.0000
+2021-11-21,F1,Troyes,St Etienne,0.0000,0.0000
+2021-11-26,F1,Lens,Angers,0.0230,0.0000
+2021-11-27,F1,Lille,Nantes,0.0000,0.0000
+2021-11-27,F1,Nice,Metz,0.0000,0.0000
+2021-11-28,F1,Bordeaux,Brest,0.0000,0.0000
+2021-11-28,F1,Lorient,Rennes,0.0000,0.0000
+2021-11-28,F1,Marseille,Troyes,0.0000,0.0000
+2021-11-28,F1,Monaco,Strasbourg,0.0000,0.0000
+2021-11-28,F1,Montpellier,Lyon,0.0000,0.0000
+2021-11-28,F1,Reims,Clermont,0.0000,0.0000
+2021-11-28,F1,St Etienne,Paris SG,0.0000,0.0000
+2021-12-01,F1,Angers,Monaco,0.0000,0.0000
+2021-12-01,F1,Brest,St Etienne,0.0000,0.0000
+2021-12-01,F1,Clermont,Lens,0.0000,0.0000
+2021-12-01,F1,Lyon,Reims,0.0000,0.0000
+2021-12-01,F1,Metz,Montpellier,0.0000,0.0000
+2021-12-01,F1,Nantes,Marseille,0.0000,0.0000
+2021-12-01,F1,Paris SG,Nice,0.0000,0.0000
+2021-12-01,F1,Rennes,Lille,0.0000,0.0000
+2021-12-01,F1,Strasbourg,Bordeaux,0.0000,0.0000
+2021-12-01,F1,Troyes,Lorient,0.0000,0.0000
+2021-12-04,F1,Lens,Paris SG,0.0000,0.0000
+2021-12-04,F1,Lille,Troyes,0.0000,0.0000
+2021-12-04,F1,Marseille,Brest,0.0000,0.0000
+2021-12-05,F1,Bordeaux,Lyon,0.0000,0.0000
+2021-12-05,F1,Lorient,Nantes,0.0000,0.0000
+2021-12-05,F1,Monaco,Metz,0.0000,0.0000
+2021-12-05,F1,Montpellier,Clermont,0.0000,0.0000
+2021-12-05,F1,Nice,Strasbourg,0.0000,0.0000
+2021-12-05,F1,Reims,Angers,0.0000,0.0000
+2021-12-05,F1,St Etienne,Rennes,0.0000,0.0000
+2021-12-10,F1,Nantes,Lens,0.0000,0.0000
+2021-12-11,F1,Brest,Montpellier,0.0000,0.0000
+2021-12-11,F1,Reims,St Etienne,0.0000,0.0000
+2021-12-12,F1,Angers,Clermont,0.0000,0.0000
+2021-12-12,F1,Lille,Lyon,0.0000,0.0000
+2021-12-12,F1,Metz,Lorient,0.0000,0.0000
+2021-12-12,F1,Paris SG,Monaco,0.0000,0.0000
+2021-12-12,F1,Rennes,Nice,0.0000,0.0000
+2021-12-12,F1,Strasbourg,Marseille,0.0000,0.0000
+2021-12-12,F1,Troyes,Bordeaux,0.0000,0.0000
+2021-12-22,F1,Bordeaux,Lille,0.0000,0.0000
+2021-12-22,F1,Lorient,Paris SG,0.0000,0.0000
+2021-12-22,F1,Lyon,Metz,0.0000,0.0000
+2021-12-22,F1,Marseille,Reims,0.0000,0.0000
+2021-12-22,F1,Monaco,Rennes,0.0000,0.0000
+2021-12-22,F1,Montpellier,Angers,0.0000,0.0000
+2021-12-22,F1,Nice,Lens,0.0000,0.0179
+2021-12-22,F1,St Etienne,Nantes,0.0000,0.0000
+2021-12-22,F1,Troyes,Brest,0.0000,0.0000
+2022-01-07,F1,Bordeaux,Marseille,0.0000,0.0000
+2022-01-08,F1,Lens,Rennes,0.0000,0.0000
+2022-01-09,F1,Brest,Nice,0.0139,0.0000
+2022-01-09,F1,Clermont,Reims,0.0000,0.0000
+2022-01-09,F1,Lyon,Paris SG,0.0000,0.0000
+2022-01-09,F1,Metz,Strasbourg,0.0000,0.0000
+2022-01-09,F1,Nantes,Monaco,0.0000,0.0000
+2022-01-14,F1,Nice,Nantes,0.0000,0.0000
+2022-01-15,F1,Paris SG,Brest,0.0000,0.0000
+2022-01-15,F1,St Etienne,Lens,0.0000,0.0000
+2022-01-16,F1,Lorient,Angers,0.0000,0.0000
+2022-01-16,F1,Marseille,Lille,0.0000,0.0000
+2022-01-16,F1,Monaco,Clermont,0.0355,0.0000
+2022-01-16,F1,Reims,Metz,0.0000,0.0000
+2022-01-16,F1,Rennes,Bordeaux,0.0000,0.0000
+2022-01-16,F1,Strasbourg,Montpellier,0.0000,0.0000
+2022-01-16,F1,Troyes,Lyon,0.0000,0.0000
+2022-01-19,F1,Clermont,Strasbourg,0.0000,0.0000
+2022-01-19,F1,Lille,Lorient,0.0000,0.0000
+2022-01-19,F1,Montpellier,Troyes,0.0000,0.0000
+2022-01-21,F1,Lyon,St Etienne,0.0000,0.0000
+2022-01-22,F1,Brest,Lille,0.0000,0.0000
+2022-01-22,F1,Lens,Marseille,0.0000,0.0000
+2022-01-23,F1,Angers,Troyes,0.0000,0.0000
+2022-01-23,F1,Bordeaux,Strasbourg,0.0000,0.0000
+2022-01-23,F1,Clermont,Rennes,0.0000,0.0000
+2022-01-23,F1,Metz,Nice,0.0000,0.0000
+2022-01-23,F1,Montpellier,Monaco,0.0000,0.0000
+2022-01-23,F1,Nantes,Lorient,0.0000,0.0000
+2022-01-23,F1,Paris SG,Reims,0.0000,0.0000
+2022-01-26,F1,Angers,St Etienne,0.0000,0.0000
+2022-02-01,F1,Lyon,Marseille,0.0000,0.0000
+2022-02-04,F1,Marseille,Angers,0.0000,0.0000
+2022-02-05,F1,Monaco,Lyon,0.0000,0.0000
+2022-02-05,F1,St Etienne,Montpellier,0.0000,0.0000
+2022-02-06,F1,Lille,Paris SG,0.0000,0.0000
+2022-02-06,F1,Lorient,Lens,0.0000,0.0000
+2022-02-06,F1,Nice,Clermont,0.0000,0.0000
+2022-02-06,F1,Reims,Bordeaux,0.0000,0.0000
+2022-02-06,F1,Rennes,Brest,0.0000,0.0000
+2022-02-06,F1,Strasbourg,Nantes,0.0000,0.0000
+2022-02-06,F1,Troyes,Metz,0.0000,0.0000
+2022-02-11,F1,Paris SG,Rennes,0.0000,0.0000
+2022-02-12,F1,Lyon,Nice,0.0000,0.0000
+2022-02-12,F1,Montpellier,Lille,0.0000,0.0000
+2022-02-13,F1,Angers,Strasbourg,0.0000,0.0000
+2022-02-13,F1,Brest,Troyes,0.0000,0.0000
+2022-02-13,F1,Clermont,St Etienne,0.0000,0.0000
+2022-02-13,F1,Lens,Bordeaux,0.0000,0.0000
+2022-02-13,F1,Metz,Marseille,0.0000,0.0000
+2022-02-13,F1,Monaco,Lorient,0.0000,0.0000
+2022-02-13,F1,Nantes,Reims,0.0000,0.0000
+2022-02-18,F1,Lille,Metz,0.0000,0.0000
+2022-02-19,F1,Lens,Lyon,0.0000,0.0000
+2022-02-19,F1,Nantes,Paris SG,0.0000,0.0000
+2022-02-20,F1,Bordeaux,Monaco,0.0000,0.0000
+2022-02-20,F1,Lorient,Montpellier,0.0000,0.0000
+2022-02-20,F1,Marseille,Clermont,0.0000,0.0000
+2022-02-20,F1,Nice,Angers,0.0000,0.0000
+2022-02-20,F1,Reims,Brest,0.0000,0.0000
+2022-02-20,F1,Rennes,Troyes,0.0000,0.0000
+2022-02-20,F1,St Etienne,Strasbourg,0.0000,0.0000
+2022-02-25,F1,Montpellier,Rennes,0.0000,0.0000
+2022-02-26,F1,Paris SG,St Etienne,0.0000,0.0000
+2022-02-26,F1,Strasbourg,Nice,0.0000,0.0000
+2022-02-27,F1,Angers,Lens,0.0000,0.0000
+2022-02-27,F1,Brest,Lorient,0.0718,0.0000
+2022-02-27,F1,Clermont,Bordeaux,0.0000,0.0000
+2022-02-27,F1,Lyon,Lille,0.0000,0.0794
+2022-02-27,F1,Metz,Nantes,0.0000,0.0000
+2022-02-27,F1,Monaco,Reims,0.0312,0.0000
+2022-02-27,F1,Troyes,Marseille,0.0000,0.0000
+2022-03-04,F1,Lorient,Lyon,0.0000,0.0000
+2022-03-05,F1,Lens,Brest,0.0000,0.0000
+2022-03-05,F1,Nice,Paris SG,0.0000,0.0000
+2022-03-06,F1,Bordeaux,Troyes,0.1369,0.1011
+2022-03-06,F1,Lille,Clermont,0.0000,0.0000
+2022-03-06,F1,Marseille,Monaco,0.0000,0.0000
+2022-03-06,F1,Nantes,Montpellier,0.0000,0.0000
+2022-03-06,F1,Reims,Strasbourg,0.0000,0.0000
+2022-03-06,F1,Rennes,Angers,0.0000,0.0000
+2022-03-06,F1,St Etienne,Metz,0.0000,0.0000
+2022-03-11,F1,Lille,St Etienne,0.0769,0.0000
+2022-03-12,F1,Montpellier,Nice,0.0099,0.0000
+2022-03-12,F1,Troyes,Nantes,0.0000,0.0000
+2022-03-13,F1,Angers,Reims,0.0000,0.0000
+2022-03-13,F1,Brest,Marseille,0.0741,0.0000
+2022-03-13,F1,Clermont,Lorient,0.0000,0.0000
+2022-03-13,F1,Lyon,Rennes,0.0000,0.0000
+2022-03-13,F1,Metz,Lens,0.0000,0.0000
+2022-03-13,F1,Paris SG,Bordeaux,0.0000,0.0000
+2022-03-13,F1,Strasbourg,Monaco,0.0000,0.0000
+2022-03-18,F1,St Etienne,Troyes,0.0000,0.0000
+2022-03-19,F1,Lens,Clermont,0.0000,0.0000
+2022-03-19,F1,Nantes,Lille,0.0000,0.0000
+2022-03-20,F1,Angers,Brest,0.0000,0.0000
+2022-03-20,F1,Bordeaux,Montpellier,0.0000,0.0000
+2022-03-20,F1,Lorient,Strasbourg,0.0000,0.0000
+2022-03-20,F1,Marseille,Nice,0.0000,0.0863
+2022-03-20,F1,Monaco,Paris SG,0.0000,0.0000
+2022-03-20,F1,Reims,Lyon,0.0000,0.0000
+2022-03-20,F1,Rennes,Metz,0.0000,0.0000
+2022-04-02,F1,Lille,Bordeaux,0.0000,0.0000
+2022-04-02,F1,Nice,Rennes,0.0000,0.0000
+2022-04-03,F1,Clermont,Nantes,0.0000,0.0000
+2022-04-03,F1,Lyon,Angers,0.0000,0.0000
+2022-04-03,F1,Metz,Monaco,0.0000,0.0000
+2022-04-03,F1,Montpellier,Brest,0.0000,0.0000
+2022-04-03,F1,Paris SG,Lorient,0.0000,0.0000
+2022-04-03,F1,St Etienne,Marseille,0.0000,0.0000
+2022-04-03,F1,Strasbourg,Lens,0.0000,0.0000
+2022-04-03,F1,Troyes,Reims,0.0000,0.0000
+2022-04-08,F1,Lorient,St Etienne,0.0000,0.0000
+2022-04-09,F1,Clermont,Paris SG,0.0000,0.0000
+2022-04-09,F1,Reims,Rennes,0.0000,0.0000
+2022-04-10,F1,Angers,Lille,0.0000,0.0000
+2022-04-10,F1,Bordeaux,Metz,0.0000,0.0000
+2022-04-10,F1,Brest,Nantes,0.0000,0.0000
+2022-04-10,F1,Lens,Nice,0.0000,0.0000
+2022-04-10,F1,Marseille,Montpellier,0.0000,0.0000
+2022-04-10,F1,Monaco,Troyes,0.0000,0.0000
+2022-04-10,F1,Strasbourg,Lyon,0.0000,0.0000
+2022-04-15,F1,Rennes,Monaco,0.0000,0.0000
+2022-04-16,F1,Lille,Lens,0.0000,0.0000
+2022-04-16,F1,St Etienne,Brest,0.0000,0.0000
+2022-04-17,F1,Lyon,Bordeaux,0.0000,0.0000
+2022-04-17,F1,Metz,Clermont,0.0000,0.0000
+2022-04-17,F1,Montpellier,Reims,0.0086,0.0000
+2022-04-17,F1,Nantes,Angers,0.0000,0.0000
+2022-04-17,F1,Nice,Lorient,0.0000,0.0000
+2022-04-17,F1,Paris SG,Marseille,0.0000,0.0000
+2022-04-17,F1,Troyes,Strasbourg,0.0000,0.0000
+2022-04-20,F1,Angers,Paris SG,0.0000,0.0000
+2022-04-20,F1,Bordeaux,St Etienne,0.0000,0.0000
+2022-04-20,F1,Brest,Lyon,0.0000,0.0000
+2022-04-20,F1,Lens,Montpellier,0.0000,0.0000
+2022-04-20,F1,Lorient,Metz,0.0000,0.0000
+2022-04-20,F1,Marseille,Nantes,0.0000,0.0000
+2022-04-20,F1,Monaco,Nice,0.0000,0.0000
+2022-04-20,F1,Reims,Lille,0.0000,0.0000
+2022-04-20,F1,Strasbourg,Rennes,0.0000,0.0000
+2022-04-20,F1,Troyes,Clermont,0.0000,0.0000
+2022-04-23,F1,Lyon,Montpellier,0.2800,0.0000
+2022-04-23,F1,Paris SG,Lens,0.0000,0.0000
+2022-04-23,F1,St Etienne,Monaco,0.0000,0.0000
+2022-04-24,F1,Clermont,Angers,0.0000,0.0000
+2022-04-24,F1,Lille,Strasbourg,0.0000,0.0000
+2022-04-24,F1,Metz,Brest,0.0000,0.0000
+2022-04-24,F1,Nantes,Bordeaux,0.0000,0.0000
+2022-04-24,F1,Nice,Troyes,0.0000,0.0000
+2022-04-24,F1,Reims,Marseille,0.0000,0.0000
+2022-04-24,F1,Rennes,Lorient,0.0000,0.0000
+2022-04-29,F1,Strasbourg,Paris SG,0.0000,0.0000
+2022-04-30,F1,Lens,Nantes,0.0000,0.0000
+2022-04-30,F1,Rennes,St Etienne,0.0000,0.0000
+2022-05-01,F1,Bordeaux,Nice,0.0000,0.0000
+2022-05-01,F1,Brest,Clermont,0.0000,0.0000
+2022-05-01,F1,Lorient,Reims,0.0000,0.0000
+2022-05-01,F1,Marseille,Lyon,0.0000,0.0000
+2022-05-01,F1,Monaco,Angers,0.0000,0.0000
+2022-05-01,F1,Montpellier,Metz,0.0000,0.0000
+2022-05-01,F1,Troyes,Lille,0.0000,0.0000
+2022-05-06,F1,Lille,Monaco,0.0000,0.0000
+2022-05-07,F1,Brest,Strasbourg,0.0000,0.0000
+2022-05-08,F1,Angers,Bordeaux,0.0000,0.0000
+2022-05-08,F1,Clermont,Montpellier,0.0000,0.0000
+2022-05-08,F1,Lorient,Marseille,0.0000,0.0000
+2022-05-08,F1,Metz,Lyon,0.0000,0.0000
+2022-05-08,F1,Paris SG,Troyes,0.0000,0.0000
+2022-05-08,F1,Reims,Lens,0.0000,0.0000
+2022-05-11,F1,Nantes,Rennes,0.0000,0.0000
+2022-05-11,F1,Nice,St Etienne,0.0000,0.0000
+2022-05-14,F1,Bordeaux,Lorient,0.0000,0.0000
+2022-05-14,F1,Lyon,Nantes,0.0000,0.0000
+2022-05-14,F1,Metz,Angers,0.0000,0.0000
+2022-05-14,F1,Monaco,Brest,0.0000,0.0000
+2022-05-14,F1,Montpellier,Paris SG,0.0000,0.0000
+2022-05-14,F1,Nice,Lille,0.0000,0.0000
+2022-05-14,F1,Rennes,Marseille,0.0000,0.0000
+2022-05-14,F1,St Etienne,Reims,0.0000,0.0000
+2022-05-14,F1,Strasbourg,Clermont,0.0000,0.0000
+2022-05-14,F1,Troyes,Lens,0.0000,0.0000
+2022-05-21,F1,Angers,Montpellier,0.0000,0.0000
+2022-05-21,F1,Brest,Bordeaux,0.0000,0.0000
+2022-05-21,F1,Clermont,Lyon,0.0000,0.0000
+2022-05-21,F1,Lens,Monaco,0.0000,0.0000
+2022-05-21,F1,Lille,Rennes,0.0000,0.0000
+2022-05-21,F1,Lorient,Troyes,0.0000,0.0000
+2022-05-21,F1,Marseille,Strasbourg,0.0000,0.0000
+2022-05-21,F1,Nantes,St Etienne,0.0000,0.0000
+2022-05-21,F1,Paris SG,Metz,0.0000,0.0000
+2022-05-21,F1,Reims,Nice,0.0000,0.0000

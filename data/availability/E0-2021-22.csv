@@ -1,0 +1,381 @@
+date,league,home_team,away_team,missing_home,missing_away
+2021-08-13,E0,Brentford,Arsenal,,
+2021-08-14,E0,Burnley,Brighton,,
+2021-08-14,E0,Chelsea,Crystal Palace,,
+2021-08-14,E0,Everton,Southampton,,
+2021-08-14,E0,Leicester,Wolves,,
+2021-08-14,E0,Man United,Leeds,,
+2021-08-14,E0,Norwich,Liverpool,,
+2021-08-14,E0,Watford,Aston Villa,,
+2021-08-15,E0,Newcastle,West Ham,,
+2021-08-15,E0,Tottenham,Man City,,
+2021-08-21,E0,Aston Villa,Newcastle,,
+2021-08-21,E0,Brighton,Watford,,
+2021-08-21,E0,Crystal Palace,Brentford,,
+2021-08-21,E0,Leeds,Everton,,
+2021-08-21,E0,Liverpool,Burnley,,
+2021-08-21,E0,Man City,Norwich,,
+2021-08-22,E0,Arsenal,Chelsea,,
+2021-08-22,E0,Southampton,Man United,,
+2021-08-22,E0,Wolves,Tottenham,,
+2021-08-23,E0,West Ham,Leicester,,
+2021-08-28,E0,Aston Villa,Brentford,,
+2021-08-28,E0,Brighton,Everton,,
+2021-08-28,E0,Liverpool,Chelsea,,
+2021-08-28,E0,Man City,Arsenal,,
+2021-08-28,E0,Newcastle,Southampton,,
+2021-08-28,E0,Norwich,Leicester,,
+2021-08-28,E0,West Ham,Crystal Palace,,
+2021-08-29,E0,Burnley,Leeds,,
+2021-08-29,E0,Tottenham,Watford,,
+2021-08-29,E0,Wolves,Man United,,
+2021-09-11,E0,Arsenal,Norwich,0.0000,0.0000
+2021-09-11,E0,Brentford,Brighton,0.0000,0.0000
+2021-09-11,E0,Chelsea,Aston Villa,0.0000,0.0000
+2021-09-11,E0,Crystal Palace,Tottenham,0.0000,0.0000
+2021-09-11,E0,Leicester,Man City,0.0000,0.0000
+2021-09-11,E0,Man United,Newcastle,0.0000,0.0000
+2021-09-11,E0,Southampton,West Ham,0.0000,0.0000
+2021-09-11,E0,Watford,Wolves,0.0000,0.0000
+2021-09-12,E0,Leeds,Liverpool,0.0000,0.0000
+2021-09-13,E0,Everton,Burnley,0.0000,0.0000
+2021-09-17,E0,Newcastle,Leeds,0.0000,0.0000
+2021-09-18,E0,Aston Villa,Everton,0.0000,0.0000
+2021-09-18,E0,Burnley,Arsenal,0.0000,0.0000
+2021-09-18,E0,Liverpool,Crystal Palace,0.0000,0.0000
+2021-09-18,E0,Man City,Southampton,0.0000,0.0000
+2021-09-18,E0,Norwich,Watford,0.0000,0.0000
+2021-09-18,E0,Wolves,Brentford,0.0000,0.0000
+2021-09-19,E0,Brighton,Leicester,0.0000,0.0000
+2021-09-19,E0,Tottenham,Chelsea,0.0000,0.0000
+2021-09-19,E0,West Ham,Man United,0.0000,0.0000
+2021-09-25,E0,Brentford,Liverpool,0.0000,0.0000
+2021-09-25,E0,Chelsea,Man City,0.0000,0.0000
+2021-09-25,E0,Everton,Norwich,0.0000,0.0000
+2021-09-25,E0,Leeds,West Ham,0.0000,0.0000
+2021-09-25,E0,Leicester,Burnley,0.0000,0.0000
+2021-09-25,E0,Man United,Aston Villa,0.0000,0.0000
+2021-09-25,E0,Watford,Newcastle,0.0000,0.0000
+2021-09-26,E0,Arsenal,Tottenham,0.0000,0.0000
+2021-09-26,E0,Southampton,Wolves,0.0000,0.0000
+2021-09-27,E0,Crystal Palace,Brighton,0.0000,0.0000
+2021-10-02,E0,Brighton,Arsenal,0.0514,0.0000
+2021-10-02,E0,Burnley,Norwich,0.0000,0.0000
+2021-10-02,E0,Chelsea,Southampton,0.0000,0.0000
+2021-10-02,E0,Leeds,Watford,0.0000,0.0000
+2021-10-02,E0,Man United,Everton,0.0000,0.0606
+2021-10-02,E0,Wolves,Newcastle,0.0000,0.0606
+2021-10-03,E0,Crystal Palace,Leicester,0.0000,0.0000
+2021-10-03,E0,Liverpool,Man City,0.0000,0.0000
+2021-10-03,E0,Tottenham,Aston Villa,0.0000,0.0000
+2021-10-03,E0,West Ham,Brentford,0.0000,0.0844
+2021-10-16,E0,Aston Villa,Wolves,0.0000,0.0000
+2021-10-16,E0,Brentford,Chelsea,0.0723,0.0000
+2021-10-16,E0,Leicester,Man United,0.0000,0.0000
+2021-10-16,E0,Man City,Burnley,0.0000,0.0000
+2021-10-16,E0,Norwich,Brighton,0.0000,0.0440
+2021-10-16,E0,Southampton,Leeds,0.0000,0.0000
+2021-10-16,E0,Watford,Liverpool,0.0000,0.0000
+2021-10-17,E0,Everton,West Ham,0.0000,0.0000
+2021-10-17,E0,Newcastle,Tottenham,0.0000,0.0000
+2021-10-18,E0,Arsenal,Crystal Palace,0.0000,0.0000
+2021-10-22,E0,Arsenal,Aston Villa,0.0000,0.0000
+2021-10-23,E0,Brighton,Man City,0.0000,0.0000
+2021-10-23,E0,Chelsea,Norwich,0.0000,0.0000
+2021-10-23,E0,Crystal Palace,Newcastle,0.0000,0.0000
+2021-10-23,E0,Everton,Watford,0.0000,0.0000
+2021-10-23,E0,Leeds,Wolves,0.0000,0.0000
+2021-10-23,E0,Southampton,Burnley,0.0000,0.0000
+2021-10-24,E0,Brentford,Leicester,0.0000,0.0000
+2021-10-24,E0,Man United,Liverpool,0.0000,0.0000
+2021-10-24,E0,West Ham,Tottenham,0.0000,0.0000
+2021-10-30,E0,Burnley,Brentford,0.0000,0.0000
+2021-10-30,E0,Leicester,Arsenal,0.0000,0.0000
+2021-10-30,E0,Liverpool,Brighton,0.0000,0.0000
+2021-10-30,E0,Man City,Crystal Palace,0.0000,0.0000
+2021-10-30,E0,Newcastle,Chelsea,0.0000,0.0000
+2021-10-30,E0,Tottenham,Man United,0.0000,0.0000
+2021-10-30,E0,Watford,Southampton,0.0000,0.0443
+2021-10-31,E0,Aston Villa,West Ham,0.0000,0.0000
+2021-10-31,E0,Norwich,Leeds,0.0000,0.0000
+2021-11-01,E0,Wolves,Everton,0.0000,0.0271
+2021-11-05,E0,Southampton,Aston Villa,0.0000,0.0000
+2021-11-06,E0,Brentford,Norwich,0.0000,0.0000
+2021-11-06,E0,Brighton,Newcastle,0.0000,0.0000
+2021-11-06,E0,Chelsea,Burnley,0.0000,0.0000
+2021-11-06,E0,Crystal Palace,Wolves,0.0000,0.0000
+2021-11-06,E0,Man United,Man City,0.0000,0.0000
+2021-11-07,E0,Arsenal,Watford,0.0000,0.0000
+2021-11-07,E0,Everton,Tottenham,0.0000,0.0000
+2021-11-07,E0,Leeds,Leicester,0.0000,0.0000
+2021-11-07,E0,West Ham,Liverpool,0.0000,0.0021
+2021-11-20,E0,Aston Villa,Brighton,0.0000,0.0000
+2021-11-20,E0,Burnley,Crystal Palace,0.0000,0.0000
+2021-11-20,E0,Leicester,Chelsea,0.0000,0.0000
+2021-11-20,E0,Liverpool,Arsenal,0.0019,0.0000
+2021-11-20,E0,Newcastle,Brentford,0.0000,0.0000
+2021-11-20,E0,Norwich,Southampton,0.0000,0.0363
+2021-11-20,E0,Watford,Man United,0.0000,0.0000
+2021-11-20,E0,Wolves,West Ham,0.0000,0.0000
+2021-11-21,E0,Man City,Everton,0.0000,0.0000
+2021-11-21,E0,Tottenham,Leeds,0.0000,0.0000
+2021-11-27,E0,Arsenal,Newcastle,0.0000,0.0000
+2021-11-27,E0,Brighton,Leeds,0.0000,0.0000
+2021-11-27,E0,Crystal Palace,Aston Villa,0.0000,0.0000
+2021-11-27,E0,Liverpool,Southampton,0.0000,0.0333
+2021-11-27,E0,Norwich,Wolves,0.0000,0.0000
+2021-11-28,E0,Brentford,Everton,0.0000,0.0000
+2021-11-28,E0,Chelsea,Man United,0.0000,0.0000
+2021-11-28,E0,Leicester,Watford,0.0000,0.0000
+2021-11-28,E0,Man City,West Ham,0.0513,0.0000
+2021-11-30,E0,Leeds,Crystal Palace,0.0000,0.0000
+2021-11-30,E0,Newcastle,Norwich,0.0000,0.0000
+2021-12-01,E0,Aston Villa,Man City,0.0000,0.0000
+2021-12-01,E0,Everton,Liverpool,0.0000,0.0016
+2021-12-01,E0,Southampton,Leicester,0.0000,0.0000
+2021-12-01,E0,Watford,Chelsea,0.0000,0.0000
+2021-12-01,E0,West Ham,Brighton,0.0000,0.0000
+2021-12-01,E0,Wolves,Burnley,0.0000,0.0000
+2021-12-02,E0,Man United,Arsenal,0.0000,0.0000
+2021-12-02,E0,Tottenham,Brentford,0.0000,0.0000
+2021-12-04,E0,Newcastle,Burnley,0.0000,0.0000
+2021-12-04,E0,Southampton,Brighton,0.0000,0.0388
+2021-12-04,E0,Watford,Man City,0.0000,0.0000
+2021-12-04,E0,West Ham,Chelsea,0.0000,0.0000
+2021-12-04,E0,Wolves,Liverpool,0.0000,0.0023
+2021-12-05,E0,Aston Villa,Leicester,0.0000,0.0000
+2021-12-05,E0,Leeds,Brentford,0.0000,0.0000
+2021-12-05,E0,Man United,Crystal Palace,0.0000,0.0000
+2021-12-05,E0,Tottenham,Norwich,0.0000,0.0000
+2021-12-06,E0,Everton,Arsenal,0.0000,0.0000
+2021-12-10,E0,Brentford,Watford,0.0000,0.0000
+2021-12-11,E0,Arsenal,Southampton,0.0000,0.0000
+2021-12-11,E0,Chelsea,Leeds,0.0000,0.0000
+2021-12-11,E0,Liverpool,Aston Villa,0.0007,0.0000
+2021-12-11,E0,Man City,Wolves,0.0000,0.0000
+2021-12-11,E0,Norwich,Man United,0.0000,0.0000
+2021-12-12,E0,Burnley,West Ham,0.0014,0.0000
+2021-12-12,E0,Crystal Palace,Everton,0.0000,0.0000
+2021-12-12,E0,Leicester,Newcastle,0.0000,0.0000
+2021-12-14,E0,Man City,Leeds,0.0000,0.0000
+2021-12-14,E0,Norwich,Aston Villa,0.0000,0.0000
+2021-12-15,E0,Arsenal,West Ham,0.0000,0.0000
+2021-12-15,E0,Brighton,Wolves,0.0423,0.0000
+2021-12-15,E0,Crystal Palace,Southampton,0.0000,0.0000
+2021-12-16,E0,Chelsea,Everton,0.0000,0.0000
+2021-12-16,E0,Liverpool,Newcastle,0.0007,0.0000
+2021-12-18,E0,Leeds,Arsenal,0.0000,0.0000
+2021-12-19,E0,Newcastle,Man City,0.0000,0.0000
+2021-12-19,E0,Tottenham,Liverpool,0.0000,0.0000
+2021-12-19,E0,Wolves,Chelsea,0.0000,0.0000
+2021-12-26,E0,Aston Villa,Chelsea,0.0000,0.0000
+2021-12-26,E0,Brighton,Brentford,0.0721,0.0000
+2021-12-26,E0,Man City,Leicester,0.0000,0.0000
+2021-12-26,E0,Norwich,Arsenal,0.0000,0.0724
+2021-12-26,E0,Tottenham,Crystal Palace,0.0000,0.0000
+2021-12-26,E0,West Ham,Southampton,0.0000,0.0000
+2021-12-27,E0,Newcastle,Man United,0.0580,0.0000
+2021-12-28,E0,Crystal Palace,Norwich,0.0000,0.0000
+2021-12-28,E0,Leicester,Liverpool,0.0000,0.0000
+2021-12-28,E0,Southampton,Tottenham,0.0000,0.0000
+2021-12-28,E0,Watford,West Ham,0.0000,0.0000
+2021-12-29,E0,Brentford,Man City,0.0000,0.0000
+2021-12-29,E0,Chelsea,Brighton,0.0000,0.0000
+2021-12-30,E0,Man United,Burnley,0.0000,0.0000
+2022-01-01,E0,Arsenal,Man City,0.0000,0.0465
+2022-01-01,E0,Crystal Palace,West Ham,0.0000,0.0000
+2022-01-01,E0,Watford,Tottenham,0.0000,0.0000
+2022-01-02,E0,Brentford,Aston Villa,0.0000,0.0000
+2022-01-02,E0,Chelsea,Liverpool,0.0000,0.0000
+2022-01-02,E0,Everton,Brighton,0.1661,0.0028
+2022-01-02,E0,Leeds,Burnley,0.0000,0.0012
+2022-01-03,E0,Man United,Wolves,0.0000,0.0000
+2022-01-11,E0,Southampton,Brentford,0.0000,0.0000
+2022-01-12,E0,West Ham,Norwich,0.0000,0.0000
+2022-01-14,E0,Brighton,Crystal Palace,0.0000,0.0000
+2022-01-15,E0,Aston Villa,Man United,0.0000,0.0000
+2022-01-15,E0,Man City,Chelsea,0.0000,0.0000
+2022-01-15,E0,Newcastle,Watford,0.0000,0.0000
+2022-01-15,E0,Norwich,Everton,0.0000,0.0051
+2022-01-15,E0,Wolves,Southampton,0.0000,0.0033
+2022-01-16,E0,Liverpool,Brentford,0.0000,0.0000
+2022-01-16,E0,West Ham,Leeds,0.0000,0.0000
+2022-01-18,E0,Brighton,Chelsea,0.0000,0.0000
+2022-01-19,E0,Brentford,Man United,0.0000,0.0000
+2022-01-19,E0,Leicester,Tottenham,0.0000,0.0000
+2022-01-21,E0,Watford,Norwich,0.0000,0.0000
+2022-01-22,E0,Brentford,Wolves,0.0000,0.0000
+2022-01-22,E0,Everton,Aston Villa,0.0048,0.0000
+2022-01-22,E0,Leeds,Newcastle,0.0000,0.0000
+2022-01-22,E0,Man United,West Ham,0.0000,0.0000
+2022-01-22,E0,Southampton,Man City,0.0000,0.0000
+2022-01-23,E0,Arsenal,Burnley,0.0000,0.0000
+2022-01-23,E0,Chelsea,Tottenham,0.0000,0.0000
+2022-01-23,E0,Crystal Palace,Liverpool,0.0000,0.0000
+2022-01-23,E0,Leicester,Brighton,0.0000,0.0000
+2022-02-05,E0,Burnley,Watford,0.0000,0.0000
+2022-02-08,E0,Burnley,Man United,0.0000,0.0000
+2022-02-08,E0,Newcastle,Everton,0.0000,0.0000
+2022-02-08,E0,West Ham,Watford,0.0000,0.0000
+2022-02-09,E0,Aston Villa,Leeds,0.0000,0.0000
+2022-02-09,E0,Man City,Brentford,0.0000,0.0000
+2022-02-09,E0,Norwich,Crystal Palace,0.0000,0.0000
+2022-02-09,E0,Tottenham,Southampton,0.0000,0.0000
+2022-02-10,E0,Liverpool,Leicester,0.0000,0.0000
+2022-02-10,E0,Wolves,Arsenal,0.0000,0.0011
+2022-02-12,E0,Brentford,Crystal Palace,0.0000,0.0000
+2022-02-12,E0,Everton,Leeds,0.0000,0.0000
+2022-02-12,E0,Man United,Southampton,0.0000,0.0000
+2022-02-12,E0,Norwich,Man City,0.0000,0.0000
+2022-02-12,E0,Watford,Brighton,0.0000,0.0000
+2022-02-13,E0,Burnley,Liverpool,0.0000,0.0000
+2022-02-13,E0,Leicester,West Ham,0.0000,0.0000
+2022-02-13,E0,Newcastle,Aston Villa,0.0000,0.0000
+2022-02-13,E0,Tottenham,Wolves,0.0059,0.0000
+2022-02-15,E0,Man United,Brighton,0.0000,0.0000
+2022-02-19,E0,Arsenal,Brentford,0.0000,0.0000
+2022-02-19,E0,Aston Villa,Watford,0.0000,0.0000
+2022-02-19,E0,Brighton,Burnley,0.0492,0.0000
+2022-02-19,E0,Crystal Palace,Chelsea,0.0000,0.0000
+2022-02-19,E0,Liverpool,Norwich,0.0028,0.0000
+2022-02-19,E0,Man City,Tottenham,0.0000,0.0000
+2022-02-19,E0,Southampton,Everton,0.0000,0.0000
+2022-02-19,E0,West Ham,Newcastle,0.0000,0.0000
+2022-02-20,E0,Leeds,Man United,0.0000,0.0000
+2022-02-20,E0,Wolves,Leicester,0.0000,0.0000
+2022-02-23,E0,Burnley,Tottenham,0.0000,0.0000
+2022-02-23,E0,Liverpool,Leeds,0.0076,0.0000
+2022-02-23,E0,Watford,Crystal Palace,0.0000,0.0000
+2022-02-24,E0,Arsenal,Wolves,0.0010,0.0000
+2022-02-25,E0,Southampton,Norwich,0.0000,0.0000
+2022-02-26,E0,Brentford,Newcastle,0.0000,0.0000
+2022-02-26,E0,Brighton,Aston Villa,0.0472,0.0000
+2022-02-26,E0,Crystal Palace,Burnley,0.0000,0.0000
+2022-02-26,E0,Everton,Man City,0.0000,0.0000
+2022-02-26,E0,Leeds,Tottenham,0.0000,0.0000
+2022-02-26,E0,Man United,Watford,0.0000,0.0000
+2022-02-27,E0,West Ham,Wolves,0.0000,0.0000
+2022-03-01,E0,Burnley,Leicester,0.0000,0.0000
+2022-03-05,E0,Aston Villa,Southampton,0.0000,0.0000
+2022-03-05,E0,Burnley,Chelsea,0.0000,0.0000
+2022-03-05,E0,Leicester,Leeds,0.0000,0.0000
+2022-03-05,E0,Liverpool,West Ham,0.0026,0.0000
+2022-03-05,E0,Newcastle,Brighton,0.0000,0.0454
+2022-03-05,E0,Norwich,Brentford,0.0000,0.0000
+2022-03-05,E0,Wolves,Crystal Palace,0.0000,0.0000
+2022-03-06,E0,Man City,Man United,0.0000,0.0000
+2022-03-06,E0,Watford,Arsenal,0.0000,0.0000
+2022-03-07,E0,Tottenham,Everton,0.0003,0.0000
+2022-03-10,E0,Leeds,Aston Villa,0.0000,0.0000
+2022-03-10,E0,Norwich,Chelsea,0.0000,0.0000
+2022-03-10,E0,Southampton,Newcastle,0.0000,0.0000
+2022-03-10,E0,Wolves,Watford,0.0000,0.0000
+2022-03-12,E0,Brentford,Burnley,0.0000,0.0000
+2022-03-12,E0,Brighton,Liverpool,0.0437,0.0025
+2022-03-12,E0,Man United,Tottenham,0.0000,0.0000
+2022-03-13,E0,Arsenal,Leicester,0.0557,0.0000
+2022-03-13,E0,Chelsea,Newcastle,0.0000,0.0610
+2022-03-13,E0,Everton,Wolves,0.0000,0.0000
+2022-03-13,E0,Leeds,Norwich,0.0000,0.0000
+2022-03-13,E0,Southampton,Watford,0.0000,0.0000
+2022-03-13,E0,West Ham,Aston Villa,0.0000,0.0000
+2022-03-14,E0,Crystal Palace,Man City,0.0000,0.0000
+2022-03-16,E0,Arsenal,Liverpool,0.0536,0.0024
+2022-03-16,E0,Brighton,Tottenham,0.0000,0.0000
+2022-03-17,E0,Everton,Newcastle,0.0075,0.0000
+2022-03-18,E0,Wolves,Leeds,0.0000,0.0000
+2022-03-19,E0,Aston Villa,Arsenal,0.0000,0.0000
+2022-03-20,E0,Leicester,Brentford,0.0000,0.0076
+2022-03-20,E0,Tottenham,West Ham,0.0000,0.0000
+2022-04-02,E0,Brighton,Norwich,0.0000,0.0000
+2022-04-02,E0,Burnley,Man City,0.0000,0.0000
+2022-04-02,E0,Chelsea,Brentford,0.0000,0.0000
+2022-04-02,E0,Leeds,Southampton,0.0000,0.0000
+2022-04-02,E0,Liverpool,Watford,0.0000,0.0000
+2022-04-02,E0,Man United,Leicester,0.0000,0.0000
+2022-04-02,E0,Wolves,Aston Villa,0.0000,0.0000
+2022-04-03,E0,Tottenham,Newcastle,0.0000,0.0000
+2022-04-03,E0,West Ham,Everton,0.0000,0.0000
+2022-04-04,E0,Crystal Palace,Arsenal,0.0000,0.0498
+2022-04-06,E0,Burnley,Everton,0.0000,0.0000
+2022-04-08,E0,Newcastle,Wolves,0.0000,0.0105
+2022-04-09,E0,Arsenal,Brighton,0.0480,0.0000
+2022-04-09,E0,Aston Villa,Tottenham,0.0000,0.0041
+2022-04-09,E0,Everton,Man United,0.0000,0.0000
+2022-04-09,E0,Southampton,Chelsea,0.0000,0.0000
+2022-04-09,E0,Watford,Leeds,0.0000,0.0000
+2022-04-10,E0,Brentford,West Ham,0.0071,0.0000
+2022-04-10,E0,Leicester,Crystal Palace,0.0000,0.0000
+2022-04-10,E0,Man City,Liverpool,0.0000,0.0000
+2022-04-10,E0,Norwich,Burnley,0.0000,0.0000
+2022-04-16,E0,Man United,Norwich,0.0000,0.0000
+2022-04-16,E0,Southampton,Arsenal,0.0000,0.0464
+2022-04-16,E0,Tottenham,Brighton,0.0000,0.0000
+2022-04-16,E0,Watford,Brentford,0.0000,0.0000
+2022-04-17,E0,Newcastle,Leicester,0.0000,0.0000
+2022-04-17,E0,West Ham,Burnley,0.0000,0.0000
+2022-04-19,E0,Liverpool,Man United,0.0000,0.0000
+2022-04-20,E0,Chelsea,Arsenal,0.0000,0.0449
+2022-04-20,E0,Everton,Leicester,0.0331,0.0000
+2022-04-20,E0,Man City,Brighton,0.0000,0.0000
+2022-04-20,E0,Newcastle,Crystal Palace,0.0000,0.0000
+2022-04-21,E0,Burnley,Southampton,0.0000,0.0041
+2022-04-23,E0,Arsenal,Man United,0.0000,0.0000
+2022-04-23,E0,Brentford,Tottenham,0.0000,0.0000
+2022-04-23,E0,Leicester,Aston Villa,0.0000,0.0000
+2022-04-23,E0,Man City,Watford,0.0000,0.0000
+2022-04-23,E0,Norwich,Newcastle,0.0000,0.0095
+2022-04-24,E0,Brighton,Southampton,0.0466,0.0040
+2022-04-24,E0,Burnley,Wolves,0.0000,0.0000
+2022-04-24,E0,Chelsea,West Ham,0.0000,0.0000
+2022-04-24,E0,Liverpool,Everton,0.0021,0.0000
+2022-04-25,E0,Crystal Palace,Leeds,0.0000,0.0000
+2022-04-28,E0,Man United,Chelsea,0.0000,0.0000
+2022-04-30,E0,Aston Villa,Norwich,0.0000,0.0000
+2022-04-30,E0,Leeds,Man City,0.0000,0.0000
+2022-04-30,E0,Newcastle,Liverpool,0.0000,0.0000
+2022-04-30,E0,Southampton,Crystal Palace,0.0000,0.0000
+2022-04-30,E0,Watford,Burnley,0.0000,0.0000
+2022-04-30,E0,Wolves,Brighton,0.0000,0.0505
+2022-05-01,E0,Everton,Chelsea,0.0000,0.0000
+2022-05-01,E0,Tottenham,Leicester,0.0000,0.0000
+2022-05-01,E0,West Ham,Arsenal,0.0000,0.0000
+2022-05-02,E0,Man United,Brentford,0.0000,0.0000
+2022-05-07,E0,Brentford,Southampton,0.0000,0.0000
+2022-05-07,E0,Brighton,Man United,0.0490,0.0000
+2022-05-07,E0,Burnley,Aston Villa,0.0000,0.0000
+2022-05-07,E0,Chelsea,Wolves,0.0000,0.0000
+2022-05-07,E0,Crystal Palace,Watford,0.0000,0.0000
+2022-05-07,E0,Liverpool,Tottenham,0.0000,0.0000
+2022-05-08,E0,Arsenal,Leeds,0.0000,0.0000
+2022-05-08,E0,Leicester,Everton,0.0000,0.0000
+2022-05-08,E0,Man City,Newcastle,0.0000,0.0579
+2022-05-08,E0,Norwich,West Ham,0.0000,0.0000
+2022-05-10,E0,Aston Villa,Liverpool,0.0000,0.0000
+2022-05-11,E0,Leeds,Chelsea,0.0841,0.0000
+2022-05-11,E0,Leicester,Norwich,0.0000,0.0000
+2022-05-11,E0,Watford,Everton,0.0000,0.0000
+2022-05-11,E0,Wolves,Man City,0.0000,0.0000
+2022-05-12,E0,Tottenham,Arsenal,0.0000,0.0000
+2022-05-15,E0,Aston Villa,Crystal Palace,0.0000,0.0000
+2022-05-15,E0,Everton,Brentford,0.0000,0.0000
+2022-05-15,E0,Leeds,Brighton,0.0818,0.0477
+2022-05-15,E0,Tottenham,Burnley,0.0000,0.0000
+2022-05-15,E0,Watford,Leicester,0.0000,0.0000
+2022-05-15,E0,West Ham,Man City,0.0000,0.0000
+2022-05-15,E0,Wolves,Norwich,0.0000,0.0000
+2022-05-16,E0,Newcastle,Arsenal,0.0000,0.0000
+2022-05-17,E0,Southampton,Liverpool,0.0000,0.0000
+2022-05-19,E0,Aston Villa,Burnley,0.0000,0.0000
+2022-05-19,E0,Chelsea,Leicester,0.0000,0.0000
+2022-05-19,E0,Everton,Crystal Palace,0.0000,0.0000
+2022-05-22,E0,Arsenal,Everton,0.0000,0.0000
+2022-05-22,E0,Brentford,Leeds,0.0000,0.0796
+2022-05-22,E0,Brighton,West Ham,0.0464,0.0000
+2022-05-22,E0,Burnley,Newcastle,0.0000,0.0000
+2022-05-22,E0,Chelsea,Watford,0.0000,0.0000
+2022-05-22,E0,Crystal Palace,Man United,0.0000,0.0000
+2022-05-22,E0,Leicester,Southampton,0.0000,0.0000
+2022-05-22,E0,Liverpool,Wolves,0.0000,0.0000
+2022-05-22,E0,Man City,Aston Villa,0.0000,0.0000
+2022-05-22,E0,Norwich,Tottenham,0.0000,0.0000

@@ -1,0 +1,308 @@
+date,league,home_team,away_team,missing_home,missing_away
+2023-08-11,F1,Nice,Lille,,
+2023-08-12,F1,Marseille,Reims,,
+2023-08-12,F1,Paris SG,Lorient,,
+2023-08-13,F1,Brest,Lens,,
+2023-08-13,F1,Clermont,Monaco,,
+2023-08-13,F1,Montpellier,Le Havre,,
+2023-08-13,F1,Nantes,Toulouse,,
+2023-08-13,F1,Rennes,Metz,,
+2023-08-13,F1,Strasbourg,Lyon,,
+2023-08-18,F1,Metz,Marseille,,
+2023-08-19,F1,Lyon,Montpellier,,
+2023-08-19,F1,Toulouse,Paris SG,,
+2023-08-20,F1,Le Havre,Brest,,
+2023-08-20,F1,Lens,Rennes,,
+2023-08-20,F1,Lille,Nantes,,
+2023-08-20,F1,Lorient,Nice,,
+2023-08-20,F1,Monaco,Strasbourg,,
+2023-08-20,F1,Reims,Clermont,,
+2023-08-25,F1,Nantes,Monaco,,
+2023-08-26,F1,Marseille,Brest,,
+2023-08-26,F1,Paris SG,Lens,,
+2023-08-27,F1,Clermont,Metz,,
+2023-08-27,F1,Lorient,Lille,,
+2023-08-27,F1,Montpellier,Reims,,
+2023-08-27,F1,Nice,Lyon,,
+2023-08-27,F1,Rennes,Le Havre,,
+2023-08-27,F1,Strasbourg,Toulouse,,
+2023-09-01,F1,Nantes,Marseille,0.0303,0.0000
+2023-09-02,F1,Brest,Rennes,0.0360,0.0000
+2023-09-02,F1,Monaco,Lens,0.0000,0.0000
+2023-09-03,F1,Le Havre,Lorient,0.0303,0.0447
+2023-09-03,F1,Lille,Montpellier,0.0000,0.0000
+2023-09-03,F1,Lyon,Paris SG,0.0000,0.0000
+2023-09-03,F1,Metz,Reims,0.0000,0.0000
+2023-09-03,F1,Nice,Strasbourg,0.0000,0.0000
+2023-09-03,F1,Toulouse,Clermont,0.0000,0.0000
+2023-09-15,F1,Paris SG,Nice,0.0000,0.0000
+2023-09-16,F1,Lens,Metz,0.0000,0.0000
+2023-09-16,F1,Rennes,Lille,0.0813,0.0081
+2023-09-17,F1,Clermont,Nantes,0.0000,0.0337
+2023-09-17,F1,Lorient,Monaco,0.0672,0.0000
+2023-09-17,F1,Lyon,Le Havre,0.0000,0.0452
+2023-09-17,F1,Marseille,Toulouse,0.0751,0.0000
+2023-09-17,F1,Reims,Brest,0.0000,0.0000
+2023-09-17,F1,Strasbourg,Montpellier,0.0000,0.0000
+2023-09-22,F1,Monaco,Nice,0.0000,0.0293
+2023-09-23,F1,Brest,Lyon,0.0000,0.0000
+2023-09-23,F1,Nantes,Lorient,0.0161,0.0000
+2023-09-24,F1,Le Havre,Clermont,0.0804,0.0909
+2023-09-24,F1,Lens,Toulouse,0.0333,0.0743
+2023-09-24,F1,Metz,Strasbourg,0.1129,0.0440
+2023-09-24,F1,Montpellier,Rennes,0.0561,0.0651
+2023-09-24,F1,Paris SG,Marseille,0.0457,0.0000
+2023-09-26,F1,Lille,Reims,0.0065,0.0507
+2023-09-29,F1,Strasbourg,Lens,0.0000,0.0278
+2023-09-30,F1,Clermont,Paris SG,0.0000,0.0000
+2023-09-30,F1,Monaco,Marseille,0.0000,0.0000
+2023-10-01,F1,Le Havre,Lille,0.0000,0.0000
+2023-10-01,F1,Lorient,Montpellier,0.0000,0.0000
+2023-10-01,F1,Nice,Brest,0.0000,0.0000
+2023-10-01,F1,Reims,Lyon,0.0000,0.0000
+2023-10-01,F1,Rennes,Nantes,0.0000,0.0000
+2023-10-01,F1,Toulouse,Metz,0.0000,0.0000
+2023-10-06,F1,Strasbourg,Nantes,0.0000,0.0000
+2023-10-07,F1,Metz,Nice,0.0000,0.0000
+2023-10-07,F1,Reims,Monaco,0.0000,0.0000
+2023-10-08,F1,Brest,Toulouse,0.0000,0.0541
+2023-10-08,F1,Lens,Lille,0.0000,0.0000
+2023-10-08,F1,Lyon,Lorient,0.0000,0.0000
+2023-10-08,F1,Marseille,Le Havre,0.0000,0.0000
+2023-10-08,F1,Montpellier,Clermont,0.0000,0.0000
+2023-10-08,F1,Rennes,Paris SG,0.0000,0.0000
+2023-10-20,F1,Le Havre,Lens,0.0000,0.0000
+2023-10-21,F1,Nice,Marseille,0.0000,0.0000
+2023-10-21,F1,Paris SG,Strasbourg,0.0000,0.0522
+2023-10-22,F1,Lille,Brest,0.0000,0.0000
+2023-10-22,F1,Lorient,Rennes,0.0122,0.0909
+2023-10-22,F1,Lyon,Clermont,0.0000,0.0000
+2023-10-22,F1,Monaco,Metz,0.1402,0.0000
+2023-10-22,F1,Nantes,Montpellier,0.0000,0.0000
+2023-10-22,F1,Toulouse,Reims,0.0000,0.0000
+2023-10-27,F1,Clermont,Nice,0.0000,0.0000
+2023-10-28,F1,Lens,Nantes,0.0000,0.0000
+2023-10-28,F1,Reims,Lorient,0.0000,0.0000
+2023-10-29,F1,Brest,Paris SG,0.0000,0.0000
+2023-10-29,F1,Lille,Monaco,0.0000,0.0000
+2023-10-29,F1,Metz,Le Havre,0.0000,0.0000
+2023-10-29,F1,Montpellier,Toulouse,0.0592,0.0413
+2023-10-29,F1,Rennes,Strasbourg,0.0000,0.0000
+2023-11-03,F1,Paris SG,Montpellier,0.0000,0.0533
+2023-11-04,F1,Lorient,Lens,0.0160,0.0000
+2023-11-04,F1,Marseille,Lille,0.0000,0.0000
+2023-11-05,F1,Lyon,Metz,0.0000,0.0000
+2023-11-05,F1,Monaco,Brest,0.0000,0.0000
+2023-11-05,F1,Nantes,Reims,0.0000,0.0000
+2023-11-05,F1,Nice,Rennes,0.0000,0.0000
+2023-11-05,F1,Strasbourg,Clermont,0.0000,0.0000
+2023-11-05,F1,Toulouse,Le Havre,0.0000,0.0000
+2023-11-10,F1,Montpellier,Nice,0.0000,0.0000
+2023-11-11,F1,Le Havre,Monaco,0.0000,0.0000
+2023-11-11,F1,Reims,Paris SG,0.0000,0.0000
+2023-11-12,F1,Clermont,Lorient,0.0000,0.0000
+2023-11-12,F1,Lens,Marseille,0.0000,0.0000
+2023-11-12,F1,Lille,Toulouse,0.0000,0.1676
+2023-11-12,F1,Metz,Nantes,0.0000,0.0000
+2023-11-12,F1,Rennes,Lyon,0.0000,0.0000
+2023-11-24,F1,Paris SG,Monaco,0.0673,0.0000
+2023-11-25,F1,Clermont,Lens,0.0000,0.0497
+2023-11-25,F1,Strasbourg,Marseille,0.0000,0.0000
+2023-11-26,F1,Lorient,Metz,0.0133,0.0000
+2023-11-26,F1,Lyon,Lille,0.0000,0.0000
+2023-11-26,F1,Montpellier,Brest,0.0195,0.0000
+2023-11-26,F1,Nantes,Le Havre,0.0000,0.0000
+2023-11-26,F1,Nice,Toulouse,0.1334,0.0309
+2023-11-26,F1,Rennes,Reims,0.0000,0.0000
+2023-11-29,F1,Montpellier,Clermont,0.0000,0.0000
+2023-12-01,F1,Reims,Strasbourg,0.0000,0.0232
+2023-12-02,F1,Lens,Lyon,0.0000,0.0000
+2023-12-02,F1,Nantes,Nice,0.0000,0.0000
+2023-12-03,F1,Brest,Clermont,0.0000,0.0000
+2023-12-03,F1,Le Havre,Paris SG,0.0000,0.0621
+2023-12-03,F1,Lille,Metz,0.0000,0.0000
+2023-12-03,F1,Marseille,Rennes,0.0000,0.0000
+2023-12-03,F1,Monaco,Montpellier,0.0000,0.0000
+2023-12-03,F1,Toulouse,Lorient,0.0000,0.0000
+2023-12-06,F1,Marseille,Lyon,0.0000,0.0000
+2023-12-07,F1,Brest,Strasbourg,0.0000,0.0000
+2023-12-08,F1,Montpellier,Lens,0.0000,0.0000
+2023-12-09,F1,Paris SG,Nantes,0.0000,0.0000
+2023-12-09,F1,Rennes,Monaco,0.0000,0.0000
+2023-12-10,F1,Clermont,Lille,0.0000,0.0000
+2023-12-10,F1,Lorient,Marseille,0.0114,0.0407
+2023-12-10,F1,Lyon,Toulouse,0.0000,0.0000
+2023-12-10,F1,Metz,Brest,0.0000,0.0000
+2023-12-10,F1,Nice,Reims,0.0000,0.0000
+2023-12-10,F1,Strasbourg,Le Havre,0.0000,0.0000
+2023-12-15,F1,Monaco,Lyon,0.0811,0.0000
+2023-12-16,F1,Le Havre,Nice,0.0180,0.0000
+2023-12-16,F1,Lens,Reims,0.0000,0.0000
+2023-12-17,F1,Lille,Paris SG,0.0000,0.0000
+2023-12-17,F1,Lorient,Strasbourg,0.0107,0.0000
+2023-12-17,F1,Marseille,Clermont,0.0000,0.0000
+2023-12-17,F1,Metz,Montpellier,0.0000,0.0000
+2023-12-17,F1,Nantes,Brest,0.0129,0.0000
+2023-12-17,F1,Toulouse,Rennes,0.1019,0.0000
+2023-12-20,F1,Brest,Lorient,0.0000,0.0100
+2023-12-20,F1,Clermont,Rennes,0.0000,0.0000
+2023-12-20,F1,Lyon,Nantes,0.0000,0.0000
+2023-12-20,F1,Montpellier,Marseille,0.0000,0.0000
+2023-12-20,F1,Nice,Lens,0.0758,0.0000
+2023-12-20,F1,Paris SG,Metz,0.0978,0.0000
+2023-12-20,F1,Reims,Le Havre,0.0000,0.0169
+2023-12-20,F1,Strasbourg,Lille,0.0000,0.0000
+2023-12-20,F1,Toulouse,Monaco,0.0501,0.0000
+2024-01-12,F1,Marseille,Strasbourg,0.0000,0.0016
+2024-01-13,F1,Monaco,Reims,0.0000,0.0000
+2024-01-13,F1,Rennes,Nice,0.0000,0.0000
+2024-01-14,F1,Brest,Montpellier,0.0000,0.0000
+2024-01-14,F1,Le Havre,Lyon,0.0000,0.0542
+2024-01-14,F1,Lens,Paris SG,0.0377,0.0000
+2024-01-14,F1,Lille,Lorient,0.0000,0.0000
+2024-01-14,F1,Metz,Toulouse,0.0000,0.0471
+2024-01-14,F1,Nantes,Clermont,0.0000,0.0000
+2024-01-26,F1,Lyon,Rennes,0.0000,0.0000
+2024-01-27,F1,Marseille,Monaco,0.0000,0.0000
+2024-01-27,F1,Nice,Metz,0.0000,0.0000
+2024-01-28,F1,Clermont,Strasbourg,0.0000,0.0015
+2024-01-28,F1,Lorient,Le Havre,0.0000,0.0000
+2024-01-28,F1,Montpellier,Lille,0.0000,0.0000
+2024-01-28,F1,Paris SG,Brest,0.0000,0.0000
+2024-01-28,F1,Reims,Nantes,0.0000,0.0055
+2024-01-28,F1,Toulouse,Lens,0.0000,0.0000
+2024-02-02,F1,Strasbourg,Paris SG,0.0000,0.0000
+2024-02-03,F1,Nantes,Lens,0.0052,0.0000
+2024-02-03,F1,Rennes,Montpellier,0.0000,0.0000
+2024-02-04,F1,Brest,Nice,0.0000,0.0262
+2024-02-04,F1,Lille,Clermont,0.0000,0.0000
+2024-02-04,F1,Lyon,Marseille,0.0000,0.0000
+2024-02-04,F1,Metz,Lorient,0.0000,0.0000
+2024-02-04,F1,Monaco,Le Havre,0.0716,0.0000
+2024-02-04,F1,Reims,Toulouse,0.0000,0.0000
+2024-02-09,F1,Marseille,Metz,0.0000,0.0000
+2024-02-10,F1,Lens,Strasbourg,0.0000,0.0252
+2024-02-10,F1,Paris SG,Lille,0.0000,0.0000
+2024-02-11,F1,Clermont,Brest,0.0000,0.0000
+2024-02-11,F1,Le Havre,Rennes,0.0000,0.0000
+2024-02-11,F1,Lorient,Reims,0.0000,0.0000
+2024-02-11,F1,Montpellier,Lyon,0.0413,0.0000
+2024-02-11,F1,Nice,Monaco,0.0000,0.0000
+2024-02-11,F1,Toulouse,Nantes,0.0000,0.0049
+2024-02-16,F1,Lyon,Nice,0.0536,0.0000
+2024-02-17,F1,Lille,Le Havre,0.0000,0.0000
+2024-02-17,F1,Nantes,Paris SG,0.0047,0.0000
+2024-02-18,F1,Brest,Marseille,0.0000,0.0000
+2024-02-18,F1,Monaco,Toulouse,0.0789,0.0000
+2024-02-18,F1,Montpellier,Metz,0.0000,0.0000
+2024-02-18,F1,Reims,Lens,0.0000,0.0305
+2024-02-18,F1,Rennes,Clermont,0.0000,0.0000
+2024-02-18,F1,Strasbourg,Lorient,0.0000,0.0112
+2024-02-23,F1,Metz,Lyon,0.0000,0.0000
+2024-02-24,F1,Lorient,Nantes,0.0073,0.0045
+2024-02-24,F1,Strasbourg,Brest,0.0000,0.0000
+2024-02-25,F1,Le Havre,Reims,0.0123,0.0012
+2024-02-25,F1,Lens,Monaco,0.0291,0.0381
+2024-02-25,F1,Marseille,Montpellier,0.0057,0.1015
+2024-02-25,F1,Nice,Clermont,0.0000,0.0000
+2024-02-25,F1,Paris SG,Rennes,0.0592,0.0000
+2024-02-25,F1,Toulouse,Lille,0.0000,0.0825
+2024-03-01,F1,Monaco,Paris SG,0.0710,0.0567
+2024-03-02,F1,Clermont,Marseille,0.0000,0.0000
+2024-03-02,F1,Reims,Lille,0.0011,0.0086
+2024-03-03,F1,Brest,Le Havre,0.0000,0.0000
+2024-03-03,F1,Lyon,Lens,0.0000,0.0165
+2024-03-03,F1,Montpellier,Strasbourg,0.0000,0.0000
+2024-03-03,F1,Nantes,Metz,0.0043,0.0000
+2024-03-03,F1,Rennes,Lorient,0.0000,0.0000
+2024-03-03,F1,Toulouse,Nice,0.0000,0.0715
+2024-03-08,F1,Nice,Montpellier,0.0685,0.0000
+2024-03-09,F1,Lens,Brest,0.0000,0.0000
+2024-03-09,F1,Lorient,Lyon,0.0000,0.0000
+2024-03-10,F1,Le Havre,Toulouse,0.0000,0.0444
+2024-03-10,F1,Lille,Rennes,0.0083,0.0000
+2024-03-10,F1,Marseille,Nantes,0.0000,0.0041
+2024-03-10,F1,Metz,Clermont,0.0000,0.0000
+2024-03-10,F1,Paris SG,Reims,0.0543,0.0000
+2024-03-10,F1,Strasbourg,Monaco,0.0000,0.0000
+2024-03-15,F1,Toulouse,Lyon,0.0426,0.0098
+2024-03-16,F1,Lens,Nice,0.0256,0.0658
+2024-03-16,F1,Nantes,Strasbourg,0.0039,0.0000
+2024-03-17,F1,Brest,Lille,0.0000,0.0000
+2024-03-17,F1,Clermont,Le Havre,0.0000,0.0000
+2024-03-17,F1,Monaco,Lorient,0.0000,0.0000
+2024-03-17,F1,Montpellier,Paris SG,0.0000,0.0000
+2024-03-17,F1,Reims,Metz,0.0000,0.0000
+2024-03-17,F1,Rennes,Marseille,0.0000,0.0000
+2024-03-29,F1,Lille,Lens,0.0076,0.0000
+2024-03-30,F1,Lyon,Reims,0.0000,0.0630
+2024-03-30,F1,Metz,Monaco,0.0000,0.0698
+2024-03-31,F1,Clermont,Toulouse,0.0000,0.0000
+2024-03-31,F1,Le Havre,Montpellier,0.0000,0.0000
+2024-03-31,F1,Lorient,Brest,0.0061,0.0000
+2024-03-31,F1,Marseille,Paris SG,0.0000,0.0927
+2024-03-31,F1,Nice,Nantes,0.0633,0.0038
+2024-03-31,F1,Strasbourg,Rennes,0.0000,0.0000
+2024-04-05,F1,Lille,Marseille,0.0000,0.0000
+2024-04-06,F1,Lens,Le Havre,0.0162,0.0100
+2024-04-06,F1,Paris SG,Clermont,0.0410,0.0000
+2024-04-07,F1,Brest,Metz,0.0000,0.0000
+2024-04-07,F1,Monaco,Rennes,0.0000,0.0000
+2024-04-07,F1,Montpellier,Lorient,0.0000,0.0000
+2024-04-07,F1,Nantes,Lyon,0.0000,0.0000
+2024-04-07,F1,Reims,Nice,0.0606,0.0609
+2024-04-07,F1,Toulouse,Strasbourg,0.0000,0.0000
+2024-04-12,F1,Metz,Lens,0.0000,0.0000
+2024-04-13,F1,Rennes,Toulouse,0.0000,0.0000
+2024-04-13,F1,Strasbourg,Reims,0.0000,0.0000
+2024-04-14,F1,Clermont,Montpellier,0.0000,0.0000
+2024-04-14,F1,Le Havre,Nantes,0.0096,0.0000
+2024-04-14,F1,Lyon,Brest,0.0000,0.0000
+2024-04-19,F1,Nice,Lorient,0.0000,0.0000
+2024-04-20,F1,Lens,Clermont,0.0000,0.0000
+2024-04-20,F1,Nantes,Rennes,0.0000,0.0122
+2024-04-21,F1,Brest,Monaco,0.0000,0.0779
+2024-04-21,F1,Le Havre,Metz,0.0000,0.0000
+2024-04-21,F1,Lille,Strasbourg,0.0000,0.0000
+2024-04-21,F1,Paris SG,Lyon,0.0000,0.0000
+2024-04-21,F1,Reims,Montpellier,0.0578,0.0000
+2024-04-21,F1,Toulouse,Marseille,0.0000,0.0000
+2024-04-24,F1,Lorient,Paris SG,0.0000,0.0886
+2024-04-24,F1,Marseille,Nice,0.0000,0.0000
+2024-04-24,F1,Monaco,Lille,0.0752,0.0000
+2024-04-26,F1,Montpellier,Nantes,0.0000,0.0033
+2024-04-27,F1,Paris SG,Le Havre,0.0000,0.0090
+2024-04-28,F1,Clermont,Reims,0.0000,0.0000
+2024-04-28,F1,Lorient,Toulouse,0.0000,0.0000
+2024-04-28,F1,Lyon,Monaco,0.0000,0.0727
+2024-04-28,F1,Marseille,Lens,0.0000,0.0000
+2024-04-28,F1,Metz,Lille,0.0000,0.0000
+2024-04-28,F1,Rennes,Brest,0.0000,0.0000
+2024-04-28,F1,Strasbourg,Nice,0.0000,0.0000
+2024-05-03,F1,Lens,Lorient,0.0000,0.0000
+2024-05-03,F1,Toulouse,Montpellier,0.0000,0.0000
+2024-05-04,F1,Brest,Nantes,0.0000,0.0032
+2024-05-04,F1,Le Havre,Strasbourg,0.0000,0.0000
+2024-05-04,F1,Metz,Rennes,0.0000,0.0000
+2024-05-04,F1,Monaco,Clermont,0.0000,0.0000
+2024-05-06,F1,Lille,Lyon,0.0773,0.0000
+2024-05-10,F1,Brest,Reims,0.0000,0.0000
+2024-05-10,F1,Nice,Le Havre,0.0000,0.0084
+2024-05-12,F1,Clermont,Lyon,0.0000,0.0000
+2024-05-12,F1,Marseille,Lorient,0.0000,0.0000
+2024-05-12,F1,Montpellier,Monaco,0.0000,0.1358
+2024-05-12,F1,Nantes,Lille,0.0000,0.0062
+2024-05-12,F1,Paris SG,Toulouse,0.0000,0.0000
+2024-05-12,F1,Rennes,Lens,0.0000,0.0148
+2024-05-12,F1,Strasbourg,Metz,0.0000,0.0000
+2024-05-15,F1,Nice,Paris SG,0.0000,0.0471
+2024-05-15,F1,Reims,Marseille,0.0000,0.0000
+2024-05-19,F1,Le Havre,Marseille,0.0000,0.0000
+2024-05-19,F1,Lens,Montpellier,0.0143,0.0000
+2024-05-19,F1,Lille,Nice,0.0786,0.0590
+2024-05-19,F1,Lorient,Clermont,0.0000,0.0000
+2024-05-19,F1,Lyon,Strasbourg,0.0000,0.0000
+2024-05-19,F1,Metz,Paris SG,0.0000,0.0000
+2024-05-19,F1,Monaco,Nantes,0.0000,0.0000
+2024-05-19,F1,Reims,Rennes,0.0496,0.0000
+2024-05-19,F1,Toulouse,Brest,0.0000,0.0000

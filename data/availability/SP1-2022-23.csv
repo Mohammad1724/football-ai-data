@@ -1,0 +1,381 @@
+date,league,home_team,away_team,missing_home,missing_away
+2022-08-12,SP1,Osasuna,Sevilla,,
+2022-08-13,SP1,Barcelona,Vallecano,,
+2022-08-13,SP1,Celta,Espanol,,
+2022-08-13,SP1,Valladolid,Villarreal,,
+2022-08-14,SP1,Almeria,Real Madrid,,
+2022-08-14,SP1,Cadiz,Sociedad,,
+2022-08-14,SP1,Valencia,Girona,,
+2022-08-15,SP1,Ath Bilbao,Mallorca,,
+2022-08-15,SP1,Betis,Elche,,
+2022-08-15,SP1,Getafe,Ath Madrid,,
+2022-08-19,SP1,Espanol,Vallecano,,
+2022-08-19,SP1,Sevilla,Valladolid,,
+2022-08-20,SP1,Celta,Real Madrid,,
+2022-08-20,SP1,Mallorca,Betis,,
+2022-08-20,SP1,Osasuna,Cadiz,,
+2022-08-21,SP1,Ath Bilbao,Valencia,,
+2022-08-21,SP1,Ath Madrid,Villarreal,,
+2022-08-21,SP1,Sociedad,Barcelona,,
+2022-08-22,SP1,Elche,Almeria,,
+2022-08-22,SP1,Girona,Getafe,,
+2022-08-26,SP1,Betis,Osasuna,,
+2022-08-26,SP1,Girona,Celta,,
+2022-08-27,SP1,Almeria,Sevilla,,
+2022-08-27,SP1,Elche,Sociedad,,
+2022-08-27,SP1,Vallecano,Mallorca,,
+2022-08-28,SP1,Barcelona,Valladolid,,
+2022-08-28,SP1,Espanol,Real Madrid,,
+2022-08-28,SP1,Getafe,Villarreal,,
+2022-08-29,SP1,Cadiz,Ath Bilbao,,
+2022-08-29,SP1,Valencia,Ath Madrid,,
+2022-09-02,SP1,Celta,Cadiz,0.0501,0.0000
+2022-09-03,SP1,Mallorca,Girona,0.0000,0.0000
+2022-09-03,SP1,Real Madrid,Betis,0.0000,0.0000
+2022-09-03,SP1,Sevilla,Barcelona,0.0000,0.0000
+2022-09-03,SP1,Sociedad,Ath Madrid,0.0000,0.0000
+2022-09-04,SP1,Ath Bilbao,Espanol,0.0000,0.0000
+2022-09-04,SP1,Osasuna,Vallecano,0.0000,0.0000
+2022-09-04,SP1,Valencia,Getafe,0.0000,0.0000
+2022-09-04,SP1,Villarreal,Elche,0.0000,0.0000
+2022-09-05,SP1,Valladolid,Almeria,0.0000,0.0000
+2022-09-09,SP1,Girona,Valladolid,0.0000,0.0000
+2022-09-10,SP1,Ath Madrid,Celta,0.0000,0.0000
+2022-09-10,SP1,Cadiz,Barcelona,0.0766,0.0285
+2022-09-10,SP1,Espanol,Sevilla,0.0000,0.0000
+2022-09-10,SP1,Vallecano,Valencia,0.0000,0.0000
+2022-09-11,SP1,Betis,Villarreal,0.0000,0.0000
+2022-09-11,SP1,Elche,Ath Bilbao,0.0000,0.0000
+2022-09-11,SP1,Getafe,Sociedad,0.0000,0.0000
+2022-09-11,SP1,Real Madrid,Mallorca,0.0000,0.0000
+2022-09-12,SP1,Almeria,Osasuna,0.0000,0.0000
+2022-09-16,SP1,Valladolid,Cadiz,0.0781,0.0612
+2022-09-17,SP1,Ath Bilbao,Vallecano,0.0000,0.0000
+2022-09-17,SP1,Barcelona,Elche,0.0000,0.0000
+2022-09-17,SP1,Mallorca,Almeria,0.0000,0.0000
+2022-09-17,SP1,Valencia,Celta,0.0000,0.0000
+2022-09-18,SP1,Ath Madrid,Real Madrid,0.0000,0.0000
+2022-09-18,SP1,Betis,Girona,0.0000,0.0000
+2022-09-18,SP1,Osasuna,Getafe,0.0000,0.0000
+2022-09-18,SP1,Sociedad,Espanol,0.0000,0.0000
+2022-09-18,SP1,Villarreal,Sevilla,0.0000,0.0000
+2022-09-30,SP1,Ath Bilbao,Almeria,0.0758,0.0343
+2022-10-01,SP1,Cadiz,Villarreal,0.0000,0.0000
+2022-10-01,SP1,Getafe,Valladolid,0.0000,0.0000
+2022-10-01,SP1,Mallorca,Barcelona,0.0000,0.1309
+2022-10-01,SP1,Sevilla,Ath Madrid,0.0000,0.0000
+2022-10-02,SP1,Celta,Betis,0.0000,0.0000
+2022-10-02,SP1,Espanol,Valencia,0.0000,0.0000
+2022-10-02,SP1,Girona,Sociedad,0.0545,0.0000
+2022-10-02,SP1,Real Madrid,Osasuna,0.0000,0.0000
+2022-10-03,SP1,Vallecano,Elche,0.0000,0.0000
+2022-10-07,SP1,Osasuna,Valencia,0.0000,0.0019
+2022-10-08,SP1,Almeria,Vallecano,0.0000,0.0000
+2022-10-08,SP1,Ath Madrid,Girona,0.0000,0.0000
+2022-10-08,SP1,Getafe,Real Madrid,0.0000,0.0000
+2022-10-08,SP1,Sevilla,Ath Bilbao,0.0000,0.0649
+2022-10-09,SP1,Barcelona,Celta,0.0000,0.0000
+2022-10-09,SP1,Cadiz,Espanol,0.0000,0.0000
+2022-10-09,SP1,Sociedad,Villarreal,0.0000,0.0000
+2022-10-09,SP1,Valladolid,Betis,0.0000,0.0000
+2022-10-10,SP1,Elche,Mallorca,0.0000,0.0000
+2022-10-14,SP1,Vallecano,Getafe,0.0000,0.0000
+2022-10-15,SP1,Ath Bilbao,Ath Madrid,0.0000,0.0000
+2022-10-15,SP1,Girona,Cadiz,0.0354,0.0000
+2022-10-15,SP1,Mallorca,Sevilla,0.0855,0.0000
+2022-10-15,SP1,Valencia,Elche,0.0000,0.0000
+2022-10-16,SP1,Betis,Almeria,0.0000,0.0000
+2022-10-16,SP1,Celta,Sociedad,0.0000,0.0000
+2022-10-16,SP1,Espanol,Valladolid,0.0000,0.0000
+2022-10-16,SP1,Real Madrid,Barcelona,0.0000,0.0000
+2022-10-17,SP1,Villarreal,Osasuna,0.0000,0.0000
+2022-10-18,SP1,Ath Madrid,Vallecano,0.0000,0.0000
+2022-10-18,SP1,Getafe,Ath Bilbao,0.0000,0.0000
+2022-10-18,SP1,Sevilla,Valencia,0.0000,0.0000
+2022-10-19,SP1,Cadiz,Betis,0.0000,0.0675
+2022-10-19,SP1,Elche,Real Madrid,0.0000,0.0000
+2022-10-19,SP1,Sociedad,Mallorca,0.0000,0.0000
+2022-10-19,SP1,Valladolid,Celta,0.0000,0.0000
+2022-10-20,SP1,Almeria,Girona,0.0000,0.0000
+2022-10-20,SP1,Barcelona,Villarreal,0.0570,0.0000
+2022-10-20,SP1,Osasuna,Espanol,0.0000,0.0000
+2022-10-22,SP1,Real Madrid,Sevilla,0.0183,0.0611
+2022-10-22,SP1,Valencia,Mallorca,0.0013,0.0000
+2022-10-22,SP1,Valladolid,Sociedad,0.0000,0.0000
+2022-10-22,SP1,Vallecano,Cadiz,0.0000,0.0649
+2022-10-23,SP1,Barcelona,Ath Bilbao,0.0000,0.0000
+2022-10-23,SP1,Betis,Ath Madrid,0.0000,0.0000
+2022-10-23,SP1,Espanol,Elche,0.0000,0.0000
+2022-10-23,SP1,Girona,Osasuna,0.0000,0.0000
+2022-10-23,SP1,Villarreal,Almeria,0.0000,0.0000
+2022-10-24,SP1,Celta,Getafe,0.0000,0.0000
+2022-10-28,SP1,Mallorca,Espanol,0.0000,0.0000
+2022-10-29,SP1,Almeria,Celta,0.0000,0.0000
+2022-10-29,SP1,Cadiz,Ath Madrid,0.0590,0.0000
+2022-10-29,SP1,Sevilla,Vallecano,0.0555,0.0081
+2022-10-29,SP1,Valencia,Barcelona,0.0000,0.0000
+2022-10-30,SP1,Ath Bilbao,Villarreal,0.0000,0.0331
+2022-10-30,SP1,Osasuna,Valladolid,0.0000,0.0000
+2022-10-30,SP1,Real Madrid,Girona,0.0000,0.0000
+2022-10-30,SP1,Sociedad,Betis,0.0677,0.0000
+2022-10-31,SP1,Elche,Getafe,0.0000,0.0000
+2022-11-04,SP1,Girona,Ath Bilbao,0.0000,0.0000
+2022-11-05,SP1,Barcelona,Almeria,0.0000,0.0000
+2022-11-05,SP1,Celta,Osasuna,0.0000,0.0000
+2022-11-05,SP1,Getafe,Cadiz,0.0426,0.0716
+2022-11-05,SP1,Valladolid,Elche,0.0000,0.0000
+2022-11-06,SP1,Ath Madrid,Espanol,0.0000,0.0000
+2022-11-06,SP1,Betis,Sevilla,0.0000,0.0509
+2022-11-06,SP1,Sociedad,Valencia,0.0000,0.0661
+2022-11-06,SP1,Villarreal,Mallorca,0.0000,0.0000
+2022-11-07,SP1,Vallecano,Real Madrid,0.0000,0.0591
+2022-11-08,SP1,Ath Bilbao,Valladolid,0.0000,0.0000
+2022-11-08,SP1,Elche,Girona,0.0000,0.0000
+2022-11-08,SP1,Osasuna,Barcelona,0.0000,0.0833
+2022-11-09,SP1,Almeria,Getafe,0.0000,0.0000
+2022-11-09,SP1,Espanol,Villarreal,0.0000,0.0000
+2022-11-09,SP1,Mallorca,Ath Madrid,0.0000,0.0000
+2022-11-09,SP1,Sevilla,Sociedad,0.0000,0.0000
+2022-11-10,SP1,Real Madrid,Cadiz,0.0000,0.0661
+2022-11-10,SP1,Valencia,Betis,0.0610,0.0000
+2022-11-10,SP1,Vallecano,Celta,0.0000,0.0000
+2022-12-29,SP1,Ath Madrid,Elche,0.0000,0.0000
+2022-12-29,SP1,Betis,Ath Bilbao,0.0000,0.0000
+2022-12-29,SP1,Girona,Vallecano,0.0000,0.0000
+2022-12-30,SP1,Cadiz,Almeria,0.0463,0.0000
+2022-12-30,SP1,Celta,Sevilla,0.0000,0.0501
+2022-12-30,SP1,Getafe,Mallorca,0.0000,0.0000
+2022-12-30,SP1,Valladolid,Real Madrid,0.0000,0.0000
+2022-12-31,SP1,Barcelona,Espanol,0.0000,0.0000
+2022-12-31,SP1,Sociedad,Osasuna,0.0000,0.0000
+2022-12-31,SP1,Villarreal,Valencia,0.0000,0.0010
+2023-01-06,SP1,Elche,Celta,0.0000,0.0000
+2023-01-06,SP1,Valencia,Cadiz,0.0403,0.0526
+2023-01-07,SP1,Espanol,Girona,0.0000,0.0000
+2023-01-07,SP1,Mallorca,Valladolid,0.0000,0.0729
+2023-01-07,SP1,Villarreal,Real Madrid,0.0000,0.0614
+2023-01-08,SP1,Almeria,Sociedad,0.0000,0.0000
+2023-01-08,SP1,Ath Madrid,Barcelona,0.0000,0.0000
+2023-01-08,SP1,Sevilla,Getafe,0.0000,0.0000
+2023-01-08,SP1,Vallecano,Betis,0.0000,0.0000
+2023-01-09,SP1,Ath Bilbao,Osasuna,0.0000,0.0804
+2023-01-13,SP1,Celta,Villarreal,0.0000,0.0000
+2023-01-14,SP1,Girona,Sevilla,0.0000,0.0000
+2023-01-14,SP1,Osasuna,Mallorca,0.0000,0.0000
+2023-01-14,SP1,Sociedad,Ath Bilbao,0.0000,0.0000
+2023-01-14,SP1,Valladolid,Vallecano,0.0000,0.0000
+2023-01-15,SP1,Almeria,Ath Madrid,0.0000,0.0580
+2023-01-15,SP1,Getafe,Espanol,0.0000,0.0000
+2023-01-16,SP1,Cadiz,Elche,0.0709,0.0333
+2023-01-20,SP1,Mallorca,Celta,0.0000,0.0000
+2023-01-21,SP1,Ath Madrid,Valladolid,0.0000,0.0000
+2023-01-21,SP1,Espanol,Betis,0.0000,0.0000
+2023-01-21,SP1,Sevilla,Cadiz,0.1066,0.1104
+2023-01-21,SP1,Vallecano,Sociedad,0.0000,0.0000
+2023-01-22,SP1,Ath Bilbao,Real Madrid,0.0000,0.0575
+2023-01-22,SP1,Barcelona,Getafe,0.0406,0.0000
+2023-01-22,SP1,Elche,Osasuna,0.0000,0.0000
+2023-01-22,SP1,Villarreal,Girona,0.0000,0.0549
+2023-01-23,SP1,Valencia,Almeria,0.0000,0.0000
+2023-01-27,SP1,Almeria,Espanol,0.0000,0.0000
+2023-01-28,SP1,Cadiz,Mallorca,0.0630,0.0000
+2023-01-28,SP1,Getafe,Betis,0.0000,0.0000
+2023-01-28,SP1,Girona,Barcelona,0.0000,0.0382
+2023-01-28,SP1,Sevilla,Elche,0.0000,0.0000
+2023-01-29,SP1,Celta,Ath Bilbao,0.0000,0.0000
+2023-01-29,SP1,Osasuna,Ath Madrid,0.0000,0.0000
+2023-01-29,SP1,Real Madrid,Sociedad,0.2250,0.0000
+2023-01-29,SP1,Valladolid,Valencia,0.0000,0.0814
+2023-01-30,SP1,Villarreal,Vallecano,0.0000,0.0000
+2023-02-01,SP1,Betis,Barcelona,0.0000,0.0607
+2023-02-02,SP1,Real Madrid,Valencia,0.1614,0.0769
+2023-02-03,SP1,Ath Bilbao,Cadiz,0.0431,0.1395
+2023-02-04,SP1,Ath Madrid,Getafe,0.0000,0.0000
+2023-02-04,SP1,Betis,Celta,0.0000,0.0000
+2023-02-04,SP1,Elche,Villarreal,0.0000,0.0000
+2023-02-04,SP1,Espanol,Osasuna,0.0000,0.0000
+2023-02-05,SP1,Barcelona,Sevilla,0.0000,0.0000
+2023-02-05,SP1,Girona,Valencia,0.0000,0.0735
+2023-02-05,SP1,Mallorca,Real Madrid,0.0000,0.1235
+2023-02-05,SP1,Sociedad,Valladolid,0.0000,0.0000
+2023-02-06,SP1,Vallecano,Almeria,0.0000,0.0000
+2023-02-10,SP1,Cadiz,Girona,0.0852,0.0511
+2023-02-11,SP1,Almeria,Betis,0.0000,0.0000
+2023-02-11,SP1,Sevilla,Mallorca,0.0000,0.0000
+2023-02-11,SP1,Valencia,Ath Bilbao,0.0692,0.0000
+2023-02-12,SP1,Celta,Ath Madrid,0.0000,0.0000
+2023-02-12,SP1,Getafe,Vallecano,0.0000,0.0000
+2023-02-12,SP1,Valladolid,Osasuna,0.0000,0.0000
+2023-02-12,SP1,Villarreal,Barcelona,0.0000,0.0000
+2023-02-13,SP1,Espanol,Sociedad,0.0000,0.0554
+2023-02-15,SP1,Real Madrid,Elche,0.0557,0.0000
+2023-02-17,SP1,Girona,Almeria,0.0000,0.0000
+2023-02-18,SP1,Betis,Valladolid,0.0000,0.0000
+2023-02-18,SP1,Mallorca,Villarreal,0.0000,0.0000
+2023-02-18,SP1,Osasuna,Real Madrid,0.0000,0.0531
+2023-02-18,SP1,Sociedad,Celta,0.0000,0.0000
+2023-02-19,SP1,Ath Madrid,Ath Bilbao,0.0000,0.0000
+2023-02-19,SP1,Barcelona,Cadiz,0.0520,0.0811
+2023-02-19,SP1,Elche,Espanol,0.0000,0.0000
+2023-02-19,SP1,Vallecano,Sevilla,0.0000,0.0560
+2023-02-20,SP1,Getafe,Valencia,0.0000,0.0000
+2023-02-24,SP1,Elche,Betis,0.0000,0.0000
+2023-02-25,SP1,Cadiz,Vallecano,0.0774,0.0000
+2023-02-25,SP1,Espanol,Mallorca,0.0000,0.0000
+2023-02-25,SP1,Real Madrid,Ath Madrid,0.1840,0.0000
+2023-02-25,SP1,Valencia,Sociedad,0.0000,0.0000
+2023-02-26,SP1,Almeria,Barcelona,0.0000,0.0000
+2023-02-26,SP1,Ath Bilbao,Girona,0.0000,0.0000
+2023-02-26,SP1,Celta,Valladolid,0.0000,0.0000
+2023-02-26,SP1,Sevilla,Osasuna,0.0535,0.0000
+2023-02-27,SP1,Villarreal,Getafe,0.0000,0.0000
+2023-03-03,SP1,Sociedad,Cadiz,0.0000,0.0493
+2023-03-04,SP1,Almeria,Villarreal,0.0000,0.0000
+2023-03-04,SP1,Ath Madrid,Sevilla,0.0000,0.0000
+2023-03-04,SP1,Getafe,Girona,0.0000,0.0000
+2023-03-04,SP1,Mallorca,Elche,0.0000,0.0000
+2023-03-05,SP1,Barcelona,Valencia,0.0000,0.0006
+2023-03-05,SP1,Betis,Real Madrid,0.0000,0.0485
+2023-03-05,SP1,Valladolid,Espanol,0.0000,0.0000
+2023-03-05,SP1,Vallecano,Ath Bilbao,0.0000,0.0000
+2023-03-06,SP1,Osasuna,Celta,0.0000,0.0000
+2023-03-10,SP1,Cadiz,Getafe,0.0350,0.0087
+2023-03-11,SP1,Celta,Vallecano,0.0000,0.0000
+2023-03-11,SP1,Elche,Valladolid,0.0000,0.0000
+2023-03-11,SP1,Real Madrid,Espanol,0.0465,0.0000
+2023-03-11,SP1,Valencia,Osasuna,0.0006,0.0000
+2023-03-12,SP1,Ath Bilbao,Barcelona,0.0000,0.0000
+2023-03-12,SP1,Mallorca,Sociedad,0.0000,0.0000
+2023-03-12,SP1,Sevilla,Almeria,0.0000,0.0000
+2023-03-12,SP1,Villarreal,Betis,0.0000,0.0000
+2023-03-13,SP1,Girona,Ath Madrid,0.0000,0.0000
+2023-03-17,SP1,Valladolid,Ath Bilbao,0.0000,0.0000
+2023-03-18,SP1,Almeria,Cadiz,0.0853,0.0831
+2023-03-18,SP1,Ath Madrid,Valencia,0.0000,0.0005
+2023-03-18,SP1,Espanol,Celta,0.0000,0.0000
+2023-03-18,SP1,Vallecano,Girona,0.0000,0.0000
+2023-03-19,SP1,Barcelona,Real Madrid,0.0000,0.0622
+2023-03-19,SP1,Betis,Mallorca,0.0000,0.0000
+2023-03-19,SP1,Getafe,Sevilla,0.0000,0.0000
+2023-03-19,SP1,Osasuna,Villarreal,0.0000,0.0000
+2023-03-19,SP1,Sociedad,Elche,0.0000,0.0000
+2023-03-31,SP1,Mallorca,Osasuna,0.0000,0.0000
+2023-04-01,SP1,Ath Bilbao,Getafe,0.0000,0.0000
+2023-04-01,SP1,Cadiz,Sevilla,0.0534,0.0522
+2023-04-01,SP1,Elche,Barcelona,0.0000,0.0689
+2023-04-01,SP1,Girona,Espanol,0.0000,0.0000
+2023-04-02,SP1,Ath Madrid,Betis,0.0000,0.0000
+2023-04-02,SP1,Celta,Almeria,0.0000,0.0000
+2023-04-02,SP1,Real Madrid,Valladolid,0.0630,0.0000
+2023-04-02,SP1,Villarreal,Sociedad,0.0000,0.0000
+2023-04-03,SP1,Valencia,Vallecano,0.0000,0.0000
+2023-04-07,SP1,Sevilla,Celta,0.0556,0.0000
+2023-04-08,SP1,Espanol,Ath Bilbao,0.0000,0.0000
+2023-04-08,SP1,Osasuna,Elche,0.0000,0.0000
+2023-04-08,SP1,Real Madrid,Villarreal,0.0425,0.1149
+2023-04-08,SP1,Sociedad,Getafe,0.0000,0.0000
+2023-04-09,SP1,Almeria,Valencia,0.0000,0.0000
+2023-04-09,SP1,Betis,Cadiz,0.0851,0.0514
+2023-04-09,SP1,Valladolid,Mallorca,0.0000,0.0000
+2023-04-09,SP1,Vallecano,Ath Madrid,0.0057,0.0000
+2023-04-10,SP1,Barcelona,Girona,0.0000,0.0000
+2023-04-14,SP1,Vallecano,Osasuna,0.0000,0.0000
+2023-04-15,SP1,Ath Bilbao,Sociedad,0.0000,0.0000
+2023-04-15,SP1,Betis,Espanol,0.0000,0.0000
+2023-04-15,SP1,Cadiz,Real Madrid,0.0496,0.0000
+2023-04-15,SP1,Villarreal,Valladolid,0.0000,0.0049
+2023-04-16,SP1,Ath Madrid,Almeria,0.0000,0.0434
+2023-04-16,SP1,Getafe,Barcelona,0.0000,0.0000
+2023-04-16,SP1,Girona,Elche,0.0000,0.0000
+2023-04-16,SP1,Valencia,Sevilla,0.0585,0.0000
+2023-04-17,SP1,Celta,Mallorca,0.0000,0.0000
+2023-04-21,SP1,Espanol,Cadiz,0.0000,0.0947
+2023-04-22,SP1,Almeria,Ath Bilbao,0.0000,0.0000
+2023-04-22,SP1,Osasuna,Betis,0.0000,0.0000
+2023-04-22,SP1,Real Madrid,Celta,0.0970,0.0000
+2023-04-22,SP1,Sociedad,Vallecano,0.0509,0.0000
+2023-04-22,SP1,Valladolid,Girona,0.0000,0.0000
+2023-04-23,SP1,Barcelona,Ath Madrid,0.0000,0.0000
+2023-04-23,SP1,Elche,Valencia,0.0000,0.0000
+2023-04-23,SP1,Mallorca,Getafe,0.0000,0.0000
+2023-04-23,SP1,Sevilla,Villarreal,0.0000,0.1045
+2023-04-25,SP1,Betis,Sociedad,0.0000,0.0000
+2023-04-25,SP1,Cadiz,Osasuna,0.1428,0.0359
+2023-04-25,SP1,Girona,Real Madrid,0.0000,0.0937
+2023-04-26,SP1,Ath Madrid,Mallorca,0.0622,0.0000
+2023-04-26,SP1,Celta,Elche,0.0000,0.0000
+2023-04-26,SP1,Getafe,Almeria,0.0000,0.0000
+2023-04-26,SP1,Vallecano,Barcelona,0.0000,0.0000
+2023-04-27,SP1,Ath Bilbao,Sevilla,0.0000,0.0000
+2023-04-27,SP1,Valencia,Valladolid,0.0000,0.0000
+2023-04-27,SP1,Villarreal,Espanol,0.0252,0.0000
+2023-04-28,SP1,Osasuna,Sociedad,0.0348,0.0000
+2023-04-29,SP1,Barcelona,Betis,0.0000,0.0326
+2023-04-29,SP1,Elche,Vallecano,0.0000,0.0000
+2023-04-29,SP1,Real Madrid,Almeria,0.0000,0.0000
+2023-04-30,SP1,Cadiz,Valencia,0.0254,0.0512
+2023-04-30,SP1,Espanol,Getafe,0.0000,0.0000
+2023-04-30,SP1,Valladolid,Ath Madrid,0.0000,0.0602
+2023-04-30,SP1,Villarreal,Celta,0.0244,0.0000
+2023-05-01,SP1,Mallorca,Ath Bilbao,0.0000,0.0000
+2023-05-01,SP1,Sevilla,Girona,0.0000,0.0295
+2023-05-02,SP1,Almeria,Elche,0.0000,0.0000
+2023-05-02,SP1,Barcelona,Osasuna,0.0000,0.0337
+2023-05-02,SP1,Sociedad,Real Madrid,0.0000,0.0000
+2023-05-03,SP1,Ath Madrid,Cadiz,0.1174,0.0246
+2023-05-03,SP1,Getafe,Celta,0.0000,0.0000
+2023-05-03,SP1,Valencia,Villarreal,0.0000,0.0236
+2023-05-04,SP1,Ath Bilbao,Betis,0.0000,0.0315
+2023-05-04,SP1,Girona,Mallorca,0.0286,0.0000
+2023-05-04,SP1,Sevilla,Espanol,0.0000,0.0000
+2023-05-04,SP1,Vallecano,Valladolid,0.0000,0.0000
+2023-05-12,SP1,Mallorca,Cadiz,0.0549,0.0197
+2023-05-13,SP1,Osasuna,Almeria,0.0327,0.0000
+2023-05-13,SP1,Real Madrid,Getafe,0.0000,0.0000
+2023-05-13,SP1,Sociedad,Girona,0.0000,0.0277
+2023-05-13,SP1,Villarreal,Ath Bilbao,0.0229,0.0000
+2023-05-14,SP1,Celta,Valencia,0.0000,0.0000
+2023-05-14,SP1,Elche,Ath Madrid,0.0000,0.0566
+2023-05-14,SP1,Espanol,Barcelona,0.0000,0.0000
+2023-05-14,SP1,Valladolid,Sevilla,0.0000,0.0000
+2023-05-15,SP1,Betis,Vallecano,0.0306,0.0000
+2023-05-19,SP1,Cadiz,Valladolid,0.0726,0.0486
+2023-05-20,SP1,Almeria,Mallorca,0.0000,0.0000
+2023-05-20,SP1,Ath Bilbao,Celta,0.0000,0.0000
+2023-05-20,SP1,Barcelona,Sociedad,0.0000,0.0000
+2023-05-20,SP1,Getafe,Elche,0.0000,0.0000
+2023-05-20,SP1,Girona,Villarreal,0.0269,0.0222
+2023-05-21,SP1,Ath Madrid,Osasuna,0.0549,0.0317
+2023-05-21,SP1,Sevilla,Betis,0.0000,0.0297
+2023-05-21,SP1,Valencia,Real Madrid,0.0644,0.0000
+2023-05-21,SP1,Vallecano,Espanol,0.0000,0.0000
+2023-05-23,SP1,Celta,Girona,0.0000,0.0261
+2023-05-23,SP1,Sociedad,Almeria,0.0000,0.0000
+2023-05-23,SP1,Valladolid,Barcelona,0.0000,0.0000
+2023-05-24,SP1,Betis,Getafe,0.0288,0.0000
+2023-05-24,SP1,Elche,Sevilla,0.0000,0.0000
+2023-05-24,SP1,Espanol,Ath Madrid,0.0000,0.0533
+2023-05-24,SP1,Real Madrid,Vallecano,0.0000,0.0000
+2023-05-24,SP1,Villarreal,Cadiz,0.1185,0.0225
+2023-05-25,SP1,Mallorca,Valencia,0.0000,0.0000
+2023-05-25,SP1,Osasuna,Ath Bilbao,0.0308,0.0000
+2023-05-27,SP1,Sevilla,Real Madrid,0.0000,0.0000
+2023-05-28,SP1,Almeria,Valladolid,0.0000,0.0000
+2023-05-28,SP1,Ath Bilbao,Elche,0.0000,0.0000
+2023-05-28,SP1,Ath Madrid,Sociedad,0.0519,0.0000
+2023-05-28,SP1,Barcelona,Mallorca,0.0000,0.0000
+2023-05-28,SP1,Cadiz,Celta,0.0219,0.0480
+2023-05-28,SP1,Getafe,Osasuna,0.0819,0.0299
+2023-05-28,SP1,Girona,Betis,0.0254,0.0280
+2023-05-28,SP1,Valencia,Espanol,0.0000,0.0000
+2023-05-28,SP1,Vallecano,Villarreal,0.0000,0.0210
+2023-06-04,SP1,Betis,Valencia,0.0273,0.0000
+2023-06-04,SP1,Celta,Barcelona,0.0000,0.0000
+2023-06-04,SP1,Elche,Cadiz,0.0827,0.0213
+2023-06-04,SP1,Espanol,Almeria,0.0000,0.0000
+2023-06-04,SP1,Mallorca,Vallecano,0.0000,0.0000
+2023-06-04,SP1,Osasuna,Girona,0.0291,0.0247
+2023-06-04,SP1,Real Madrid,Ath Bilbao,0.0000,0.0000
+2023-06-04,SP1,Sociedad,Sevilla,0.0000,0.0000
+2023-06-04,SP1,Valladolid,Getafe,0.0000,0.0797
+2023-06-04,SP1,Villarreal,Ath Madrid,0.0204,0.0505
