@@ -1,0 +1,145 @@
+date,league,home_team,away_team,missing_home,missing_away
+2026-09-08,UCL,AEK Athens,LASK,,
+2026-09-08,UCL,Club Brugge,Aston Villa,,
+2026-09-08,UCL,Dortmund,Villarreal,,
+2026-09-08,UCL,FC Porto,Man City,,
+2026-09-08,UCL,Lille,Real Betis,,
+2026-09-08,UCL,Real Madrid,Inter,,
+2026-09-09,UCL,Barcelona,Feyenoord,,
+2026-09-09,UCL,Liverpool,Atlético Madrid,,
+2026-09-09,UCL,Napoli,Arsenal,,
+2026-09-09,UCL,PSG,Slovan Bratislava,,
+2026-09-09,UCL,Sporting CP,Galatasaray,,
+2026-09-09,UCL,VfB Stuttgart,Viking,,
+2026-09-10,UCL,Bayern München,Bodø/Glimt,,
+2026-09-10,UCL,Como,RB Leipzig,,
+2026-09-10,UCL,Fenerbahçe,Roma,,
+2026-09-10,UCL,Man United,Sabah FK,,
+2026-09-10,UCL,PSV Eindhoven,Shakhtar Donetsk,,
+2026-09-10,UCL,Slavia Prague,Lens,,
+2026-10-13,UCL,Arsenal,Lille,,
+2026-10-13,UCL,Atlético Madrid,Man United,,
+2026-10-13,UCL,Galatasaray,Barcelona,,
+2026-10-13,UCL,Inter,Club Brugge,,
+2026-10-13,UCL,Lens,Sporting CP,,
+2026-10-13,UCL,RB Leipzig,PSV Eindhoven,,
+2026-10-13,UCL,Sabah FK,Slavia Prague,,
+2026-10-13,UCL,Viking,Bayern München,,
+2026-10-13,UCL,Villarreal,Napoli,,
+2026-10-14,UCL,Aston Villa,Fenerbahçe,,
+2026-10-14,UCL,Bodø/Glimt,Dortmund,,
+2026-10-14,UCL,Feyenoord,Como,,
+2026-10-14,UCL,LASK,Liverpool,,
+2026-10-14,UCL,Man City,PSG,,
+2026-10-14,UCL,Real Betis,FC Porto,,
+2026-10-14,UCL,Roma,Real Madrid,,
+2026-10-14,UCL,Shakhtar Donetsk,AEK Athens,,
+2026-10-14,UCL,Slovan Bratislava,VfB Stuttgart,,
+2026-10-20,UCL,FC Porto,PSV Eindhoven,,
+2026-10-20,UCL,Fenerbahçe,Slavia Prague,,
+2026-10-20,UCL,Liverpool,Villarreal,,
+2026-10-20,UCL,Man City,AEK Athens,,
+2026-10-20,UCL,Napoli,Bodø/Glimt,,
+2026-10-20,UCL,PSG,Barcelona,,
+2026-10-20,UCL,Roma,Slovan Bratislava,,
+2026-10-20,UCL,Sabah FK,Dortmund,,
+2026-10-20,UCL,VfB Stuttgart,Atlético Madrid,,
+2026-10-21,UCL,Aston Villa,Viking,,
+2026-10-21,UCL,Bayern München,Arsenal,,
+2026-10-21,UCL,Club Brugge,Lens,,
+2026-10-21,UCL,Como,Man United,,
+2026-10-21,UCL,Inter,Shakhtar Donetsk,,
+2026-10-21,UCL,Lille,Galatasaray,,
+2026-10-21,UCL,Real Betis,Feyenoord,,
+2026-10-21,UCL,Real Madrid,RB Leipzig,,
+2026-10-21,UCL,Sporting CP,LASK,,
+2026-11-03,UCL,Atlético Madrid,Bayern München,0.0000,0.0000
+2026-11-03,UCL,Barcelona,Aston Villa,0.0000,0.0520
+2026-11-03,UCL,Bodø/Glimt,Lille,0.0000,0.0303
+2026-11-03,UCL,Feyenoord,Inter,0.0000,0.0000
+2026-11-03,UCL,Galatasaray,VfB Stuttgart,0.0000,0.0000
+2026-11-03,UCL,LASK,Slovan Bratislava,0.0000,0.0000
+2026-11-03,UCL,Man United,Roma,0.0000,0.0000
+2026-11-03,UCL,Shakhtar Donetsk,Sporting CP,0.0000,0.0000
+2026-11-03,UCL,Villarreal,PSG,0.0000,0.0000
+2026-11-04,UCL,AEK Athens,Real Madrid,0.0000,0.0000
+2026-11-04,UCL,Dortmund,Real Betis,0.0000,0.0000
+2026-11-04,UCL,FC Porto,Napoli,0.0000,0.0421
+2026-11-04,UCL,Fenerbahçe,Liverpool,0.0000,0.0000
+2026-11-04,UCL,Lens,Como,0.0000,0.0096
+2026-11-04,UCL,PSV Eindhoven,Club Brugge,0.0000,0.0000
+2026-11-04,UCL,RB Leipzig,Man City,0.0000,0.0000
+2026-11-04,UCL,Slavia Prague,Arsenal,0.0000,0.0000
+2026-11-04,UCL,Viking,Sabah FK,0.0000,0.0000
+2026-11-24,UCL,Arsenal,Dortmund,0.0529,0.0435
+2026-11-24,UCL,Bodø/Glimt,LASK,0.0000,0.0227
+2026-11-24,UCL,Como,AEK Athens,0.0505,0.0538
+2026-11-24,UCL,Feyenoord,FC Porto,0.0605,0.0163
+2026-11-24,UCL,Galatasaray,Aston Villa,0.0380,0.0514
+2026-11-24,UCL,Man City,Napoli,0.0376,0.1938
+2026-11-24,UCL,RB Leipzig,Lens,0.0227,0.0545
+2026-11-24,UCL,Real Madrid,PSV Eindhoven,0.0000,0.0000
+2026-11-24,UCL,Slovan Bratislava,Real Betis,0.0163,0.0344
+2026-11-25,UCL,Atlético Madrid,Viking,0.1522,0.0000
+2026-11-25,UCL,Club Brugge,Liverpool,0.0000,0.0517
+2026-11-25,UCL,Inter,VfB Stuttgart,0.0395,0.0780
+2026-11-25,UCL,Lille,Bayern München,0.0227,0.2297
+2026-11-25,UCL,PSG,Roma,0.0732,0.0510
+2026-11-25,UCL,Sabah FK,Barcelona,0.0000,0.1024
+2026-11-25,UCL,Shakhtar Donetsk,Fenerbahçe,0.0227,0.0505
+2026-11-25,UCL,Slavia Prague,Villarreal,0.0026,0.0438
+2026-11-25,UCL,Sporting CP,Man United,0.0026,0.0708
+2026-12-08,UCL,AEK Athens,Galatasaray,0.1158,0.2589
+2026-12-08,UCL,Aston Villa,PSG,0.1423,0.0732
+2026-12-08,UCL,Barcelona,Man City,0.1024,0.0911
+2026-12-08,UCL,Bayern München,Slavia Prague,0.3888,0.0026
+2026-12-08,UCL,Man United,RB Leipzig,0.0708,0.0227
+2026-12-08,UCL,Napoli,Club Brugge,0.2213,0.0665
+2026-12-08,UCL,Roma,Sporting CP,0.1089,0.0026
+2026-12-08,UCL,Viking,Feyenoord,0.0000,0.1447
+2026-12-08,UCL,Villarreal,Sabah FK,0.0438,0.0909
+2026-12-09,UCL,Arsenal,Real Madrid,0.1438,0.0000
+2026-12-09,UCL,Dortmund,Inter,0.1055,0.1543
+2026-12-09,UCL,LASK,Fenerbahçe,0.1136,0.0505
+2026-12-09,UCL,Lens,Bodø/Glimt,0.0545,0.0000
+2026-12-09,UCL,Liverpool,FC Porto,0.0517,0.0163
+2026-12-09,UCL,PSV Eindhoven,Atlético Madrid,0.0000,0.1522
+2026-12-09,UCL,Real Betis,Como,0.1086,0.0806
+2026-12-09,UCL,Slovan Bratislava,Shakhtar Donetsk,0.0565,0.0998
+2026-12-09,UCL,VfB Stuttgart,Lille,0.0780,0.0531
+2027-01-19,UCL,AEK Athens,Roma,0.1158,0.1089
+2027-01-19,UCL,Aston Villa,Dortmund,0.1423,0.1055
+2027-01-19,UCL,Bodø/Glimt,Atlético Madrid,0.0000,0.1522
+2027-01-19,UCL,FC Porto,Slavia Prague,0.0163,0.0026
+2027-01-19,UCL,Galatasaray,Feyenoord,0.2589,0.1447
+2027-01-19,UCL,Inter,Liverpool,0.1543,0.0517
+2027-01-19,UCL,Lille,Slovan Bratislava,0.0531,0.0565
+2027-01-19,UCL,Real Madrid,LASK,0.0000,0.1136
+2027-01-19,UCL,VfB Stuttgart,Club Brugge,0.0780,0.0665
+2027-01-20,UCL,Como,PSG,0.0806,0.0732
+2027-01-20,UCL,Fenerbahçe,Villarreal,0.0505,0.0438
+2027-01-20,UCL,Lens,Man City,0.0545,0.0911
+2027-01-20,UCL,Man United,Bayern München,0.0708,0.3888
+2027-01-20,UCL,RB Leipzig,Shakhtar Donetsk,0.0227,0.0998
+2027-01-20,UCL,Real Betis,Arsenal,0.1086,0.1438
+2027-01-20,UCL,Sabah FK,Napoli,0.0000,0.2213
+2027-01-20,UCL,Sporting CP,Barcelona,0.0026,0.1024
+2027-01-20,UCL,Viking,PSV Eindhoven,0.0000,0.0000
+2027-01-27,UCL,Arsenal,Sabah FK,0.1438,0.0000
+2027-01-27,UCL,Atlético Madrid,Fenerbahçe,0.1522,0.0505
+2027-01-27,UCL,Barcelona,Como,0.1024,0.0806
+2027-01-27,UCL,Bayern München,Real Betis,0.3888,0.1086
+2027-01-27,UCL,Club Brugge,Bodø/Glimt,0.0665,0.0000
+2027-01-27,UCL,Dortmund,AEK Athens,0.1055,0.1158
+2027-01-27,UCL,Feyenoord,RB Leipzig,0.1447,0.0227
+2027-01-27,UCL,LASK,FC Porto,0.1136,0.0163
+2027-01-27,UCL,Liverpool,Lens,0.0517,0.0545
+2027-01-27,UCL,Man City,Sporting CP,0.0911,0.0026
+2027-01-27,UCL,Napoli,Viking,0.2213,0.0000
+2027-01-27,UCL,PSG,Galatasaray,0.0732,0.2589
+2027-01-27,UCL,PSV Eindhoven,VfB Stuttgart,0.0000,0.0780
+2027-01-27,UCL,Roma,Lille,0.1089,0.0531
+2027-01-27,UCL,Shakhtar Donetsk,Real Madrid,0.0998,0.0000
+2027-01-27,UCL,Slavia Prague,Aston Villa,0.0026,0.1423
+2027-01-27,UCL,Slovan Bratislava,Inter,0.0565,0.1543
+2027-01-27,UCL,Villarreal,Man United,0.0438,0.0708

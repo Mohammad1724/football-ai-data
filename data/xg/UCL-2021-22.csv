@@ -1,0 +1,124 @@
+date,league,home_team,away_team,home_xg,away_xg
+2021-09-14,UCL,Barcelona,Bayern München,0.22,2.53
+2021-09-14,UCL,Chelsea,Zenit,0.77,0.81
+2021-09-14,UCL,Dynamo Kyiv,Benfica,0.49,1.05
+2021-09-14,UCL,Lille,Wolfsburg,1.44,0.08
+2021-09-14,UCL,Malmö FF,Juventus,0.50,2.83
+2021-09-14,UCL,Sevilla,Salzburg,1.56,2.78
+2021-09-14,UCL,Villarreal,Atalanta,1.78,1.47
+2021-09-14,UCL,Young Boys,Man United,1.48,0.49
+2021-09-15,UCL,Atlético Madrid,FC Porto,0.32,1.20
+2021-09-15,UCL,Beşiktaş,Dortmund,0.73,2.84
+2021-09-15,UCL,Club Brugge,PSG,1.27,0.92
+2021-09-15,UCL,FC Sheriff,Shakhtar Donetsk,0.99,0.88
+2021-09-15,UCL,Inter,Real Madrid,2.10,0.90
+2021-09-15,UCL,Liverpool,Milan,2.75,1.37
+2021-09-15,UCL,Man City,RB Leipzig,1.93,0.94
+2021-09-15,UCL,Sporting CP,Ajax,0.44,3.68
+2021-09-28,UCL,Ajax,Beşiktaş,2.92,0.65
+2021-09-28,UCL,Dortmund,Sporting CP,0.23,0.26
+2021-09-28,UCL,FC Porto,Liverpool,0.56,4.33
+2021-09-28,UCL,Milan,Atlético Madrid,0.86,2.15
+2021-09-28,UCL,PSG,Man City,0.66,1.68
+2021-09-28,UCL,RB Leipzig,Club Brugge,1.05,1.70
+2021-09-28,UCL,Real Madrid,FC Sheriff,3.22,0.18
+2021-09-28,UCL,Shakhtar Donetsk,Inter,1.20,0.95
+2021-09-29,UCL,Atalanta,Young Boys,1.90,0.09
+2021-09-29,UCL,Bayern München,Dynamo Kyiv,2.47,0.34
+2021-09-29,UCL,Benfica,Barcelona,1.92,0.85
+2021-09-29,UCL,Juventus,Chelsea,0.69,0.72
+2021-09-29,UCL,Man United,Villarreal,0.80,2.14
+2021-09-29,UCL,Salzburg,Lille,2.40,0.42
+2021-09-29,UCL,Wolfsburg,Sevilla,0.81,1.14
+2021-09-29,UCL,Zenit,Malmö FF,2.64,0.67
+2021-10-19,UCL,Ajax,Dortmund,1.39,0.91
+2021-10-19,UCL,Atlético Madrid,Liverpool,1.24,1.12
+2021-10-19,UCL,Beşiktaş,Sporting CP,0.74,3.23
+2021-10-19,UCL,Club Brugge,Man City,0.70,4.08
+2021-10-19,UCL,FC Porto,Milan,1.76,0.11
+2021-10-19,UCL,Inter,FC Sheriff,1.90,0.42
+2021-10-19,UCL,PSG,RB Leipzig,3.24,2.11
+2021-10-19,UCL,Shakhtar Donetsk,Real Madrid,0.80,2.61
+2021-10-20,UCL,Barcelona,Dynamo Kyiv,1.79,0.15
+2021-10-20,UCL,Benfica,Bayern München,0.42,2.52
+2021-10-20,UCL,Chelsea,Malmö FF,2.77,0.06
+2021-10-20,UCL,Lille,Sevilla,0.60,0.98
+2021-10-20,UCL,Man United,Atalanta,2.47,1.25
+2021-10-20,UCL,Salzburg,Wolfsburg,2.73,0.75
+2021-10-20,UCL,Young Boys,Villarreal,1.99,2.36
+2021-10-20,UCL,Zenit,Juventus,0.48,0.83
+2021-11-02,UCL,Atalanta,Man United,1.01,0.93
+2021-11-02,UCL,Bayern München,Benfica,4.98,0.91
+2021-11-02,UCL,Dynamo Kyiv,Barcelona,1.13,1.10
+2021-11-02,UCL,Juventus,Zenit,2.46,1.47
+2021-11-02,UCL,Malmö FF,Chelsea,0.19,2.26
+2021-11-02,UCL,Sevilla,Lille,0.92,1.59
+2021-11-02,UCL,Villarreal,Young Boys,1.97,0.83
+2021-11-02,UCL,Wolfsburg,Salzburg,1.42,1.23
+2021-11-03,UCL,Dortmund,Ajax,1.60,2.12
+2021-11-03,UCL,FC Sheriff,Inter,0.22,2.25
+2021-11-03,UCL,Liverpool,Atlético Madrid,2.93,0.30
+2021-11-03,UCL,Man City,Club Brugge,4.74,0.62
+2021-11-03,UCL,Milan,FC Porto,0.47,1.27
+2021-11-03,UCL,RB Leipzig,PSG,3.10,1.25
+2021-11-03,UCL,Real Madrid,Shakhtar Donetsk,2.40,0.93
+2021-11-03,UCL,Sporting CP,Beşiktaş,2.33,1.18
+2021-11-23,UCL,Barcelona,Benfica,0.96,0.79
+2021-11-23,UCL,Chelsea,Juventus,2.13,0.32
+2021-11-23,UCL,Dynamo Kyiv,Bayern München,0.89,0.81
+2021-11-23,UCL,Lille,Salzburg,0.76,0.34
+2021-11-23,UCL,Malmö FF,Zenit,0.20,1.92
+2021-11-23,UCL,Sevilla,Wolfsburg,1.38,0.29
+2021-11-23,UCL,Villarreal,Man United,0.56,1.14
+2021-11-23,UCL,Young Boys,Atalanta,0.84,0.75
+2021-11-24,UCL,Atlético Madrid,Milan,0.86,1.00
+2021-11-24,UCL,Beşiktaş,Ajax,1.81,2.96
+2021-11-24,UCL,Club Brugge,RB Leipzig,0.76,3.56
+2021-11-24,UCL,FC Sheriff,Real Madrid,0.97,1.57
+2021-11-24,UCL,Inter,Shakhtar Donetsk,2.53,0.35
+2021-11-24,UCL,Liverpool,FC Porto,0.89,1.07
+2021-11-24,UCL,Man City,PSG,2.02,0.83
+2021-11-24,UCL,Sporting CP,Dortmund,1.93,1.64
+2021-12-07,UCL,Ajax,Sporting CP,2.03,1.16
+2021-12-07,UCL,Dortmund,Beşiktaş,3.59,0.04
+2021-12-07,UCL,FC Porto,Atlético Madrid,1.98,3.88
+2021-12-07,UCL,Milan,Liverpool,1.38,1.34
+2021-12-07,UCL,PSG,Club Brugge,2.87,0.83
+2021-12-07,UCL,RB Leipzig,Man City,1.69,1.17
+2021-12-07,UCL,Real Madrid,Inter,1.10,0.90
+2021-12-07,UCL,Shakhtar Donetsk,FC Sheriff,1.93,0.71
+2021-12-08,UCL,Bayern München,Barcelona,2.46,0.45
+2021-12-08,UCL,Benfica,Dynamo Kyiv,0.64,1.33
+2021-12-08,UCL,Juventus,Malmö FF,1.74,0.18
+2021-12-08,UCL,Man United,Young Boys,1.07,1.40
+2021-12-08,UCL,Salzburg,Sevilla,0.75,0.84
+2021-12-08,UCL,Wolfsburg,Lille,0.72,2.55
+2021-12-08,UCL,Zenit,Chelsea,2.04,2.96
+2021-12-09,UCL,Atalanta,Villarreal,2.22,1.61
+2022-02-15,UCL,PSG,Real Madrid,1.99,0.17
+2022-02-15,UCL,Sporting CP,Man City,0.12,1.71
+2022-02-16,UCL,Inter,Liverpool,0.45,0.84
+2022-02-16,UCL,Salzburg,Bayern München,1.05,1.93
+2022-02-22,UCL,Chelsea,Lille,1.29,0.57
+2022-02-22,UCL,Villarreal,Juventus,1.27,0.49
+2022-02-23,UCL,Atlético Madrid,Man United,1.13,0.49
+2022-02-23,UCL,Benfica,Ajax,1.69,2.07
+2022-03-08,UCL,Bayern München,Salzburg,4.07,0.64
+2022-03-08,UCL,Liverpool,Inter,1.49,0.44
+2022-03-09,UCL,Man City,Sporting CP,1.25,0.75
+2022-03-09,UCL,Real Madrid,PSG,1.94,0.86
+2022-03-15,UCL,Ajax,Benfica,1.00,0.41
+2022-03-15,UCL,Man United,Atlético Madrid,1.10,0.35
+2022-03-16,UCL,Juventus,Villarreal,1.32,2.53
+2022-03-16,UCL,Lille,Chelsea,1.47,0.97
+2022-04-05,UCL,Benfica,Liverpool,1.08,3.48
+2022-04-05,UCL,Man City,Atlético Madrid,1.05,0.08
+2022-04-06,UCL,Chelsea,Real Madrid,1.20,1.53
+2022-04-06,UCL,Villarreal,Bayern München,1.57,1.41
+2022-04-12,UCL,Bayern München,Villarreal,1.37,0.72
+2022-04-13,UCL,Atlético Madrid,Man City,1.01,1.05
+2022-04-13,UCL,Liverpool,Benfica,1.87,1.44
+2022-04-26,UCL,Man City,Real Madrid,2.95,1.44
+2022-04-27,UCL,Liverpool,Villarreal,1.62,0.28
+2022-05-03,UCL,Villarreal,Liverpool,1.17,2.05
+2022-05-28,UCL,Liverpool,Real Madrid,2.19,0.73

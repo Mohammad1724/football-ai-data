@@ -1,0 +1,73 @@
+Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG
+UCL,08/09/2026,17:45,AEK Athens,LASK,1,0
+UCL,08/09/2026,17:45,Club Brugge,Aston Villa,2,3
+UCL,08/09/2026,20:00,Dortmund,Villarreal,3,2
+UCL,08/09/2026,20:00,FC Porto,Man City,0,2
+UCL,08/09/2026,20:00,Lille,Real Betis,2,3
+UCL,08/09/2026,20:00,Real Madrid,Inter,2,1
+UCL,09/09/2026,17:45,Barcelona,Feyenoord,5,1
+UCL,09/09/2026,17:45,VfB Stuttgart,Viking,3,1
+UCL,09/09/2026,20:00,Liverpool,Atlético Madrid,2,1
+UCL,09/09/2026,20:00,Napoli,Arsenal,0,1
+UCL,09/09/2026,20:00,PSG,Slovan Bratislava,6,1
+UCL,09/09/2026,20:00,Sporting CP,Galatasaray,3,1
+UCL,10/09/2026,17:45,Fenerbahçe,Roma,1,1
+UCL,10/09/2026,17:45,PSV Eindhoven,Shakhtar Donetsk,1,1
+UCL,10/09/2026,20:00,Bayern München,Bodø/Glimt,5,0
+UCL,10/09/2026,20:00,Como,RB Leipzig,4,1
+UCL,10/09/2026,20:00,Man United,Sabah FK,4,0
+UCL,10/09/2026,20:00,Slavia Prague,Lens,2,3
+UCL,13/10/2026,17:45,Lens,Sporting CP,0,2
+UCL,13/10/2026,17:45,Sabah FK,Slavia Prague,2,0
+UCL,13/10/2026,20:00,Arsenal,Lille,3,0
+UCL,13/10/2026,20:00,Atlético Madrid,Man United,2,0
+UCL,13/10/2026,20:00,Galatasaray,Barcelona,1,4
+UCL,13/10/2026,20:00,Inter,Club Brugge,3,4
+UCL,13/10/2026,20:00,RB Leipzig,PSV Eindhoven,1,0
+UCL,13/10/2026,20:00,Viking,Bayern München,3,3
+UCL,13/10/2026,20:00,Villarreal,Napoli,3,1
+UCL,14/10/2026,17:45,Feyenoord,Como,3,2
+UCL,14/10/2026,17:45,LASK,Liverpool,3,6
+UCL,14/10/2026,20:00,Aston Villa,Fenerbahçe,6,0
+UCL,14/10/2026,20:00,Bodø/Glimt,Dortmund,1,0
+UCL,14/10/2026,20:00,Man City,PSG,2,4
+UCL,14/10/2026,20:00,Real Betis,FC Porto,3,2
+UCL,14/10/2026,20:00,Roma,Real Madrid,3,4
+UCL,14/10/2026,20:00,Shakhtar Donetsk,AEK Athens,3,1
+UCL,14/10/2026,20:00,Slovan Bratislava,VfB Stuttgart,0,3
+UCL,20/10/2026,17:45,Fenerbahçe,Slavia Prague,2,2
+UCL,20/10/2026,17:45,Sabah FK,Dortmund,1,2
+UCL,20/10/2026,20:00,FC Porto,PSV Eindhoven,0,1
+UCL,20/10/2026,20:00,Liverpool,Villarreal,4,3
+UCL,20/10/2026,20:00,Man City,AEK Athens,5,1
+UCL,20/10/2026,20:00,Napoli,Bodø/Glimt,4,3
+UCL,20/10/2026,20:00,PSG,Barcelona,4,2
+UCL,20/10/2026,20:00,Roma,Slovan Bratislava,4,0
+UCL,20/10/2026,20:00,VfB Stuttgart,Atlético Madrid,1,1
+UCL,21/10/2026,17:45,Como,Man United,4,1
+UCL,21/10/2026,17:45,Lille,Galatasaray,2,4
+UCL,21/10/2026,20:00,Aston Villa,Viking,3,1
+UCL,21/10/2026,20:00,Bayern München,Arsenal,2,2
+UCL,21/10/2026,20:00,Club Brugge,Lens,3,0
+UCL,21/10/2026,20:00,Inter,Shakhtar Donetsk,1,0
+UCL,21/10/2026,20:00,Real Betis,Feyenoord,1,0
+UCL,21/10/2026,20:00,Real Madrid,RB Leipzig,4,1
+UCL,21/10/2026,20:00,Sporting CP,LASK,2,3
+UCL,03/11/2026,17:45,Galatasaray,VfB Stuttgart,2,0
+UCL,03/11/2026,17:45,Shakhtar Donetsk,Sporting CP,0,1
+UCL,03/11/2026,20:00,Atlético Madrid,Bayern München,0,2
+UCL,03/11/2026,20:00,Barcelona,Aston Villa,3,0
+UCL,03/11/2026,20:00,Bodø/Glimt,Lille,0,0
+UCL,03/11/2026,20:00,Feyenoord,Inter,0,3
+UCL,03/11/2026,20:00,LASK,Slovan Bratislava,4,0
+UCL,03/11/2026,20:00,Man United,Roma,3,2
+UCL,03/11/2026,20:00,Villarreal,PSG,0,6
+UCL,04/11/2026,17:45,AEK Athens,Real Madrid,2,3
+UCL,04/11/2026,17:45,Fenerbahçe,Liverpool,3,2
+UCL,04/11/2026,20:00,Dortmund,Real Betis,2,1
+UCL,04/11/2026,20:00,FC Porto,Napoli,4,1
+UCL,04/11/2026,20:00,Lens,Como,1,9
+UCL,04/11/2026,20:00,PSV Eindhoven,Club Brugge,1,2
+UCL,04/11/2026,20:00,RB Leipzig,Man City,2,3
+UCL,04/11/2026,20:00,Slavia Prague,Arsenal,1,2
+UCL,04/11/2026,20:00,Viking,Sabah FK,4,1

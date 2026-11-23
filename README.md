@@ -59,6 +59,40 @@ The app turns the difference between the two shares into a bounded
 expected-goals tilt (validated on untouched 2024-25 + 2025-26 seasons:
 log loss 0.9843 → 0.9837, accuracy 53.11% → 53.20%).
 
+## Champions League data
+
+`collect_ucl.py` publishes the UEFA Champions League (FotMob league id 42),
+which football-data.co.uk does not carry, in three products:
+
+- `data/history/UCL-<SEASON>.csv` — one row per played match in the
+  football-data.co.uk layout (`Div,Date,Time,HomeTeam,AwayTeam,FTHG,FTAG`),
+  the format the app's history importer already parses. Scores are
+  **regulation (90-minute) scores**: matches decided after extra time or on
+  penalties are flagged by FotMob, and their 90-minute score is
+  reconstructed from the match's goal events (the reconstruction was
+  verified against the published score on 439 regulation matches with zero
+  mismatches). Kick-offs are Europe/London, the zone that importer assumes.
+- `data/xg/UCL-<SEASON>.csv` — per-match xG, same layout as the big-5
+  files. Extra-time/penalty matches are omitted: their published xG covers
+  120 minutes and is not comparable to a 90-minute row.
+- `data/availability/UCL-<SEASON>.csv` — missing-minutes shares, same
+  layout and walk-forward discipline as the big-5 availability files
+  (minutes accumulate from this competition's own earlier matches).
+
+Team names are FotMob's verbatim — there is no football-data.co.uk naming
+to align to for this competition, so FotMob naming is canonical for all
+three files. Coverage: every season from 2021-22 to the current one
+(825 matches through Nov 2026). A walk-forward backtest of the app's model
+on this history (train 2021-22…2023-24, test 2024-25) gives log loss
+0.9985 / Brier 0.5956 / 52.8% top-pick accuracy against a 49.6%
+always-home baseline on the same matches — solidly useful, a notch below
+the domestic big-5 numbers, as expected for cross-league fixtures.
+
+Note: the daily workflow does not run `collect_ucl.py` yet; the step will
+be added separately (workflow files cannot be pushed through the API
+token, as with the availability step before it). Until then this feed is
+refreshed by manual runs.
+
 ## How it is produced
 
 `collect_xg.py` (Python 3, only dependency: `requests`) takes the fixture

@@ -1,0 +1,126 @@
+date,league,home_team,away_team,missing_home,missing_away
+2021-09-14,UCL,Barcelona,Bayern München,,
+2021-09-14,UCL,Chelsea,Zenit,,
+2021-09-14,UCL,Dynamo Kyiv,Benfica,,
+2021-09-14,UCL,Lille,Wolfsburg,,
+2021-09-14,UCL,Malmö FF,Juventus,,
+2021-09-14,UCL,Sevilla,Salzburg,,
+2021-09-14,UCL,Villarreal,Atalanta,,
+2021-09-14,UCL,Young Boys,Man United,,
+2021-09-15,UCL,Atlético Madrid,FC Porto,,
+2021-09-15,UCL,Beşiktaş,Dortmund,,
+2021-09-15,UCL,Club Brugge,PSG,,
+2021-09-15,UCL,FC Sheriff,Shakhtar Donetsk,,
+2021-09-15,UCL,Inter,Real Madrid,,
+2021-09-15,UCL,Liverpool,Milan,,
+2021-09-15,UCL,Man City,RB Leipzig,,
+2021-09-15,UCL,Sporting CP,Ajax,,
+2021-09-28,UCL,Ajax,Beşiktaş,,
+2021-09-28,UCL,Dortmund,Sporting CP,,
+2021-09-28,UCL,FC Porto,Liverpool,,
+2021-09-28,UCL,Milan,Atlético Madrid,,
+2021-09-28,UCL,PSG,Man City,,
+2021-09-28,UCL,RB Leipzig,Club Brugge,,
+2021-09-28,UCL,Real Madrid,FC Sheriff,,
+2021-09-28,UCL,Shakhtar Donetsk,Inter,,
+2021-09-29,UCL,Atalanta,Young Boys,,
+2021-09-29,UCL,Bayern München,Dynamo Kyiv,,
+2021-09-29,UCL,Benfica,Barcelona,,
+2021-09-29,UCL,Juventus,Chelsea,,
+2021-09-29,UCL,Man United,Villarreal,,
+2021-09-29,UCL,Salzburg,Lille,,
+2021-09-29,UCL,Wolfsburg,Sevilla,,
+2021-09-29,UCL,Zenit,Malmö FF,,
+2021-10-19,UCL,Ajax,Dortmund,,
+2021-10-19,UCL,Atlético Madrid,Liverpool,,
+2021-10-19,UCL,Beşiktaş,Sporting CP,,
+2021-10-19,UCL,Club Brugge,Man City,,
+2021-10-19,UCL,FC Porto,Milan,,
+2021-10-19,UCL,Inter,FC Sheriff,,
+2021-10-19,UCL,PSG,RB Leipzig,,
+2021-10-19,UCL,Shakhtar Donetsk,Real Madrid,,
+2021-10-20,UCL,Barcelona,Dynamo Kyiv,,
+2021-10-20,UCL,Benfica,Bayern München,,
+2021-10-20,UCL,Chelsea,Malmö FF,,
+2021-10-20,UCL,Lille,Sevilla,,
+2021-10-20,UCL,Man United,Atalanta,,
+2021-10-20,UCL,Salzburg,Wolfsburg,,
+2021-10-20,UCL,Young Boys,Villarreal,,
+2021-10-20,UCL,Zenit,Juventus,,
+2021-11-02,UCL,Atalanta,Man United,0.0000,0.0000
+2021-11-02,UCL,Bayern München,Benfica,0.0000,0.0000
+2021-11-02,UCL,Dynamo Kyiv,Barcelona,0.0000,0.0000
+2021-11-02,UCL,Juventus,Zenit,0.0000,0.0000
+2021-11-02,UCL,Malmö FF,Chelsea,0.0791,0.0000
+2021-11-02,UCL,Sevilla,Lille,0.0000,0.0000
+2021-11-02,UCL,Villarreal,Young Boys,0.0000,0.0000
+2021-11-02,UCL,Wolfsburg,Salzburg,0.0396,0.0223
+2021-11-03,UCL,Dortmund,Ajax,0.0156,0.0000
+2021-11-03,UCL,FC Sheriff,Inter,0.0000,0.0000
+2021-11-03,UCL,Liverpool,Atlético Madrid,0.0427,0.0000
+2021-11-03,UCL,Man City,Club Brugge,0.0000,0.0000
+2021-11-03,UCL,Milan,FC Porto,0.0000,0.0000
+2021-11-03,UCL,RB Leipzig,PSG,0.0000,0.0000
+2021-11-03,UCL,Real Madrid,Shakhtar Donetsk,0.0000,0.0000
+2021-11-03,UCL,Sporting CP,Beşiktaş,0.0000,0.0000
+2021-11-23,UCL,Barcelona,Benfica,0.0000,0.0000
+2021-11-23,UCL,Chelsea,Juventus,0.0000,0.0000
+2021-11-23,UCL,Dynamo Kyiv,Bayern München,0.0000,0.0400
+2021-11-23,UCL,Lille,Salzburg,0.0000,0.0022
+2021-11-23,UCL,Malmö FF,Zenit,0.0000,0.0000
+2021-11-23,UCL,Sevilla,Wolfsburg,0.0000,0.0000
+2021-11-23,UCL,Villarreal,Man United,0.0455,0.0000
+2021-11-23,UCL,Young Boys,Atalanta,0.0000,0.0000
+2021-11-24,UCL,Atlético Madrid,Milan,0.0000,0.0000
+2021-11-24,UCL,Beşiktaş,Ajax,0.0000,0.0000
+2021-11-24,UCL,Club Brugge,RB Leipzig,0.0000,0.0467
+2021-11-24,UCL,FC Sheriff,Real Madrid,0.0000,0.0000
+2021-11-24,UCL,Inter,Shakhtar Donetsk,0.0000,0.0000
+2021-11-24,UCL,Liverpool,FC Porto,0.0321,0.0000
+2021-11-24,UCL,Man City,PSG,0.0467,0.0000
+2021-11-24,UCL,Sporting CP,Dortmund,0.0000,0.0000
+2021-12-07,UCL,Ajax,Sporting CP,0.0000,0.0000
+2021-12-07,UCL,Dortmund,Beşiktaş,0.0188,0.0000
+2021-12-07,UCL,FC Porto,Atlético Madrid,0.0000,0.0000
+2021-12-07,UCL,Milan,Liverpool,0.0000,0.0000
+2021-12-07,UCL,PSG,Club Brugge,0.0000,0.0000
+2021-12-07,UCL,RB Leipzig,Man City,0.0373,0.0000
+2021-12-07,UCL,Real Madrid,Inter,0.0000,0.0000
+2021-12-07,UCL,Shakhtar Donetsk,FC Sheriff,0.0000,0.0000
+2021-12-08,UCL,Bayern München,Barcelona,0.0000,0.0000
+2021-12-08,UCL,Benfica,Dynamo Kyiv,0.0000,0.0000
+2021-12-08,UCL,Juventus,Malmö FF,0.0000,0.0000
+2021-12-08,UCL,Man United,Young Boys,0.0000,0.0000
+2021-12-08,UCL,Salzburg,Sevilla,0.0000,0.0000
+2021-12-08,UCL,Wolfsburg,Lille,0.0000,0.0000
+2021-12-08,UCL,Zenit,Chelsea,0.0000,0.0000
+2021-12-09,UCL,Atalanta,Villarreal,0.0000,0.0000
+2022-02-15,UCL,PSG,Real Madrid,0.0000,0.0000
+2022-02-15,UCL,Sporting CP,Man City,0.0000,0.0000
+2022-02-16,UCL,Inter,Liverpool,0.0000,0.0311
+2022-02-16,UCL,Salzburg,Bayern München,0.0000,0.0997
+2022-02-22,UCL,Chelsea,Lille,0.0000,0.0000
+2022-02-22,UCL,Villarreal,Juventus,0.0000,0.0000
+2022-02-23,UCL,Atlético Madrid,Man United,0.0000,0.0000
+2022-02-23,UCL,Benfica,Ajax,0.0000,0.0000
+2022-03-08,UCL,Bayern München,Salzburg,0.0539,0.0000
+2022-03-08,UCL,Liverpool,Inter,0.0267,0.0000
+2022-03-09,UCL,Man City,Sporting CP,0.0000,0.0205
+2022-03-09,UCL,Real Madrid,PSG,0.0566,0.0000
+2022-03-15,UCL,Ajax,Benfica,0.0000,0.0000
+2022-03-15,UCL,Man United,Atlético Madrid,0.0000,0.0000
+2022-03-16,UCL,Juventus,Villarreal,0.0000,0.0000
+2022-03-16,UCL,Lille,Chelsea,0.0000,0.0000
+2022-04-05,UCL,Benfica,Liverpool,0.0000,0.0000
+2022-04-05,UCL,Man City,Atlético Madrid,0.0000,0.0000
+2022-04-06,UCL,Chelsea,Real Madrid,0.0000,0.0000
+2022-04-06,UCL,Villarreal,Bayern München,0.0000,0.0000
+2022-04-12,UCL,Bayern München,Villarreal,0.0000,0.0000
+2022-04-12,UCL,Real Madrid,Chelsea,0.0868,0.0000
+2022-04-13,UCL,Atlético Madrid,Man City,0.0658,0.0000
+2022-04-13,UCL,Liverpool,Benfica,0.0000,0.0000
+2022-04-26,UCL,Man City,Real Madrid,0.0000,0.0000
+2022-04-27,UCL,Liverpool,Villarreal,0.0000,0.0000
+2022-05-03,UCL,Villarreal,Liverpool,0.0000,0.0000
+2022-05-04,UCL,Real Madrid,Man City,0.0000,0.0000
+2022-05-28,UCL,Liverpool,Real Madrid,0.0000,0.0000

@@ -1,0 +1,73 @@
+date,league,home_team,away_team,home_xg,away_xg
+2026-09-08,UCL,AEK Athens,LASK,1.71,0.72
+2026-09-08,UCL,Club Brugge,Aston Villa,1.53,3.22
+2026-09-08,UCL,Dortmund,Villarreal,2.83,1.46
+2026-09-08,UCL,FC Porto,Man City,0.28,2.32
+2026-09-08,UCL,Lille,Real Betis,0.83,1.80
+2026-09-08,UCL,Real Madrid,Inter,2.76,1.83
+2026-09-09,UCL,Barcelona,Feyenoord,2.10,0.53
+2026-09-09,UCL,Liverpool,Atlético Madrid,1.62,0.91
+2026-09-09,UCL,Napoli,Arsenal,0.22,4.05
+2026-09-09,UCL,PSG,Slovan Bratislava,4.57,0.76
+2026-09-09,UCL,Sporting CP,Galatasaray,1.75,1.23
+2026-09-09,UCL,VfB Stuttgart,Viking,2.18,0.63
+2026-09-10,UCL,Bayern München,Bodø/Glimt,2.61,0.30
+2026-09-10,UCL,Como,RB Leipzig,2.98,1.36
+2026-09-10,UCL,Fenerbahçe,Roma,1.57,0.48
+2026-09-10,UCL,Man United,Sabah FK,3.54,0.84
+2026-09-10,UCL,PSV Eindhoven,Shakhtar Donetsk,0.44,0.62
+2026-09-10,UCL,Slavia Prague,Lens,1.58,1.78
+2026-10-13,UCL,Arsenal,Lille,1.70,0.30
+2026-10-13,UCL,Atlético Madrid,Man United,1.47,0.98
+2026-10-13,UCL,Galatasaray,Barcelona,0.42,2.73
+2026-10-13,UCL,Inter,Club Brugge,4.33,4.29
+2026-10-13,UCL,Lens,Sporting CP,1.50,1.67
+2026-10-13,UCL,RB Leipzig,PSV Eindhoven,1.76,1.45
+2026-10-13,UCL,Sabah FK,Slavia Prague,1.35,2.14
+2026-10-13,UCL,Viking,Bayern München,0.72,3.29
+2026-10-13,UCL,Villarreal,Napoli,1.24,1.70
+2026-10-14,UCL,Aston Villa,Fenerbahçe,3.11,1.73
+2026-10-14,UCL,Bodø/Glimt,Dortmund,1.11,0.79
+2026-10-14,UCL,Feyenoord,Como,0.59,1.28
+2026-10-14,UCL,LASK,Liverpool,2.04,3.25
+2026-10-14,UCL,Man City,PSG,2.63,1.83
+2026-10-14,UCL,Real Betis,FC Porto,1.68,0.97
+2026-10-14,UCL,Roma,Real Madrid,1.41,1.43
+2026-10-14,UCL,Shakhtar Donetsk,AEK Athens,1.37,1.35
+2026-10-14,UCL,Slovan Bratislava,VfB Stuttgart,0.78,2.19
+2026-10-20,UCL,FC Porto,PSV Eindhoven,1.58,1.91
+2026-10-20,UCL,Fenerbahçe,Slavia Prague,1.07,1.48
+2026-10-20,UCL,Liverpool,Villarreal,2.37,1.61
+2026-10-20,UCL,Man City,AEK Athens,2.74,1.17
+2026-10-20,UCL,Napoli,Bodø/Glimt,1.53,2.67
+2026-10-20,UCL,PSG,Barcelona,3.70,2.23
+2026-10-20,UCL,Roma,Slovan Bratislava,3.14,0.02
+2026-10-20,UCL,Sabah FK,Dortmund,1.49,3.73
+2026-10-20,UCL,VfB Stuttgart,Atlético Madrid,1.59,0.90
+2026-10-21,UCL,Aston Villa,Viking,2.70,0.74
+2026-10-21,UCL,Bayern München,Arsenal,2.33,1.69
+2026-10-21,UCL,Club Brugge,Lens,2.60,2.03
+2026-10-21,UCL,Como,Man United,2.11,0.99
+2026-10-21,UCL,Inter,Shakhtar Donetsk,1.05,0.60
+2026-10-21,UCL,Lille,Galatasaray,2.07,1.39
+2026-10-21,UCL,Real Betis,Feyenoord,2.14,0.78
+2026-10-21,UCL,Real Madrid,RB Leipzig,3.09,1.49
+2026-10-21,UCL,Sporting CP,LASK,3.24,1.12
+2026-11-03,UCL,Atlético Madrid,Bayern München,1.02,1.91
+2026-11-03,UCL,Barcelona,Aston Villa,1.86,0.71
+2026-11-03,UCL,Bodø/Glimt,Lille,0.65,0.59
+2026-11-03,UCL,Feyenoord,Inter,0.73,1.19
+2026-11-03,UCL,Galatasaray,VfB Stuttgart,0.98,2.20
+2026-11-03,UCL,LASK,Slovan Bratislava,4.45,0.47
+2026-11-03,UCL,Man United,Roma,2.70,1.60
+2026-11-03,UCL,Shakhtar Donetsk,Sporting CP,1.60,1.52
+2026-11-03,UCL,Villarreal,PSG,0.70,2.37
+2026-11-04,UCL,AEK Athens,Real Madrid,0.78,3.39
+2026-11-04,UCL,Dortmund,Real Betis,2.50,0.75
+2026-11-04,UCL,FC Porto,Napoli,3.13,1.42
+2026-11-04,UCL,Fenerbahçe,Liverpool,1.78,1.82
+2026-11-04,UCL,Lens,Como,0.98,4.18
+2026-11-04,UCL,PSV Eindhoven,Club Brugge,2.66,1.69
+2026-11-04,UCL,RB Leipzig,Man City,0.87,2.20
+2026-11-04,UCL,Slavia Prague,Arsenal,2.11,1.49
+2026-11-04,UCL,Viking,Sabah FK,2.59,1.59
