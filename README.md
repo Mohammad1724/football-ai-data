@@ -35,6 +35,30 @@ Columns:
 One row per played match. Team names deliberately use football-data.co.uk
 naming so the files join directly onto the app's existing match history.
 
+## Availability data
+
+One file per league and season under `data/availability/`, produced by
+`collect_availability.py` from the same FotMob source. One row per fixture
+(played or upcoming):
+
+| column         | meaning                                                          |
+|----------------|------------------------------------------------------------------|
+| `date`         | match date (UTC), `YYYY-MM-DD`                                   |
+| `league`       | football-data.co.uk league code                                  |
+| `home_team`    | home team, football-data.co.uk naming                            |
+| `away_team`    | away team, football-data.co.uk naming                            |
+| `missing_home` | share of the home team's season minutes belonging to players listed unavailable for this fixture (injured/suspended) |
+| `missing_away` | same, for the away team                                          |
+
+Shares are computed walk-forward: a fixture's row uses only lineups of
+earlier matches that season and the unavailable list published before the
+fixture, so the file is safe for backtests as well as live forecasts. A
+share is empty when it cannot be computed (a team's first three matches of
+a season, or nothing published yet) — empty means "no data", never zero.
+The app turns the difference between the two shares into a bounded
+expected-goals tilt (validated on untouched 2024-25 + 2025-26 seasons:
+log loss 0.9843 → 0.9837, accuracy 53.11% → 53.20%).
+
 ## How it is produced
 
 `collect_xg.py` (Python 3, only dependency: `requests`) takes the fixture

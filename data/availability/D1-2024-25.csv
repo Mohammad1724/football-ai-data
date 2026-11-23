@@ -1,0 +1,307 @@
+date,league,home_team,away_team,missing_home,missing_away
+2024-08-23,D1,M'gladbach,Leverkusen,,
+2024-08-24,D1,Augsburg,Werder Bremen,,
+2024-08-24,D1,Dortmund,Ein Frankfurt,,
+2024-08-24,D1,Freiburg,Stuttgart,,
+2024-08-24,D1,Hoffenheim,Holstein Kiel,,
+2024-08-24,D1,Mainz,Union Berlin,,
+2024-08-24,D1,RB Leipzig,Bochum,,
+2024-08-25,D1,St Pauli,Heidenheim,,
+2024-08-25,D1,Wolfsburg,Bayern Munich,,
+2024-08-30,D1,Union Berlin,St Pauli,,
+2024-08-31,D1,Bochum,M'gladbach,,
+2024-08-31,D1,Ein Frankfurt,Hoffenheim,,
+2024-08-31,D1,Holstein Kiel,Wolfsburg,,
+2024-08-31,D1,Leverkusen,RB Leipzig,,
+2024-08-31,D1,Stuttgart,Mainz,,
+2024-08-31,D1,Werder Bremen,Dortmund,,
+2024-09-01,D1,Bayern Munich,Freiburg,,
+2024-09-01,D1,Heidenheim,Augsburg,,
+2024-09-13,D1,Dortmund,Heidenheim,,
+2024-09-14,D1,Freiburg,Bochum,,
+2024-09-14,D1,Hoffenheim,Leverkusen,,
+2024-09-14,D1,Holstein Kiel,Bayern Munich,,
+2024-09-14,D1,M'gladbach,Stuttgart,,
+2024-09-14,D1,RB Leipzig,Union Berlin,,
+2024-09-14,D1,Wolfsburg,Ein Frankfurt,,
+2024-09-15,D1,Augsburg,St Pauli,,
+2024-09-15,D1,Mainz,Werder Bremen,,
+2024-09-20,D1,Augsburg,Mainz,0.0102,0.0884
+2024-09-21,D1,Bochum,Holstein Kiel,0.0000,0.1046
+2024-09-21,D1,Ein Frankfurt,M'gladbach,0.0641,0.0000
+2024-09-21,D1,Heidenheim,Freiburg,0.0000,0.0000
+2024-09-21,D1,Union Berlin,Hoffenheim,0.0000,0.0574
+2024-09-21,D1,Werder Bremen,Bayern Munich,0.0759,0.0909
+2024-09-22,D1,Leverkusen,Wolfsburg,0.0000,0.0000
+2024-09-22,D1,St Pauli,RB Leipzig,0.0000,0.0000
+2024-09-22,D1,Stuttgart,Dortmund,0.0000,0.0000
+2024-09-27,D1,Dortmund,Bochum,0.0000,0.0000
+2024-09-28,D1,Bayern Munich,Leverkusen,0.0000,0.0000
+2024-09-28,D1,Freiburg,St Pauli,0.0000,0.0000
+2024-09-28,D1,M'gladbach,Union Berlin,0.0000,0.0000
+2024-09-28,D1,Mainz,Heidenheim,0.0000,0.0000
+2024-09-28,D1,RB Leipzig,Augsburg,0.0000,0.0000
+2024-09-28,D1,Wolfsburg,Stuttgart,0.0000,0.0072
+2024-09-29,D1,Hoffenheim,Werder Bremen,0.0431,0.0227
+2024-09-29,D1,Holstein Kiel,Ein Frankfurt,0.0835,0.0045
+2024-10-04,D1,Augsburg,M'gladbach,0.0000,0.0442
+2024-10-05,D1,Bochum,Wolfsburg,0.0000,0.0731
+2024-10-05,D1,Leverkusen,Holstein Kiel,0.0000,0.0000
+2024-10-05,D1,St Pauli,Mainz,0.0000,0.0000
+2024-10-05,D1,Union Berlin,Dortmund,0.0000,0.0000
+2024-10-05,D1,Werder Bremen,Freiburg,0.0000,0.0000
+2024-10-06,D1,Ein Frankfurt,Bayern Munich,0.0488,0.0000
+2024-10-06,D1,Heidenheim,RB Leipzig,0.0186,0.0000
+2024-10-06,D1,Stuttgart,Hoffenheim,0.0000,0.0344
+2024-10-18,D1,Dortmund,St Pauli,0.0566,0.0000
+2024-10-19,D1,Bayern Munich,Stuttgart,0.0646,0.0048
+2024-10-19,D1,Freiburg,Augsburg,0.0000,0.0000
+2024-10-19,D1,Hoffenheim,Bochum,0.0287,0.0000
+2024-10-19,D1,Leverkusen,Ein Frankfurt,0.0000,0.0000
+2024-10-19,D1,M'gladbach,Heidenheim,0.0368,0.0000
+2024-10-19,D1,Mainz,RB Leipzig,0.0000,0.0000
+2024-10-20,D1,Holstein Kiel,Union Berlin,0.0180,0.0636
+2024-10-20,D1,Wolfsburg,Werder Bremen,0.0805,0.0152
+2024-10-25,D1,Mainz,M'gladbach,0.0000,0.0316
+2024-10-26,D1,Augsburg,Dortmund,0.0000,0.0000
+2024-10-26,D1,RB Leipzig,Freiburg,0.0000,0.0226
+2024-10-26,D1,St Pauli,Wolfsburg,0.0000,0.1431
+2024-10-26,D1,Stuttgart,Holstein Kiel,0.0052,0.0154
+2024-10-26,D1,Werder Bremen,Leverkusen,0.0000,0.0070
+2024-10-27,D1,Bochum,Bayern Munich,0.0000,0.0591
+2024-10-27,D1,Heidenheim,Hoffenheim,0.0000,0.0246
+2024-10-27,D1,Union Berlin,Ein Frankfurt,0.0000,0.0000
+2024-11-01,D1,Leverkusen,Stuttgart,0.0549,0.0036
+2024-11-02,D1,Bayern Munich,Union Berlin,0.0517,0.0000
+2024-11-02,D1,Dortmund,RB Leipzig,0.0000,0.0764
+2024-11-02,D1,Ein Frankfurt,Bochum,0.0000,0.0000
+2024-11-02,D1,Hoffenheim,St Pauli,0.0215,0.0000
+2024-11-02,D1,Holstein Kiel,Heidenheim,0.0135,0.0000
+2024-11-02,D1,Wolfsburg,Augsburg,0.1252,0.0000
+2024-11-03,D1,Freiburg,Mainz,0.0000,0.0000
+2024-11-03,D1,M'gladbach,Werder Bremen,0.0000,0.0000
+2024-11-08,D1,Union Berlin,Freiburg,0.0000,0.0000
+2024-11-09,D1,Bochum,Leverkusen,0.0151,0.0054
+2024-11-09,D1,Mainz,Dortmund,0.0000,0.0408
+2024-11-09,D1,RB Leipzig,M'gladbach,0.0000,0.0303
+2024-11-09,D1,St Pauli,Bayern Munich,0.0000,0.0000
+2024-11-09,D1,Werder Bremen,Holstein Kiel,0.0000,0.0120
+2024-11-10,D1,Augsburg,Hoffenheim,0.0000,0.0209
+2024-11-10,D1,Heidenheim,Wolfsburg,0.0000,0.0406
+2024-11-10,D1,Stuttgart,Ein Frankfurt,0.0711,0.0000
+2024-11-22,D1,Bayern Munich,Augsburg,0.0413,0.0000
+2024-11-23,D1,Dortmund,Freiburg,0.1004,0.0000
+2024-11-23,D1,Ein Frankfurt,Werder Bremen,0.0300,0.0000
+2024-11-23,D1,Hoffenheim,RB Leipzig,0.0172,0.0217
+2024-11-23,D1,Leverkusen,Heidenheim,0.0049,0.0000
+2024-11-23,D1,Stuttgart,Bochum,0.0000,0.0016
+2024-11-23,D1,Wolfsburg,Union Berlin,0.0000,0.0014
+2024-11-24,D1,Holstein Kiel,Mainz,0.0108,0.0000
+2024-11-24,D1,M'gladbach,St Pauli,0.0533,0.0909
+2024-11-29,D1,St Pauli,Holstein Kiel,0.0826,0.0098
+2024-11-30,D1,Augsburg,Bochum,0.0000,0.0015
+2024-11-30,D1,Dortmund,Bayern Munich,0.0000,0.0376
+2024-11-30,D1,Freiburg,M'gladbach,0.0000,0.0000
+2024-11-30,D1,RB Leipzig,Wolfsburg,0.0251,0.0131
+2024-11-30,D1,Union Berlin,Leverkusen,0.0000,0.0044
+2024-11-30,D1,Werder Bremen,Stuttgart,0.0000,0.0582
+2024-12-01,D1,Heidenheim,Ein Frankfurt,0.0699,0.0000
+2024-12-01,D1,Mainz,Hoffenheim,0.0000,0.0000
+2024-12-06,D1,Stuttgart,Union Berlin,0.0313,0.0012
+2024-12-07,D1,Bayern Munich,Heidenheim,0.0833,0.0000
+2024-12-07,D1,Bochum,Werder Bremen,0.0000,0.0000
+2024-12-07,D1,Ein Frankfurt,Augsburg,0.0000,0.0073
+2024-12-07,D1,Holstein Kiel,RB Leipzig,0.0697,0.0230
+2024-12-07,D1,Leverkusen,St Pauli,0.0000,0.0758
+2024-12-07,D1,M'gladbach,Dortmund,0.0000,0.0026
+2024-12-08,D1,Hoffenheim,Freiburg,0.0000,0.0000
+2024-12-08,D1,Wolfsburg,Mainz,0.0000,0.0000
+2024-12-13,D1,Freiburg,Wolfsburg,0.0000,0.0490
+2024-12-14,D1,Augsburg,Leverkusen,0.0000,0.0000
+2024-12-14,D1,M'gladbach,Holstein Kiel,0.0222,0.0000
+2024-12-14,D1,Mainz,Bayern Munich,0.0000,0.0777
+2024-12-14,D1,St Pauli,Werder Bremen,0.1319,0.0350
+2024-12-14,D1,Union Berlin,Bochum,0.0000,0.0579
+2024-12-15,D1,Dortmund,Hoffenheim,0.0000,0.0132
+2024-12-15,D1,Heidenheim,Stuttgart,0.0000,0.0039
+2024-12-15,D1,RB Leipzig,Ein Frankfurt,0.0213,0.0233
+2024-12-20,D1,Bayern Munich,RB Leipzig,0.1167,0.0198
+2024-12-21,D1,Ein Frankfurt,Mainz,0.0000,0.0000
+2024-12-21,D1,Hoffenheim,M'gladbach,0.0000,0.0206
+2024-12-21,D1,Holstein Kiel,Augsburg,0.0597,0.0909
+2024-12-21,D1,Leverkusen,Freiburg,0.0000,0.0000
+2024-12-21,D1,Stuttgart,St Pauli,0.0554,0.0649
+2024-12-21,D1,Werder Bremen,Union Berlin,0.0000,0.0522
+2024-12-22,D1,Bochum,Heidenheim,0.0000,0.0000
+2024-12-22,D1,Wolfsburg,Dortmund,0.0455,0.0649
+2025-01-10,D1,Dortmund,Leverkusen,0.0848,0.0484
+2025-01-11,D1,Freiburg,Holstein Kiel,0.0000,0.0558
+2025-01-11,D1,Heidenheim,Union Berlin,0.0614,0.0000
+2025-01-11,D1,Hoffenheim,Wolfsburg,0.0115,0.0196
+2025-01-11,D1,M'gladbach,Bayern Munich,0.0000,0.1502
+2025-01-11,D1,Mainz,Bochum,0.0000,0.0496
+2025-01-11,D1,St Pauli,Ein Frankfurt,0.0606,0.0000
+2025-01-12,D1,Augsburg,Stuttgart,0.0058,0.0138
+2025-01-12,D1,RB Leipzig,Werder Bremen,0.0631,0.0066
+2025-01-14,D1,Ein Frankfurt,Freiburg,0.0000,0.0000
+2025-01-14,D1,Holstein Kiel,Dortmund,0.0000,0.0000
+2025-01-14,D1,Leverkusen,Mainz,0.0051,0.0000
+2025-01-14,D1,Wolfsburg,M'gladbach,0.0000,0.0181
+2025-01-15,D1,Bayern Munich,Hoffenheim,0.0000,0.0108
+2025-01-15,D1,Bochum,St Pauli,0.0193,0.0568
+2025-01-15,D1,Stuttgart,RB Leipzig,0.0023,0.0764
+2025-01-15,D1,Union Berlin,Augsburg,0.0000,0.0054
+2025-01-15,D1,Werder Bremen,Heidenheim,0.0000,0.0373
+2025-01-17,D1,Ein Frankfurt,Dortmund,0.0047,0.0000
+2025-01-18,D1,Bayern Munich,Wolfsburg,0.0000,0.0085
+2025-01-18,D1,Bochum,RB Leipzig,0.0113,0.0000
+2025-01-18,D1,Heidenheim,St Pauli,0.0351,0.0535
+2025-01-18,D1,Holstein Kiel,Hoffenheim,0.0492,0.0270
+2025-01-18,D1,Leverkusen,M'gladbach,0.0000,0.0000
+2025-01-18,D1,Stuttgart,Freiburg,0.0393,0.0000
+2025-01-19,D1,Union Berlin,Mainz,0.0000,0.0000
+2025-01-19,D1,Werder Bremen,Augsburg,0.0000,0.0108
+2025-01-24,D1,Wolfsburg,Holstein Kiel,0.0000,0.0465
+2025-01-25,D1,Augsburg,Heidenheim,0.0000,0.0000
+2025-01-25,D1,Dortmund,Werder Bremen,0.0000,0.0000
+2025-01-25,D1,Freiburg,Bayern Munich,0.0000,0.1535
+2025-01-25,D1,M'gladbach,Bochum,0.0000,0.0118
+2025-01-25,D1,Mainz,Stuttgart,0.0000,0.0055
+2025-01-25,D1,RB Leipzig,Leverkusen,0.0526,0.0377
+2025-01-26,D1,Hoffenheim,Ein Frankfurt,0.0982,0.0273
+2025-01-26,D1,St Pauli,Union Berlin,0.0505,0.0453
+2025-01-31,D1,Werder Bremen,Mainz,0.0929,0.0000
+2025-02-01,D1,Bayern Munich,Holstein Kiel,0.0717,0.0440
+2025-02-01,D1,Bochum,Freiburg,0.0112,0.0000
+2025-02-01,D1,Heidenheim,Dortmund,0.0000,0.1073
+2025-02-01,D1,St Pauli,Augsburg,0.0194,0.0096
+2025-02-01,D1,Stuttgart,M'gladbach,0.0000,0.0000
+2025-02-01,D1,Union Berlin,RB Leipzig,0.0486,0.0626
+2025-02-02,D1,Ein Frankfurt,Wolfsburg,0.0180,0.0445
+2025-02-02,D1,Leverkusen,Hoffenheim,0.0357,0.0242
+2025-02-07,D1,Bayern Munich,Werder Bremen,0.0681,0.0000
+2025-02-08,D1,Dortmund,Stuttgart,0.0773,0.0000
+2025-02-08,D1,Freiburg,Heidenheim,0.0000,0.0000
+2025-02-08,D1,Hoffenheim,Union Berlin,0.2683,0.1062
+2025-02-08,D1,M'gladbach,Ein Frankfurt,0.0620,0.0000
+2025-02-08,D1,Mainz,Augsburg,0.0795,0.0000
+2025-02-08,D1,Wolfsburg,Leverkusen,0.0000,0.0339
+2025-02-09,D1,Holstein Kiel,Bochum,0.0418,0.0106
+2025-02-09,D1,RB Leipzig,St Pauli,0.0640,0.1103
+2025-02-14,D1,Augsburg,RB Leipzig,0.0114,0.1171
+2025-02-15,D1,Bochum,Dortmund,0.0000,0.0018
+2025-02-15,D1,Leverkusen,Bayern Munich,0.0379,0.0649
+2025-02-15,D1,St Pauli,Freiburg,0.0433,0.0000
+2025-02-15,D1,Stuttgart,Wolfsburg,0.0172,0.0000
+2025-02-15,D1,Union Berlin,M'gladbach,0.1011,0.1046
+2025-02-16,D1,Ein Frankfurt,Holstein Kiel,0.0000,0.0398
+2025-02-16,D1,Heidenheim,Mainz,0.0000,0.0000
+2025-02-16,D1,Werder Bremen,Hoffenheim,0.0000,0.0590
+2025-02-21,D1,Freiburg,Werder Bremen,0.0000,0.0355
+2025-02-22,D1,Dortmund,Union Berlin,0.0000,0.0000
+2025-02-22,D1,Holstein Kiel,Leverkusen,0.0666,0.0373
+2025-02-22,D1,M'gladbach,Augsburg,0.1316,0.0040
+2025-02-22,D1,Mainz,St Pauli,0.0000,0.0413
+2025-02-22,D1,Wolfsburg,Bochum,0.0000,0.0000
+2025-02-23,D1,Bayern Munich,Ein Frankfurt,0.0760,0.0140
+2025-02-23,D1,Hoffenheim,Stuttgart,0.0563,0.0000
+2025-02-23,D1,RB Leipzig,Heidenheim,0.1248,0.0000
+2025-02-28,D1,Stuttgart,Bayern Munich,0.0355,0.0000
+2025-03-01,D1,Bochum,Hoffenheim,0.0000,0.0724
+2025-03-01,D1,Ein Frankfurt,Leverkusen,0.0000,0.0295
+2025-03-01,D1,Heidenheim,M'gladbach,0.0000,0.1259
+2025-03-01,D1,RB Leipzig,Mainz,0.0411,0.0000
+2025-03-01,D1,St Pauli,Dortmund,0.0596,0.0016
+2025-03-01,D1,Werder Bremen,Wolfsburg,0.3146,0.2032
+2025-03-02,D1,Augsburg,Freiburg,0.0038,0.0000
+2025-03-02,D1,Union Berlin,Holstein Kiel,0.0000,0.0364
+2025-03-07,D1,M'gladbach,Mainz,0.0000,0.0000
+2025-03-08,D1,Bayern Munich,Bochum,0.0000,0.0080
+2025-03-08,D1,Dortmund,Augsburg,0.0539,0.0361
+2025-03-08,D1,Freiburg,RB Leipzig,0.0378,0.1516
+2025-03-08,D1,Holstein Kiel,Stuttgart,0.0699,0.0015
+2025-03-08,D1,Leverkusen,Werder Bremen,0.0385,0.1231
+2025-03-08,D1,Wolfsburg,St Pauli,0.0301,0.0571
+2025-03-09,D1,Ein Frankfurt,Union Berlin,0.0000,0.0739
+2025-03-09,D1,Hoffenheim,Heidenheim,0.0693,0.0025
+2025-03-14,D1,St Pauli,Hoffenheim,0.0548,0.0069
+2025-03-15,D1,Augsburg,Wolfsburg,0.0035,0.0289
+2025-03-15,D1,Mainz,Freiburg,0.0000,0.0000
+2025-03-15,D1,RB Leipzig,Dortmund,0.1112,0.0475
+2025-03-15,D1,Union Berlin,Bayern Munich,0.0000,0.0000
+2025-03-15,D1,Werder Bremen,M'gladbach,0.0000,0.0662
+2025-03-16,D1,Bochum,Ein Frankfurt,0.0088,0.0000
+2025-03-16,D1,Heidenheim,Holstein Kiel,0.0000,0.0458
+2025-03-16,D1,Stuttgart,Leverkusen,0.0229,0.0271
+2025-03-28,D1,Leverkusen,Bochum,0.0031,0.0085
+2025-03-29,D1,Bayern Munich,St Pauli,0.1281,0.0527
+2025-03-29,D1,Ein Frankfurt,Stuttgart,0.0000,0.0220
+2025-03-29,D1,Hoffenheim,Augsburg,0.1513,0.0092
+2025-03-29,D1,Holstein Kiel,Werder Bremen,0.0467,0.0400
+2025-03-29,D1,M'gladbach,RB Leipzig,0.1353,0.1016
+2025-03-29,D1,Wolfsburg,Heidenheim,0.0459,0.0000
+2025-03-30,D1,Dortmund,Mainz,0.1372,0.1257
+2025-03-30,D1,Freiburg,Union Berlin,0.0349,0.0682
+2025-04-04,D1,Augsburg,Bayern Munich,0.0057,0.0390
+2025-04-05,D1,Bochum,Stuttgart,0.0082,0.0000
+2025-04-05,D1,Freiburg,Dortmund,0.1131,0.1546
+2025-04-05,D1,Heidenheim,Leverkusen,0.0000,0.0251
+2025-04-05,D1,Mainz,Holstein Kiel,0.0000,0.0424
+2025-04-05,D1,RB Leipzig,Hoffenheim,0.0979,0.0732
+2025-04-05,D1,Werder Bremen,Ein Frankfurt,0.0386,0.1554
+2025-04-06,D1,St Pauli,M'gladbach,0.0508,0.0613
+2025-04-06,D1,Union Berlin,Wolfsburg,0.1120,0.2283
+2025-04-11,D1,Wolfsburg,RB Leipzig,0.0769,0.2329
+2025-04-12,D1,Bayern Munich,Dortmund,0.2569,0.1288
+2025-04-12,D1,Bochum,Augsburg,0.0079,0.0000
+2025-04-12,D1,Hoffenheim,Mainz,0.0078,0.0000
+2025-04-12,D1,Holstein Kiel,St Pauli,0.0409,0.0166
+2025-04-12,D1,Leverkusen,Union Berlin,0.0349,0.1080
+2025-04-12,D1,M'gladbach,Freiburg,0.0891,0.0000
+2025-04-13,D1,Ein Frankfurt,Heidenheim,0.0000,0.0000
+2025-04-13,D1,Stuttgart,Werder Bremen,0.0000,0.0000
+2025-04-19,D1,Freiburg,Hoffenheim,0.0000,0.0160
+2025-04-19,D1,Heidenheim,Bayern Munich,0.0000,0.1245
+2025-04-19,D1,Mainz,Wolfsburg,0.0240,0.0579
+2025-04-19,D1,RB Leipzig,Holstein Kiel,0.0326,0.0395
+2025-04-19,D1,Union Berlin,Stuttgart,0.1096,0.0143
+2025-04-19,D1,Werder Bremen,Bochum,0.0000,0.0066
+2025-04-20,D1,Augsburg,Ein Frankfurt,0.0308,0.0000
+2025-04-20,D1,Dortmund,M'gladbach,0.0734,0.0860
+2025-04-20,D1,St Pauli,Leverkusen,0.1223,0.0028
+2025-04-25,D1,Stuttgart,Heidenheim,0.0041,0.0000
+2025-04-26,D1,Bayern Munich,Mainz,0.1204,0.0000
+2025-04-26,D1,Ein Frankfurt,RB Leipzig,0.1640,0.1958
+2025-04-26,D1,Hoffenheim,Dortmund,0.0631,0.1245
+2025-04-26,D1,Holstein Kiel,M'gladbach,0.0382,0.0280
+2025-04-26,D1,Leverkusen,Augsburg,0.0632,0.0141
+2025-04-26,D1,Wolfsburg,Freiburg,0.0837,0.0715
+2025-04-27,D1,Bochum,Union Berlin,0.0079,0.0000
+2025-04-27,D1,Werder Bremen,St Pauli,0.0000,0.1336
+2025-05-02,D1,Heidenheim,Bochum,0.0000,0.0076
+2025-05-03,D1,Dortmund,Wolfsburg,0.1205,0.1607
+2025-05-03,D1,M'gladbach,Hoffenheim,0.1791,0.1373
+2025-05-03,D1,RB Leipzig,Bayern Munich,0.0305,0.1165
+2025-05-03,D1,St Pauli,Stuttgart,0.1320,0.1013
+2025-05-03,D1,Union Berlin,Werder Bremen,0.2203,0.0439
+2025-05-04,D1,Augsburg,Holstein Kiel,0.0000,0.0370
+2025-05-04,D1,Freiburg,Leverkusen,0.0000,0.0219
+2025-05-04,D1,Mainz,Ein Frankfurt,0.0000,0.0250
+2025-05-09,D1,Wolfsburg,Hoffenheim,0.0000,0.0000
+2025-05-10,D1,Bayern Munich,M'gladbach,0.2394,0.1957
+2025-05-10,D1,Bochum,Mainz,0.0231,0.0000
+2025-05-10,D1,Holstein Kiel,Freiburg,0.0358,0.0000
+2025-05-10,D1,Union Berlin,Heidenheim,0.0000,0.0000
+2025-05-10,D1,Werder Bremen,RB Leipzig,0.0031,0.0712
+2025-05-11,D1,Ein Frankfurt,St Pauli,0.0242,0.1108
+2025-05-11,D1,Leverkusen,Dortmund,0.0212,0.0653
+2025-05-11,D1,Stuttgart,Augsburg,0.0316,0.0000
+2025-05-17,D1,Augsburg,Union Berlin,0.0000,0.0280
+2025-05-17,D1,Dortmund,Holstein Kiel,0.0000,0.0347
+2025-05-17,D1,Freiburg,Ein Frankfurt,0.1063,0.1678
+2025-05-17,D1,Heidenheim,Werder Bremen,0.0364,0.0288
+2025-05-17,D1,Hoffenheim,Bayern Munich,0.0781,0.2322
+2025-05-17,D1,M'gladbach,Wolfsburg,0.1586,0.1658
+2025-05-17,D1,Mainz,Leverkusen,0.0000,0.0206
+2025-05-17,D1,RB Leipzig,Stuttgart,0.1173,0.1336
+2025-05-17,D1,St Pauli,Bochum,0.1074,0.0072

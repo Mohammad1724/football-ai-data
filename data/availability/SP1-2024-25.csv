@@ -1,0 +1,381 @@
+date,league,home_team,away_team,missing_home,missing_away
+2024-08-15,SP1,Ath Bilbao,Getafe,,
+2024-08-15,SP1,Betis,Girona,,
+2024-08-16,SP1,Celta,Alaves,,
+2024-08-16,SP1,Las Palmas,Sevilla,,
+2024-08-17,SP1,Osasuna,Leganes,,
+2024-08-17,SP1,Valencia,Barcelona,,
+2024-08-18,SP1,Mallorca,Real Madrid,,
+2024-08-18,SP1,Sociedad,Vallecano,,
+2024-08-19,SP1,Valladolid,Espanol,,
+2024-08-19,SP1,Villarreal,Ath Madrid,,
+2024-08-23,SP1,Celta,Valencia,,
+2024-08-23,SP1,Sevilla,Villarreal,,
+2024-08-24,SP1,Barcelona,Ath Bilbao,,
+2024-08-24,SP1,Espanol,Sociedad,,
+2024-08-24,SP1,Getafe,Vallecano,,
+2024-08-24,SP1,Osasuna,Mallorca,,
+2024-08-25,SP1,Alaves,Betis,,
+2024-08-25,SP1,Ath Madrid,Girona,,
+2024-08-25,SP1,Leganes,Las Palmas,,
+2024-08-25,SP1,Real Madrid,Valladolid,,
+2024-08-26,SP1,Villarreal,Celta,,
+2024-08-27,SP1,Mallorca,Sevilla,,
+2024-08-27,SP1,Vallecano,Barcelona,,
+2024-08-28,SP1,Ath Bilbao,Valencia,,
+2024-08-28,SP1,Ath Madrid,Espanol,,
+2024-08-28,SP1,Sociedad,Alaves,,
+2024-08-28,SP1,Valladolid,Leganes,,
+2024-08-29,SP1,Girona,Osasuna,,
+2024-08-29,SP1,Las Palmas,Real Madrid,,
+2024-08-31,SP1,Ath Bilbao,Ath Madrid,0.0000,0.0000
+2024-08-31,SP1,Barcelona,Valladolid,0.0794,0.0000
+2024-08-31,SP1,Espanol,Vallecano,0.0000,0.0000
+2024-08-31,SP1,Leganes,Mallorca,0.0000,0.0000
+2024-08-31,SP1,Valencia,Villarreal,0.0000,0.0303
+2024-09-01,SP1,Alaves,Las Palmas,0.0000,0.0000
+2024-09-01,SP1,Getafe,Sociedad,,0.0000
+2024-09-01,SP1,Osasuna,Celta,0.0000,0.0000
+2024-09-01,SP1,Real Madrid,Betis,0.0000,
+2024-09-01,SP1,Sevilla,Girona,0.0000,0.0000
+2024-09-13,SP1,Betis,Leganes,0.0000,0.0000
+2024-09-14,SP1,Espanol,Alaves,0.0000,0.0000
+2024-09-14,SP1,Mallorca,Villarreal,0.0000,0.0000
+2024-09-14,SP1,Sevilla,Getafe,0.0000,0.0000
+2024-09-14,SP1,Sociedad,Real Madrid,0.0000,0.0000
+2024-09-15,SP1,Ath Madrid,Valencia,0.0000,0.0000
+2024-09-15,SP1,Celta,Valladolid,0.0000,0.0000
+2024-09-15,SP1,Girona,Barcelona,0.0000,0.0596
+2024-09-15,SP1,Las Palmas,Ath Bilbao,0.0000,0.0000
+2024-09-16,SP1,Vallecano,Osasuna,0.0000,0.0000
+2024-09-17,SP1,Mallorca,Sociedad,0.0320,0.0000
+2024-09-18,SP1,Betis,Getafe,0.0000,0.0000
+2024-09-19,SP1,Leganes,Ath Bilbao,0.0746,0.0000
+2024-09-20,SP1,Alaves,Sevilla,0.0000,0.0000
+2024-09-21,SP1,Osasuna,Las Palmas,0.0000,0.0000
+2024-09-21,SP1,Real Madrid,Espanol,0.0000,0.0000
+2024-09-21,SP1,Valencia,Girona,0.0000,0.0000
+2024-09-21,SP1,Valladolid,Sociedad,0.0000,0.0486
+2024-09-22,SP1,Ath Bilbao,Celta,0.0000,0.0000
+2024-09-22,SP1,Getafe,Leganes,0.0000,0.0000
+2024-09-22,SP1,Vallecano,Ath Madrid,0.0000,0.0000
+2024-09-22,SP1,Villarreal,Barcelona,0.0000,0.0477
+2024-09-23,SP1,Betis,Mallorca,0.0000,0.0528
+2024-09-24,SP1,Real Madrid,Alaves,0.0000,0.0000
+2024-09-24,SP1,Sevilla,Valladolid,0.0250,0.0000
+2024-09-24,SP1,Valencia,Osasuna,0.0000,0.0000
+2024-09-25,SP1,Barcelona,Getafe,0.0000,0.0365
+2024-09-25,SP1,Girona,Vallecano,0.0000,0.0000
+2024-09-26,SP1,Celta,Ath Madrid,0.0687,0.0649
+2024-09-26,SP1,Espanol,Villarreal,0.0000,0.0338
+2024-09-26,SP1,Las Palmas,Betis,0.1448,0.1321
+2024-09-27,SP1,Valladolid,Mallorca,0.0344,0.0000
+2024-09-28,SP1,Getafe,Alaves,0.0000,0.0000
+2024-09-28,SP1,Osasuna,Barcelona,0.0000,0.0000
+2024-09-28,SP1,Sociedad,Valencia,0.0000,0.0000
+2024-09-28,SP1,Vallecano,Leganes,0.0000,0.0000
+2024-09-29,SP1,Ath Bilbao,Sevilla,0.0000,0.0529
+2024-09-29,SP1,Ath Madrid,Real Madrid,0.0000,0.0103
+2024-09-29,SP1,Betis,Espanol,0.0000,0.0000
+2024-09-29,SP1,Celta,Girona,0.0364,0.0000
+2024-09-30,SP1,Villarreal,Las Palmas,0.0130,0.0000
+2024-10-04,SP1,Leganes,Valencia,0.0000,0.0000
+2024-10-05,SP1,Espanol,Mallorca,0.0000,0.0987
+2024-10-05,SP1,Getafe,Osasuna,0.0000,0.0000
+2024-10-05,SP1,Las Palmas,Celta,0.1127,0.0000
+2024-10-05,SP1,Real Madrid,Villarreal,0.0000,0.0000
+2024-10-05,SP1,Valladolid,Vallecano,0.0301,0.0000
+2024-10-06,SP1,Alaves,Barcelona,0.0000,0.0000
+2024-10-06,SP1,Girona,Ath Bilbao,0.0000,0.0000
+2024-10-06,SP1,Sevilla,Betis,0.0867,0.0720
+2024-10-06,SP1,Sociedad,Ath Madrid,0.0382,0.1282
+2024-10-18,SP1,Alaves,Valladolid,0.0463,0.0123
+2024-10-19,SP1,Ath Bilbao,Espanol,0.0839,0.0209
+2024-10-19,SP1,Celta,Real Madrid,0.1136,0.0682
+2024-10-19,SP1,Girona,Sociedad,0.2171,0.0339
+2024-10-19,SP1,Osasuna,Betis,0.0000,0.0640
+2024-10-20,SP1,Ath Madrid,Leganes,0.0000,0.0000
+2024-10-20,SP1,Barcelona,Sevilla,0.0376,0.0838
+2024-10-20,SP1,Mallorca,Vallecano,0.0352,0.0340
+2024-10-20,SP1,Villarreal,Getafe,0.0098,0.0000
+2024-10-21,SP1,Valencia,Las Palmas,0.0262,0.0000
+2024-10-25,SP1,Espanol,Sevilla,0.0000,0.0000
+2024-10-26,SP1,Las Palmas,Girona,0.0000,0.0000
+2024-10-26,SP1,Real Madrid,Barcelona,0.0613,0.0238
+2024-10-26,SP1,Valladolid,Villarreal,0.0000,0.0000
+2024-10-26,SP1,Vallecano,Alaves,0.0000,0.0000
+2024-10-27,SP1,Betis,Ath Madrid,0.0725,0.0000
+2024-10-27,SP1,Getafe,Valencia,0.0000,0.0000
+2024-10-27,SP1,Leganes,Celta,0.0000,0.0000
+2024-10-27,SP1,Sociedad,Osasuna,0.0000,0.0000
+2024-10-28,SP1,Mallorca,Ath Bilbao,0.0000,0.0000
+2024-11-01,SP1,Alaves,Mallorca,0.0000,0.0000
+2024-11-02,SP1,Girona,Leganes,0.0582,0.0000
+2024-11-02,SP1,Osasuna,Valladolid,0.0000,0.0000
+2024-11-03,SP1,Ath Bilbao,Betis,0.0000,0.0659
+2024-11-03,SP1,Ath Madrid,Las Palmas,0.0000,0.0000
+2024-11-03,SP1,Barcelona,Espanol,0.0452,0.0000
+2024-11-03,SP1,Sevilla,Sociedad,0.0495,0.0000
+2024-11-04,SP1,Celta,Getafe,0.0000,0.0000
+2024-11-08,SP1,Vallecano,Las Palmas,0.0890,0.0000
+2024-11-09,SP1,Leganes,Sevilla,0.0000,0.1161
+2024-11-09,SP1,Real Madrid,Osasuna,0.0558,0.0317
+2024-11-09,SP1,Villarreal,Alaves,0.0000,0.0000
+2024-11-10,SP1,Betis,Celta,0.0604,0.0000
+2024-11-10,SP1,Getafe,Girona,0.0000,0.0462
+2024-11-10,SP1,Mallorca,Ath Madrid,0.0000,0.0000
+2024-11-10,SP1,Sociedad,Barcelona,0.0000,0.0415
+2024-11-10,SP1,Valladolid,Ath Bilbao,0.0000,0.0543
+2024-11-22,SP1,Getafe,Valladolid,0.0000,0.0000
+2024-11-23,SP1,Ath Madrid,Alaves,0.0543,0.0000
+2024-11-23,SP1,Celta,Barcelona,0.0000,0.1126
+2024-11-23,SP1,Girona,Espanol,0.0492,0.0000
+2024-11-23,SP1,Las Palmas,Mallorca,0.0000,0.0000
+2024-11-23,SP1,Valencia,Betis,0.0000,0.0408
+2024-11-24,SP1,Ath Bilbao,Sociedad,0.0000,0.0000
+2024-11-24,SP1,Leganes,Real Madrid,0.0000,0.0000
+2024-11-24,SP1,Osasuna,Villarreal,0.0000,0.0000
+2024-11-24,SP1,Sevilla,Vallecano,0.0401,0.0000
+2024-11-29,SP1,Mallorca,Valencia,0.0434,0.0000
+2024-11-30,SP1,Alaves,Leganes,0.0000,0.0450
+2024-11-30,SP1,Barcelona,Las Palmas,0.0377,0.0000
+2024-11-30,SP1,Espanol,Celta,0.0000,0.0000
+2024-11-30,SP1,Valladolid,Ath Madrid,0.0000,0.0000
+2024-12-01,SP1,Real Madrid,Getafe,0.0472,0.0000
+2024-12-01,SP1,Sociedad,Betis,0.0239,0.0000
+2024-12-01,SP1,Vallecano,Ath Bilbao,0.0000,0.0000
+2024-12-01,SP1,Villarreal,Girona,0.0447,0.0000
+2024-12-02,SP1,Sevilla,Osasuna,0.0373,0.0000
+2024-12-03,SP1,Mallorca,Barcelona,0.0000,0.0159
+2024-12-04,SP1,Ath Bilbao,Real Madrid,0.0000,0.0438
+2024-12-06,SP1,Celta,Mallorca,0.0000,0.0000
+2024-12-07,SP1,Betis,Barcelona,0.0000,0.0330
+2024-12-07,SP1,Girona,Real Madrid,0.0000,0.0409
+2024-12-07,SP1,Las Palmas,Valladolid,0.0000,0.0000
+2024-12-07,SP1,Valencia,Vallecano,0.0000,0.0000
+2024-12-08,SP1,Ath Bilbao,Villarreal,0.0000,0.0415
+2024-12-08,SP1,Ath Madrid,Sevilla,0.0000,0.0000
+2024-12-08,SP1,Leganes,Sociedad,0.0420,0.0297
+2024-12-08,SP1,Osasuna,Alaves,0.0000,0.0000
+2024-12-09,SP1,Getafe,Espanol,0.0000,0.0000
+2024-12-13,SP1,Valladolid,Valencia,0.0000,0.0000
+2024-12-14,SP1,Espanol,Osasuna,0.0000,0.0000
+2024-12-14,SP1,Mallorca,Girona,0.0000,0.0000
+2024-12-14,SP1,Sevilla,Celta,0.0000,0.0148
+2024-12-14,SP1,Vallecano,Real Madrid,0.0000,0.1455
+2024-12-15,SP1,Alaves,Ath Bilbao,0.0000,0.0000
+2024-12-15,SP1,Ath Madrid,Getafe,0.0000,0.0000
+2024-12-15,SP1,Barcelona,Leganes,0.0140,0.0394
+2024-12-15,SP1,Sociedad,Las Palmas,0.0182,0.0000
+2024-12-15,SP1,Villarreal,Betis,0.0000,0.0000
+2024-12-18,SP1,Espanol,Valencia,0.0000,0.0000
+2024-12-18,SP1,Villarreal,Vallecano,0.0363,0.0000
+2024-12-20,SP1,Girona,Valladolid,0.0368,0.0009
+2024-12-21,SP1,Barcelona,Ath Madrid,0.0132,0.0000
+2024-12-21,SP1,Celta,Sociedad,0.0266,0.0000
+2024-12-21,SP1,Getafe,Mallorca,0.0000,0.0000
+2024-12-21,SP1,Osasuna,Ath Bilbao,0.0000,0.0000
+2024-12-22,SP1,Betis,Vallecano,0.0000,0.0843
+2024-12-22,SP1,Las Palmas,Espanol,0.0000,0.0000
+2024-12-22,SP1,Leganes,Villarreal,0.0371,0.0000
+2024-12-22,SP1,Real Madrid,Sevilla,0.0361,0.0307
+2024-12-22,SP1,Valencia,Alaves,0.0000,0.0000
+2025-01-03,SP1,Valencia,Real Madrid,0.0000,0.0341
+2025-01-10,SP1,Vallecano,Celta,0.0000,0.0000
+2025-01-11,SP1,Alaves,Girona,0.0000,0.0348
+2025-01-11,SP1,Espanol,Leganes,0.0000,0.0350
+2025-01-11,SP1,Sevilla,Valencia,0.0000,0.0000
+2025-01-11,SP1,Valladolid,Betis,0.0000,0.0000
+2025-01-12,SP1,Ath Madrid,Osasuna,0.0000,0.0000
+2025-01-12,SP1,Las Palmas,Getafe,0.0000,0.0000
+2025-01-13,SP1,Sociedad,Villarreal,0.0391,0.1194
+2025-01-17,SP1,Espanol,Valladolid,0.0000,0.0000
+2025-01-18,SP1,Betis,Alaves,0.0000,0.0000
+2025-01-18,SP1,Getafe,Barcelona,0.0000,0.0262
+2025-01-18,SP1,Girona,Sevilla,0.0474,0.0274
+2025-01-18,SP1,Leganes,Ath Madrid,0.0332,0.0000
+2025-01-19,SP1,Celta,Ath Bilbao,0.0000,0.0527
+2025-01-19,SP1,Osasuna,Vallecano,0.0000,0.0000
+2025-01-19,SP1,Real Madrid,Las Palmas,0.0323,0.0000
+2025-01-19,SP1,Valencia,Sociedad,0.0000,0.0000
+2025-01-20,SP1,Villarreal,Mallorca,0.0306,0.0000
+2025-01-24,SP1,Las Palmas,Osasuna,0.0000,0.0000
+2025-01-25,SP1,Ath Madrid,Villarreal,0.0884,0.0665
+2025-01-25,SP1,Mallorca,Betis,0.0000,0.1029
+2025-01-25,SP1,Sevilla,Espanol,0.0000,0.0000
+2025-01-25,SP1,Valladolid,Real Madrid,0.0000,0.0261
+2025-01-26,SP1,Ath Bilbao,Leganes,0.0000,0.0315
+2025-01-26,SP1,Barcelona,Valencia,0.0574,0.0000
+2025-01-26,SP1,Sociedad,Getafe,0.0000,0.0000
+2025-01-26,SP1,Vallecano,Girona,0.0000,0.0000
+2025-01-27,SP1,Alaves,Celta,0.0000,0.0000
+2025-01-31,SP1,Leganes,Vallecano,0.0300,0.0000
+2025-02-01,SP1,Ath Madrid,Mallorca,0.0000,0.0000
+2025-02-01,SP1,Espanol,Real Madrid,0.0000,0.0292
+2025-02-01,SP1,Getafe,Sevilla,0.0000,0.0000
+2025-02-01,SP1,Villarreal,Valladolid,0.0000,0.1134
+2025-02-02,SP1,Barcelona,Alaves,0.0113,0.0798
+2025-02-02,SP1,Betis,Ath Bilbao,0.0000,0.0000
+2025-02-02,SP1,Osasuna,Sociedad,0.0000,0.0000
+2025-02-02,SP1,Valencia,Celta,0.0000,0.0000
+2025-02-03,SP1,Girona,Las Palmas,0.0000,0.0578
+2025-02-07,SP1,Vallecano,Valladolid,0.0000,0.0000
+2025-02-08,SP1,Ath Bilbao,Girona,0.0000,0.0000
+2025-02-08,SP1,Celta,Betis,0.0000,0.0000
+2025-02-08,SP1,Las Palmas,Villarreal,0.0000,0.0088
+2025-02-08,SP1,Real Madrid,Ath Madrid,0.1108,0.0000
+2025-02-09,SP1,Alaves,Getafe,0.0000,0.0000
+2025-02-09,SP1,Sevilla,Barcelona,0.0243,0.0226
+2025-02-09,SP1,Sociedad,Espanol,0.0000,0.0000
+2025-02-09,SP1,Valencia,Leganes,0.0000,0.0000
+2025-02-10,SP1,Mallorca,Osasuna,0.0132,0.0000
+2025-02-14,SP1,Girona,Getafe,0.0470,0.0000
+2025-02-15,SP1,Ath Madrid,Celta,0.0000,0.0000
+2025-02-15,SP1,Leganes,Alaves,0.0000,0.0108
+2025-02-15,SP1,Osasuna,Real Madrid,0.0000,0.1079
+2025-02-15,SP1,Villarreal,Valencia,0.0084,0.0000
+2025-02-16,SP1,Betis,Sociedad,0.0000,0.0000
+2025-02-16,SP1,Espanol,Ath Bilbao,0.0000,0.0000
+2025-02-16,SP1,Mallorca,Las Palmas,0.0000,0.0563
+2025-02-16,SP1,Valladolid,Sevilla,0.0000,0.0233
+2025-02-17,SP1,Barcelona,Vallecano,0.0216,0.0000
+2025-02-21,SP1,Celta,Osasuna,0.0000,0.0802
+2025-02-22,SP1,Alaves,Espanol,0.0000,0.0000
+2025-02-22,SP1,Las Palmas,Barcelona,0.0000,0.0220
+2025-02-22,SP1,Valencia,Ath Madrid,0.0000,0.0000
+2025-02-22,SP1,Vallecano,Villarreal,0.0000,0.0332
+2025-02-23,SP1,Ath Bilbao,Valladolid,0.0000,0.0000
+2025-02-23,SP1,Getafe,Betis,0.0000,0.0000
+2025-02-23,SP1,Real Madrid,Girona,0.0650,0.0000
+2025-02-23,SP1,Sociedad,Leganes,0.0000,0.0000
+2025-02-24,SP1,Sevilla,Mallorca,0.0000,0.0000
+2025-02-28,SP1,Valladolid,Las Palmas,0.0129,0.0000
+2025-03-01,SP1,Ath Madrid,Ath Bilbao,0.0000,0.0534
+2025-03-01,SP1,Betis,Real Madrid,0.0000,0.0578
+2025-03-01,SP1,Girona,Celta,0.0000,0.0000
+2025-03-01,SP1,Vallecano,Sevilla,0.0000,0.0000
+2025-03-02,SP1,Barcelona,Sociedad,0.0095,0.0686
+2025-03-02,SP1,Leganes,Getafe,0.0000,0.0000
+2025-03-02,SP1,Mallorca,Alaves,0.0000,0.0000
+2025-03-02,SP1,Osasuna,Valencia,0.0000,0.0000
+2025-03-08,SP1,Alaves,Villarreal,0.0000,0.0232
+2025-03-08,SP1,Celta,Leganes,0.0000,0.0000
+2025-03-08,SP1,Valencia,Valladolid,0.0000,0.0124
+2025-03-09,SP1,Ath Bilbao,Mallorca,0.1271,0.0495
+2025-03-09,SP1,Betis,Las Palmas,0.0000,0.0600
+2025-03-09,SP1,Getafe,Ath Madrid,0.0000,0.0000
+2025-03-09,SP1,Real Madrid,Vallecano,0.0000,0.0809
+2025-03-09,SP1,Sociedad,Sevilla,0.0000,0.0206
+2025-03-10,SP1,Espanol,Girona,0.0228,0.0416
+2025-03-14,SP1,Las Palmas,Alaves,0.0000,0.0000
+2025-03-15,SP1,Girona,Valencia,0.0000,0.0000
+2025-03-15,SP1,Mallorca,Espanol,0.0000,0.0000
+2025-03-15,SP1,Valladolid,Celta,0.0000,0.0000
+2025-03-15,SP1,Villarreal,Real Madrid,0.0455,0.0950
+2025-03-16,SP1,Ath Madrid,Barcelona,0.0000,0.0092
+2025-03-16,SP1,Leganes,Betis,0.0000,0.0000
+2025-03-16,SP1,Osasuna,Getafe,0.0000,0.0000
+2025-03-16,SP1,Sevilla,Ath Bilbao,0.0193,0.0000
+2025-03-16,SP1,Vallecano,Sociedad,0.0779,0.0000
+2025-03-27,SP1,Barcelona,Osasuna,0.0184,0.0000
+2025-03-29,SP1,Alaves,Vallecano,0.0000,0.0751
+2025-03-29,SP1,Espanol,Ath Madrid,0.0000,0.0000
+2025-03-29,SP1,Real Madrid,Leganes,0.0359,0.0000
+2025-03-29,SP1,Sociedad,Valladolid,0.0000,0.0000
+2025-03-30,SP1,Ath Bilbao,Osasuna,0.0000,0.0000
+2025-03-30,SP1,Barcelona,Girona,0.0085,0.1076
+2025-03-30,SP1,Betis,Sevilla,0.0000,0.0186
+2025-03-30,SP1,Getafe,Villarreal,0.0000,0.0072
+2025-03-30,SP1,Valencia,Mallorca,0.0000,0.0000
+2025-03-31,SP1,Celta,Las Palmas,0.0000,0.0000
+2025-04-04,SP1,Vallecano,Espanol,0.0725,0.0368
+2025-04-05,SP1,Barcelona,Betis,0.0813,0.0313
+2025-04-05,SP1,Girona,Alaves,0.1160,0.0000
+2025-04-05,SP1,Mallorca,Celta,0.0704,0.0047
+2025-04-05,SP1,Real Madrid,Valencia,0.1172,0.0332
+2025-04-06,SP1,Las Palmas,Sociedad,0.0000,0.0000
+2025-04-06,SP1,Sevilla,Ath Madrid,0.0180,0.0835
+2025-04-06,SP1,Valladolid,Getafe,0.0000,0.0000
+2025-04-06,SP1,Villarreal,Ath Bilbao,0.0962,0.0893
+2025-04-07,SP1,Leganes,Osasuna,0.0000,0.0000
+2025-04-11,SP1,Valencia,Sevilla,0.0000,0.0174
+2025-04-12,SP1,Celta,Espanol,0.0000,0.0000
+2025-04-12,SP1,Getafe,Las Palmas,0.0000,0.0000
+2025-04-12,SP1,Leganes,Barcelona,0.0210,0.0166
+2025-04-12,SP1,Sociedad,Mallorca,0.0000,0.0000
+2025-04-13,SP1,Alaves,Real Madrid,0.0000,0.0000
+2025-04-13,SP1,Ath Bilbao,Vallecano,0.0000,0.0701
+2025-04-13,SP1,Betis,Villarreal,0.0255,0.1383
+2025-04-13,SP1,Osasuna,Girona,0.0000,0.0000
+2025-04-14,SP1,Ath Madrid,Valladolid,0.0251,0.0000
+2025-04-18,SP1,Espanol,Getafe,0.0000,0.0000
+2025-04-19,SP1,Barcelona,Celta,0.0161,0.0000
+2025-04-19,SP1,Las Palmas,Ath Madrid,0.0000,0.0000
+2025-04-19,SP1,Mallorca,Leganes,0.0000,0.0000
+2025-04-19,SP1,Vallecano,Valencia,0.0678,0.0000
+2025-04-20,SP1,Real Madrid,Ath Bilbao,0.0522,0.0000
+2025-04-20,SP1,Sevilla,Alaves,0.0000,0.0000
+2025-04-20,SP1,Valladolid,Osasuna,0.0000,0.0000
+2025-04-20,SP1,Villarreal,Sociedad,0.0594,0.0845
+2025-04-21,SP1,Girona,Betis,0.0936,0.1360
+2025-04-22,SP1,Barcelona,Mallorca,0.0074,0.0298
+2025-04-22,SP1,Valencia,Espanol,0.0000,0.0000
+2025-04-23,SP1,Alaves,Sociedad,0.0774,0.1229
+2025-04-23,SP1,Ath Bilbao,Las Palmas,0.0000,0.0000
+2025-04-23,SP1,Celta,Villarreal,0.0717,0.0274
+2025-04-23,SP1,Getafe,Real Madrid,0.0000,0.0192
+2025-04-24,SP1,Ath Madrid,Vallecano,0.0000,0.0657
+2025-04-24,SP1,Betis,Valladolid,0.0000,0.0104
+2025-04-24,SP1,Leganes,Girona,0.0197,0.0376
+2025-04-24,SP1,Osasuna,Sevilla,0.0000,0.0000
+2025-04-27,SP1,Villarreal,Espanol,0.0182,0.0322
+2025-05-02,SP1,Vallecano,Getafe,0.0979,0.0201
+2025-05-03,SP1,Alaves,Ath Madrid,0.0000,0.0000
+2025-05-03,SP1,Las Palmas,Valencia,0.0000,0.0000
+2025-05-03,SP1,Valladolid,Barcelona,0.0841,0.1458
+2025-05-03,SP1,Villarreal,Osasuna,0.0540,0.0616
+2025-05-04,SP1,Espanol,Betis,0.0312,0.1277
+2025-05-04,SP1,Real Madrid,Celta,0.0646,0.0695
+2025-05-04,SP1,Sevilla,Leganes,0.0158,0.0000
+2025-05-04,SP1,Sociedad,Ath Bilbao,0.0977,0.0444
+2025-05-05,SP1,Girona,Mallorca,0.0947,0.0158
+2025-05-09,SP1,Las Palmas,Vallecano,0.0000,0.0619
+2025-05-10,SP1,Ath Madrid,Sociedad,0.0000,0.0000
+2025-05-10,SP1,Celta,Sevilla,0.0000,0.0153
+2025-05-10,SP1,Girona,Villarreal,0.0420,0.0000
+2025-05-10,SP1,Mallorca,Valladolid,0.0915,0.1171
+2025-05-10,SP1,Valencia,Getafe,0.0000,0.0000
+2025-05-11,SP1,Ath Bilbao,Alaves,0.0000,0.0000
+2025-05-11,SP1,Barcelona,Real Madrid,0.0011,0.0627
+2025-05-11,SP1,Betis,Osasuna,0.0000,0.0000
+2025-05-11,SP1,Leganes,Espanol,0.0000,0.0000
+2025-05-13,SP1,Sevilla,Las Palmas,0.0190,0.0000
+2025-05-13,SP1,Sociedad,Celta,0.0000,0.0655
+2025-05-13,SP1,Valladolid,Girona,0.0982,0.0893
+2025-05-14,SP1,Alaves,Valencia,0.0000,0.0000
+2025-05-14,SP1,Real Madrid,Mallorca,0.4115,0.1237
+2025-05-14,SP1,Villarreal,Leganes,0.0000,0.0180
+2025-05-15,SP1,Espanol,Barcelona,0.0294,0.1155
+2025-05-15,SP1,Getafe,Ath Bilbao,0.0189,0.0000
+2025-05-15,SP1,Osasuna,Ath Madrid,0.0000,0.0000
+2025-05-15,SP1,Vallecano,Betis,0.0601,0.0000
+2025-05-18,SP1,Ath Madrid,Betis,0.0000,0.0000
+2025-05-18,SP1,Barcelona,Villarreal,0.0076,0.0000
+2025-05-18,SP1,Celta,Vallecano,0.0637,0.0584
+2025-05-18,SP1,Las Palmas,Leganes,0.0648,0.0000
+2025-05-18,SP1,Mallorca,Getafe,0.0000,0.0000
+2025-05-18,SP1,Osasuna,Espanol,0.0000,0.0000
+2025-05-18,SP1,Sevilla,Real Madrid,0.0145,0.1094
+2025-05-18,SP1,Sociedad,Girona,0.0000,0.1081
+2025-05-18,SP1,Valencia,Ath Bilbao,0.0000,0.0000
+2025-05-18,SP1,Valladolid,Alaves,0.1802,0.0688
+2025-05-23,SP1,Betis,Valencia,0.0000,0.0000
+2025-05-24,SP1,Alaves,Osasuna,0.0000,0.0000
+2025-05-24,SP1,Espanol,Las Palmas,0.0000,0.0545
+2025-05-24,SP1,Getafe,Celta,0.0000,0.0620
+2025-05-24,SP1,Leganes,Valladolid,0.0170,0.0000
+2025-05-24,SP1,Real Madrid,Sociedad,0.1065,0.0262
+2025-05-24,SP1,Vallecano,Mallorca,0.0000,0.0000
+2025-05-25,SP1,Ath Bilbao,Barcelona,0.0000,0.0074
+2025-05-25,SP1,Girona,Ath Madrid,0.0386,0.0000
+2025-05-25,SP1,Villarreal,Sevilla,0.0053,0.0039

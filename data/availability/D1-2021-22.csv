@@ -1,0 +1,307 @@
+date,league,home_team,away_team,missing_home,missing_away
+2021-08-13,D1,M'gladbach,Bayern Munich,,
+2021-08-14,D1,Augsburg,Hoffenheim,,
+2021-08-14,D1,Bielefeld,Freiburg,,
+2021-08-14,D1,Dortmund,Ein Frankfurt,,
+2021-08-14,D1,Stuttgart,Greuther Furth,,
+2021-08-14,D1,Union Berlin,Leverkusen,,
+2021-08-14,D1,Wolfsburg,Bochum,,
+2021-08-15,D1,FC Koln,Hertha,,
+2021-08-15,D1,Mainz,RB Leipzig,,
+2021-08-20,D1,RB Leipzig,Stuttgart,,
+2021-08-21,D1,Bochum,Mainz,,
+2021-08-21,D1,Ein Frankfurt,Augsburg,,
+2021-08-21,D1,Freiburg,Dortmund,,
+2021-08-21,D1,Greuther Furth,Bielefeld,,
+2021-08-21,D1,Hertha,Wolfsburg,,
+2021-08-21,D1,Leverkusen,M'gladbach,,
+2021-08-22,D1,Bayern Munich,FC Koln,,
+2021-08-22,D1,Hoffenheim,Union Berlin,,
+2021-08-27,D1,Dortmund,Hoffenheim,,
+2021-08-28,D1,Augsburg,Leverkusen,,
+2021-08-28,D1,Bayern Munich,Hertha,,
+2021-08-28,D1,Bielefeld,Ein Frankfurt,,
+2021-08-28,D1,FC Koln,Bochum,,
+2021-08-28,D1,Mainz,Greuther Furth,,
+2021-08-28,D1,Stuttgart,Freiburg,,
+2021-08-29,D1,Union Berlin,M'gladbach,,
+2021-08-29,D1,Wolfsburg,RB Leipzig,,
+2021-09-11,D1,Freiburg,FC Koln,0.0000,0.0000
+2021-09-11,D1,Greuther Furth,Wolfsburg,0.0000,0.0000
+2021-09-11,D1,Hoffenheim,Mainz,0.0000,0.0000
+2021-09-11,D1,Leverkusen,Dortmund,0.0000,0.0000
+2021-09-11,D1,RB Leipzig,Bayern Munich,0.0000,0.0000
+2021-09-11,D1,Union Berlin,Augsburg,0.0000,0.0000
+2021-09-12,D1,Bochum,Hertha,0.0000,0.0000
+2021-09-12,D1,Ein Frankfurt,Stuttgart,0.0000,0.0000
+2021-09-12,D1,M'gladbach,Bielefeld,0.0000,0.0000
+2021-09-17,D1,Hertha,Greuther Furth,0.0000,0.0000
+2021-09-18,D1,Augsburg,M'gladbach,0.0000,0.0000
+2021-09-18,D1,Bayern Munich,Bochum,0.0000,0.0000
+2021-09-18,D1,Bielefeld,Hoffenheim,0.0000,0.0000
+2021-09-18,D1,FC Koln,RB Leipzig,0.0000,0.0000
+2021-09-18,D1,Mainz,Freiburg,0.0000,0.0000
+2021-09-19,D1,Dortmund,Union Berlin,0.0000,0.0000
+2021-09-19,D1,Stuttgart,Leverkusen,0.0000,0.0000
+2021-09-19,D1,Wolfsburg,Ein Frankfurt,0.0000,0.0000
+2021-09-24,D1,Greuther Furth,Bayern Munich,0.0000,0.0000
+2021-09-25,D1,Ein Frankfurt,FC Koln,0.0000,0.0000
+2021-09-25,D1,Hoffenheim,Wolfsburg,0.0000,0.0000
+2021-09-25,D1,Leverkusen,Mainz,0.0000,0.0000
+2021-09-25,D1,M'gladbach,Dortmund,0.0000,0.0000
+2021-09-25,D1,RB Leipzig,Hertha,0.0000,0.0000
+2021-09-25,D1,Union Berlin,Bielefeld,0.0000,0.0000
+2021-09-26,D1,Bochum,Stuttgart,0.0000,0.0000
+2021-09-26,D1,Freiburg,Augsburg,0.0000,0.0000
+2021-10-01,D1,FC Koln,Greuther Furth,0.0000,0.0000
+2021-10-02,D1,Dortmund,Augsburg,0.0000,0.0000
+2021-10-02,D1,Hertha,Freiburg,0.0000,0.0000
+2021-10-02,D1,RB Leipzig,Bochum,0.0855,0.0000
+2021-10-02,D1,Stuttgart,Hoffenheim,0.0000,0.0000
+2021-10-02,D1,Wolfsburg,M'gladbach,0.0000,0.0000
+2021-10-03,D1,Bayern Munich,Ein Frankfurt,0.0000,0.0000
+2021-10-03,D1,Bielefeld,Leverkusen,0.0000,0.0000
+2021-10-03,D1,Mainz,Union Berlin,0.0000,0.0000
+2021-10-15,D1,Hoffenheim,FC Koln,0.0000,0.0000
+2021-10-16,D1,Dortmund,Mainz,0.0000,0.0662
+2021-10-16,D1,Ein Frankfurt,Hertha,0.0000,0.0000
+2021-10-16,D1,Freiburg,RB Leipzig,0.0000,0.0000
+2021-10-16,D1,Greuther Furth,Bochum,0.0000,0.0000
+2021-10-16,D1,M'gladbach,Stuttgart,0.0000,0.0000
+2021-10-16,D1,Union Berlin,Wolfsburg,0.0000,0.0000
+2021-10-17,D1,Augsburg,Bielefeld,0.0000,0.0000
+2021-10-17,D1,Leverkusen,Bayern Munich,0.0303,0.0000
+2021-10-22,D1,Mainz,Augsburg,0.0000,0.0000
+2021-10-23,D1,Bayern Munich,Hoffenheim,0.0776,0.0000
+2021-10-23,D1,Bielefeld,Dortmund,0.0000,0.0000
+2021-10-23,D1,Hertha,M'gladbach,0.0000,0.0000
+2021-10-23,D1,RB Leipzig,Greuther Furth,0.0000,0.0000
+2021-10-23,D1,Wolfsburg,Freiburg,0.0000,0.0000
+2021-10-24,D1,Bochum,Ein Frankfurt,0.0000,0.0000
+2021-10-24,D1,FC Koln,Leverkusen,0.0102,0.0000
+2021-10-24,D1,Stuttgart,Union Berlin,0.0000,0.0000
+2021-10-29,D1,Hoffenheim,Hertha,0.0000,0.0000
+2021-10-30,D1,Bielefeld,Mainz,0.0000,0.0000
+2021-10-30,D1,Dortmund,FC Koln,0.0000,0.0000
+2021-10-30,D1,Ein Frankfurt,RB Leipzig,0.0000,0.0000
+2021-10-30,D1,Freiburg,Greuther Furth,0.0000,0.0000
+2021-10-30,D1,Leverkusen,Wolfsburg,0.0000,0.0000
+2021-10-30,D1,Union Berlin,Bayern Munich,0.0000,0.0000
+2021-10-31,D1,Augsburg,Stuttgart,0.0000,0.0000
+2021-10-31,D1,M'gladbach,Bochum,0.0000,0.0000
+2021-11-05,D1,Mainz,M'gladbach,0.0000,0.0000
+2021-11-06,D1,Bayern Munich,Freiburg,0.0000,0.0000
+2021-11-06,D1,Bochum,Hoffenheim,0.0000,0.0000
+2021-11-06,D1,RB Leipzig,Dortmund,0.0000,0.0197
+2021-11-06,D1,Stuttgart,Bielefeld,0.0000,0.0000
+2021-11-06,D1,Wolfsburg,Augsburg,0.0000,0.0000
+2021-11-07,D1,FC Koln,Union Berlin,0.0000,0.0000
+2021-11-07,D1,Greuther Furth,Ein Frankfurt,0.0000,0.0000
+2021-11-07,D1,Hertha,Leverkusen,0.0000,0.0000
+2021-11-19,D1,Augsburg,Bayern Munich,0.0000,0.0217
+2021-11-20,D1,Bielefeld,Wolfsburg,0.0000,0.0000
+2021-11-20,D1,Dortmund,Stuttgart,0.0000,0.0000
+2021-11-20,D1,Hoffenheim,RB Leipzig,0.0000,0.0447
+2021-11-20,D1,Leverkusen,Bochum,0.0000,0.0000
+2021-11-20,D1,M'gladbach,Greuther Furth,0.0000,0.0000
+2021-11-20,D1,Union Berlin,Hertha,0.0000,0.0000
+2021-11-21,D1,Freiburg,Ein Frankfurt,0.0000,0.0000
+2021-11-21,D1,Mainz,FC Koln,0.0000,0.0000
+2021-11-26,D1,Stuttgart,Mainz,0.0000,0.0636
+2021-11-27,D1,Bayern Munich,Bielefeld,0.0000,0.0000
+2021-11-27,D1,Bochum,Freiburg,0.0000,0.0000
+2021-11-27,D1,FC Koln,M'gladbach,0.0000,0.0000
+2021-11-27,D1,Greuther Furth,Hoffenheim,0.0000,0.0000
+2021-11-27,D1,Hertha,Augsburg,0.0000,0.0833
+2021-11-27,D1,Wolfsburg,Dortmund,0.0000,0.0000
+2021-11-28,D1,Ein Frankfurt,Union Berlin,0.0000,0.0000
+2021-11-28,D1,RB Leipzig,Leverkusen,0.0000,0.0000
+2021-12-03,D1,Union Berlin,RB Leipzig,0.0000,0.1028
+2021-12-04,D1,Augsburg,Bochum,0.0769,0.0000
+2021-12-04,D1,Bielefeld,FC Koln,0.0000,0.0000
+2021-12-04,D1,Dortmund,Bayern Munich,0.0000,0.0000
+2021-12-04,D1,Hoffenheim,Ein Frankfurt,0.0000,0.0000
+2021-12-04,D1,Leverkusen,Greuther Furth,0.0000,0.0000
+2021-12-04,D1,Mainz,Wolfsburg,0.1304,0.1022
+2021-12-05,D1,M'gladbach,Freiburg,0.0000,0.0000
+2021-12-05,D1,Stuttgart,Hertha,0.0000,0.0000
+2021-12-10,D1,FC Koln,Augsburg,0.0000,0.0000
+2021-12-11,D1,Bayern Munich,Mainz,0.0000,0.0000
+2021-12-11,D1,Bochum,Dortmund,0.0000,0.0000
+2021-12-11,D1,Freiburg,Hoffenheim,0.0000,0.0000
+2021-12-11,D1,Hertha,Bielefeld,0.0000,0.0000
+2021-12-11,D1,RB Leipzig,M'gladbach,0.0603,0.0000
+2021-12-11,D1,Wolfsburg,Stuttgart,0.0000,0.0000
+2021-12-12,D1,Ein Frankfurt,Leverkusen,0.0000,0.0000
+2021-12-12,D1,Greuther Furth,Union Berlin,0.0000,0.0000
+2021-12-14,D1,Bielefeld,Bochum,0.0000,0.0000
+2021-12-14,D1,Mainz,Hertha,0.0000,0.0000
+2021-12-14,D1,Stuttgart,Bayern Munich,0.0000,0.0000
+2021-12-14,D1,Wolfsburg,FC Koln,0.0000,0.0000
+2021-12-15,D1,Augsburg,RB Leipzig,0.0000,0.0563
+2021-12-15,D1,Dortmund,Greuther Furth,0.0000,0.0000
+2021-12-15,D1,Leverkusen,Hoffenheim,0.0000,0.0000
+2021-12-15,D1,M'gladbach,Ein Frankfurt,0.0806,0.0000
+2021-12-15,D1,Union Berlin,Freiburg,0.0000,0.0000
+2021-12-17,D1,Bayern Munich,Wolfsburg,0.0332,0.0000
+2021-12-18,D1,Bochum,Union Berlin,0.0000,0.0000
+2021-12-18,D1,Ein Frankfurt,Mainz,0.0000,0.0477
+2021-12-18,D1,Greuther Furth,Augsburg,0.0000,0.0000
+2021-12-18,D1,Hertha,Dortmund,0.0000,0.0000
+2021-12-18,D1,Hoffenheim,M'gladbach,0.0000,0.0755
+2021-12-18,D1,RB Leipzig,Bielefeld,0.0000,0.0000
+2021-12-19,D1,FC Koln,Stuttgart,0.0000,0.0000
+2021-12-19,D1,Freiburg,Leverkusen,0.0000,0.0000
+2022-01-07,D1,Bayern Munich,M'gladbach,0.0746,0.0000
+2022-01-08,D1,Ein Frankfurt,Dortmund,0.0000,0.0000
+2022-01-08,D1,Freiburg,Bielefeld,0.0000,0.0000
+2022-01-08,D1,Greuther Furth,Stuttgart,0.0000,0.0064
+2022-01-08,D1,Hoffenheim,Augsburg,0.0000,0.0000
+2022-01-08,D1,Leverkusen,Union Berlin,0.0000,0.0000
+2022-01-08,D1,RB Leipzig,Mainz,0.0781,0.0449
+2022-01-09,D1,Bochum,Wolfsburg,0.0000,0.0000
+2022-01-09,D1,Hertha,FC Koln,0.0000,0.0000
+2022-01-14,D1,Dortmund,Freiburg,0.0000,0.0000
+2022-01-15,D1,FC Koln,Bayern Munich,0.0000,0.0999
+2022-01-15,D1,M'gladbach,Leverkusen,0.0000,0.0000
+2022-01-15,D1,Mainz,Bochum,0.0000,0.0000
+2022-01-15,D1,Stuttgart,RB Leipzig,0.0000,0.0485
+2022-01-15,D1,Union Berlin,Hoffenheim,0.0000,0.0450
+2022-01-15,D1,Wolfsburg,Hertha,0.0000,0.0000
+2022-01-16,D1,Augsburg,Ein Frankfurt,0.0000,0.0000
+2022-01-16,D1,Bielefeld,Greuther Furth,0.0000,0.0000
+2022-01-21,D1,Ein Frankfurt,Bielefeld,0.0000,0.0000
+2022-01-22,D1,Bochum,FC Koln,0.0000,0.0000
+2022-01-22,D1,Freiburg,Stuttgart,0.0000,0.1064
+2022-01-22,D1,Greuther Furth,Mainz,0.0000,0.0736
+2022-01-22,D1,Hoffenheim,Dortmund,0.0000,0.0000
+2022-01-22,D1,Leverkusen,Augsburg,0.0000,0.0000
+2022-01-22,D1,M'gladbach,Union Berlin,0.0000,0.0000
+2022-01-23,D1,Hertha,Bayern Munich,0.0000,0.0667
+2022-01-23,D1,RB Leipzig,Wolfsburg,0.0459,0.0000
+2022-02-04,D1,Hertha,Bochum,0.0000,0.0000
+2022-02-05,D1,Augsburg,Union Berlin,0.0000,0.0000
+2022-02-05,D1,Bayern Munich,RB Leipzig,0.0634,0.0000
+2022-02-05,D1,Bielefeld,M'gladbach,0.0000,0.0000
+2022-02-05,D1,FC Koln,Freiburg,0.0000,0.0000
+2022-02-05,D1,Mainz,Hoffenheim,0.0000,0.0000
+2022-02-05,D1,Stuttgart,Ein Frankfurt,0.0000,0.0000
+2022-02-06,D1,Dortmund,Leverkusen,0.0574,0.1037
+2022-02-06,D1,Wolfsburg,Greuther Furth,0.0000,0.0000
+2022-02-11,D1,RB Leipzig,FC Koln,0.0000,0.0000
+2022-02-12,D1,Bochum,Bayern Munich,0.0000,0.1040
+2022-02-12,D1,Ein Frankfurt,Wolfsburg,0.0000,0.0000
+2022-02-12,D1,Freiburg,Mainz,0.0000,0.0000
+2022-02-12,D1,Greuther Furth,Hertha,0.0000,0.0000
+2022-02-12,D1,Leverkusen,Stuttgart,0.0000,0.0000
+2022-02-12,D1,M'gladbach,Augsburg,0.0000,0.0000
+2022-02-13,D1,Hoffenheim,Bielefeld,0.0000,0.0000
+2022-02-13,D1,Union Berlin,Dortmund,0.0000,0.0000
+2022-02-18,D1,Mainz,Leverkusen,0.0000,0.0000
+2022-02-19,D1,Augsburg,Freiburg,0.0000,0.0000
+2022-02-19,D1,Bielefeld,Union Berlin,0.0000,0.0000
+2022-02-19,D1,FC Koln,Ein Frankfurt,0.0000,0.0000
+2022-02-19,D1,Stuttgart,Bochum,0.0000,0.0000
+2022-02-19,D1,Wolfsburg,Hoffenheim,0.0000,0.0000
+2022-02-20,D1,Bayern Munich,Greuther Furth,0.0576,0.0000
+2022-02-20,D1,Dortmund,M'gladbach,0.0000,0.0000
+2022-02-20,D1,Hertha,RB Leipzig,0.0000,0.0000
+2022-02-25,D1,Hoffenheim,Stuttgart,0.0000,0.0000
+2022-02-26,D1,Ein Frankfurt,Bayern Munich,0.0000,0.1342
+2022-02-26,D1,Freiburg,Hertha,0.0000,0.0251
+2022-02-26,D1,Greuther Furth,FC Koln,0.0000,0.0000
+2022-02-26,D1,Leverkusen,Bielefeld,0.0000,0.0000
+2022-02-26,D1,M'gladbach,Wolfsburg,0.0177,0.0000
+2022-02-26,D1,Union Berlin,Mainz,0.0000,0.0000
+2022-02-27,D1,Augsburg,Dortmund,0.0000,0.0000
+2022-02-27,D1,Bochum,RB Leipzig,0.0000,0.0000
+2022-03-04,D1,Bielefeld,Augsburg,0.0000,0.0000
+2022-03-05,D1,Bayern Munich,Leverkusen,0.0528,0.0000
+2022-03-05,D1,Bochum,Greuther Furth,0.0000,0.0000
+2022-03-05,D1,Hertha,Ein Frankfurt,0.0000,0.0000
+2022-03-05,D1,RB Leipzig,Freiburg,0.0000,0.0000
+2022-03-05,D1,Stuttgart,M'gladbach,0.0000,0.0170
+2022-03-05,D1,Wolfsburg,Union Berlin,0.0000,0.0000
+2022-03-06,D1,FC Koln,Hoffenheim,0.0000,0.0000
+2022-03-12,D1,Freiburg,Wolfsburg,0.0000,0.0000
+2022-03-12,D1,Hoffenheim,Bayern Munich,0.0000,0.0507
+2022-03-12,D1,M'gladbach,Hertha,0.0000,0.0000
+2022-03-12,D1,Union Berlin,Stuttgart,0.0000,0.0116
+2022-03-13,D1,Dortmund,Bielefeld,0.0000,0.0000
+2022-03-13,D1,Ein Frankfurt,Bochum,0.0000,0.0000
+2022-03-13,D1,Greuther Furth,RB Leipzig,0.0000,0.0000
+2022-03-13,D1,Leverkusen,FC Koln,0.0000,0.0000
+2022-03-16,D1,Mainz,Dortmund,0.0000,0.0000
+2022-03-18,D1,Bochum,M'gladbach,0.0000,0.0936
+2022-03-19,D1,Bayern Munich,Union Berlin,0.0488,0.0000
+2022-03-19,D1,Greuther Furth,Freiburg,0.0000,0.0000
+2022-03-19,D1,Hertha,Hoffenheim,0.0000,0.1037
+2022-03-19,D1,Mainz,Bielefeld,0.0000,0.0000
+2022-03-19,D1,Stuttgart,Augsburg,0.0000,0.0000
+2022-03-20,D1,FC Koln,Dortmund,0.0000,0.0000
+2022-03-20,D1,RB Leipzig,Ein Frankfurt,0.0000,0.0000
+2022-03-20,D1,Wolfsburg,Leverkusen,0.0000,0.0000
+2022-04-01,D1,Union Berlin,FC Koln,0.0000,0.0000
+2022-04-02,D1,Bielefeld,Stuttgart,0.0000,0.0000
+2022-04-02,D1,Dortmund,RB Leipzig,0.0000,0.0852
+2022-04-02,D1,Ein Frankfurt,Greuther Furth,0.0000,0.0000
+2022-04-02,D1,Freiburg,Bayern Munich,0.0000,0.0470
+2022-04-02,D1,Hoffenheim,Bochum,0.0000,0.0000
+2022-04-02,D1,Leverkusen,Hertha,0.0000,0.0000
+2022-04-03,D1,Augsburg,Wolfsburg,0.0000,0.0000
+2022-04-03,D1,M'gladbach,Mainz,0.0151,0.0428
+2022-04-06,D1,Augsburg,Mainz,0.0163,0.0000
+2022-04-08,D1,Stuttgart,Dortmund,0.0000,0.0000
+2022-04-09,D1,Bayern Munich,Augsburg,0.0000,0.0000
+2022-04-09,D1,FC Koln,Mainz,0.0000,0.0000
+2022-04-09,D1,Greuther Furth,M'gladbach,0.0000,0.0146
+2022-04-09,D1,Hertha,Union Berlin,0.0000,0.0000
+2022-04-09,D1,Wolfsburg,Bielefeld,0.0000,0.0000
+2022-04-10,D1,Bochum,Leverkusen,0.0000,0.0000
+2022-04-10,D1,Ein Frankfurt,Freiburg,0.0000,0.0000
+2022-04-10,D1,RB Leipzig,Hoffenheim,0.0477,0.0000
+2022-04-16,D1,Augsburg,Hertha,0.0000,0.0010
+2022-04-16,D1,Dortmund,Wolfsburg,0.0000,0.0003
+2022-04-16,D1,Freiburg,Bochum,0.0000,0.0000
+2022-04-16,D1,M'gladbach,FC Koln,0.0141,0.0000
+2022-04-16,D1,Mainz,Stuttgart,0.0000,0.0000
+2022-04-17,D1,Bielefeld,Bayern Munich,0.0000,0.0408
+2022-04-17,D1,Hoffenheim,Greuther Furth,0.0000,0.0000
+2022-04-17,D1,Leverkusen,RB Leipzig,0.0000,0.0461
+2022-04-17,D1,Union Berlin,Ein Frankfurt,0.0000,0.0000
+2022-04-22,D1,Wolfsburg,Mainz,0.0000,0.0000
+2022-04-23,D1,Bayern Munich,Dortmund,0.0000,0.0000
+2022-04-23,D1,Ein Frankfurt,Hoffenheim,0.0000,0.0000
+2022-04-23,D1,FC Koln,Bielefeld,0.0000,0.0000
+2022-04-23,D1,Freiburg,M'gladbach,0.0000,0.0000
+2022-04-23,D1,Greuther Furth,Leverkusen,0.0000,0.0000
+2022-04-23,D1,RB Leipzig,Union Berlin,0.0445,0.0000
+2022-04-24,D1,Bochum,Augsburg,0.0000,0.0000
+2022-04-24,D1,Hertha,Stuttgart,0.0000,0.0000
+2022-04-29,D1,Union Berlin,Greuther Furth,0.0000,0.0000
+2022-04-30,D1,Augsburg,FC Koln,0.0000,0.0000
+2022-04-30,D1,Bielefeld,Hertha,0.0000,0.0000
+2022-04-30,D1,Dortmund,Bochum,0.0000,0.0000
+2022-04-30,D1,Hoffenheim,Freiburg,0.0000,0.0000
+2022-04-30,D1,Mainz,Bayern Munich,0.0000,0.0000
+2022-04-30,D1,Stuttgart,Wolfsburg,0.0000,0.0000
+2022-05-02,D1,Leverkusen,Ein Frankfurt,0.0000,0.0000
+2022-05-02,D1,M'gladbach,RB Leipzig,0.0000,0.0000
+2022-05-06,D1,Bochum,Bielefeld,0.0000,0.0000
+2022-05-07,D1,FC Koln,Wolfsburg,0.0000,0.0000
+2022-05-07,D1,Freiburg,Union Berlin,0.0000,0.0000
+2022-05-07,D1,Greuther Furth,Dortmund,0.0000,0.0000
+2022-05-07,D1,Hertha,Mainz,0.0000,0.0000
+2022-05-07,D1,Hoffenheim,Leverkusen,0.0000,0.0000
+2022-05-08,D1,Bayern Munich,Stuttgart,0.0440,0.0000
+2022-05-08,D1,Ein Frankfurt,M'gladbach,0.0000,0.0775
+2022-05-08,D1,RB Leipzig,Augsburg,0.0417,0.0000
+2022-05-14,D1,Augsburg,Greuther Furth,0.0000,0.0000
+2022-05-14,D1,Bielefeld,RB Leipzig,0.0000,0.0000
+2022-05-14,D1,Dortmund,Hertha,0.0000,0.0000
+2022-05-14,D1,Leverkusen,Freiburg,0.0000,0.0000
+2022-05-14,D1,M'gladbach,Hoffenheim,0.0000,0.0000
+2022-05-14,D1,Mainz,Ein Frankfurt,0.0000,0.0000
+2022-05-14,D1,Stuttgart,FC Koln,0.0000,0.0000
+2022-05-14,D1,Union Berlin,Bochum,0.0000,0.0000
+2022-05-14,D1,Wolfsburg,Bayern Munich,0.0000,0.0000

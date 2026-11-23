@@ -1,0 +1,382 @@
+date,league,home_team,away_team,missing_home,missing_away
+2023-08-11,E0,Burnley,Man City,,
+2023-08-12,E0,Arsenal,Nott'm Forest,,
+2023-08-12,E0,Bournemouth,West Ham,,
+2023-08-12,E0,Brighton,Luton,,
+2023-08-12,E0,Everton,Fulham,,
+2023-08-12,E0,Newcastle,Aston Villa,,
+2023-08-12,E0,Sheffield United,Crystal Palace,,
+2023-08-13,E0,Brentford,Tottenham,,
+2023-08-13,E0,Chelsea,Liverpool,,
+2023-08-14,E0,Man United,Wolves,,
+2023-08-18,E0,Nott'm Forest,Sheffield United,,
+2023-08-19,E0,Fulham,Brentford,,
+2023-08-19,E0,Liverpool,Bournemouth,,
+2023-08-19,E0,Man City,Newcastle,,
+2023-08-19,E0,Tottenham,Man United,,
+2023-08-19,E0,Wolves,Brighton,,
+2023-08-20,E0,Aston Villa,Everton,,
+2023-08-20,E0,West Ham,Chelsea,,
+2023-08-21,E0,Crystal Palace,Arsenal,,
+2023-08-25,E0,Chelsea,Luton,,
+2023-08-26,E0,Arsenal,Fulham,,
+2023-08-26,E0,Bournemouth,Tottenham,,
+2023-08-26,E0,Brentford,Crystal Palace,,
+2023-08-26,E0,Brighton,West Ham,,
+2023-08-26,E0,Everton,Wolves,,
+2023-08-26,E0,Man United,Nott'm Forest,,
+2023-08-27,E0,Burnley,Aston Villa,,
+2023-08-27,E0,Newcastle,Liverpool,,
+2023-08-27,E0,Sheffield United,Man City,,
+2023-09-01,E0,Luton,West Ham,,0.0000
+2023-09-02,E0,Brentford,Bournemouth,0.0303,0.0000
+2023-09-02,E0,Brighton,Newcastle,0.0000,0.0000
+2023-09-02,E0,Burnley,Tottenham,,0.0067
+2023-09-02,E0,Chelsea,Nott'm Forest,0.0648,0.0000
+2023-09-02,E0,Man City,Fulham,0.0073,0.0829
+2023-09-02,E0,Sheffield United,Everton,0.1037,0.0000
+2023-09-03,E0,Arsenal,Man United,0.0159,0.0606
+2023-09-03,E0,Crystal Palace,Wolves,0.0000,0.0000
+2023-09-03,E0,Liverpool,Aston Villa,0.0000,0.0099
+2023-09-16,E0,Aston Villa,Crystal Palace,0.0074,0.0909
+2023-09-16,E0,Fulham,Luton,0.0000,0.0000
+2023-09-16,E0,Man United,Brighton,0.0000,0.0000
+2023-09-16,E0,Newcastle,Brentford,0.0000,0.0227
+2023-09-16,E0,Tottenham,Sheffield United,0.0050,0.1976
+2023-09-16,E0,West Ham,Man City,0.0000,0.1316
+2023-09-16,E0,Wolves,Liverpool,0.0000,0.0806
+2023-09-17,E0,Bournemouth,Chelsea,0.0000,0.0612
+2023-09-17,E0,Everton,Arsenal,0.0000,0.0708
+2023-09-18,E0,Nott'm Forest,Burnley,0.0687,0.0303
+2023-09-23,E0,Brentford,Everton,0.0989,0.0000
+2023-09-23,E0,Burnley,Man United,0.0000,0.1652
+2023-09-23,E0,Crystal Palace,Fulham,0.0833,0.1449
+2023-09-23,E0,Luton,Wolves,0.0000,0.0000
+2023-09-23,E0,Man City,Nott'm Forest,0.0616,0.0549
+2023-09-24,E0,Arsenal,Tottenham,0.1531,0.0276
+2023-09-24,E0,Brighton,Bournemouth,0.1330,0.0000
+2023-09-24,E0,Chelsea,Aston Villa,0.0490,0.0059
+2023-09-24,E0,Liverpool,West Ham,0.0645,0.0000
+2023-09-24,E0,Sheffield United,Newcastle,0.1581,0.0000
+2023-09-30,E0,Aston Villa,Brighton,0.0000,0.0000
+2023-09-30,E0,Bournemouth,Arsenal,0.0000,0.0000
+2023-09-30,E0,Everton,Luton,0.0000,0.0000
+2023-09-30,E0,Man United,Crystal Palace,0.0619,0.0000
+2023-09-30,E0,Newcastle,Burnley,0.0745,0.0145
+2023-09-30,E0,Tottenham,Liverpool,0.0000,0.0000
+2023-09-30,E0,West Ham,Sheffield United,0.0000,0.0000
+2023-09-30,E0,Wolves,Man City,0.0000,0.0000
+2023-10-01,E0,Nott'm Forest,Brentford,0.0000,0.0000
+2023-10-02,E0,Fulham,Chelsea,0.0000,0.0000
+2023-10-03,E0,Luton,Burnley,0.0000,0.0000
+2023-10-07,E0,Burnley,Chelsea,0.0711,0.0000
+2023-10-07,E0,Crystal Palace,Nott'm Forest,0.0902,0.0000
+2023-10-07,E0,Everton,Bournemouth,0.0000,0.0000
+2023-10-07,E0,Fulham,Sheffield United,0.0000,0.0000
+2023-10-07,E0,Luton,Tottenham,0.0000,0.0000
+2023-10-07,E0,Man United,Brentford,0.0530,0.0000
+2023-10-08,E0,Arsenal,Man City,0.0000,0.0000
+2023-10-08,E0,Brighton,Liverpool,0.0000,0.0000
+2023-10-08,E0,West Ham,Newcastle,0.0000,0.1409
+2023-10-08,E0,Wolves,Aston Villa,0.0000,0.0000
+2023-10-21,E0,Bournemouth,Wolves,0.0115,0.0000
+2023-10-21,E0,Brentford,Burnley,0.0000,0.0622
+2023-10-21,E0,Chelsea,Arsenal,0.0000,0.0000
+2023-10-21,E0,Liverpool,Everton,0.0000,0.0000
+2023-10-21,E0,Man City,Brighton,0.0000,0.0000
+2023-10-21,E0,Newcastle,Crystal Palace,0.0000,0.0000
+2023-10-21,E0,Nott'm Forest,Luton,0.0000,0.0000
+2023-10-21,E0,Sheffield United,Man United,0.0086,0.0464
+2023-10-22,E0,Aston Villa,West Ham,0.0000,0.0000
+2023-10-23,E0,Tottenham,Fulham,0.0878,0.0531
+2023-10-27,E0,Crystal Palace,Tottenham,0.0000,0.0000
+2023-10-28,E0,Arsenal,Sheffield United,0.0413,0.0000
+2023-10-28,E0,Bournemouth,Burnley,0.0627,0.1390
+2023-10-28,E0,Chelsea,Brentford,0.0000,0.0000
+2023-10-28,E0,Wolves,Newcastle,0.0000,0.0000
+2023-10-29,E0,Aston Villa,Luton,0.0033,0.0000
+2023-10-29,E0,Brighton,Fulham,0.0605,0.0783
+2023-10-29,E0,Liverpool,Nott'm Forest,0.0000,0.0000
+2023-10-29,E0,Man United,Man City,0.0413,0.0000
+2023-10-29,E0,West Ham,Everton,0.0000,0.0000
+2023-11-04,E0,Brentford,West Ham,0.0000,0.0000
+2023-11-04,E0,Burnley,Crystal Palace,0.0000,0.0000
+2023-11-04,E0,Everton,Brighton,0.0000,0.0544
+2023-11-04,E0,Fulham,Man United,0.0000,0.0371
+2023-11-04,E0,Man City,Bournemouth,0.0000,0.0565
+2023-11-04,E0,Newcastle,Arsenal,0.0083,0.0371
+2023-11-04,E0,Sheffield United,Wolves,0.0069,0.0000
+2023-11-05,E0,Luton,Liverpool,0.0000,0.0000
+2023-11-05,E0,Nott'm Forest,Aston Villa,0.0000,0.0000
+2023-11-06,E0,Tottenham,Chelsea,0.0000,0.0000
+2023-11-11,E0,Arsenal,Burnley,0.1202,0.0000
+2023-11-11,E0,Bournemouth,Newcastle,0.0000,0.0000
+2023-11-11,E0,Crystal Palace,Everton,0.0000,0.0000
+2023-11-11,E0,Man United,Luton,0.0338,0.0000
+2023-11-11,E0,Wolves,Tottenham,0.0000,0.1524
+2023-11-12,E0,Aston Villa,Fulham,0.0000,0.0000
+2023-11-12,E0,Brighton,Sheffield United,0.0495,0.0063
+2023-11-12,E0,Chelsea,Man City,0.0853,0.0000
+2023-11-12,E0,Liverpool,Brentford,0.0825,0.0000
+2023-11-12,E0,West Ham,Nott'm Forest,0.0000,0.0000
+2023-11-25,E0,Brentford,Arsenal,0.0000,0.0000
+2023-11-25,E0,Burnley,West Ham,0.0000,0.0000
+2023-11-25,E0,Luton,Crystal Palace,0.0000,0.0000
+2023-11-25,E0,Man City,Liverpool,0.0470,0.0000
+2023-11-25,E0,Newcastle,Chelsea,0.0116,0.0000
+2023-11-25,E0,Nott'm Forest,Brighton,0.0000,0.0908
+2023-11-25,E0,Sheffield United,Bournemouth,0.0057,0.0000
+2023-11-26,E0,Everton,Man United,0.0000,0.0309
+2023-11-26,E0,Tottenham,Aston Villa,0.1663,0.0000
+2023-11-27,E0,Fulham,Wolves,0.0000,0.0000
+2023-12-02,E0,Arsenal,Wolves,0.0000,0.0000
+2023-12-02,E0,Brentford,Luton,0.0537,0.0000
+2023-12-02,E0,Burnley,Sheffield United,0.0579,0.0053
+2023-12-02,E0,Newcastle,Man United,0.0064,0.0286
+2023-12-02,E0,Nott'm Forest,Everton,0.0000,0.0000
+2023-12-03,E0,Bournemouth,Aston Villa,0.0144,0.0000
+2023-12-03,E0,Chelsea,Brighton,0.0000,0.0838
+2023-12-03,E0,Liverpool,Fulham,0.0000,0.0000
+2023-12-03,E0,Man City,Tottenham,0.0000,0.0665
+2023-12-03,E0,West Ham,Crystal Palace,0.0000,0.0708
+2023-12-05,E0,Luton,Arsenal,0.0774,0.0452
+2023-12-05,E0,Wolves,Burnley,0.0000,0.1147
+2023-12-06,E0,Aston Villa,Man City,0.0000,0.0000
+2023-12-06,E0,Brighton,Brentford,0.0779,0.0000
+2023-12-06,E0,Crystal Palace,Bournemouth,0.0658,0.0000
+2023-12-06,E0,Fulham,Nott'm Forest,0.0503,0.0000
+2023-12-06,E0,Man United,Chelsea,0.0265,0.0000
+2023-12-06,E0,Sheffield United,Liverpool,0.0000,0.0000
+2023-12-07,E0,Everton,Newcastle,0.0000,0.0000
+2023-12-07,E0,Tottenham,West Ham,0.0618,0.0566
+2023-12-09,E0,Aston Villa,Arsenal,0.0000,0.0422
+2023-12-09,E0,Brighton,Burnley,0.0727,0.0000
+2023-12-09,E0,Crystal Palace,Liverpool,0.0614,0.0738
+2023-12-09,E0,Man United,Bournemouth,0.0248,0.0000
+2023-12-09,E0,Sheffield United,Brentford,0.0046,0.0000
+2023-12-09,E0,Wolves,Nott'm Forest,0.0000,0.0000
+2023-12-10,E0,Everton,Chelsea,0.0000,0.0000
+2023-12-10,E0,Fulham,West Ham,0.0000,0.1191
+2023-12-10,E0,Luton,Man City,0.0000,0.0000
+2023-12-10,E0,Tottenham,Newcastle,0.0577,0.0056
+2023-12-15,E0,Nott'm Forest,Tottenham,0.0000,0.0541
+2023-12-16,E0,Bournemouth,Luton,0.0000,0.0000
+2023-12-16,E0,Burnley,Everton,0.0000,0.0795
+2023-12-16,E0,Chelsea,Sheffield United,0.0000,0.0043
+2023-12-16,E0,Man City,Crystal Palace,0.0000,0.0575
+2023-12-16,E0,Newcastle,Fulham,0.1413,0.0775
+2023-12-17,E0,Arsenal,Brighton,0.0000,0.0681
+2023-12-17,E0,Brentford,Aston Villa,0.0000,0.0000
+2023-12-17,E0,Liverpool,Man United,0.0692,0.0232
+2023-12-17,E0,West Ham,Wolves,0.0000,0.0000
+2023-12-21,E0,Crystal Palace,Brighton,0.0542,0.0641
+2023-12-22,E0,Aston Villa,Sheffield United,0.0000,0.0041
+2023-12-23,E0,Fulham,Burnley,0.0000,0.0050
+2023-12-23,E0,Liverpool,Arsenal,0.0000,0.0401
+2023-12-23,E0,Luton,Newcastle,0.0000,0.0655
+2023-12-23,E0,Nott'm Forest,Bournemouth,0.0000,0.0000
+2023-12-23,E0,Tottenham,Everton,0.1254,0.0000
+2023-12-23,E0,West Ham,Man United,0.0466,0.1037
+2023-12-24,E0,Wolves,Chelsea,0.0162,0.0000
+2023-12-26,E0,Bournemouth,Fulham,0.0000,0.0000
+2023-12-26,E0,Burnley,Liverpool,0.0000,0.0000
+2023-12-26,E0,Man United,Aston Villa,0.0206,0.0000
+2023-12-26,E0,Newcastle,Nott'm Forest,0.0000,0.0000
+2023-12-26,E0,Sheffield United,Luton,0.0000,0.0000
+2023-12-27,E0,Brentford,Wolves,0.0000,0.0000
+2023-12-27,E0,Chelsea,Crystal Palace,0.0000,0.0511
+2023-12-27,E0,Everton,Man City,0.0000,0.0000
+2023-12-28,E0,Arsenal,West Ham,0.0970,0.0440
+2023-12-28,E0,Brighton,Tottenham,0.0606,0.1183
+2023-12-30,E0,Aston Villa,Burnley,0.0000,0.0000
+2023-12-30,E0,Crystal Palace,Brentford,0.0485,0.0000
+2023-12-30,E0,Luton,Chelsea,0.0000,0.0263
+2023-12-30,E0,Man City,Sheffield United,0.0000,0.0036
+2023-12-30,E0,Nott'm Forest,Man United,0.0000,0.0195
+2023-12-30,E0,Wolves,Everton,0.0000,0.0000
+2023-12-31,E0,Fulham,Arsenal,0.0000,0.0000
+2023-12-31,E0,Tottenham,Bournemouth,0.1997,0.0000
+2024-01-01,E0,Liverpool,Newcastle,0.0000,0.0044
+2024-01-02,E0,West Ham,Brighton,0.0417,0.1251
+2024-01-12,E0,Burnley,Luton,0.0000,0.0000
+2024-01-13,E0,Chelsea,Fulham,0.0067,0.0000
+2024-01-13,E0,Newcastle,Man City,0.0000,0.0000
+2024-01-14,E0,Everton,Aston Villa,0.0000,0.0000
+2024-01-14,E0,Man United,Tottenham,0.0000,0.1265
+2024-01-20,E0,Arsenal,Crystal Palace,0.0340,0.0460
+2024-01-20,E0,Brentford,Nott'm Forest,0.0000,0.0000
+2024-01-21,E0,Bournemouth,Liverpool,0.0422,0.0000
+2024-01-21,E0,Sheffield United,West Ham,0.0000,0.0000
+2024-01-22,E0,Brighton,Wolves,0.0308,0.0137
+2024-01-30,E0,Aston Villa,Newcastle,0.0000,0.0067
+2024-01-30,E0,Crystal Palace,Sheffield United,0.0438,0.0000
+2024-01-30,E0,Fulham,Everton,0.0000,0.0000
+2024-01-30,E0,Luton,Brighton,0.0000,0.0259
+2024-01-30,E0,Nott'm Forest,Arsenal,0.0000,0.0000
+2024-01-31,E0,Liverpool,Chelsea,0.0000,0.0000
+2024-01-31,E0,Man City,Burnley,0.0000,0.0587
+2024-01-31,E0,Tottenham,Brentford,0.0602,0.0000
+2024-02-01,E0,West Ham,Bournemouth,0.0000,0.0000
+2024-02-01,E0,Wolves,Man United,0.0000,0.0000
+2024-02-03,E0,Brighton,Crystal Palace,0.0247,0.0418
+2024-02-03,E0,Burnley,Fulham,0.0950,0.0000
+2024-02-03,E0,Everton,Tottenham,0.0000,0.0761
+2024-02-03,E0,Newcastle,Luton,0.0552,0.0000
+2024-02-03,E0,Sheffield United,Aston Villa,0.0000,0.0000
+2024-02-04,E0,Arsenal,Liverpool,0.0826,0.0000
+2024-02-04,E0,Bournemouth,Nott'm Forest,0.0000,0.0000
+2024-02-04,E0,Chelsea,Wolves,0.0747,0.0000
+2024-02-04,E0,Man United,West Ham,0.0000,0.0000
+2024-02-05,E0,Brentford,Man City,0.0000,0.0000
+2024-02-10,E0,Fulham,Bournemouth,0.0000,0.0000
+2024-02-10,E0,Liverpool,Burnley,0.0519,0.0723
+2024-02-10,E0,Luton,Sheffield United,0.0000,0.0000
+2024-02-10,E0,Man City,Everton,0.0399,0.0000
+2024-02-10,E0,Nott'm Forest,Newcastle,0.0000,0.0492
+2024-02-10,E0,Tottenham,Brighton,0.0000,0.0571
+2024-02-10,E0,Wolves,Brentford,0.0000,0.0000
+2024-02-11,E0,Aston Villa,Man United,0.0000,0.0240
+2024-02-11,E0,West Ham,Arsenal,0.0344,0.0770
+2024-02-12,E0,Crystal Palace,Chelsea,0.0400,0.0000
+2024-02-17,E0,Brentford,Liverpool,0.0000,0.0000
+2024-02-17,E0,Burnley,Arsenal,0.0871,0.0454
+2024-02-17,E0,Fulham,Aston Villa,0.0000,0.0000
+2024-02-17,E0,Man City,Chelsea,0.0000,0.0252
+2024-02-17,E0,Newcastle,Bournemouth,0.0472,0.0000
+2024-02-17,E0,Nott'm Forest,West Ham,0.0000,0.0000
+2024-02-17,E0,Tottenham,Wolves,0.0834,0.0114
+2024-02-18,E0,Luton,Man United,0.0000,0.0230
+2024-02-18,E0,Sheffield United,Brighton,0.0000,0.0227
+2024-02-19,E0,Everton,Crystal Palace,0.0000,0.0384
+2024-02-20,E0,Man City,Brentford,0.0000,0.0000
+2024-02-21,E0,Liverpool,Luton,0.0000,0.1445
+2024-02-24,E0,Arsenal,Newcastle,0.0272,0.0486
+2024-02-24,E0,Aston Villa,Nott'm Forest,0.0000,0.0756
+2024-02-24,E0,Bournemouth,Man City,0.0000,0.0000
+2024-02-24,E0,Brighton,Everton,0.0218,0.0000
+2024-02-24,E0,Crystal Palace,Burnley,0.0368,0.0836
+2024-02-24,E0,Man United,Fulham,0.0221,0.0000
+2024-02-25,E0,Wolves,Sheffield United,0.0110,0.0000
+2024-02-26,E0,West Ham,Brentford,0.0000,0.0836
+2024-03-02,E0,Brentford,Chelsea,0.0000,0.0242
+2024-03-02,E0,Everton,West Ham,0.0000,0.0000
+2024-03-02,E0,Fulham,Brighton,0.0449,0.0209
+2024-03-02,E0,Luton,Aston Villa,0.1826,0.0000
+2024-03-02,E0,Newcastle,Wolves,0.0000,0.0000
+2024-03-02,E0,Nott'm Forest,Liverpool,0.0350,0.1688
+2024-03-02,E0,Tottenham,Crystal Palace,0.0000,0.0354
+2024-03-03,E0,Burnley,Bournemouth,0.0804,0.0000
+2024-03-03,E0,Man City,Man United,0.0000,0.0212
+2024-03-04,E0,Sheffield United,Arsenal,0.0000,0.0018
+2024-03-09,E0,Arsenal,Brentford,0.0000,0.0774
+2024-03-09,E0,Bournemouth,Sheffield United,0.0000,0.0000
+2024-03-09,E0,Crystal Palace,Luton,0.0341,0.0000
+2024-03-09,E0,Man United,Everton,0.0205,0.0000
+2024-03-09,E0,Wolves,Fulham,0.0000,0.0000
+2024-03-10,E0,Aston Villa,Tottenham,0.0000,0.0000
+2024-03-10,E0,Brighton,Nott'm Forest,0.0202,0.0000
+2024-03-10,E0,Liverpool,Man City,0.0000,0.0000
+2024-03-10,E0,West Ham,Burnley,0.0000,0.0774
+2024-03-11,E0,Chelsea,Newcastle,0.0126,0.1274
+2024-03-13,E0,Bournemouth,Luton,0.1384,0.3325
+2024-03-16,E0,Burnley,Brentford,0.0746,0.0747
+2024-03-16,E0,Fulham,Tottenham,0.0000,0.0000
+2024-03-16,E0,Luton,Nott'm Forest,0.0000,0.0362
+2024-03-17,E0,West Ham,Aston Villa,0.0000,0.0000
+2024-03-30,E0,Aston Villa,Wolves,0.0566,0.0000
+2024-03-30,E0,Bournemouth,Everton,0.0000,0.0000
+2024-03-30,E0,Brentford,Man United,0.0000,0.0000
+2024-03-30,E0,Chelsea,Burnley,0.0683,0.0296
+2024-03-30,E0,Newcastle,West Ham,0.0434,0.0679
+2024-03-30,E0,Nott'm Forest,Crystal Palace,0.0350,0.0329
+2024-03-30,E0,Sheffield United,Fulham,0.1424,0.0000
+2024-03-30,E0,Tottenham,Luton,0.0151,0.0000
+2024-03-31,E0,Liverpool,Brighton,0.0000,0.0194
+2024-03-31,E0,Man City,Arsenal,0.0000,0.0000
+2024-04-02,E0,Bournemouth,Crystal Palace,0.0000,0.0317
+2024-04-02,E0,Burnley,Wolves,0.0697,0.0000
+2024-04-02,E0,Newcastle,Everton,0.0767,0.0000
+2024-04-02,E0,Nott'm Forest,Fulham,0.0338,0.0000
+2024-04-02,E0,West Ham,Tottenham,0.0657,0.0000
+2024-04-03,E0,Arsenal,Luton,0.0000,0.1166
+2024-04-03,E0,Brentford,Brighton,0.0000,0.0454
+2024-04-03,E0,Man City,Aston Villa,0.0000,0.0879
+2024-04-04,E0,Chelsea,Man United,0.0000,0.0199
+2024-04-04,E0,Liverpool,Sheffield United,0.0000,0.0000
+2024-04-06,E0,Aston Villa,Brentford,0.0000,0.0674
+2024-04-06,E0,Brighton,Arsenal,0.0439,0.0000
+2024-04-06,E0,Crystal Palace,Man City,0.0393,0.0000
+2024-04-06,E0,Everton,Burnley,0.0000,0.0674
+2024-04-06,E0,Fulham,Newcastle,0.0000,0.0741
+2024-04-06,E0,Luton,Bournemouth,0.0000,0.0000
+2024-04-06,E0,Wolves,West Ham,0.0000,0.0000
+2024-04-07,E0,Man United,Liverpool,0.0192,0.0000
+2024-04-07,E0,Sheffield United,Chelsea,0.0000,0.0000
+2024-04-07,E0,Tottenham,Nott'm Forest,0.0000,0.0327
+2024-04-13,E0,Bournemouth,Man United,0.0000,0.0186
+2024-04-13,E0,Brentford,Sheffield United,0.0000,0.0077
+2024-04-13,E0,Burnley,Brighton,0.0653,0.0425
+2024-04-13,E0,Man City,Luton,0.0000,0.0000
+2024-04-13,E0,Newcastle,Tottenham,0.0392,0.0000
+2024-04-13,E0,Nott'm Forest,Wolves,0.0000,0.0000
+2024-04-14,E0,Arsenal,Aston Villa,0.0000,0.0000
+2024-04-14,E0,Liverpool,Crystal Palace,0.0000,0.0297
+2024-04-14,E0,West Ham,Fulham,0.0000,0.0245
+2024-04-15,E0,Chelsea,Everton,0.0000,0.0570
+2024-04-20,E0,Luton,Brentford,0.0000,0.0000
+2024-04-20,E0,Sheffield United,Burnley,0.0075,0.0633
+2024-04-20,E0,Wolves,Arsenal,0.0086,0.0000
+2024-04-21,E0,Aston Villa,Bournemouth,0.0000,0.0220
+2024-04-21,E0,Crystal Palace,West Ham,0.0288,0.0000
+2024-04-21,E0,Everton,Nott'm Forest,0.0000,0.0000
+2024-04-21,E0,Fulham,Liverpool,0.0000,0.0000
+2024-04-23,E0,Arsenal,Chelsea,0.0000,0.0106
+2024-04-24,E0,Crystal Palace,Newcastle,0.0279,0.1624
+2024-04-24,E0,Everton,Liverpool,0.0000,0.0218
+2024-04-24,E0,Man United,Sheffield United,0.0180,0.0000
+2024-04-24,E0,Wolves,Bournemouth,0.0000,0.0000
+2024-04-25,E0,Brighton,Man City,0.0170,0.0000
+2024-04-27,E0,Aston Villa,Chelsea,0.0000,0.0011
+2024-04-27,E0,Everton,Brentford,0.0000,0.0000
+2024-04-27,E0,Fulham,Crystal Palace,0.0000,0.0271
+2024-04-27,E0,Man United,Burnley,0.0175,0.0615
+2024-04-27,E0,Newcastle,Sheffield United,0.0000,0.0000
+2024-04-27,E0,West Ham,Liverpool,0.0000,0.0211
+2024-04-27,E0,Wolves,Luton,0.0081,0.0000
+2024-04-28,E0,Bournemouth,Brighton,0.0000,0.0165
+2024-04-28,E0,Nott'm Forest,Man City,0.0433,0.0762
+2024-04-28,E0,Tottenham,Arsenal,0.0000,0.0014
+2024-05-02,E0,Chelsea,Tottenham,0.0099,0.0003
+2024-05-03,E0,Luton,Everton,0.0311,0.0000
+2024-05-04,E0,Arsenal,Bournemouth,0.0000,0.0000
+2024-05-04,E0,Brentford,Fulham,0.0000,0.0000
+2024-05-04,E0,Burnley,Newcastle,0.0597,0.0000
+2024-05-04,E0,Man City,Wolves,0.0000,0.0000
+2024-05-04,E0,Sheffield United,Nott'm Forest,0.0000,0.0000
+2024-05-05,E0,Brighton,Aston Villa,0.0160,0.0469
+2024-05-05,E0,Chelsea,West Ham,0.0000,0.0000
+2024-05-05,E0,Liverpool,Tottenham,0.0000,0.0000
+2024-05-06,E0,Crystal Palace,Man United,0.0263,0.0170
+2024-05-11,E0,Bournemouth,Brentford,0.0000,0.0000
+2024-05-11,E0,Everton,Sheffield United,0.0000,0.0000
+2024-05-11,E0,Fulham,Man City,0.0000,0.0000
+2024-05-11,E0,Newcastle,Brighton,0.0000,0.0156
+2024-05-11,E0,Nott'm Forest,Chelsea,0.0000,0.0000
+2024-05-11,E0,Tottenham,Burnley,0.0754,0.0581
+2024-05-11,E0,West Ham,Luton,0.0000,0.0950
+2024-05-11,E0,Wolves,Crystal Palace,0.0076,0.0327
+2024-05-12,E0,Man United,Arsenal,0.0165,0.0013
+2024-05-13,E0,Aston Villa,Liverpool,0.0000,0.0000
+2024-05-14,E0,Tottenham,Man City,0.0587,0.0000
+2024-05-15,E0,Brighton,Chelsea,0.0151,0.0010
+2024-05-15,E0,Man United,Newcastle,0.0000,0.0000
+2024-05-19,E0,Arsenal,Everton,0.0000,0.0000
+2024-05-19,E0,Brentford,Newcastle,0.0000,0.0119
+2024-05-19,E0,Brighton,Man United,0.0147,0.0000
+2024-05-19,E0,Burnley,Nott'm Forest,0.0565,0.0402
+2024-05-19,E0,Chelsea,Bournemouth,0.0010,0.0000
+2024-05-19,E0,Crystal Palace,Aston Villa,0.0249,0.0556
+2024-05-19,E0,Liverpool,Wolves,0.0008,0.0000
+2024-05-19,E0,Luton,Fulham,0.0000,0.0000
+2024-05-19,E0,Man City,West Ham,0.0000,0.0000
+2024-05-19,E0,Sheffield United,Tottenham,0.0000,0.0713
