@@ -80,228 +80,228 @@ date,league,home_team,away_team,missing_home,missing_away
 2026-11-08,D1,FC Koln,Leverkusen,0.0189,0.0000
 2026-11-08,D1,Freiburg,Union Berlin,0.0000,0.0682
 2026-11-08,D1,Hoffenheim,Schalke 04,0.0000,0.0000
-2026-11-20,D1,Bayern Munich,FC Koln,0.2087,0.0519
-2026-11-21,D1,Ein Frankfurt,Hoffenheim,0.0701,0.0622
-2026-11-21,D1,Elversberg,Freiburg,0.0401,0.0014
-2026-11-21,D1,Leverkusen,Paderborn,0.0085,0.0085
-2026-11-21,D1,M'gladbach,Dortmund,0.2786,0.1033
-2026-11-21,D1,Schalke 04,Stuttgart,0.1041,0.0891
-2026-11-21,D1,Union Berlin,RB Leipzig,0.0709,0.0058
-2026-11-22,D1,Augsburg,Mainz,0.2712,0.0132
-2026-11-22,D1,Werder Bremen,Hamburg,0.0272,0.1978
-2026-11-27,D1,Werder Bremen,M'gladbach,0.0245,0.2046
+2026-11-20,D1,Bayern Munich,FC Koln,0.0000,0.0168
+2026-11-21,D1,Ein Frankfurt,Hoffenheim,0.0000,0.0000
+2026-11-21,D1,Elversberg,Freiburg,0.0287,0.0000
+2026-11-21,D1,Leverkusen,Paderborn,0.0000,0.0000
+2026-11-21,D1,M'gladbach,Dortmund,0.0425,0.0000
+2026-11-21,D1,Schalke 04,Stuttgart,0.0000,0.0000
+2026-11-21,D1,Union Berlin,RB Leipzig,0.0000,0.0000
+2026-11-22,D1,Augsburg,Mainz,0.0000,0.0000
+2026-11-22,D1,Werder Bremen,Hamburg,0.0000,0.0000
+2026-11-27,D1,Werder Bremen,M'gladbach,0.1027,0.2046
 2026-11-28,D1,FC Koln,Elversberg,0.0467,0.0361
-2026-11-28,D1,Hamburg,Bayern Munich,0.1780,0.3407
-2026-11-28,D1,Mainz,Union Berlin,0.0119,0.0638
-2026-11-28,D1,Paderborn,Schalke 04,0.0077,0.1431
-2026-11-28,D1,Stuttgart,Ein Frankfurt,0.1348,0.0000
-2026-11-29,D1,Dortmund,Leverkusen,0.0930,0.0077
-2026-11-29,D1,Freiburg,RB Leipzig,0.0000,0.0053
-2026-11-29,D1,Hoffenheim,Augsburg,0.0560,0.2927
+2026-11-28,D1,Hamburg,Bayern Munich,0.2190,0.3407
+2026-11-28,D1,Mainz,Union Berlin,0.0119,0.1389
+2026-11-28,D1,Paderborn,Schalke 04,0.0077,0.0937
+2026-11-28,D1,Stuttgart,Ein Frankfurt,0.0802,0.0000
+2026-11-29,D1,Dortmund,Leverkusen,0.0079,0.0077
+2026-11-29,D1,Freiburg,RB Leipzig,0.0000,0.0651
+2026-11-29,D1,Hoffenheim,Augsburg,0.1379,0.2789
 2026-12-04,D1,Bayern Munich,Paderborn,0.3407,0.0077
-2026-12-05,D1,Augsburg,FC Koln,0.2927,0.0467
-2026-12-05,D1,Ein Frankfurt,Werder Bremen,0.0000,0.0245
+2026-12-05,D1,Augsburg,FC Koln,0.2789,0.0467
+2026-12-05,D1,Ein Frankfurt,Werder Bremen,0.0000,0.1027
 2026-12-05,D1,Freiburg,Hoffenheim,0.0000,0.0560
 2026-12-05,D1,Leverkusen,M'gladbach,0.0077,0.2046
-2026-12-05,D1,RB Leipzig,Mainz,0.0053,0.0119
-2026-12-05,D1,Union Berlin,Hamburg,0.0638,0.1780
-2026-12-06,D1,Elversberg,Stuttgart,0.0361,0.1348
-2026-12-06,D1,Schalke 04,Dortmund,0.1431,0.0930
-2026-12-11,D1,Hamburg,Schalke 04,0.1780,0.1431
-2026-12-12,D1,Dortmund,Augsburg,0.0930,0.2927
-2026-12-12,D1,FC Koln,RB Leipzig,0.0467,0.0053
+2026-12-05,D1,RB Leipzig,Mainz,0.0651,0.0119
+2026-12-05,D1,Union Berlin,Hamburg,0.0638,0.2190
+2026-12-06,D1,Elversberg,Stuttgart,0.0361,0.0802
+2026-12-06,D1,Schalke 04,Dortmund,0.0937,0.0079
+2026-12-11,D1,Hamburg,Schalke 04,0.2190,0.0937
+2026-12-12,D1,Dortmund,Augsburg,0.0079,0.2789
+2026-12-12,D1,FC Koln,RB Leipzig,0.0467,0.0651
 2026-12-12,D1,M'gladbach,Ein Frankfurt,0.2046,0.0000
 2026-12-12,D1,Paderborn,Elversberg,0.0077,0.0361
-2026-12-12,D1,Stuttgart,Union Berlin,0.1348,0.0638
+2026-12-12,D1,Stuttgart,Union Berlin,0.0802,0.0638
 2026-12-13,D1,Hoffenheim,Bayern Munich,0.0560,0.3407
 2026-12-13,D1,Mainz,Freiburg,0.0119,0.0000
-2026-12-13,D1,Werder Bremen,Leverkusen,0.0245,0.0077
-2026-12-18,D1,Bayern Munich,Werder Bremen,0.3407,0.0245
-2026-12-19,D1,Augsburg,Paderborn,0.2927,0.0077
-2026-12-19,D1,Elversberg,Hamburg,0.0361,0.1780
+2026-12-13,D1,Werder Bremen,Leverkusen,0.1027,0.0077
+2026-12-18,D1,Bayern Munich,Werder Bremen,0.3407,0.1027
+2026-12-19,D1,Augsburg,Paderborn,0.2789,0.0077
+2026-12-19,D1,Elversberg,Hamburg,0.0361,0.2190
 2026-12-19,D1,Leverkusen,Ein Frankfurt,0.0077,0.0000
 2026-12-19,D1,Mainz,FC Koln,0.0119,0.0467
-2026-12-19,D1,RB Leipzig,Dortmund,0.0053,0.0930
-2026-12-20,D1,Freiburg,Stuttgart,0.0000,0.1348
-2026-12-20,D1,Schalke 04,M'gladbach,0.1431,0.2046
+2026-12-19,D1,RB Leipzig,Dortmund,0.0651,0.0079
+2026-12-20,D1,Freiburg,Stuttgart,0.0000,0.0802
+2026-12-20,D1,Schalke 04,M'gladbach,0.0937,0.2046
 2026-12-20,D1,Union Berlin,Hoffenheim,0.0638,0.0560
-2027-01-08,D1,Dortmund,Mainz,0.0930,0.0119
-2027-01-09,D1,Ein Frankfurt,Schalke 04,0.0000,0.1431
+2027-01-08,D1,Dortmund,Mainz,0.0079,0.0119
+2027-01-09,D1,Ein Frankfurt,Schalke 04,0.0000,0.0937
 2027-01-09,D1,FC Koln,Freiburg,0.0467,0.0000
 2027-01-09,D1,Hoffenheim,Elversberg,0.0560,0.0361
 2027-01-09,D1,M'gladbach,Bayern Munich,0.2046,0.3407
-2027-01-09,D1,Paderborn,RB Leipzig,0.0077,0.0053
-2027-01-09,D1,Stuttgart,Augsburg,0.1348,0.2927
-2027-01-10,D1,Hamburg,Leverkusen,0.1780,0.0077
-2027-01-10,D1,Werder Bremen,Union Berlin,0.0245,0.0638
-2027-01-12,D1,Augsburg,M'gladbach,0.2927,0.2046
-2027-01-12,D1,FC Koln,Dortmund,0.0467,0.0930
+2027-01-09,D1,Paderborn,RB Leipzig,0.0077,0.0651
+2027-01-09,D1,Stuttgart,Augsburg,0.0802,0.2789
+2027-01-10,D1,Hamburg,Leverkusen,0.2190,0.0077
+2027-01-10,D1,Werder Bremen,Union Berlin,0.1027,0.0638
+2027-01-12,D1,Augsburg,M'gladbach,0.2789,0.2046
+2027-01-12,D1,FC Koln,Dortmund,0.0467,0.0079
 2027-01-12,D1,Mainz,Hoffenheim,0.0119,0.0560
-2027-01-12,D1,RB Leipzig,Stuttgart,0.0053,0.1348
+2027-01-12,D1,RB Leipzig,Stuttgart,0.0651,0.0802
 2027-01-13,D1,Bayern Munich,Leverkusen,0.3407,0.0077
 2027-01-13,D1,Elversberg,Ein Frankfurt,0.0361,0.0000
-2027-01-13,D1,Freiburg,Hamburg,0.0000,0.1780
+2027-01-13,D1,Freiburg,Hamburg,0.0000,0.2190
 2027-01-13,D1,Union Berlin,Paderborn,0.0638,0.0077
-2027-01-14,D1,Schalke 04,Werder Bremen,0.1431,0.0245
-2027-01-15,D1,Stuttgart,Mainz,0.1348,0.0119
-2027-01-16,D1,Dortmund,Freiburg,0.0930,0.0000
+2027-01-14,D1,Schalke 04,Werder Bremen,0.0937,0.1027
+2027-01-15,D1,Stuttgart,Mainz,0.0802,0.0119
+2027-01-16,D1,Dortmund,Freiburg,0.0079,0.0000
 2027-01-16,D1,Ein Frankfurt,Bayern Munich,0.0000,0.3407
-2027-01-16,D1,Hamburg,Augsburg,0.1780,0.2927
-2027-01-16,D1,Hoffenheim,RB Leipzig,0.0560,0.0053
+2027-01-16,D1,Hamburg,Augsburg,0.2190,0.2789
+2027-01-16,D1,Hoffenheim,RB Leipzig,0.0560,0.0651
 2027-01-16,D1,M'gladbach,Union Berlin,0.2046,0.0638
 2027-01-16,D1,Paderborn,FC Koln,0.0077,0.0467
-2027-01-17,D1,Leverkusen,Schalke 04,0.0077,0.1431
-2027-01-17,D1,Werder Bremen,Elversberg,0.0245,0.0361
-2027-01-22,D1,Werder Bremen,Freiburg,0.0245,0.0000
-2027-01-23,D1,Hamburg,Dortmund,0.1780,0.0930
-2027-01-23,D1,M'gladbach,RB Leipzig,0.2046,0.0053
+2027-01-17,D1,Leverkusen,Schalke 04,0.0077,0.0937
+2027-01-17,D1,Werder Bremen,Elversberg,0.1027,0.0361
+2027-01-22,D1,Werder Bremen,Freiburg,0.1027,0.0000
+2027-01-23,D1,Hamburg,Dortmund,0.2190,0.0079
+2027-01-23,D1,M'gladbach,RB Leipzig,0.2046,0.0651
 2027-01-23,D1,Paderborn,Mainz,0.0077,0.0119
-2027-01-23,D1,Schalke 04,Augsburg,0.1431,0.2927
-2027-01-23,D1,Stuttgart,Bayern Munich,0.1348,0.3407
+2027-01-23,D1,Schalke 04,Augsburg,0.0937,0.2789
+2027-01-23,D1,Stuttgart,Bayern Munich,0.0802,0.3407
 2027-01-24,D1,Ein Frankfurt,Union Berlin,0.0000,0.0638
 2027-01-24,D1,Hoffenheim,FC Koln,0.0560,0.0467
 2027-01-24,D1,Leverkusen,Elversberg,0.0077,0.0361
-2027-01-30,D1,Augsburg,Ein Frankfurt,0.2927,0.0000
-2027-01-30,D1,Bayern Munich,Schalke 04,0.3407,0.1431
-2027-01-30,D1,Dortmund,Hoffenheim,0.0930,0.0560
+2027-01-30,D1,Augsburg,Ein Frankfurt,0.2789,0.0000
+2027-01-30,D1,Bayern Munich,Schalke 04,0.3407,0.0937
+2027-01-30,D1,Dortmund,Hoffenheim,0.0079,0.0560
 2027-01-30,D1,Elversberg,M'gladbach,0.0361,0.2046
-2027-01-30,D1,FC Koln,Stuttgart,0.0467,0.1348
+2027-01-30,D1,FC Koln,Stuttgart,0.0467,0.0802
 2027-01-30,D1,Freiburg,Paderborn,0.0000,0.0077
-2027-01-30,D1,Mainz,Hamburg,0.0119,0.1780
-2027-01-30,D1,RB Leipzig,Werder Bremen,0.0053,0.0245
+2027-01-30,D1,Mainz,Hamburg,0.0119,0.2190
+2027-01-30,D1,RB Leipzig,Werder Bremen,0.0651,0.1027
 2027-01-30,D1,Union Berlin,Leverkusen,0.0638,0.0077
 2027-02-06,D1,Bayern Munich,Elversberg,0.3407,0.0361
 2027-02-06,D1,Ein Frankfurt,Mainz,0.0000,0.0119
-2027-02-06,D1,Hamburg,RB Leipzig,0.1780,0.0053
-2027-02-06,D1,Leverkusen,Augsburg,0.0077,0.2927
+2027-02-06,D1,Hamburg,RB Leipzig,0.2190,0.0651
+2027-02-06,D1,Leverkusen,Augsburg,0.0077,0.2789
 2027-02-06,D1,M'gladbach,Freiburg,0.2046,0.0000
-2027-02-06,D1,Paderborn,Dortmund,0.0077,0.0930
-2027-02-06,D1,Schalke 04,Union Berlin,0.1431,0.0638
-2027-02-06,D1,Stuttgart,Hoffenheim,0.1348,0.0560
-2027-02-06,D1,Werder Bremen,FC Koln,0.0245,0.0467
-2027-02-13,D1,Augsburg,Werder Bremen,0.2927,0.0245
-2027-02-13,D1,Dortmund,Stuttgart,0.0930,0.1348
-2027-02-13,D1,Elversberg,Schalke 04,0.0361,0.1431
-2027-02-13,D1,FC Koln,Hamburg,0.0467,0.1780
+2027-02-06,D1,Paderborn,Dortmund,0.0077,0.0079
+2027-02-06,D1,Schalke 04,Union Berlin,0.0937,0.0638
+2027-02-06,D1,Stuttgart,Hoffenheim,0.0802,0.0560
+2027-02-06,D1,Werder Bremen,FC Koln,0.1027,0.0467
+2027-02-13,D1,Augsburg,Werder Bremen,0.2789,0.1027
+2027-02-13,D1,Dortmund,Stuttgart,0.0079,0.0802
+2027-02-13,D1,Elversberg,Schalke 04,0.0361,0.0937
+2027-02-13,D1,FC Koln,Hamburg,0.0467,0.2190
 2027-02-13,D1,Freiburg,Ein Frankfurt,0.0000,0.0000
 2027-02-13,D1,Hoffenheim,Paderborn,0.0560,0.0077
 2027-02-13,D1,Mainz,M'gladbach,0.0119,0.2046
-2027-02-13,D1,RB Leipzig,Leverkusen,0.0053,0.0077
+2027-02-13,D1,RB Leipzig,Leverkusen,0.0651,0.0077
 2027-02-13,D1,Union Berlin,Bayern Munich,0.0638,0.3407
-2027-02-20,D1,Bayern Munich,Augsburg,0.3407,0.2927
-2027-02-20,D1,Ein Frankfurt,RB Leipzig,0.0000,0.0053
+2027-02-20,D1,Bayern Munich,Augsburg,0.3407,0.2789
+2027-02-20,D1,Ein Frankfurt,RB Leipzig,0.0000,0.0651
 2027-02-20,D1,Elversberg,Union Berlin,0.0361,0.0638
-2027-02-20,D1,Hamburg,Hoffenheim,0.1780,0.0560
+2027-02-20,D1,Hamburg,Hoffenheim,0.2190,0.0560
 2027-02-20,D1,Leverkusen,Mainz,0.0077,0.0119
 2027-02-20,D1,M'gladbach,FC Koln,0.2046,0.0467
-2027-02-20,D1,Schalke 04,Freiburg,0.1431,0.0000
-2027-02-20,D1,Stuttgart,Paderborn,0.1348,0.0077
-2027-02-20,D1,Werder Bremen,Dortmund,0.0245,0.0930
-2027-02-27,D1,Augsburg,Elversberg,0.2927,0.0361
-2027-02-27,D1,Dortmund,Union Berlin,0.0930,0.0638
+2027-02-20,D1,Schalke 04,Freiburg,0.0937,0.0000
+2027-02-20,D1,Stuttgart,Paderborn,0.0802,0.0077
+2027-02-20,D1,Werder Bremen,Dortmund,0.1027,0.0079
+2027-02-27,D1,Augsburg,Elversberg,0.2789,0.0361
+2027-02-27,D1,Dortmund,Union Berlin,0.0079,0.0638
 2027-02-27,D1,FC Koln,Ein Frankfurt,0.0467,0.0000
 2027-02-27,D1,Freiburg,Leverkusen,0.0000,0.0077
 2027-02-27,D1,Hoffenheim,M'gladbach,0.0560,0.2046
-2027-02-27,D1,Mainz,Schalke 04,0.0119,0.1431
-2027-02-27,D1,Paderborn,Werder Bremen,0.0077,0.0245
-2027-02-27,D1,RB Leipzig,Bayern Munich,0.0053,0.3407
-2027-02-27,D1,Stuttgart,Hamburg,0.1348,0.1780
+2027-02-27,D1,Mainz,Schalke 04,0.0119,0.0937
+2027-02-27,D1,Paderborn,Werder Bremen,0.0077,0.1027
+2027-02-27,D1,RB Leipzig,Bayern Munich,0.0651,0.3407
+2027-02-27,D1,Stuttgart,Hamburg,0.0802,0.2190
 2027-03-03,D1,Bayern Munich,Freiburg,0.3407,0.0000
-2027-03-03,D1,Ein Frankfurt,Dortmund,0.0000,0.0930
-2027-03-03,D1,Elversberg,RB Leipzig,0.0361,0.0053
-2027-03-03,D1,Hamburg,Paderborn,0.1780,0.0077
+2027-03-03,D1,Ein Frankfurt,Dortmund,0.0000,0.0079
+2027-03-03,D1,Elversberg,RB Leipzig,0.0361,0.0651
+2027-03-03,D1,Hamburg,Paderborn,0.2190,0.0077
 2027-03-03,D1,Leverkusen,Hoffenheim,0.0077,0.0560
-2027-03-03,D1,M'gladbach,Stuttgart,0.2046,0.1348
-2027-03-03,D1,Schalke 04,FC Koln,0.1431,0.0467
-2027-03-03,D1,Union Berlin,Augsburg,0.0638,0.2927
-2027-03-03,D1,Werder Bremen,Mainz,0.0245,0.0119
-2027-03-06,D1,Dortmund,Bayern Munich,0.0930,0.3407
+2027-03-03,D1,M'gladbach,Stuttgart,0.2046,0.0802
+2027-03-03,D1,Schalke 04,FC Koln,0.0937,0.0467
+2027-03-03,D1,Union Berlin,Augsburg,0.0638,0.2789
+2027-03-03,D1,Werder Bremen,Mainz,0.1027,0.0119
+2027-03-06,D1,Dortmund,Bayern Munich,0.0079,0.3407
 2027-03-06,D1,FC Koln,Union Berlin,0.0467,0.0638
-2027-03-06,D1,Freiburg,Augsburg,0.0000,0.2927
-2027-03-06,D1,Hamburg,Ein Frankfurt,0.1780,0.0000
-2027-03-06,D1,Hoffenheim,Werder Bremen,0.0560,0.0245
+2027-03-06,D1,Freiburg,Augsburg,0.0000,0.2789
+2027-03-06,D1,Hamburg,Ein Frankfurt,0.2190,0.0000
+2027-03-06,D1,Hoffenheim,Werder Bremen,0.0560,0.1027
 2027-03-06,D1,Mainz,Elversberg,0.0119,0.0361
 2027-03-06,D1,Paderborn,M'gladbach,0.0077,0.2046
-2027-03-06,D1,RB Leipzig,Schalke 04,0.0053,0.1431
-2027-03-06,D1,Stuttgart,Leverkusen,0.1348,0.0077
-2027-03-13,D1,Augsburg,RB Leipzig,0.2927,0.0053
+2027-03-06,D1,RB Leipzig,Schalke 04,0.0651,0.0937
+2027-03-06,D1,Stuttgart,Leverkusen,0.0802,0.0077
+2027-03-13,D1,Augsburg,RB Leipzig,0.2789,0.0651
 2027-03-13,D1,Bayern Munich,Mainz,0.3407,0.0119
 2027-03-13,D1,Ein Frankfurt,Paderborn,0.0000,0.0077
-2027-03-13,D1,Elversberg,Dortmund,0.0361,0.0930
+2027-03-13,D1,Elversberg,Dortmund,0.0361,0.0079
 2027-03-13,D1,Leverkusen,FC Koln,0.0077,0.0467
-2027-03-13,D1,M'gladbach,Hamburg,0.2046,0.1780
-2027-03-13,D1,Schalke 04,Hoffenheim,0.1431,0.0560
+2027-03-13,D1,M'gladbach,Hamburg,0.2046,0.2190
+2027-03-13,D1,Schalke 04,Hoffenheim,0.0937,0.0560
 2027-03-13,D1,Union Berlin,Freiburg,0.0638,0.0000
-2027-03-13,D1,Werder Bremen,Stuttgart,0.0245,0.1348
-2027-03-20,D1,Dortmund,M'gladbach,0.0930,0.2046
+2027-03-13,D1,Werder Bremen,Stuttgart,0.1027,0.0802
+2027-03-20,D1,Dortmund,M'gladbach,0.0079,0.2046
 2027-03-20,D1,FC Koln,Bayern Munich,0.0467,0.3407
 2027-03-20,D1,Freiburg,Elversberg,0.0000,0.0361
-2027-03-20,D1,Hamburg,Werder Bremen,0.1780,0.0245
+2027-03-20,D1,Hamburg,Werder Bremen,0.2190,0.1027
 2027-03-20,D1,Hoffenheim,Ein Frankfurt,0.0560,0.0000
-2027-03-20,D1,Mainz,Augsburg,0.0119,0.2927
+2027-03-20,D1,Mainz,Augsburg,0.0119,0.2789
 2027-03-20,D1,Paderborn,Leverkusen,0.0077,0.0077
-2027-03-20,D1,RB Leipzig,Union Berlin,0.0053,0.0638
-2027-03-20,D1,Stuttgart,Schalke 04,0.1348,0.1431
-2027-04-03,D1,Augsburg,Hoffenheim,0.2927,0.0560
-2027-04-03,D1,Bayern Munich,Hamburg,0.3407,0.1780
-2027-04-03,D1,Ein Frankfurt,Stuttgart,0.0000,0.1348
+2027-03-20,D1,RB Leipzig,Union Berlin,0.0651,0.0638
+2027-03-20,D1,Stuttgart,Schalke 04,0.0802,0.0937
+2027-04-03,D1,Augsburg,Hoffenheim,0.2789,0.0560
+2027-04-03,D1,Bayern Munich,Hamburg,0.3407,0.2190
+2027-04-03,D1,Ein Frankfurt,Stuttgart,0.0000,0.0802
 2027-04-03,D1,Elversberg,FC Koln,0.0361,0.0467
-2027-04-03,D1,Leverkusen,Dortmund,0.0077,0.0930
-2027-04-03,D1,M'gladbach,Werder Bremen,0.2046,0.0245
-2027-04-03,D1,RB Leipzig,Freiburg,0.0053,0.0000
-2027-04-03,D1,Schalke 04,Paderborn,0.1431,0.0077
+2027-04-03,D1,Leverkusen,Dortmund,0.0077,0.0079
+2027-04-03,D1,M'gladbach,Werder Bremen,0.2046,0.1027
+2027-04-03,D1,RB Leipzig,Freiburg,0.0651,0.0000
+2027-04-03,D1,Schalke 04,Paderborn,0.0937,0.0077
 2027-04-03,D1,Union Berlin,Mainz,0.0638,0.0119
-2027-04-10,D1,Dortmund,Schalke 04,0.0930,0.1431
-2027-04-10,D1,FC Koln,Augsburg,0.0467,0.2927
-2027-04-10,D1,Hamburg,Union Berlin,0.1780,0.0638
+2027-04-10,D1,Dortmund,Schalke 04,0.0079,0.0937
+2027-04-10,D1,FC Koln,Augsburg,0.0467,0.2789
+2027-04-10,D1,Hamburg,Union Berlin,0.2190,0.0638
 2027-04-10,D1,Hoffenheim,Freiburg,0.0560,0.0000
 2027-04-10,D1,M'gladbach,Leverkusen,0.2046,0.0077
-2027-04-10,D1,Mainz,RB Leipzig,0.0119,0.0053
+2027-04-10,D1,Mainz,RB Leipzig,0.0119,0.0651
 2027-04-10,D1,Paderborn,Bayern Munich,0.0077,0.3407
-2027-04-10,D1,Stuttgart,Elversberg,0.1348,0.0361
-2027-04-10,D1,Werder Bremen,Ein Frankfurt,0.0245,0.0000
-2027-04-17,D1,Augsburg,Dortmund,0.2927,0.0930
+2027-04-10,D1,Stuttgart,Elversberg,0.0802,0.0361
+2027-04-10,D1,Werder Bremen,Ein Frankfurt,0.1027,0.0000
+2027-04-17,D1,Augsburg,Dortmund,0.2789,0.0079
 2027-04-17,D1,Bayern Munich,Hoffenheim,0.3407,0.0560
 2027-04-17,D1,Ein Frankfurt,M'gladbach,0.0000,0.2046
 2027-04-17,D1,Elversberg,Paderborn,0.0361,0.0077
 2027-04-17,D1,Freiburg,Mainz,0.0000,0.0119
-2027-04-17,D1,Leverkusen,Werder Bremen,0.0077,0.0245
-2027-04-17,D1,RB Leipzig,FC Koln,0.0053,0.0467
-2027-04-17,D1,Schalke 04,Hamburg,0.1431,0.1780
-2027-04-17,D1,Union Berlin,Stuttgart,0.0638,0.1348
-2027-04-24,D1,Dortmund,RB Leipzig,0.0930,0.0053
+2027-04-17,D1,Leverkusen,Werder Bremen,0.0077,0.1027
+2027-04-17,D1,RB Leipzig,FC Koln,0.0651,0.0467
+2027-04-17,D1,Schalke 04,Hamburg,0.0937,0.2190
+2027-04-17,D1,Union Berlin,Stuttgart,0.0638,0.0802
+2027-04-24,D1,Dortmund,RB Leipzig,0.0079,0.0651
 2027-04-24,D1,Ein Frankfurt,Leverkusen,0.0000,0.0077
 2027-04-24,D1,FC Koln,Mainz,0.0467,0.0119
-2027-04-24,D1,Hamburg,Elversberg,0.1780,0.0361
+2027-04-24,D1,Hamburg,Elversberg,0.2190,0.0361
 2027-04-24,D1,Hoffenheim,Union Berlin,0.0560,0.0638
-2027-04-24,D1,M'gladbach,Schalke 04,0.2046,0.1431
-2027-04-24,D1,Paderborn,Augsburg,0.0077,0.2927
-2027-04-24,D1,Stuttgart,Freiburg,0.1348,0.0000
-2027-04-24,D1,Werder Bremen,Bayern Munich,0.0245,0.3407
-2027-05-08,D1,Augsburg,Stuttgart,0.2927,0.1348
+2027-04-24,D1,M'gladbach,Schalke 04,0.2046,0.0937
+2027-04-24,D1,Paderborn,Augsburg,0.0077,0.2789
+2027-04-24,D1,Stuttgart,Freiburg,0.0802,0.0000
+2027-04-24,D1,Werder Bremen,Bayern Munich,0.1027,0.3407
+2027-05-08,D1,Augsburg,Stuttgart,0.2789,0.0802
 2027-05-08,D1,Bayern Munich,M'gladbach,0.3407,0.2046
 2027-05-08,D1,Elversberg,Hoffenheim,0.0361,0.0560
 2027-05-08,D1,Freiburg,FC Koln,0.0000,0.0467
-2027-05-08,D1,Leverkusen,Hamburg,0.0077,0.1780
-2027-05-08,D1,Mainz,Dortmund,0.0119,0.0930
-2027-05-08,D1,RB Leipzig,Paderborn,0.0053,0.0077
-2027-05-08,D1,Schalke 04,Ein Frankfurt,0.1431,0.0000
-2027-05-08,D1,Union Berlin,Werder Bremen,0.0638,0.0245
-2027-05-15,D1,Dortmund,FC Koln,0.0930,0.0467
+2027-05-08,D1,Leverkusen,Hamburg,0.0077,0.2190
+2027-05-08,D1,Mainz,Dortmund,0.0119,0.0079
+2027-05-08,D1,RB Leipzig,Paderborn,0.0651,0.0077
+2027-05-08,D1,Schalke 04,Ein Frankfurt,0.0937,0.0000
+2027-05-08,D1,Union Berlin,Werder Bremen,0.0638,0.1027
+2027-05-15,D1,Dortmund,FC Koln,0.0079,0.0467
 2027-05-15,D1,Ein Frankfurt,Elversberg,0.0000,0.0361
-2027-05-15,D1,Hamburg,Freiburg,0.1780,0.0000
+2027-05-15,D1,Hamburg,Freiburg,0.2190,0.0000
 2027-05-15,D1,Hoffenheim,Mainz,0.0560,0.0119
 2027-05-15,D1,Leverkusen,Bayern Munich,0.0077,0.3407
-2027-05-15,D1,M'gladbach,Augsburg,0.2046,0.2927
+2027-05-15,D1,M'gladbach,Augsburg,0.2046,0.2789
 2027-05-15,D1,Paderborn,Union Berlin,0.0077,0.0638
-2027-05-15,D1,Stuttgart,RB Leipzig,0.1348,0.0053
-2027-05-15,D1,Werder Bremen,Schalke 04,0.0245,0.1431
-2027-05-22,D1,Augsburg,Hamburg,0.2927,0.1780
+2027-05-15,D1,Stuttgart,RB Leipzig,0.0802,0.0651
+2027-05-15,D1,Werder Bremen,Schalke 04,0.1027,0.0937
+2027-05-22,D1,Augsburg,Hamburg,0.2789,0.2190
 2027-05-22,D1,Bayern Munich,Ein Frankfurt,0.3407,0.0000
-2027-05-22,D1,Elversberg,Werder Bremen,0.0361,0.0245
+2027-05-22,D1,Elversberg,Werder Bremen,0.0361,0.1027
 2027-05-22,D1,FC Koln,Paderborn,0.0467,0.0077
-2027-05-22,D1,Freiburg,Dortmund,0.0000,0.0930
-2027-05-22,D1,Mainz,Stuttgart,0.0119,0.1348
-2027-05-22,D1,RB Leipzig,Hoffenheim,0.0053,0.0560
-2027-05-22,D1,Schalke 04,Leverkusen,0.1431,0.0077
+2027-05-22,D1,Freiburg,Dortmund,0.0000,0.0079
+2027-05-22,D1,Mainz,Stuttgart,0.0119,0.0802
+2027-05-22,D1,RB Leipzig,Hoffenheim,0.0651,0.0560
+2027-05-22,D1,Schalke 04,Leverkusen,0.0937,0.0077
 2027-05-22,D1,Union Berlin,M'gladbach,0.0638,0.2046
