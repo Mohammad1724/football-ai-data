@@ -91,6 +91,22 @@ def fd_name(fotmob_name: str) -> str:
     return FM2FD.get(fotmob_name, fotmob_name)
 
 
+# Fixtures that will never have xG in FotMob, so the daily run must not fail
+# on them (otherwise every run exits 1 and the availability/UCL steps and the
+# commit never happen). (date, football-data home, football-data away).
+# - Bournemouth-Luton 2023-12-16, Nice-Marseille 2021-08-22 and
+#   Lyon-Marseille 2021-11-21 were all abandoned (never completed; the
+#   replays are separate fixtures and are collected normally).
+# - Mallorca-Girona 2024-03-03 finished 1-0 but FotMob's matchDetails carry
+#   no expected_goals stat for it at all (verified 2026-11-24).
+NO_XG_FIXTURES = {
+    ("2023-12-16", "Bournemouth", "Luton"),
+    ("2024-03-03", "Mallorca", "Girona"),
+    ("2021-08-22", "Nice", "Marseille"),
+    ("2021-11-21", "Lyon", "Marseille"),
+}
+
+
 def get_json(session: requests.Session, url: str, tries: int = 4):
     last = None
     for i in range(tries):
@@ -247,6 +263,13 @@ def main():
                 fd_by_key[(fhome, faway, fdate)] = (fhg, fag)
             todo = [fx for fx in fixtures
                     if (fx[0], fx[1], fx[2]) not in existing]
+            no_xg = [fx for fx in todo
+                     if (fx[0], fx[1], fx[2]) in NO_XG_FIXTURES]
+            todo = [fx for fx in todo
+                    if (fx[0], fx[1], fx[2]) not in NO_XG_FIXTURES]
+            for fx in no_xg:
+                print(f"  SKIP (no xG available): {league} {label} {fx[0]} "
+                      f"{fx[1]} vs {fx[2]}", flush=True)
             if todo:
 
                 def work(fx):
