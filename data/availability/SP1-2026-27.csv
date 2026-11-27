@@ -128,254 +128,254 @@ date,league,home_team,away_team,missing_home,missing_away
 2026-11-22,SP1,Osasuna,Malaga,0.0000,0.0271
 2026-11-22,SP1,Santander,Sociedad,0.0000,0.0000
 2026-11-23,SP1,Levante,Elche,0.0000,0.0000
-2026-11-27,SP1,Levante,Santander,0.0724,0.1056
-2026-11-28,SP1,Betis,Vallecano,0.0304,0.0516
-2026-11-28,SP1,Elche,Ath Madrid,0.1051,0.0827
+2026-11-27,SP1,Levante,Santander,0.1447,0.1056
+2026-11-28,SP1,Betis,Vallecano,0.0288,0.0516
+2026-11-28,SP1,Elche,Ath Madrid,0.0767,0.0593
 2026-11-28,SP1,Malaga,Ath Bilbao,0.0992,0.0604
-2026-11-28,SP1,Real Madrid,Alaves,0.0091,0.0389
+2026-11-28,SP1,Real Madrid,Alaves,0.0412,0.0389
 2026-11-29,SP1,Celta,Villarreal,0.1756,0.1360
-2026-11-29,SP1,La Coruna,Barcelona,0.0358,0.2939
+2026-11-29,SP1,La Coruna,Barcelona,0.0358,0.2123
 2026-11-29,SP1,Sociedad,Sevilla,0.1481,0.0565
 2026-11-29,SP1,Valencia,Osasuna,0.0299,0.2188
 2026-11-30,SP1,Espanol,Getafe,0.2035,0.1513
-2026-12-02,SP1,Barcelona,Ath Madrid,0.2955,0.0827
-2026-12-02,SP1,Sociedad,Real Madrid,0.1481,0.0091
+2026-12-02,SP1,Barcelona,Ath Madrid,0.2527,0.0593
+2026-12-02,SP1,Sociedad,Real Madrid,0.1481,0.0412
 2026-12-04,SP1,Alaves,Espanol,0.0389,0.1540
-2026-12-05,SP1,Barcelona,Celta,0.2311,0.0950
+2026-12-05,SP1,Barcelona,Celta,0.1884,0.0950
 2026-12-05,SP1,Santander,La Coruna,0.1056,0.0358
 2026-12-05,SP1,Vallecano,Levante,0.0516,0.1447
 2026-12-05,SP1,Villarreal,Sociedad,0.0957,0.1481
-2026-12-06,SP1,Ath Bilbao,Real Madrid,0.0604,0.0091
-2026-12-06,SP1,Ath Madrid,Betis,0.0827,0.0877
-2026-12-06,SP1,Getafe,Valencia,0.0707,0.0299
-2026-12-06,SP1,Osasuna,Elche,0.1349,0.1051
+2026-12-06,SP1,Ath Bilbao,Real Madrid,0.0604,0.0412
+2026-12-06,SP1,Ath Madrid,Betis,0.0593,0.0861
+2026-12-06,SP1,Getafe,Valencia,0.0707,0.0916
+2026-12-06,SP1,Osasuna,Elche,0.1349,0.0767
 2026-12-07,SP1,Sevilla,Malaga,0.0565,0.0992
 2026-12-09,SP1,Vallecano,Ath Bilbao,0.0124,0.0377
-2026-12-11,SP1,Elche,Sevilla,0.1051,0.0565
-2026-12-12,SP1,Betis,Santander,0.0229,0.1056
-2026-12-12,SP1,Levante,Alaves,0.1218,0.0198
-2026-12-12,SP1,Malaga,Barcelona,0.0985,0.2295
+2026-12-11,SP1,Elche,Sevilla,0.0767,0.0565
+2026-12-12,SP1,Betis,Santander,0.0861,0.1056
+2026-12-12,SP1,Levante,Alaves,0.1447,0.0389
+2026-12-12,SP1,Malaga,Barcelona,0.0992,0.1884
 2026-12-12,SP1,Villarreal,Vallecano,0.0957,0.0516
-2026-12-13,SP1,Ath Madrid,Valencia,0.0827,0.0299
+2026-12-13,SP1,Ath Madrid,Valencia,0.0593,0.0299
 2026-12-13,SP1,La Coruna,Ath Bilbao,0.0358,0.0604
-2026-12-13,SP1,Real Madrid,Osasuna,0.0091,0.1349
+2026-12-13,SP1,Real Madrid,Osasuna,0.0412,0.1349
 2026-12-13,SP1,Sociedad,Getafe,0.1481,0.0707
 2026-12-14,SP1,Espanol,Celta,0.1540,0.0950
-2026-12-20,SP1,Alaves,Elche,0.0198,0.1051
-2026-12-20,SP1,Ath Bilbao,Betis,0.0604,0.0229
-2026-12-20,SP1,Barcelona,Sociedad,0.2295,0.1481
-2026-12-20,SP1,Celta,Ath Madrid,0.0950,0.0793
-2026-12-20,SP1,Getafe,Levante,0.0707,0.1218
-2026-12-20,SP1,La Coruna,Real Madrid,0.0358,0.0091
+2026-12-20,SP1,Alaves,Elche,0.0389,0.0767
+2026-12-20,SP1,Ath Bilbao,Betis,0.0604,0.0861
+2026-12-20,SP1,Barcelona,Sociedad,0.1480,0.1481
+2026-12-20,SP1,Celta,Ath Madrid,0.0950,0.0559
+2026-12-20,SP1,Getafe,Levante,0.0707,0.1447
+2026-12-20,SP1,La Coruna,Real Madrid,0.0358,0.0412
 2026-12-20,SP1,Osasuna,Villarreal,0.1349,0.0957
 2026-12-20,SP1,Sevilla,Santander,0.0565,0.1056
 2026-12-20,SP1,Valencia,Espanol,0.0299,0.1540
-2026-12-20,SP1,Vallecano,Malaga,0.0516,0.0985
-2027-01-03,SP1,Betis,Alaves,0.0229,0.0198
+2026-12-20,SP1,Vallecano,Malaga,0.0516,0.0992
+2027-01-03,SP1,Betis,Alaves,0.0861,0.0389
 2027-01-03,SP1,Celta,La Coruna,0.0950,0.0358
-2027-01-03,SP1,Espanol,Barcelona,0.1540,0.2295
-2027-01-03,SP1,Levante,Valencia,0.1218,0.0299
-2027-01-03,SP1,Malaga,Elche,0.0985,0.1051
-2027-01-03,SP1,Real Madrid,Getafe,0.0091,0.0707
+2027-01-03,SP1,Espanol,Barcelona,0.1540,0.1480
+2027-01-03,SP1,Levante,Valencia,0.1447,0.0916
+2027-01-03,SP1,Malaga,Elche,0.0992,0.0767
+2027-01-03,SP1,Real Madrid,Getafe,0.0412,0.0707
 2027-01-03,SP1,Santander,Ath Bilbao,0.1056,0.0604
 2027-01-03,SP1,Sociedad,Osasuna,0.1481,0.1349
-2027-01-03,SP1,Vallecano,Ath Madrid,0.0516,0.0793
+2027-01-03,SP1,Vallecano,Ath Madrid,0.0516,0.0559
 2027-01-03,SP1,Villarreal,Sevilla,0.0957,0.0565
-2027-01-10,SP1,Alaves,Sociedad,0.0198,0.1481
+2027-01-10,SP1,Alaves,Sociedad,0.0389,0.1481
 2027-01-10,SP1,Ath Bilbao,Villarreal,0.0604,0.0957
-2027-01-10,SP1,Ath Madrid,Santander,0.0793,0.1056
-2027-01-10,SP1,Elche,Getafe,0.1051,0.0707
-2027-01-10,SP1,Espanol,Betis,0.1540,0.0229
+2027-01-10,SP1,Ath Madrid,Santander,0.0559,0.1056
+2027-01-10,SP1,Elche,Getafe,0.0767,0.0707
+2027-01-10,SP1,Espanol,Betis,0.1540,0.0861
 2027-01-10,SP1,La Coruna,Vallecano,0.0358,0.0516
-2027-01-10,SP1,Osasuna,Barcelona,0.1349,0.2295
-2027-01-10,SP1,Real Madrid,Levante,0.0091,0.1218
+2027-01-10,SP1,Osasuna,Barcelona,0.1349,0.1480
+2027-01-10,SP1,Real Madrid,Levante,0.0412,0.1447
 2027-01-10,SP1,Sevilla,Celta,0.0565,0.0950
-2027-01-10,SP1,Valencia,Malaga,0.0299,0.0985
-2027-01-17,SP1,Ath Madrid,Sociedad,0.0793,0.1481
-2027-01-17,SP1,Barcelona,Elche,0.2295,0.1051
-2027-01-17,SP1,Betis,La Coruna,0.0229,0.0358
+2027-01-10,SP1,Valencia,Malaga,0.0916,0.0992
+2027-01-17,SP1,Ath Madrid,Sociedad,0.0559,0.1481
+2027-01-17,SP1,Barcelona,Elche,0.1480,0.0767
+2027-01-17,SP1,Betis,La Coruna,0.0861,0.0358
 2027-01-17,SP1,Celta,Valencia,0.0950,0.0299
 2027-01-17,SP1,Getafe,Ath Bilbao,0.0707,0.0604
-2027-01-17,SP1,Levante,Espanol,0.1218,0.1540
-2027-01-17,SP1,Malaga,Real Madrid,0.0985,0.0091
+2027-01-17,SP1,Levante,Espanol,0.1447,0.1540
+2027-01-17,SP1,Malaga,Real Madrid,0.0992,0.0412
 2027-01-17,SP1,Santander,Osasuna,0.1056,0.1349
 2027-01-17,SP1,Vallecano,Sevilla,0.0516,0.0565
-2027-01-17,SP1,Villarreal,Alaves,0.0957,0.0198
-2027-01-24,SP1,Alaves,Barcelona,0.0198,0.2295
-2027-01-24,SP1,Ath Bilbao,Levante,0.0604,0.1218
-2027-01-24,SP1,Elche,Vallecano,0.1051,0.0516
+2027-01-17,SP1,Villarreal,Alaves,0.0957,0.0389
+2027-01-24,SP1,Alaves,Barcelona,0.0389,0.1480
+2027-01-24,SP1,Ath Bilbao,Levante,0.0604,0.1447
+2027-01-24,SP1,Elche,Vallecano,0.0767,0.0516
 2027-01-24,SP1,Espanol,Villarreal,0.1540,0.0957
 2027-01-24,SP1,Getafe,Osasuna,0.0707,0.1349
-2027-01-24,SP1,La Coruna,Ath Madrid,0.0358,0.0793
-2027-01-24,SP1,Real Madrid,Betis,0.0091,0.0229
+2027-01-24,SP1,La Coruna,Ath Madrid,0.0358,0.0559
+2027-01-24,SP1,Real Madrid,Betis,0.0412,0.0861
 2027-01-24,SP1,Santander,Celta,0.1056,0.0950
-2027-01-24,SP1,Sociedad,Malaga,0.1481,0.0985
+2027-01-24,SP1,Sociedad,Malaga,0.1481,0.0992
 2027-01-24,SP1,Valencia,Sevilla,0.0299,0.0565
-2027-01-31,SP1,Ath Madrid,Espanol,0.0793,0.1540
-2027-01-31,SP1,Barcelona,Valencia,0.2295,0.0299
-2027-01-31,SP1,Betis,Elche,0.0229,0.1051
+2027-01-31,SP1,Ath Madrid,Espanol,0.0559,0.1540
+2027-01-31,SP1,Barcelona,Valencia,0.1480,0.0299
+2027-01-31,SP1,Betis,Elche,0.0861,0.0767
 2027-01-31,SP1,Celta,Getafe,0.0950,0.0707
-2027-01-31,SP1,Levante,Sociedad,0.1218,0.1481
-2027-01-31,SP1,Malaga,Alaves,0.0985,0.0198
+2027-01-31,SP1,Levante,Sociedad,0.1447,0.1481
+2027-01-31,SP1,Malaga,Alaves,0.0992,0.0389
 2027-01-31,SP1,Osasuna,La Coruna,0.1349,0.0358
 2027-01-31,SP1,Sevilla,Ath Bilbao,0.0565,0.0604
-2027-01-31,SP1,Vallecano,Real Madrid,0.0516,0.0091
+2027-01-31,SP1,Vallecano,Real Madrid,0.0516,0.0412
 2027-01-31,SP1,Villarreal,Santander,0.0957,0.1056
-2027-02-07,SP1,Alaves,Celta,0.0198,0.0950
+2027-02-07,SP1,Alaves,Celta,0.0389,0.0950
 2027-02-07,SP1,Ath Bilbao,Osasuna,0.0604,0.1349
-2027-02-07,SP1,Betis,Sevilla,0.0229,0.0565
-2027-02-07,SP1,Elche,Levante,0.1051,0.1218
+2027-02-07,SP1,Betis,Sevilla,0.0861,0.0565
+2027-02-07,SP1,Elche,Levante,0.0767,0.1447
 2027-02-07,SP1,Espanol,Vallecano,0.1540,0.0516
 2027-02-07,SP1,Getafe,Villarreal,0.0707,0.0957
-2027-02-07,SP1,La Coruna,Malaga,0.0358,0.0985
-2027-02-07,SP1,Valencia,Santander,0.0299,0.1056
+2027-02-07,SP1,La Coruna,Malaga,0.0358,0.0992
+2027-02-07,SP1,Valencia,Santander,0.0916,0.1056
 2027-02-14,SP1,Celta,Vallecano,0.0950,0.0516
-2027-02-14,SP1,Elche,La Coruna,0.1051,0.0358
-2027-02-14,SP1,Levante,Malaga,0.1218,0.0985
-2027-02-14,SP1,Osasuna,Ath Madrid,0.1349,0.0793
-2027-02-14,SP1,Real Madrid,Ath Bilbao,0.0091,0.0604
+2027-02-14,SP1,Elche,La Coruna,0.0767,0.0358
+2027-02-14,SP1,Levante,Malaga,0.1447,0.0992
+2027-02-14,SP1,Osasuna,Ath Madrid,0.1349,0.0559
+2027-02-14,SP1,Real Madrid,Ath Bilbao,0.0412,0.0604
 2027-02-14,SP1,Santander,Getafe,0.1056,0.0707
 2027-02-14,SP1,Sevilla,Espanol,0.0565,0.1540
-2027-02-14,SP1,Sociedad,Betis,0.1481,0.0229
-2027-02-14,SP1,Valencia,Alaves,0.0299,0.0198
-2027-02-14,SP1,Villarreal,Barcelona,0.0957,0.2295
-2027-02-21,SP1,Alaves,Santander,0.0198,0.1056
+2027-02-14,SP1,Sociedad,Betis,0.1481,0.0861
+2027-02-14,SP1,Valencia,Alaves,0.0299,0.0389
+2027-02-14,SP1,Villarreal,Barcelona,0.0957,0.1480
+2027-02-21,SP1,Alaves,Santander,0.0389,0.1056
 2027-02-21,SP1,Ath Bilbao,Celta,0.0604,0.0950
-2027-02-21,SP1,Ath Madrid,Elche,0.0793,0.1051
-2027-02-21,SP1,Barcelona,Levante,0.2295,0.1218
+2027-02-21,SP1,Ath Madrid,Elche,0.0559,0.0767
+2027-02-21,SP1,Barcelona,Levante,0.1884,0.1447
 2027-02-21,SP1,Espanol,Osasuna,0.1540,0.1349
 2027-02-21,SP1,La Coruna,Sociedad,0.0358,0.1481
-2027-02-21,SP1,Malaga,Betis,0.0985,0.0229
-2027-02-21,SP1,Sevilla,Real Madrid,0.0565,0.0091
+2027-02-21,SP1,Malaga,Betis,0.0992,0.0861
+2027-02-21,SP1,Sevilla,Real Madrid,0.0565,0.0412
 2027-02-21,SP1,Vallecano,Getafe,0.0516,0.0707
 2027-02-21,SP1,Villarreal,Valencia,0.0957,0.0299
-2027-02-28,SP1,Ath Bilbao,Barcelona,0.0604,0.2295
-2027-02-28,SP1,Betis,Villarreal,0.0229,0.0957
+2027-02-28,SP1,Ath Bilbao,Barcelona,0.0604,0.1480
+2027-02-28,SP1,Betis,Villarreal,0.0861,0.0957
 2027-02-28,SP1,Celta,Espanol,0.0950,0.1540
-2027-02-28,SP1,Getafe,Alaves,0.0707,0.0198
-2027-02-28,SP1,Levante,La Coruna,0.1218,0.0358
-2027-02-28,SP1,Malaga,Ath Madrid,0.0985,0.0793
+2027-02-28,SP1,Getafe,Alaves,0.0707,0.0389
+2027-02-28,SP1,Levante,La Coruna,0.1447,0.0358
+2027-02-28,SP1,Malaga,Ath Madrid,0.0992,0.0559
 2027-02-28,SP1,Osasuna,Sevilla,0.1349,0.0565
-2027-02-28,SP1,Real Madrid,Valencia,0.0091,0.0299
+2027-02-28,SP1,Real Madrid,Valencia,0.0412,0.0299
 2027-02-28,SP1,Santander,Vallecano,0.1056,0.0516
-2027-02-28,SP1,Sociedad,Elche,0.1481,0.1051
-2027-03-07,SP1,Alaves,Ath Bilbao,0.0198,0.0604
-2027-03-07,SP1,Ath Madrid,Celta,0.0793,0.0950
-2027-03-07,SP1,Barcelona,Betis,0.2295,0.0229
-2027-03-07,SP1,Elche,Malaga,0.1051,0.0985
+2027-02-28,SP1,Sociedad,Elche,0.1481,0.0767
+2027-03-07,SP1,Alaves,Ath Bilbao,0.0389,0.0604
+2027-03-07,SP1,Ath Madrid,Celta,0.0559,0.0950
+2027-03-07,SP1,Barcelona,Betis,0.1480,0.0861
+2027-03-07,SP1,Elche,Malaga,0.0767,0.0992
 2027-03-07,SP1,Espanol,Santander,0.1540,0.1056
 2027-03-07,SP1,La Coruna,Getafe,0.0358,0.0707
 2027-03-07,SP1,Sevilla,Sociedad,0.0565,0.1481
-2027-03-07,SP1,Valencia,Levante,0.0299,0.1218
+2027-03-07,SP1,Valencia,Levante,0.0916,0.1447
 2027-03-07,SP1,Vallecano,Osasuna,0.0516,0.1349
-2027-03-07,SP1,Villarreal,Real Madrid,0.0957,0.0091
-2027-03-14,SP1,Alaves,Sevilla,0.0198,0.0565
+2027-03-07,SP1,Villarreal,Real Madrid,0.0957,0.0412
+2027-03-14,SP1,Alaves,Sevilla,0.0389,0.0565
 2027-03-14,SP1,Ath Bilbao,Valencia,0.0604,0.0299
-2027-03-14,SP1,Barcelona,La Coruna,0.2295,0.0358
-2027-03-14,SP1,Betis,Levante,0.0229,0.1218
-2027-03-14,SP1,Elche,Villarreal,0.1051,0.0957
+2027-03-14,SP1,Barcelona,La Coruna,0.1480,0.0358
+2027-03-14,SP1,Betis,Levante,0.0861,0.1447
+2027-03-14,SP1,Elche,Villarreal,0.0767,0.0957
 2027-03-14,SP1,Getafe,Sociedad,0.0707,0.1481
-2027-03-14,SP1,Malaga,Vallecano,0.0985,0.0516
+2027-03-14,SP1,Malaga,Vallecano,0.0992,0.0516
 2027-03-14,SP1,Osasuna,Celta,0.1349,0.0950
-2027-03-14,SP1,Real Madrid,Espanol,0.0091,0.1540
-2027-03-14,SP1,Santander,Ath Madrid,0.1056,0.0793
-2027-03-21,SP1,Ath Madrid,Getafe,0.0793,0.0707
-2027-03-21,SP1,Celta,Real Madrid,0.0950,0.0091
+2027-03-14,SP1,Real Madrid,Espanol,0.0412,0.1540
+2027-03-14,SP1,Santander,Ath Madrid,0.1056,0.0559
+2027-03-21,SP1,Ath Madrid,Getafe,0.0559,0.0707
+2027-03-21,SP1,Celta,Real Madrid,0.0950,0.0412
 2027-03-21,SP1,Espanol,Ath Bilbao,0.1540,0.0604
-2027-03-21,SP1,Levante,Osasuna,0.1218,0.1349
-2027-03-21,SP1,Santander,Betis,0.1056,0.0229
-2027-03-21,SP1,Sevilla,Elche,0.0565,0.1051
-2027-03-21,SP1,Sociedad,Alaves,0.1481,0.0198
+2027-03-21,SP1,Levante,Osasuna,0.1447,0.1349
+2027-03-21,SP1,Santander,Betis,0.1056,0.0861
+2027-03-21,SP1,Sevilla,Elche,0.0565,0.0767
+2027-03-21,SP1,Sociedad,Alaves,0.1481,0.0389
 2027-03-21,SP1,Valencia,La Coruna,0.0299,0.0358
-2027-03-21,SP1,Vallecano,Barcelona,0.0516,0.2295
-2027-03-21,SP1,Villarreal,Malaga,0.0957,0.0985
+2027-03-21,SP1,Vallecano,Barcelona,0.0516,0.1884
+2027-03-21,SP1,Villarreal,Malaga,0.0957,0.0992
 2027-04-04,SP1,Ath Bilbao,Santander,0.0604,0.1056
-2027-04-04,SP1,Barcelona,Sevilla,0.2295,0.0565
-2027-04-04,SP1,Betis,Celta,0.0229,0.0950
-2027-04-04,SP1,Elche,Alaves,0.1051,0.0198
+2027-04-04,SP1,Barcelona,Sevilla,0.1480,0.0565
+2027-04-04,SP1,Betis,Celta,0.0861,0.0950
+2027-04-04,SP1,Elche,Alaves,0.0767,0.0389
 2027-04-04,SP1,Getafe,Espanol,0.0707,0.1540
 2027-04-04,SP1,La Coruna,Villarreal,0.0358,0.0957
-2027-04-04,SP1,Levante,Vallecano,0.1218,0.0516
-2027-04-04,SP1,Malaga,Osasuna,0.0985,0.1349
-2027-04-04,SP1,Real Madrid,Ath Madrid,0.0091,0.0793
+2027-04-04,SP1,Levante,Vallecano,0.1447,0.0516
+2027-04-04,SP1,Malaga,Osasuna,0.0992,0.1349
+2027-04-04,SP1,Real Madrid,Ath Madrid,0.0412,0.0559
 2027-04-04,SP1,Sociedad,Valencia,0.1481,0.0299
-2027-04-11,SP1,Alaves,Betis,0.0198,0.0229
-2027-04-11,SP1,Ath Madrid,Levante,0.0793,0.1218
-2027-04-11,SP1,Celta,Elche,0.0950,0.1051
-2027-04-11,SP1,Espanol,Malaga,0.1540,0.0985
-2027-04-11,SP1,Osasuna,Real Madrid,0.1349,0.0091
-2027-04-11,SP1,Santander,Barcelona,0.1056,0.2295
+2027-04-11,SP1,Alaves,Betis,0.0389,0.0861
+2027-04-11,SP1,Ath Madrid,Levante,0.0559,0.1447
+2027-04-11,SP1,Celta,Elche,0.0950,0.0767
+2027-04-11,SP1,Espanol,Malaga,0.1540,0.0992
+2027-04-11,SP1,Osasuna,Real Madrid,0.1349,0.0412
+2027-04-11,SP1,Santander,Barcelona,0.1056,0.1884
 2027-04-11,SP1,Sevilla,La Coruna,0.0565,0.0358
 2027-04-11,SP1,Valencia,Getafe,0.0299,0.0707
 2027-04-11,SP1,Vallecano,Sociedad,0.0516,0.1481
 2027-04-11,SP1,Villarreal,Ath Bilbao,0.0957,0.0604
-2027-04-18,SP1,Alaves,Vallecano,0.0198,0.0516
-2027-04-18,SP1,Ath Madrid,Sevilla,0.0793,0.0565
-2027-04-18,SP1,Barcelona,Espanol,0.2295,0.1540
-2027-04-18,SP1,Betis,Ath Bilbao,0.0229,0.0604
-2027-04-18,SP1,Elche,Osasuna,0.1051,0.1349
-2027-04-18,SP1,Getafe,Real Madrid,0.0707,0.0091
+2027-04-18,SP1,Alaves,Vallecano,0.0389,0.0516
+2027-04-18,SP1,Ath Madrid,Sevilla,0.0559,0.0565
+2027-04-18,SP1,Barcelona,Espanol,0.1480,0.1540
+2027-04-18,SP1,Betis,Ath Bilbao,0.0861,0.0604
+2027-04-18,SP1,Elche,Osasuna,0.0767,0.1349
+2027-04-18,SP1,Getafe,Real Madrid,0.0707,0.0412
 2027-04-18,SP1,La Coruna,Celta,0.0358,0.0950
-2027-04-18,SP1,Levante,Villarreal,0.1218,0.0957
-2027-04-18,SP1,Malaga,Valencia,0.0985,0.0299
+2027-04-18,SP1,Levante,Villarreal,0.1447,0.0957
+2027-04-18,SP1,Malaga,Valencia,0.0992,0.0299
 2027-04-18,SP1,Sociedad,Santander,0.1481,0.1056
 2027-04-21,SP1,Ath Bilbao,La Coruna,0.0604,0.0358
-2027-04-21,SP1,Celta,Barcelona,0.0950,0.2295
+2027-04-21,SP1,Celta,Barcelona,0.0950,0.1480
 2027-04-21,SP1,Espanol,Sociedad,0.1540,0.1481
-2027-04-21,SP1,Getafe,Betis,0.0707,0.0229
-2027-04-21,SP1,Osasuna,Alaves,0.1349,0.0198
-2027-04-21,SP1,Real Madrid,Elche,0.0091,0.1051
-2027-04-21,SP1,Santander,Malaga,0.1056,0.0985
-2027-04-21,SP1,Sevilla,Levante,0.0565,0.1218
-2027-04-21,SP1,Valencia,Vallecano,0.0299,0.0516
-2027-04-21,SP1,Villarreal,Ath Madrid,0.0957,0.0793
-2027-05-02,SP1,Ath Madrid,Alaves,0.0793,0.0198
-2027-05-02,SP1,Barcelona,Osasuna,0.2295,0.1349
-2027-05-02,SP1,Betis,Valencia,0.0229,0.0299
+2027-04-21,SP1,Getafe,Betis,0.0707,0.0861
+2027-04-21,SP1,Osasuna,Alaves,0.1349,0.0389
+2027-04-21,SP1,Real Madrid,Elche,0.0412,0.0767
+2027-04-21,SP1,Santander,Malaga,0.1056,0.0992
+2027-04-21,SP1,Sevilla,Levante,0.0565,0.1447
+2027-04-21,SP1,Valencia,Vallecano,0.0916,0.0516
+2027-04-21,SP1,Villarreal,Ath Madrid,0.0957,0.0559
+2027-05-02,SP1,Ath Madrid,Alaves,0.0559,0.0389
+2027-05-02,SP1,Barcelona,Osasuna,0.1480,0.1349
+2027-05-02,SP1,Betis,Valencia,0.0861,0.0299
 2027-05-02,SP1,Celta,Sevilla,0.0950,0.0565
-2027-05-02,SP1,Elche,Espanol,0.1051,0.1540
+2027-05-02,SP1,Elche,Espanol,0.0767,0.1540
 2027-05-02,SP1,La Coruna,Santander,0.0358,0.1056
-2027-05-02,SP1,Levante,Real Madrid,0.1218,0.0091
-2027-05-02,SP1,Malaga,Getafe,0.0985,0.0707
+2027-05-02,SP1,Levante,Real Madrid,0.1447,0.0412
+2027-05-02,SP1,Malaga,Getafe,0.0992,0.0707
 2027-05-02,SP1,Sociedad,Ath Bilbao,0.1481,0.0604
 2027-05-02,SP1,Vallecano,Villarreal,0.0516,0.0957
-2027-05-09,SP1,Alaves,Levante,0.0198,0.1218
-2027-05-09,SP1,Ath Bilbao,Malaga,0.0604,0.0985
-2027-05-09,SP1,Betis,Espanol,0.0229,0.1540
-2027-05-09,SP1,Getafe,Elche,0.0707,0.1051
+2027-05-09,SP1,Alaves,Levante,0.0389,0.1447
+2027-05-09,SP1,Ath Bilbao,Malaga,0.0604,0.0992
+2027-05-09,SP1,Betis,Espanol,0.0861,0.1540
+2027-05-09,SP1,Getafe,Elche,0.0707,0.0767
 2027-05-09,SP1,Osasuna,Sociedad,0.1349,0.1481
-2027-05-09,SP1,Real Madrid,Barcelona,0.0091,0.2295
+2027-05-09,SP1,Real Madrid,Barcelona,0.0412,0.1480
 2027-05-09,SP1,Santander,Sevilla,0.1056,0.0565
-2027-05-09,SP1,Valencia,Ath Madrid,0.0299,0.0793
+2027-05-09,SP1,Valencia,Ath Madrid,0.0299,0.0559
 2027-05-09,SP1,Vallecano,La Coruna,0.0516,0.0358
 2027-05-09,SP1,Villarreal,Celta,0.0957,0.0950
-2027-05-16,SP1,Ath Madrid,Vallecano,0.0793,0.0516
-2027-05-16,SP1,Elche,Ath Bilbao,0.1051,0.0604
+2027-05-16,SP1,Ath Madrid,Vallecano,0.0559,0.0516
+2027-05-16,SP1,Elche,Ath Bilbao,0.0767,0.0604
 2027-05-16,SP1,Espanol,Valencia,0.1540,0.0299
-2027-05-16,SP1,La Coruna,Alaves,0.0358,0.0198
-2027-05-16,SP1,Levante,Getafe,0.1218,0.0707
-2027-05-16,SP1,Malaga,Celta,0.0985,0.0950
-2027-05-16,SP1,Osasuna,Betis,0.1349,0.0229
-2027-05-16,SP1,Real Madrid,Santander,0.0091,0.1056
+2027-05-16,SP1,La Coruna,Alaves,0.0358,0.0389
+2027-05-16,SP1,Levante,Getafe,0.1447,0.0707
+2027-05-16,SP1,Malaga,Celta,0.0992,0.0950
+2027-05-16,SP1,Osasuna,Betis,0.1349,0.0861
+2027-05-16,SP1,Real Madrid,Santander,0.0412,0.1056
 2027-05-16,SP1,Sevilla,Villarreal,0.0565,0.0957
-2027-05-16,SP1,Sociedad,Barcelona,0.1481,0.2295
-2027-05-23,SP1,Alaves,Real Madrid,0.0198,0.0091
-2027-05-23,SP1,Ath Madrid,Ath Bilbao,0.0793,0.0604
-2027-05-23,SP1,Barcelona,Malaga,0.2295,0.0985
+2027-05-16,SP1,Sociedad,Barcelona,0.1481,0.1480
+2027-05-23,SP1,Alaves,Real Madrid,0.0389,0.0412
+2027-05-23,SP1,Ath Madrid,Ath Bilbao,0.0559,0.0604
+2027-05-23,SP1,Barcelona,Malaga,0.1480,0.0992
 2027-05-23,SP1,Celta,Sociedad,0.0950,0.1481
 2027-05-23,SP1,La Coruna,Espanol,0.0358,0.1540
-2027-05-23,SP1,Santander,Levante,0.1056,0.1218
+2027-05-23,SP1,Santander,Levante,0.1056,0.1447
 2027-05-23,SP1,Sevilla,Getafe,0.0565,0.0707
-2027-05-23,SP1,Valencia,Elche,0.0299,0.1051
-2027-05-23,SP1,Vallecano,Betis,0.0516,0.0229
+2027-05-23,SP1,Valencia,Elche,0.0299,0.0767
+2027-05-23,SP1,Vallecano,Betis,0.0516,0.0861
 2027-05-23,SP1,Villarreal,Osasuna,0.0957,0.1349
 2027-05-30,SP1,Ath Bilbao,Vallecano,0.0604,0.0516
-2027-05-30,SP1,Betis,Ath Madrid,0.0229,0.0793
-2027-05-30,SP1,Elche,Santander,0.1051,0.1056
-2027-05-30,SP1,Espanol,Alaves,0.1540,0.0198
-2027-05-30,SP1,Getafe,Barcelona,0.0707,0.2295
-2027-05-30,SP1,Levante,Celta,0.1218,0.0950
-2027-05-30,SP1,Malaga,Sevilla,0.0985,0.0565
+2027-05-30,SP1,Betis,Ath Madrid,0.0861,0.0559
+2027-05-30,SP1,Elche,Santander,0.0767,0.1056
+2027-05-30,SP1,Espanol,Alaves,0.1540,0.0389
+2027-05-30,SP1,Getafe,Barcelona,0.0707,0.1480
+2027-05-30,SP1,Levante,Celta,0.1447,0.0950
+2027-05-30,SP1,Malaga,Sevilla,0.0992,0.0565
 2027-05-30,SP1,Osasuna,Valencia,0.1349,0.0299
-2027-05-30,SP1,Real Madrid,La Coruna,0.0091,0.0358
+2027-05-30,SP1,Real Madrid,La Coruna,0.0412,0.0358
 2027-05-30,SP1,Sociedad,Villarreal,0.1481,0.0957
