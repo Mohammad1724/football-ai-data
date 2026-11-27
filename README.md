@@ -88,10 +88,9 @@ on this history (train 2021-22…2023-24, test 2024-25) gives log loss
 always-home baseline on the same matches — solidly useful, a notch below
 the domestic big-5 numbers, as expected for cross-league fixtures.
 
-Note: the daily workflow does not run `collect_ucl.py` yet; the step will
-be added separately (workflow files cannot be pushed through the API
-token, as with the availability step before it). Until then this feed is
-refreshed by manual runs.
+The daily workflow (`.github/workflows/update-xg.yml`, 05:17 UTC) runs all
+three collectors — `collect_xg.py`, `collect_availability.py` and
+`collect_ucl.py` — and commits any new rows.
 
 ## How it is produced
 
@@ -101,8 +100,8 @@ list from FotMob's public web API and reads each match's published
 football-data.co.uk already lists the same fixture, the final score is
 cross-verified against it before a row is accepted; mismatches are dropped
 and logged. A GitHub Actions workflow (`.github/workflows/update-xg.yml`)
-re-runs the collector daily; it is incremental — only newly played matches
-are fetched — and commits any new rows.
+re-runs all three collectors daily (05:17 UTC); each is incremental — only
+newly played matches are fetched — and commits any new rows.
 
 ```bash
 pip install -r requirements.txt
