@@ -1,12 +1,12 @@
 {
  "contractVersion": 2,
- "generatedAt": "2026-11-28T10:57:07Z",
+ "generatedAt": "2026-11-28T19:09:18Z",
  "matches": [
   {
    "id": 1000023188,
    "leagueSlug": "iran",
    "kickoffUtc": "2026-11-28T11:45:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 176352,
@@ -16,14 +16,14 @@
     "teamId": 101618,
     "name": "Zob Ahan"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 0,
+   "awayScore": 2
   },
   {
    "id": 5868141,
    "leagueSlug": "la-liga",
    "kickoffUtc": "2026-11-28T13:00:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 8603,
@@ -33,14 +33,14 @@
     "teamId": 8370,
     "name": "Rayo Vallecano"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 0,
+   "awayScore": 1
   },
   {
    "id": 1000023189,
    "leagueSlug": "iran",
    "kickoffUtc": "2026-11-28T13:45:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 101614,
@@ -50,14 +50,14 @@
     "teamId": 101624,
     "name": "Sanat Naft Abadan"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 1,
+   "awayScore": 0
   },
   {
    "id": 5749763,
    "leagueSlug": "serie-a",
    "kickoffUtc": "2026-11-28T14:00:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 9891,
@@ -67,14 +67,14 @@
     "teamId": 10167,
     "name": "Parma"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 3,
+   "awayScore": 0
   },
   {
    "id": 1000023190,
    "leagueSlug": "iran",
    "kickoffUtc": "2026-11-28T14:00:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 101611,
@@ -84,14 +84,14 @@
     "teamId": 392200,
     "name": "Nassaji Mazandaran FC"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 1
   },
   {
    "id": 5881234,
    "leagueSlug": "bundesliga",
    "kickoffUtc": "2026-11-28T14:30:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 8722,
@@ -101,14 +101,14 @@
     "teamId": 8232,
     "name": "Elversberg"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 5,
+   "awayScore": 0
   },
   {
    "id": 5881236,
    "leagueSlug": "bundesliga",
    "kickoffUtc": "2026-11-28T14:30:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 9790,
@@ -118,14 +118,14 @@
     "teamId": 9823,
     "name": "Bayern München"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 0,
+   "awayScore": 0
   },
   {
    "id": 5881238,
    "leagueSlug": "bundesliga",
    "kickoffUtc": "2026-11-28T14:30:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 9905,
@@ -135,14 +135,14 @@
     "teamId": 8149,
     "name": "Union Berlin"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 2,
+   "awayScore": 1
   },
   {
    "id": 5881239,
    "leagueSlug": "bundesliga",
    "kickoffUtc": "2026-11-28T14:30:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 8460,
@@ -152,14 +152,14 @@
     "teamId": 10189,
     "name": "Schalke 04"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 8,
+   "awayScore": 1
   },
   {
    "id": 5795531,
    "leagueSlug": "premier-league",
    "kickoffUtc": "2026-11-28T15:00:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 8463,
@@ -169,14 +169,14 @@
     "teamId": 8669,
     "name": "Coventry City"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 3,
+   "awayScore": 0
   },
   {
    "id": 5795532,
    "leagueSlug": "premier-league",
    "kickoffUtc": "2026-11-28T15:00:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 10260,
@@ -186,14 +186,14 @@
     "teamId": 9937,
     "name": "Brentford"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 0,
+   "awayScore": 4
   },
   {
    "id": 5868147,
    "leagueSlug": "la-liga",
    "kickoffUtc": "2026-11-28T15:15:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 9864,
@@ -203,14 +203,14 @@
     "teamId": 8315,
     "name": "Athletic Club"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 3,
+   "awayScore": 4
   },
   {
    "id": 5803000,
    "leagueSlug": "ligue-1",
    "kickoffUtc": "2026-11-28T16:15:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 8121,
@@ -220,14 +220,14 @@
     "teamId": 8588,
     "name": "Lens"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 2,
+   "awayScore": 5
   },
   {
    "id": 5749767,
    "leagueSlug": "serie-a",
    "kickoffUtc": "2026-11-28T17:00:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "minute": null,
    "home": {
     "teamId": 9804,
@@ -237,15 +237,15 @@
     "teamId": 8543,
     "name": "Lazio"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 1,
+   "awayScore": 2
   },
   {
    "id": 5795530,
    "leagueSlug": "premier-league",
    "kickoffUtc": "2026-11-28T17:30:00.000Z",
-   "status": "upcoming",
-   "minute": null,
+   "status": "live",
+   "minute": "81‎’‎",
    "home": {
     "teamId": 9902,
     "name": "Ipswich Town"
@@ -254,15 +254,15 @@
     "teamId": 10252,
     "name": "Aston Villa"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 2,
+   "awayScore": 2
   },
   {
    "id": 5868144,
    "leagueSlug": "la-liga",
    "kickoffUtc": "2026-11-28T17:30:00.000Z",
-   "status": "upcoming",
-   "minute": null,
+   "status": "live",
+   "minute": "79‎’‎",
    "home": {
     "teamId": 10268,
     "name": "Elche"
@@ -271,15 +271,15 @@
     "teamId": 9906,
     "name": "Atlético Madrid"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 2,
+   "awayScore": 3
   },
   {
    "id": 5881240,
    "leagueSlug": "bundesliga",
    "kickoffUtc": "2026-11-28T17:30:00.000Z",
-   "status": "upcoming",
-   "minute": null,
+   "status": "live",
+   "minute": "78‎’‎",
    "home": {
     "teamId": 10269,
     "name": "VfB Stuttgart"
@@ -288,8 +288,8 @@
     "teamId": 9810,
     "name": "Eintracht Frankfurt"
    },
-   "homeScore": null,
-   "awayScore": null
+   "homeScore": 2,
+   "awayScore": 2
   },
   {
    "id": 5749764,
