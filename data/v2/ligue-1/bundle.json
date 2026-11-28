@@ -7,7 +7,7 @@
   "country": "FRA",
   "season": "2026/2027"
  },
- "generatedAt": "2026-11-28T10:59:18Z",
+ "generatedAt": "2026-11-28T14:21:25Z",
  "window": {
   "from": "2026-11-25",
   "to": "2026-12-05"
@@ -2238,15 +2238,15 @@
        "positionId": 1
       },
       {
-       "playerId": 1186444,
-       "name": "Charlie Cresswell",
-       "shirtNumber": "4",
-       "positionId": 1
-      },
-      {
        "playerId": 1692872,
        "name": "Gonçalo Oliveira",
        "shirtNumber": "5",
+       "positionId": 1
+      },
+      {
+       "playerId": 1581722,
+       "name": "Abdelhamid Aït Boudlal",
+       "shirtNumber": "48",
        "positionId": 1
       },
       {
@@ -2274,15 +2274,15 @@
        "positionId": 2
       },
       {
-       "playerId": 770321,
-       "name": "Mahdi Camara",
-       "shirtNumber": "45",
-       "positionId": 2
+       "playerId": 693171,
+       "name": "Ludovic Blas",
+       "shirtNumber": "10",
+       "positionId": 3
       },
       {
-       "playerId": 813055,
-       "name": "Mousa Tamari",
-       "shirtNumber": "11",
+       "playerId": 1280225,
+       "name": "Estéban Lepaul",
+       "shirtNumber": "9",
        "positionId": 3
       },
       {
@@ -2305,13 +2305,18 @@
     ],
     "away": [
      {
-      "playerId": 317062,
-      "name": "Adrien Thomasson",
+      "playerId": 770321,
+      "name": "Mahdi Camara",
       "reason": null
      },
      {
       "playerId": 562719,
       "name": "Valentin Rongier",
+      "reason": null
+     },
+     {
+      "playerId": 317062,
+      "name": "Adrien Thomasson",
       "reason": null
      }
     ]

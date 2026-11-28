@@ -7,7 +7,7 @@
   "country": "ENG",
   "season": "2026/2027"
  },
- "generatedAt": "2026-11-28T10:59:12Z",
+ "generatedAt": "2026-11-28T14:21:21Z",
  "window": {
   "from": "2026-11-25",
   "to": "2026-12-05"
@@ -1361,10 +1361,10 @@
        "positionId": 2
       },
       {
-       "playerId": 494417,
-       "name": "Harry Wilson",
-       "shirtNumber": "10",
-       "positionId": 3
+       "playerId": 820024,
+       "name": "Sean Longstaff",
+       "shirtNumber": "8",
+       "positionId": 2
       },
       {
        "playerId": 915797,
@@ -1379,10 +1379,65 @@
        "positionId": 3
       }
      ],
-     "substitutes": null
+     "substitutes": [
+      {
+       "playerId": 432435,
+       "name": "Michael Zetterer",
+       "shirtNumber": "16",
+       "positionId": 0
+      },
+      {
+       "playerId": 861805,
+       "name": "Jaka Bijol",
+       "shirtNumber": "15",
+       "positionId": 1
+      },
+      {
+       "playerId": 717174,
+       "name": "Joe Rodon",
+       "shirtNumber": "6",
+       "positionId": 1
+      },
+      {
+       "playerId": 1092403,
+       "name": "Melvin Bard",
+       "shirtNumber": "26",
+       "positionId": 1
+      },
+      {
+       "playerId": 881735,
+       "name": "Anton Stach",
+       "shirtNumber": "18",
+       "positionId": 2
+      },
+      {
+       "playerId": 952322,
+       "name": "Brenden Aaronson",
+       "shirtNumber": "11",
+       "positionId": 2
+      },
+      {
+       "playerId": 717176,
+       "name": "Daniel James",
+       "shirtNumber": "7",
+       "positionId": 3
+      },
+      {
+       "playerId": 494417,
+       "name": "Harry Wilson",
+       "shirtNumber": "10",
+       "positionId": 3
+      },
+      {
+       "playerId": 861197,
+       "name": "Lukas Nmecha",
+       "shirtNumber": "14",
+       "positionId": 3
+      }
+     ]
     },
     "away": {
-     "formation": "3-4-2-1",
+     "formation": "4-2-3-1",
      "formationSource": "fotmob",
      "coach": "Frank Lampard",
      "starters": [
@@ -1391,6 +1446,12 @@
        "name": "Carl Rushworth",
        "shirtNumber": "19",
        "positionId": 0
+      },
+      {
+       "playerId": 1074750,
+       "name": "Milan van Ewijk",
+       "shirtNumber": "27",
+       "positionId": 1
       },
       {
        "playerId": 1161885,
@@ -1411,33 +1472,21 @@
        "positionId": 1
       },
       {
-       "playerId": 1074750,
-       "name": "Milan van Ewijk",
-       "shirtNumber": "27",
-       "positionId": 1
-      },
-      {
        "playerId": 856685,
        "name": "Frank Onyeka",
        "shirtNumber": "16",
        "positionId": 2
       },
       {
-       "playerId": 845985,
-       "name": "Victor Torp",
-       "shirtNumber": "29",
-       "positionId": 2
-      },
-      {
-       "playerId": 759814,
-       "name": "Jay Dasilva",
-       "shirtNumber": "3",
-       "positionId": 1
-      },
-      {
        "playerId": 775355,
        "name": "Gustavo Hamer",
        "shirtNumber": "38",
+       "positionId": 3
+      },
+      {
+       "playerId": 1025603,
+       "name": "Tatsuhiro Sakamoto",
+       "shirtNumber": "7",
        "positionId": 3
       },
       {
@@ -1447,13 +1496,74 @@
        "positionId": 2
       },
       {
+       "playerId": 759814,
+       "name": "Jay Dasilva",
+       "shirtNumber": "3",
+       "positionId": 1
+      },
+      {
+       "playerId": 1524069,
+       "name": "Sidiki Cherif",
+       "shirtNumber": "49",
+       "positionId": 3
+      }
+     ],
+     "substitutes": [
+      {
+       "playerId": 189103,
+       "name": "Daniel Bentley",
+       "shirtNumber": "25",
+       "positionId": 0
+      },
+      {
+       "playerId": 863822,
+       "name": "Joël Latibeaudiere",
+       "shirtNumber": "22",
+       "positionId": 1
+      },
+      {
+       "playerId": 478357,
+       "name": "Matt Grimes",
+       "shirtNumber": "6",
+       "positionId": 2
+      },
+      {
+       "playerId": 845985,
+       "name": "Victor Torp",
+       "shirtNumber": "29",
+       "positionId": 2
+      },
+      {
+       "playerId": 955411,
+       "name": "Yann Gboho",
+       "shirtNumber": "34",
+       "positionId": 2
+      },
+      {
        "playerId": 776184,
        "name": "Brandon Thomas-Asante",
        "shirtNumber": "23",
        "positionId": 3
+      },
+      {
+       "playerId": 982284,
+       "name": "Ellis Simms",
+       "shirtNumber": "9",
+       "positionId": 3
+      },
+      {
+       "playerId": 798654,
+       "name": "Ephron Mason-Clark",
+       "shirtNumber": "10",
+       "positionId": 3
+      },
+      {
+       "playerId": 1089686,
+       "name": "Kaine Kesler-Hayden",
+       "shirtNumber": "20",
+       "positionId": 3
       }
-     ],
-     "substitutes": null
+     ]
     }
    },
    "unavailable": {
@@ -1468,11 +1578,6 @@
      {
       "playerId": 1615927,
       "name": "Caleb Yirenkyi",
-      "reason": null
-     },
-     {
-      "playerId": 798654,
-      "name": "Ephron Mason-Clark",
       "reason": null
      },
      {
@@ -1557,16 +1662,16 @@
        "positionId": 2
       },
       {
-       "playerId": 923312,
-       "name": "Bryan Mbeumo",
-       "shirtNumber": "19",
+       "playerId": 1070052,
+       "name": "Amad Diallo",
+       "shirtNumber": "16",
        "positionId": 3
       },
       {
-       "playerId": 863098,
-       "name": "Matheus Cunha",
-       "shirtNumber": "10",
-       "positionId": 3
+       "playerId": 422685,
+       "name": "Bruno Fernandes",
+       "shirtNumber": "8",
+       "positionId": 2
       },
       {
        "playerId": 1526560,
@@ -1581,7 +1686,62 @@
        "positionId": 3
       }
      ],
-     "substitutes": null
+     "substitutes": [
+      {
+       "playerId": 163604,
+       "name": "Karl Darlow",
+       "shirtNumber": "12",
+       "positionId": 0
+      },
+      {
+       "playerId": 362694,
+       "name": "Luke Shaw",
+       "shirtNumber": "23",
+       "positionId": 1
+      },
+      {
+       "playerId": 769895,
+       "name": "Matthijs de Ligt",
+       "shirtNumber": "4",
+       "positionId": 1
+      },
+      {
+       "playerId": 775539,
+       "name": "Noussair Mazraoui",
+       "shirtNumber": "3",
+       "positionId": 1
+      },
+      {
+       "playerId": 1372921,
+       "name": "Andrey Santos",
+       "shirtNumber": "17",
+       "positionId": 2
+      },
+      {
+       "playerId": 750032,
+       "name": "Mason Mount",
+       "shirtNumber": "7",
+       "positionId": 2
+      },
+      {
+       "playerId": 923312,
+       "name": "Bryan Mbeumo",
+       "shirtNumber": "19",
+       "positionId": 3
+      },
+      {
+       "playerId": 863098,
+       "name": "Matheus Cunha",
+       "shirtNumber": "10",
+       "positionId": 3
+      },
+      {
+       "playerId": 1436260,
+       "name": "Shea Lacey",
+       "shirtNumber": "31",
+       "positionId": 3
+      }
+     ]
     },
     "away": {
      "formation": "4-2-3-1",
@@ -1619,9 +1779,9 @@
        "positionId": 1
       },
       {
-       "playerId": 1157236,
-       "name": "Yehor Yarmoliuk",
-       "shirtNumber": "6",
+       "playerId": 1185211,
+       "name": "Mamadou Sangaré",
+       "shirtNumber": "18",
        "positionId": 2
       },
       {
@@ -1655,21 +1815,66 @@
        "positionId": 3
       }
      ],
-     "substitutes": null
+     "substitutes": [
+      {
+       "playerId": 850962,
+       "name": "Hákon Rafn Valdimarsson",
+       "shirtNumber": "12",
+       "positionId": 0
+      },
+      {
+       "playerId": 1478706,
+       "name": "Benjamin Fredrick",
+       "shirtNumber": "48",
+       "positionId": 1
+      },
+      {
+       "playerId": 1572340,
+       "name": "Jannik Schuster",
+       "shirtNumber": "44",
+       "positionId": 1
+      },
+      {
+       "playerId": 1451265,
+       "name": "Malick Diouf",
+       "shirtNumber": "25",
+       "positionId": 1
+      },
+      {
+       "playerId": 963965,
+       "name": "Fábio Carvalho",
+       "shirtNumber": "14",
+       "positionId": 2
+      },
+      {
+       "playerId": 650616,
+       "name": "Mathias Jensen",
+       "shirtNumber": "8",
+       "positionId": 2
+      },
+      {
+       "playerId": 1516030,
+       "name": "Gustavo Nunes",
+       "shirtNumber": "39",
+       "positionId": 3
+      },
+      {
+       "playerId": 759566,
+       "name": "Joshua Dasilva",
+       "shirtNumber": "10",
+       "positionId": 3
+      },
+      {
+       "playerId": 1083796,
+       "name": "Kevin Schade",
+       "shirtNumber": "7",
+       "positionId": 3
+      }
+     ]
     }
    },
    "unavailable": {
     "home": [
-     {
-      "playerId": 422685,
-      "name": "Bruno Fernandes",
-      "reason": null
-     },
-     {
-      "playerId": 1070052,
-      "name": "Amad Diallo",
-      "reason": null
-     },
      {
       "playerId": 1352713,
       "name": "Carlos Baleba",
@@ -1715,11 +1920,6 @@
      {
       "playerId": 1302005,
       "name": "Igor Thiago",
-      "reason": null
-     },
-     {
-      "playerId": 759566,
-      "name": "Joshua Dasilva",
       "reason": null
      }
     ]
@@ -6115,14 +6315,14 @@
    "awayXg": null,
    "lineups": {
     "home": {
-     "formation": null,
+     "formation": "",
      "formationSource": null,
      "coach": null,
      "starters": [],
      "substitutes": null
     },
     "away": {
-     "formation": null,
+     "formation": "",
      "formationSource": null,
      "coach": null,
      "starters": [],
@@ -6438,11 +6638,6 @@
      {
       "playerId": 1615927,
       "name": "Caleb Yirenkyi",
-      "reason": null
-     },
-     {
-      "playerId": 798654,
-      "name": "Ephron Mason-Clark",
       "reason": null
      },
      {

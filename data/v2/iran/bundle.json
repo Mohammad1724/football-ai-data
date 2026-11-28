@@ -7,7 +7,7 @@
   "country": "IRN",
   "season": "2026/2027"
  },
- "generatedAt": "2026-11-28T10:59:19Z",
+ "generatedAt": "2026-11-28T14:21:26Z",
  "window": {
   "from": "2026-11-25",
   "to": "2026-12-05"
@@ -117,7 +117,7 @@
   {
    "id": 1000023188,
    "kickoffUtc": "2026-11-28T11:45:00.000Z",
-   "status": "upcoming",
+   "status": "finished",
    "round": null,
    "home": {
     "teamId": "176352",
@@ -129,14 +129,14 @@
     "name": "Zob Ahan",
     "shortName": "Zob Ahan"
    },
-   "homeScore": null,
-   "awayScore": null,
+   "homeScore": 0,
+   "awayScore": 2,
    "minute": null
   },
   {
    "id": 1000023189,
    "kickoffUtc": "2026-11-28T13:45:00.000Z",
-   "status": "upcoming",
+   "status": "live",
    "round": null,
    "home": {
     "teamId": "101614",
@@ -148,14 +148,14 @@
     "name": "Sanat-Naft",
     "shortName": "Sanat-Naft"
    },
-   "homeScore": null,
-   "awayScore": null,
-   "minute": null
+   "homeScore": 0,
+   "awayScore": 0,
+   "minute": "37‎’‎"
   },
   {
    "id": 1000023190,
    "kickoffUtc": "2026-11-28T14:00:00.000Z",
-   "status": "upcoming",
+   "status": "live",
    "round": null,
    "home": {
     "teamId": "101611",
@@ -167,9 +167,9 @@
     "name": "Nassaji",
     "shortName": "Nassaji"
    },
-   "homeScore": null,
-   "awayScore": null,
-   "minute": null
+   "homeScore": 2,
+   "awayScore": 0,
+   "minute": "18‎’‎"
   },
   {
    "id": 1000023191,
@@ -348,14 +348,14 @@
    "position": 1,
    "teamId": 101611,
    "name": "Sepahan",
-   "played": 13,
-   "won": 8,
+   "played": 14,
+   "won": 9,
    "drawn": 3,
    "lost": 2,
-   "goalsFor": 25,
+   "goalsFor": 27,
    "goalsAgainst": 9,
-   "goalDifference": 16,
-   "points": 27
+   "goalDifference": 18,
+   "points": 30
   },
   {
    "position": 2,
@@ -387,27 +387,27 @@
    "position": 4,
    "teamId": 176352,
    "name": "Tractor",
-   "played": 11,
+   "played": 12,
    "won": 7,
    "drawn": 2,
-   "lost": 2,
+   "lost": 3,
    "goalsFor": 14,
-   "goalsAgainst": 5,
-   "goalDifference": 9,
+   "goalsAgainst": 7,
+   "goalDifference": 7,
    "points": 23
   },
   {
    "position": 5,
    "teamId": 101614,
    "name": "Esteghlal",
-   "played": 11,
+   "played": 12,
    "won": 5,
-   "drawn": 6,
+   "drawn": 7,
    "lost": 0,
    "goalsFor": 14,
    "goalsAgainst": 5,
    "goalDifference": 9,
-   "points": 21
+   "points": 22
   },
   {
    "position": 6,
@@ -476,6 +476,19 @@
   },
   {
    "position": 11,
+   "teamId": 101618,
+   "name": "Zob Ahan",
+   "played": 14,
+   "won": 3,
+   "drawn": 7,
+   "lost": 4,
+   "goalsFor": 11,
+   "goalsAgainst": 10,
+   "goalDifference": 1,
+   "points": 16
+  },
+  {
+   "position": 12,
    "teamId": 101619,
    "name": "Paykan",
    "played": 14,
@@ -488,7 +501,7 @@
    "points": 15
   },
   {
-   "position": 12,
+   "position": 13,
    "teamId": 394619,
    "name": "Esteghlal Khuzestan",
    "played": 14,
@@ -501,42 +514,29 @@
    "points": 14
   },
   {
-   "position": 13,
-   "teamId": 101618,
-   "name": "Zob Ahan",
-   "played": 13,
-   "won": 2,
-   "drawn": 7,
-   "lost": 4,
-   "goalsFor": 9,
-   "goalsAgainst": 10,
-   "goalDifference": -1,
-   "points": 13
-  },
-  {
    "position": 14,
-   "teamId": 392200,
-   "name": "Nassaji Mazandaran FC",
-   "played": 13,
-   "won": 2,
-   "drawn": 7,
-   "lost": 4,
-   "goalsFor": 8,
-   "goalsAgainst": 11,
-   "goalDifference": -3,
-   "points": 13
-  },
-  {
-   "position": 15,
    "teamId": 101624,
    "name": "Sanat Naft Abadan",
-   "played": 12,
+   "played": 13,
    "won": 3,
-   "drawn": 4,
+   "drawn": 5,
    "lost": 5,
    "goalsFor": 8,
    "goalsAgainst": 16,
    "goalDifference": -8,
+   "points": 14
+  },
+  {
+   "position": 15,
+   "teamId": 392200,
+   "name": "Nassaji Mazandaran FC",
+   "played": 14,
+   "won": 2,
+   "drawn": 7,
+   "lost": 5,
+   "goalsFor": 8,
+   "goalsAgainst": 13,
+   "goalDifference": -5,
    "points": 13
   },
   {
@@ -682,6 +682,33 @@
      "type": "goal",
      "team": "home",
      "player": "Aref Rostami",
+     "assist": null,
+     "homeScore": 1,
+     "awayScore": 0
+    }
+   ]
+  },
+  "1000023190": {
+   "matchId": 1000023190,
+   "homeXg": null,
+   "awayXg": null,
+   "lineups": null,
+   "unavailable": null,
+   "events": [
+    {
+     "minute": 14,
+     "type": "goal",
+     "team": "home",
+     "player": "Aria Yousefi",
+     "assist": null,
+     "homeScore": 2,
+     "awayScore": 0
+    },
+    {
+     "minute": 7,
+     "type": "goal",
+     "team": "home",
+     "player": "Abbas Habibi",
      "assist": null,
      "homeScore": 1,
      "awayScore": 0

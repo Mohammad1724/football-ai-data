@@ -5,7 +5,7 @@
   "fotmobId": 523,
   "name": "Persian Gulf"
  },
- "generatedAt": "2026-11-28T10:59:19Z",
+ "generatedAt": "2026-11-28T14:21:26Z",
  "matches": [
   {
    "id": 1000018829,
@@ -2344,6 +2344,26 @@
    },
    "homeGoals": 1,
    "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 1000023188,
+   "date": "2026-11-28",
+   "kickoffUtc": "2026-11-28T11:45:00.000Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "176352",
+    "name": "Tractor",
+    "shortName": "Tractor"
+   },
+   "away": {
+    "teamId": "101618",
+    "name": "Zob Ahan",
+    "shortName": "Zob Ahan"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
    "homeXg": null,
    "awayXg": null
   }
