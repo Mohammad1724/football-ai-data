@@ -1,0 +1,1811 @@
+{
+ "contractVersion": 2,
+ "league": {
+  "slug": "champions-league",
+  "fotmobId": 42,
+  "name": "Champions League"
+ },
+ "generatedAt": "2026-11-28T10:59:18Z",
+ "matches": [
+  {
+   "id": 6106404,
+   "date": "2026-09-08",
+   "kickoffUtc": "2026-09-08T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8563",
+    "name": "AEK Athens",
+    "shortName": "AEK Athens"
+   },
+   "away": {
+    "teamId": "9977",
+    "name": "LASK",
+    "shortName": "LASK"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106295,
+   "date": "2026-09-08",
+   "kickoffUtc": "2026-09-08T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8342",
+    "name": "Club Brugge",
+    "shortName": "Club Brugge"
+   },
+   "away": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106272,
+   "date": "2026-09-08",
+   "kickoffUtc": "2026-09-08T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106286,
+   "date": "2026-09-08",
+   "kickoffUtc": "2026-09-08T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9773",
+    "name": "FC Porto",
+    "shortName": "FC Porto"
+   },
+   "away": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106311,
+   "date": "2026-09-08",
+   "kickoffUtc": "2026-09-08T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106242,
+   "date": "2026-09-08",
+   "kickoffUtc": "2026-09-08T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106264,
+   "date": "2026-09-09",
+   "kickoffUtc": "2026-09-09T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "10235",
+    "name": "Feyenoord",
+    "shortName": "Feyenoord"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106400,
+   "date": "2026-09-09",
+   "kickoffUtc": "2026-09-09T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "away": {
+    "teamId": "8478",
+    "name": "Viking",
+    "shortName": "Viking"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106246,
+   "date": "2026-09-09",
+   "kickoffUtc": "2026-09-09T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106237,
+   "date": "2026-09-09",
+   "kickoffUtc": "2026-09-09T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "away": {
+    "teamId": "6019",
+    "name": "Slovan Bratislava",
+    "shortName": "Slovan Bratislava"
+   },
+   "homeGoals": 6,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106280,
+   "date": "2026-09-09",
+   "kickoffUtc": "2026-09-09T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9768",
+    "name": "Sporting CP",
+    "shortName": "Sporting CP"
+   },
+   "away": {
+    "teamId": "8637",
+    "name": "Galatasaray",
+    "shortName": "Galatasaray"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106318,
+   "date": "2026-09-09",
+   "kickoffUtc": "2026-09-09T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106331,
+   "date": "2026-09-10",
+   "kickoffUtc": "2026-09-10T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8695",
+    "name": "Fenerbahçe",
+    "shortName": "Fenerbahçe"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106304,
+   "date": "2026-09-10",
+   "kickoffUtc": "2026-09-10T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8640",
+    "name": "PSV Eindhoven",
+    "shortName": "PSV Eindhoven"
+   },
+   "away": {
+    "teamId": "9728",
+    "name": "Shakhtar Donetsk",
+    "shortName": "Shakhtar Donetsk"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106240,
+   "date": "2026-09-10",
+   "kickoffUtc": "2026-09-10T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "away": {
+    "teamId": "8402",
+    "name": "Bodø/Glimt",
+    "shortName": "Bodø/Glimt"
+   },
+   "homeGoals": 5,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106411,
+   "date": "2026-09-10",
+   "kickoffUtc": "2026-09-10T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "away": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106293,
+   "date": "2026-09-10",
+   "kickoffUtc": "2026-09-10T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "away": {
+    "teamId": "951893",
+    "name": "Sabah FK",
+    "shortName": "Sabah FK"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106392,
+   "date": "2026-09-10",
+   "kickoffUtc": "2026-09-10T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7787",
+    "name": "Slavia Prague",
+    "shortName": "Slavia Prague"
+   },
+   "away": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106414,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "away": {
+    "teamId": "9768",
+    "name": "Sporting CP",
+    "shortName": "Sporting CP"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106424,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "951893",
+    "name": "Sabah FK",
+    "shortName": "Sabah FK"
+   },
+   "away": {
+    "teamId": "7787",
+    "name": "Slavia Prague",
+    "shortName": "Slavia Prague"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106260,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "away": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106267,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106338,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8637",
+    "name": "Galatasaray",
+    "shortName": "Galatasaray"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 1,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106251,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "8342",
+    "name": "Club Brugge",
+    "shortName": "Club Brugge"
+   },
+   "homeGoals": 3,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106323,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "away": {
+    "teamId": "8640",
+    "name": "PSV Eindhoven",
+    "shortName": "PSV Eindhoven"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106417,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8478",
+    "name": "Viking",
+    "shortName": "Viking"
+   },
+   "away": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "homeGoals": 3,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106328,
+   "date": "2026-10-13",
+   "kickoffUtc": "2026-10-13T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106309,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10235",
+    "name": "Feyenoord",
+    "shortName": "Feyenoord"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106405,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9977",
+    "name": "LASK",
+    "shortName": "LASK"
+   },
+   "away": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "homeGoals": 3,
+   "awayGoals": 6,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106284,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "away": {
+    "teamId": "8695",
+    "name": "Fenerbahçe",
+    "shortName": "Fenerbahçe"
+   },
+   "homeGoals": 6,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106315,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8402",
+    "name": "Bodø/Glimt",
+    "shortName": "Bodø/Glimt"
+   },
+   "away": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106254,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 2,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106299,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "away": {
+    "teamId": "9773",
+    "name": "FC Porto",
+    "shortName": "FC Porto"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106274,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 3,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106337,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9728",
+    "name": "Shakhtar Donetsk",
+    "shortName": "Shakhtar Donetsk"
+   },
+   "away": {
+    "teamId": "8563",
+    "name": "AEK Athens",
+    "shortName": "AEK Athens"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106396,
+   "date": "2026-10-14",
+   "kickoffUtc": "2026-10-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6019",
+    "name": "Slovan Bratislava",
+    "shortName": "Slovan Bratislava"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106333,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8695",
+    "name": "Fenerbahçe",
+    "shortName": "Fenerbahçe"
+   },
+   "away": {
+    "teamId": "7787",
+    "name": "Slavia Prague",
+    "shortName": "Slavia Prague"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106422,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "951893",
+    "name": "Sabah FK",
+    "shortName": "Sabah FK"
+   },
+   "away": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106287,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9773",
+    "name": "FC Porto",
+    "shortName": "FC Porto"
+   },
+   "away": {
+    "teamId": "8640",
+    "name": "PSV Eindhoven",
+    "shortName": "PSV Eindhoven"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106248,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 4,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106257,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "8563",
+    "name": "AEK Athens",
+    "shortName": "AEK Athens"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106234,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 4,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106277,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "away": {
+    "teamId": "6019",
+    "name": "Slovan Bratislava",
+    "shortName": "Slovan Bratislava"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106320,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "away": {
+    "teamId": "8402",
+    "name": "Bodø/Glimt",
+    "shortName": "Bodø/Glimt"
+   },
+   "homeGoals": 4,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106397,
+   "date": "2026-10-20",
+   "kickoffUtc": "2026-10-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106410,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106312,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T16:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "8637",
+    "name": "Galatasaray",
+    "shortName": "Galatasaray"
+   },
+   "homeGoals": 2,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106285,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "away": {
+    "teamId": "8478",
+    "name": "Viking",
+    "shortName": "Viking"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106238,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106297,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8342",
+    "name": "Club Brugge",
+    "shortName": "Club Brugge"
+   },
+   "away": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106252,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "9728",
+    "name": "Shakhtar Donetsk",
+    "shortName": "Shakhtar Donetsk"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106300,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "away": {
+    "teamId": "10235",
+    "name": "Feyenoord",
+    "shortName": "Feyenoord"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106244,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106281,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9768",
+    "name": "Sporting CP",
+    "shortName": "Sporting CP"
+   },
+   "away": {
+    "teamId": "9977",
+    "name": "LASK",
+    "shortName": "LASK"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106341,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T17:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8637",
+    "name": "Galatasaray",
+    "shortName": "Galatasaray"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106335,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T17:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9728",
+    "name": "Shakhtar Donetsk",
+    "shortName": "Shakhtar Donetsk"
+   },
+   "away": {
+    "teamId": "9768",
+    "name": "Sporting CP",
+    "shortName": "Sporting CP"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106266,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106263,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106316,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8402",
+    "name": "Bodø/Glimt",
+    "shortName": "Bodø/Glimt"
+   },
+   "away": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106306,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10235",
+    "name": "Feyenoord",
+    "shortName": "Feyenoord"
+   },
+   "away": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106408,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9977",
+    "name": "LASK",
+    "shortName": "LASK"
+   },
+   "away": {
+    "teamId": "6019",
+    "name": "Slovan Bratislava",
+    "shortName": "Slovan Bratislava"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106291,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106326,
+   "date": "2026-11-03",
+   "kickoffUtc": "2026-11-03T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 0,
+   "awayGoals": 6,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106401,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T17:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8563",
+    "name": "AEK Athens",
+    "shortName": "AEK Athens"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106330,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T17:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8695",
+    "name": "Fenerbahçe",
+    "shortName": "Fenerbahçe"
+   },
+   "away": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106271,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106288,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9773",
+    "name": "FC Porto",
+    "shortName": "FC Porto"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106416,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 1,
+   "awayGoals": 9,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106303,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8640",
+    "name": "PSV Eindhoven",
+    "shortName": "PSV Eindhoven"
+   },
+   "away": {
+    "teamId": "8342",
+    "name": "Club Brugge",
+    "shortName": "Club Brugge"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106322,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "away": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106389,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7787",
+    "name": "Slavia Prague",
+    "shortName": "Slavia Prague"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106420,
+   "date": "2026-11-04",
+   "kickoffUtc": "2026-11-04T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8478",
+    "name": "Viking",
+    "shortName": "Viking"
+   },
+   "away": {
+    "teamId": "951893",
+    "name": "Sabah FK",
+    "shortName": "Sabah FK"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106317,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T17:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8402",
+    "name": "Bodø/Glimt",
+    "shortName": "Bodø/Glimt"
+   },
+   "away": {
+    "teamId": "9977",
+    "name": "LASK",
+    "shortName": "LASK"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106339,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T17:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8637",
+    "name": "Galatasaray",
+    "shortName": "Galatasaray"
+   },
+   "away": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106259,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "away": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106412,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "away": {
+    "teamId": "8563",
+    "name": "AEK Athens",
+    "shortName": "AEK Athens"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106307,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10235",
+    "name": "Feyenoord",
+    "shortName": "Feyenoord"
+   },
+   "away": {
+    "teamId": "9773",
+    "name": "FC Porto",
+    "shortName": "FC Porto"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106256,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106325,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "away": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106243,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "8640",
+    "name": "PSV Eindhoven",
+    "shortName": "PSV Eindhoven"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106394,
+   "date": "2026-11-24",
+   "kickoffUtc": "2026-11-24T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6019",
+    "name": "Slovan Bratislava",
+    "shortName": "Slovan Bratislava"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 6106421,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T17:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "951893",
+    "name": "Sabah FK",
+    "shortName": "Sabah FK"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 1,
+   "awayGoals": 4,
+   "homeXg": 1.14,
+   "awayXg": 4.13
+  },
+  {
+   "id": 6106391,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T17:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7787",
+    "name": "Slavia Prague",
+    "shortName": "Slavia Prague"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": 0.97,
+   "awayXg": 1.05
+  },
+  {
+   "id": 6106269,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "8478",
+    "name": "Viking",
+    "shortName": "Viking"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": 1.92,
+   "awayXg": 0.46
+  },
+  {
+   "id": 6106294,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8342",
+    "name": "Club Brugge",
+    "shortName": "Club Brugge"
+   },
+   "away": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": 1.23,
+   "awayXg": 2.18
+  },
+  {
+   "id": 6106253,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": 2.57,
+   "awayXg": 1.06
+  },
+  {
+   "id": 6106310,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": 1.94,
+   "awayXg": 0.95
+  },
+  {
+   "id": 6106235,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": 1.73,
+   "awayXg": 2.65
+  },
+  {
+   "id": 6106336,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9728",
+    "name": "Shakhtar Donetsk",
+    "shortName": "Shakhtar Donetsk"
+   },
+   "away": {
+    "teamId": "8695",
+    "name": "Fenerbahçe",
+    "shortName": "Fenerbahçe"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": 0.6,
+   "awayXg": 1.75
+  },
+  {
+   "id": 6106279,
+   "date": "2026-11-25",
+   "kickoffUtc": "2026-11-25T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9768",
+    "name": "Sporting CP",
+    "shortName": "Sporting CP"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": 2.52,
+   "awayXg": 1.08
+  }
+ ]
+}
