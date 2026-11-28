@@ -1,0 +1,2431 @@
+{
+ "contractVersion": 2,
+ "league": {
+  "slug": "serie-a",
+  "fotmobId": 55,
+  "name": "Serie A"
+ },
+ "generatedAt": "2026-11-28T10:59:15Z",
+ "matches": [
+  {
+   "id": 5749645,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749648,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749644,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749646,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "away": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749643,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "away": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749649,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "away": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749641,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "away": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749647,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "away": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749642,
+   "date": "2026-08-24",
+   "kickoffUtc": "2026-08-24T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "away": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749640,
+   "date": "2026-08-24",
+   "kickoffUtc": "2026-08-24T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "away": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749650,
+   "date": "2026-08-28",
+   "kickoffUtc": "2026-08-28T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "away": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749653,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "away": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749657,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "away": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749659,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "away": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749654,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "away": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749658,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749652,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "away": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749655,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "away": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749656,
+   "date": "2026-08-31",
+   "kickoffUtc": "2026-08-31T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 0,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749651,
+   "date": "2026-08-31",
+   "kickoffUtc": "2026-08-31T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "away": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749665,
+   "date": "2026-09-04",
+   "kickoffUtc": "2026-09-04T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 1,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749663,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "away": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749666,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749660,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "away": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749664,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "away": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749668,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "away": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749661,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "away": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749667,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "away": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749662,
+   "date": "2026-09-07",
+   "kickoffUtc": "2026-09-07T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "away": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749669,
+   "date": "2026-09-07",
+   "kickoffUtc": "2026-09-07T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "away": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749679,
+   "date": "2026-09-11",
+   "kickoffUtc": "2026-09-11T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "away": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "homeGoals": 2,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749672,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "away": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749674,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "away": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749670,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "away": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749675,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "away": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749676,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "away": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749677,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "away": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749671,
+   "date": "2026-09-14",
+   "kickoffUtc": "2026-09-14T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "away": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749678,
+   "date": "2026-09-14",
+   "kickoffUtc": "2026-09-14T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749673,
+   "date": "2026-09-14",
+   "kickoffUtc": "2026-09-14T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "homeGoals": 5,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749686,
+   "date": "2026-09-18",
+   "kickoffUtc": "2026-09-18T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "away": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749682,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "away": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749688,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "away": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749681,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "away": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749689,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "away": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749683,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T10:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749684,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749687,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "away": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749685,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "away": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749680,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "away": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749693,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "away": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749694,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749697,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "away": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749692,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T10:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749695,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "away": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749696,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "away": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749698,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "away": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749691,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "away": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749690,
+   "date": "2026-10-12",
+   "kickoffUtc": "2026-10-12T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "away": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749699,
+   "date": "2026-10-12",
+   "kickoffUtc": "2026-10-12T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "away": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749704,
+   "date": "2026-10-16",
+   "kickoffUtc": "2026-10-16T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "away": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "homeGoals": 4,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749709,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749702,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "away": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749701,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "away": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749708,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T10:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "away": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749703,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749700,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "away": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749705,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "away": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749706,
+   "date": "2026-10-19",
+   "kickoffUtc": "2026-10-19T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "away": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749707,
+   "date": "2026-10-19",
+   "kickoffUtc": "2026-10-19T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "away": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749718,
+   "date": "2026-10-23",
+   "kickoffUtc": "2026-10-23T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "away": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749711,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "away": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749712,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "away": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749717,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T16:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 3,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749715,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "away": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749714,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749710,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "away": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "homeGoals": 4,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749713,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "away": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749716,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T17:05:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "away": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749719,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "away": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749727,
+   "date": "2026-10-27",
+   "kickoffUtc": "2026-10-27T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "away": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "homeGoals": 2,
+   "awayGoals": 6,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749721,
+   "date": "2026-10-27",
+   "kickoffUtc": "2026-10-27T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "away": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "homeGoals": 4,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749728,
+   "date": "2026-10-27",
+   "kickoffUtc": "2026-10-27T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749720,
+   "date": "2026-10-28",
+   "kickoffUtc": "2026-10-28T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "away": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "homeGoals": 2,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749726,
+   "date": "2026-10-28",
+   "kickoffUtc": "2026-10-28T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "away": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749729,
+   "date": "2026-10-28",
+   "kickoffUtc": "2026-10-28T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "away": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749724,
+   "date": "2026-10-28",
+   "kickoffUtc": "2026-10-28T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "away": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749725,
+   "date": "2026-10-28",
+   "kickoffUtc": "2026-10-28T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 1,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749723,
+   "date": "2026-10-29",
+   "kickoffUtc": "2026-10-29T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "away": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749722,
+   "date": "2026-10-29",
+   "kickoffUtc": "2026-10-29T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "away": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749732,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "away": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749739,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 2,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749730,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "away": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749733,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "away": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749734,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "away": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749736,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "away": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749737,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "away": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749735,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "away": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749738,
+   "date": "2026-11-02",
+   "kickoffUtc": "2026-11-02T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "away": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "homeGoals": 2,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749731,
+   "date": "2026-11-02",
+   "kickoffUtc": "2026-11-02T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "away": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749749,
+   "date": "2026-11-06",
+   "kickoffUtc": "2026-11-06T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "away": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749741,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "away": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749748,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "away": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749747,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "away": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749740,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "away": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749746,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "away": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749743,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "away": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749745,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "away": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749744,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "away": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749742,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "away": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749753,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10171",
+    "name": "Como",
+    "shortName": "Como"
+   },
+   "away": {
+    "teamId": "8529",
+    "name": "Cagliari",
+    "shortName": "Cagliari"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749755,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8543",
+    "name": "Lazio",
+    "shortName": "Lazio"
+   },
+   "away": {
+    "teamId": "9888",
+    "name": "Lecce",
+    "shortName": "Lecce"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749758,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10167",
+    "name": "Parma",
+    "shortName": "Parma"
+   },
+   "away": {
+    "teamId": "8686",
+    "name": "Roma",
+    "shortName": "Roma"
+   },
+   "homeGoals": 1,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749757,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9875",
+    "name": "Napoli",
+    "shortName": "Napoli"
+   },
+   "away": {
+    "teamId": "9804",
+    "name": "Torino",
+    "shortName": "Torino"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749754,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9885",
+    "name": "Juventus",
+    "shortName": "Juventus"
+   },
+   "away": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749752,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "away": {
+    "teamId": "8600",
+    "name": "Udinese",
+    "shortName": "Udinese"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749759,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7943",
+    "name": "Sassuolo",
+    "shortName": "Sassuolo"
+   },
+   "away": {
+    "teamId": "10233",
+    "name": "Genoa",
+    "shortName": "Genoa"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749750,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8564",
+    "name": "Milan",
+    "shortName": "Milan"
+   },
+   "away": {
+    "teamId": "9891",
+    "name": "Frosinone",
+    "shortName": "Frosinone"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749751,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8524",
+    "name": "Atalanta",
+    "shortName": "Atalanta"
+   },
+   "away": {
+    "teamId": "8636",
+    "name": "Inter",
+    "shortName": "Inter"
+   },
+   "homeGoals": 4,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749756,
+   "date": "2026-11-23",
+   "kickoffUtc": "2026-11-23T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6504",
+    "name": "Monza",
+    "shortName": "Monza"
+   },
+   "away": {
+    "teamId": "8535",
+    "name": "Fiorentina",
+    "shortName": "Fiorentina"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5749769,
+   "date": "2026-11-27",
+   "kickoffUtc": "2026-11-27T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "7881",
+    "name": "Venezia",
+    "shortName": "Venezia"
+   },
+   "away": {
+    "teamId": "9857",
+    "name": "Bologna",
+    "shortName": "Bologna"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": 1.25,
+   "awayXg": 0.97
+  }
+ ]
+}

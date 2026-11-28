@@ -1,0 +1,2231 @@
+{
+ "contractVersion": 2,
+ "league": {
+  "slug": "premier-league",
+  "fotmobId": 47,
+  "name": "Premier League"
+ },
+ "generatedAt": "2026-11-28T10:59:12Z",
+ "matches": [
+  {
+   "id": 5795363,
+   "date": "2026-08-21",
+   "kickoffUtc": "2026-08-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "away": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795364,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795365,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "away": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795366,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "away": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795367,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "away": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795368,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "away": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795369,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "away": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795370,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795371,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "away": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795372,
+   "date": "2026-08-24",
+   "kickoffUtc": "2026-08-24T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "away": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795429,
+   "date": "2026-08-28",
+   "kickoffUtc": "2026-08-28T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "away": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "homeGoals": 1,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795431,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "away": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795425,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "away": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795428,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "away": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795434,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "away": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795427,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "away": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "homeGoals": 4,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795430,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "away": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795433,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "away": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795432,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "away": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "homeGoals": 5,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795426,
+   "date": "2026-08-31",
+   "kickoffUtc": "2026-08-31T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795441,
+   "date": "2026-09-04",
+   "kickoffUtc": "2026-09-04T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "away": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795443,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "away": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795436,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "away": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795437,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "away": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795439,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "away": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795442,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795444,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "away": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795440,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "away": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795438,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795435,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "away": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795445,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "away": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795446,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "away": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795447,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "away": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795449,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "away": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795451,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "away": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795454,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "away": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795453,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795448,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "away": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "homeGoals": 0,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795452,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "away": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795450,
+   "date": "2026-09-14",
+   "kickoffUtc": "2026-09-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "away": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795456,
+   "date": "2026-09-18",
+   "kickoffUtc": "2026-09-18T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "away": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795464,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "away": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795457,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795458,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "away": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795462,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "away": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795463,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "away": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795455,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "away": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795460,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "away": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795461,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "homeGoals": 5,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795459,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795465,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "away": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795466,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "away": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795467,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "away": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795471,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "away": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795474,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "away": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795473,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "away": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795469,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "away": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795470,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "away": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795472,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "away": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795468,
+   "date": "2026-10-12",
+   "kickoffUtc": "2026-10-12T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "away": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795478,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "away": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795476,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "away": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795479,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "away": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795481,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795482,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "away": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795475,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "away": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795477,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "away": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "homeGoals": 5,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795480,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795483,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795484,
+   "date": "2026-10-19",
+   "kickoffUtc": "2026-10-19T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "away": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795491,
+   "date": "2026-10-23",
+   "kickoffUtc": "2026-10-23T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "away": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795486,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T11:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "away": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795485,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "away": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795488,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "away": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795487,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "away": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795489,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "away": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795490,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "away": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795492,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "away": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795493,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "away": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795494,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "away": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795498,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T12:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795495,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "away": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795497,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "away": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795499,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "away": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795500,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "away": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795502,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795504,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "away": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795496,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "away": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795501,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795503,
+   "date": "2026-11-02",
+   "kickoffUtc": "2026-11-02T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "away": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795508,
+   "date": "2026-11-06",
+   "kickoffUtc": "2026-11-06T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "away": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795511,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T12:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "away": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795505,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "away": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795509,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "away": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795513,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "away": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795506,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "away": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795507,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "away": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795510,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "away": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795514,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "away": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795512,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "away": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "homeGoals": 4,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795522,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T12:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8456",
+    "name": "Man City",
+    "shortName": "Man City"
+   },
+   "away": {
+    "teamId": "9879",
+    "name": "Fulham",
+    "shortName": "Fulham"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795515,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8678",
+    "name": "Bournemouth",
+    "shortName": "Bournemouth"
+   },
+   "away": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795516,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10252",
+    "name": "Aston Villa",
+    "shortName": "Aston Villa"
+   },
+   "away": {
+    "teamId": "8472",
+    "name": "Sunderland",
+    "shortName": "Sunderland"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795518,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "away": {
+    "teamId": "8463",
+    "name": "Leeds",
+    "shortName": "Leeds"
+   },
+   "homeGoals": 1,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795519,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8669",
+    "name": "Coventry",
+    "shortName": "Coventry"
+   },
+   "away": {
+    "teamId": "9826",
+    "name": "Crystal Palace",
+    "shortName": "Crystal Palace"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795524,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8586",
+    "name": "Tottenham",
+    "shortName": "Tottenham"
+   },
+   "away": {
+    "teamId": "9902",
+    "name": "Ipswich",
+    "shortName": "Ipswich"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795523,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10261",
+    "name": "Newcastle",
+    "shortName": "Newcastle"
+   },
+   "away": {
+    "teamId": "9825",
+    "name": "Arsenal",
+    "shortName": "Arsenal"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795520,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8667",
+    "name": "Hull",
+    "shortName": "Hull"
+   },
+   "away": {
+    "teamId": "10204",
+    "name": "Brighton",
+    "shortName": "Brighton"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795521,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8650",
+    "name": "Liverpool",
+    "shortName": "Liverpool"
+   },
+   "away": {
+    "teamId": "10260",
+    "name": "Man United",
+    "shortName": "Man United"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795517,
+   "date": "2026-11-23",
+   "kickoffUtc": "2026-11-23T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9937",
+    "name": "Brentford",
+    "shortName": "Brentford"
+   },
+   "away": {
+    "teamId": "8668",
+    "name": "Everton",
+    "shortName": "Everton"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5795533,
+   "date": "2026-11-27",
+   "kickoffUtc": "2026-11-27T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10203",
+    "name": "Nottm Forest",
+    "shortName": "Nottm Forest"
+   },
+   "away": {
+    "teamId": "8455",
+    "name": "Chelsea",
+    "shortName": "Chelsea"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": 1.36,
+   "awayXg": 1.19
+  }
+ ]
+}

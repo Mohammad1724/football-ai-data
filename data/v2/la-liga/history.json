@@ -1,0 +1,2611 @@
+{
+ "contractVersion": 2,
+ "league": {
+  "slug": "la-liga",
+  "fotmobId": 87,
+  "name": "La Liga"
+ },
+ "generatedAt": "2026-11-28T10:59:13Z",
+ "matches": [
+  {
+   "id": 5868011,
+   "date": "2026-08-15",
+   "kickoffUtc": "2026-08-15T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "away": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868019,
+   "date": "2026-08-15",
+   "kickoffUtc": "2026-08-15T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "away": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868017,
+   "date": "2026-08-16",
+   "kickoffUtc": "2026-08-16T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868015,
+   "date": "2026-08-16",
+   "kickoffUtc": "2026-08-16T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "away": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868014,
+   "date": "2026-08-17",
+   "kickoffUtc": "2026-08-17T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "away": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868012,
+   "date": "2026-08-19",
+   "kickoffUtc": "2026-08-19T19:05:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868029,
+   "date": "2026-08-20",
+   "kickoffUtc": "2026-08-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "away": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868023,
+   "date": "2026-08-21",
+   "kickoffUtc": "2026-08-21T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "away": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868021,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "away": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868030,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "away": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868025,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868022,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868026,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "away": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868024,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 0,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868028,
+   "date": "2026-08-24",
+   "kickoffUtc": "2026-08-24T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "away": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868027,
+   "date": "2026-08-24",
+   "kickoffUtc": "2026-08-24T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "away": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868020,
+   "date": "2026-08-25",
+   "kickoffUtc": "2026-08-25T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868018,
+   "date": "2026-08-26",
+   "kickoffUtc": "2026-08-26T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868013,
+   "date": "2026-08-27",
+   "kickoffUtc": "2026-08-27T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "away": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868016,
+   "date": "2026-08-27",
+   "kickoffUtc": "2026-08-27T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868037,
+   "date": "2026-08-28",
+   "kickoffUtc": "2026-08-28T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "away": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868031,
+   "date": "2026-08-28",
+   "kickoffUtc": "2026-08-28T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868035,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 5,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868039,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "away": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868040,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868038,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T15:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868033,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "away": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868032,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "away": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868036,
+   "date": "2026-08-31",
+   "kickoffUtc": "2026-08-31T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "away": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868034,
+   "date": "2026-08-31",
+   "kickoffUtc": "2026-08-31T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "homeGoals": 5,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868070,
+   "date": "2026-09-03",
+   "kickoffUtc": "2026-09-03T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "away": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868043,
+   "date": "2026-09-04",
+   "kickoffUtc": "2026-09-04T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868042,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868048,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "away": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868050,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "away": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868049,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 0,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868041,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "away": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "homeGoals": 5,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868047,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "away": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868045,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "away": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868046,
+   "date": "2026-09-07",
+   "kickoffUtc": "2026-09-07T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "away": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868044,
+   "date": "2026-09-07",
+   "kickoffUtc": "2026-09-07T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "away": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868059,
+   "date": "2026-09-11",
+   "kickoffUtc": "2026-09-11T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "away": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868056,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T12:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "away": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868055,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "away": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868051,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "away": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868057,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868052,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T12:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "away": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868054,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 2,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868053,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "away": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868058,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868060,
+   "date": "2026-09-14",
+   "kickoffUtc": "2026-09-14T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868069,
+   "date": "2026-09-15",
+   "kickoffUtc": "2026-09-15T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "away": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868061,
+   "date": "2026-09-15",
+   "kickoffUtc": "2026-09-15T18:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "away": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868065,
+   "date": "2026-09-15",
+   "kickoffUtc": "2026-09-15T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868062,
+   "date": "2026-09-16",
+   "kickoffUtc": "2026-09-16T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868064,
+   "date": "2026-09-16",
+   "kickoffUtc": "2026-09-16T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "away": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868066,
+   "date": "2026-09-16",
+   "kickoffUtc": "2026-09-16T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "homeGoals": 7,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868063,
+   "date": "2026-09-17",
+   "kickoffUtc": "2026-09-17T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "away": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868068,
+   "date": "2026-09-17",
+   "kickoffUtc": "2026-09-17T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868075,
+   "date": "2026-09-18",
+   "kickoffUtc": "2026-09-18T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "away": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868077,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T12:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "away": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868071,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "away": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868073,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "away": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "homeGoals": 5,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868078,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868076,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T12:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "away": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868072,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868074,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868080,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "away": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868079,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "away": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868086,
+   "date": "2026-10-09",
+   "kickoffUtc": "2026-10-09T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "away": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868081,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868084,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868089,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868083,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T12:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "away": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868090,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "away": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868082,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "away": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "homeGoals": 5,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868087,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "away": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868085,
+   "date": "2026-10-12",
+   "kickoffUtc": "2026-10-12T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "away": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "homeGoals": 3,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868093,
+   "date": "2026-10-16",
+   "kickoffUtc": "2026-10-16T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "away": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868094,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T12:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868100,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "away": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868091,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 2,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868099,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "away": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868097,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T12:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "away": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868092,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "away": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868096,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "away": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "homeGoals": 2,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868098,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868095,
+   "date": "2026-10-19",
+   "kickoffUtc": "2026-10-19T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "away": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868067,
+   "date": "2026-10-21",
+   "kickoffUtc": "2026-10-21T18:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "away": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868101,
+   "date": "2026-10-23",
+   "kickoffUtc": "2026-10-23T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "away": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868107,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T12:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "away": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868106,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T14:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "away": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868110,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868103,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T19:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868102,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "away": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868104,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868108,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "away": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868105,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868109,
+   "date": "2026-10-26",
+   "kickoffUtc": "2026-10-26T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "away": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868120,
+   "date": "2026-10-30",
+   "kickoffUtc": "2026-10-30T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "away": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868117,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868119,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "away": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868112,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "away": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868115,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "homeGoals": 6,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868116,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "away": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868118,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868114,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "away": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868111,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "away": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868113,
+   "date": "2026-11-02",
+   "kickoffUtc": "2026-11-02T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "away": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868128,
+   "date": "2026-11-06",
+   "kickoffUtc": "2026-11-06T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "away": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868125,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "away": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868124,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "away": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868126,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "away": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868129,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "away": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868123,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868127,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "away": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868122,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "away": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868130,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "away": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868121,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "away": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868132,
+   "date": "2026-11-20",
+   "kickoffUtc": "2026-11-20T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8315",
+    "name": "Athletic Club",
+    "shortName": "Athletic Club"
+   },
+   "away": {
+    "teamId": "8558",
+    "name": "Espanyol",
+    "shortName": "Espanyol"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868131,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9866",
+    "name": "Deportivo Alavés",
+    "shortName": "Deportivo Alavés"
+   },
+   "away": {
+    "teamId": "9783",
+    "name": "Deportivo A Coruña",
+    "shortName": "Deportivo A Coruña"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868138,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8370",
+    "name": "Rayo Vallecano",
+    "shortName": "Rayo Vallecano"
+   },
+   "away": {
+    "teamId": "10267",
+    "name": "Valencia",
+    "shortName": "Valencia"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868140,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8302",
+    "name": "Sevilla",
+    "shortName": "Sevilla"
+   },
+   "away": {
+    "teamId": "8603",
+    "name": "Real Betis",
+    "shortName": "Real Betis"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868139,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8633",
+    "name": "Real Madrid",
+    "shortName": "Real Madrid"
+   },
+   "away": {
+    "teamId": "9910",
+    "name": "Celta Vigo",
+    "shortName": "Celta Vigo"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868133,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8634",
+    "name": "Barcelona",
+    "shortName": "Barcelona"
+   },
+   "away": {
+    "teamId": "10205",
+    "name": "Villarreal",
+    "shortName": "Villarreal"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868137,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "away": {
+    "teamId": "8560",
+    "name": "Real Sociedad",
+    "shortName": "Real Sociedad"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868136,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8371",
+    "name": "Osasuna",
+    "shortName": "Osasuna"
+   },
+   "away": {
+    "teamId": "9864",
+    "name": "Málaga",
+    "shortName": "Málaga"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868134,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8305",
+    "name": "Getafe",
+    "shortName": "Getafe"
+   },
+   "away": {
+    "teamId": "9906",
+    "name": "Atlético Madrid",
+    "shortName": "Atlético Madrid"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868135,
+   "date": "2026-11-23",
+   "kickoffUtc": "2026-11-23T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "away": {
+    "teamId": "10268",
+    "name": "Elche",
+    "shortName": "Elche"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5868146,
+   "date": "2026-11-27",
+   "kickoffUtc": "2026-11-27T20:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8581",
+    "name": "Levante",
+    "shortName": "Levante"
+   },
+   "away": {
+    "teamId": "8696",
+    "name": "Racing Santander",
+    "shortName": "Racing Santander"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": 1.38,
+   "awayXg": 1.79
+  }
+ ]
+}

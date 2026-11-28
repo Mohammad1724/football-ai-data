@@ -1,0 +1,1831 @@
+{
+ "contractVersion": 2,
+ "league": {
+  "slug": "bundesliga",
+  "fotmobId": 54,
+  "name": "Bundesliga"
+ },
+ "generatedAt": "2026-11-28T10:59:16Z",
+ "matches": [
+  {
+   "id": 5881143,
+   "date": "2026-08-28",
+   "kickoffUtc": "2026-08-28T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881147,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "away": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881146,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "away": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881149,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "away": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881150,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "away": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881151,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "away": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "homeGoals": 3,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881145,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "away": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881148,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "away": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881144,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "away": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881159,
+   "date": "2026-09-04",
+   "kickoffUtc": "2026-09-04T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "away": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881152,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "away": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881153,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "away": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "homeGoals": 3,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881156,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "away": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881157,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "away": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881160,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "away": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881158,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "away": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881155,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "away": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "homeGoals": 0,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881154,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "away": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "homeGoals": 1,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881169,
+   "date": "2026-09-11",
+   "kickoffUtc": "2026-09-11T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "away": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881161,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "away": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881162,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "away": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881165,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "away": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "homeGoals": 5,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881166,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881167,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "away": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881164,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "away": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881168,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "away": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "homeGoals": 5,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881163,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "away": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881171,
+   "date": "2026-09-18",
+   "kickoffUtc": "2026-09-18T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "away": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "homeGoals": 7,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881172,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "away": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "homeGoals": 3,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881173,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "away": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881174,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "away": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881178,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "away": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881177,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "away": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881170,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "away": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881176,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "away": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881175,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "away": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881180,
+   "date": "2026-10-09",
+   "kickoffUtc": "2026-10-09T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "away": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881179,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "away": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881183,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "away": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881184,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "away": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "homeGoals": 3,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881185,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881187,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "away": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881186,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "away": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "homeGoals": 6,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881181,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "away": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881182,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "away": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881191,
+   "date": "2026-10-16",
+   "kickoffUtc": "2026-10-16T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "away": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881192,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "away": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "homeGoals": 4,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881193,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881194,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "away": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881195,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "away": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881196,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "away": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881189,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "away": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "homeGoals": 6,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881188,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "away": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881190,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T15:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "away": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881205,
+   "date": "2026-10-23",
+   "kickoffUtc": "2026-10-23T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "away": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881199,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "away": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881197,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "away": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881202,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "away": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881203,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "away": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881204,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T13:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "away": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881198,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "away": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881201,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "away": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881200,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "away": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881211,
+   "date": "2026-10-30",
+   "kickoffUtc": "2026-10-30T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "away": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881206,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "away": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881207,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 2,
+   "awayGoals": 4,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881209,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "away": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881212,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "away": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881214,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "away": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881208,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "away": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881213,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "away": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881210,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "away": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881218,
+   "date": "2026-11-06",
+   "kickoffUtc": "2026-11-06T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "away": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881215,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "away": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881220,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "away": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881221,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "away": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881222,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "away": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "homeGoals": 5,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881223,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "away": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881216,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "away": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881217,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "away": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881219,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T18:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "away": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881226,
+   "date": "2026-11-20",
+   "kickoffUtc": "2026-11-20T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9823",
+    "name": "Bayern München",
+    "shortName": "Bayern München"
+   },
+   "away": {
+    "teamId": "8722",
+    "name": "Köln",
+    "shortName": "Köln"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881225,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8178",
+    "name": "Leverkusen",
+    "shortName": "Leverkusen"
+   },
+   "away": {
+    "teamId": "8460",
+    "name": "Paderborn",
+    "shortName": "Paderborn"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881227,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "away": {
+    "teamId": "9789",
+    "name": "Dortmund",
+    "shortName": "Dortmund"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881228,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9810",
+    "name": "Frankfurt",
+    "shortName": "Frankfurt"
+   },
+   "away": {
+    "teamId": "8226",
+    "name": "Hoffenheim",
+    "shortName": "Hoffenheim"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881229,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8232",
+    "name": "Elversberg",
+    "shortName": "Elversberg"
+   },
+   "away": {
+    "teamId": "8358",
+    "name": "Freiburg",
+    "shortName": "Freiburg"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881231,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8149",
+    "name": "Union Berlin",
+    "shortName": "Union Berlin"
+   },
+   "away": {
+    "teamId": "178475",
+    "name": "RB Leipzig",
+    "shortName": "RB Leipzig"
+   },
+   "homeGoals": 1,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881230,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T17:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10189",
+    "name": "Schalke 04",
+    "shortName": "Schalke 04"
+   },
+   "away": {
+    "teamId": "10269",
+    "name": "VfB Stuttgart",
+    "shortName": "VfB Stuttgart"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881224,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T14:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8406",
+    "name": "Augsburg",
+    "shortName": "Augsburg"
+   },
+   "away": {
+    "teamId": "9905",
+    "name": "Mainz",
+    "shortName": "Mainz"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881232,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T16:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "away": {
+    "teamId": "9790",
+    "name": "Hamburger SV",
+    "shortName": "Hamburger SV"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5881241,
+   "date": "2026-11-27",
+   "kickoffUtc": "2026-11-27T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8697",
+    "name": "Werder Bremen",
+    "shortName": "Werder Bremen"
+   },
+   "away": {
+    "teamId": "9788",
+    "name": "M'gladbach",
+    "shortName": "M'gladbach"
+   },
+   "homeGoals": 3,
+   "awayGoals": 3,
+   "homeXg": 1.47,
+   "awayXg": 2.71
+  }
+ ]
+}

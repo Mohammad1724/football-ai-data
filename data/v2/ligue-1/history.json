@@ -1,0 +1,2011 @@
+{
+ "contractVersion": 2,
+ "league": {
+  "slug": "ligue-1",
+  "fotmobId": 53,
+  "name": "Ligue 1"
+ },
+ "generatedAt": "2026-11-28T10:59:18Z",
+ "matches": [
+  {
+   "id": 5802905,
+   "date": "2026-08-21",
+   "kickoffUtc": "2026-08-21T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "away": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802904,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "away": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "homeGoals": 5,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802903,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "away": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802906,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "away": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802908,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "away": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802909,
+   "date": "2026-08-22",
+   "kickoffUtc": "2026-08-22T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "away": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802901,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "away": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802902,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "away": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5803105,
+   "date": "2026-08-23",
+   "kickoffUtc": "2026-08-23T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802918,
+   "date": "2026-08-28",
+   "kickoffUtc": "2026-08-28T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802917,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "away": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802910,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "away": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802911,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "away": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802912,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "away": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802913,
+   "date": "2026-08-29",
+   "kickoffUtc": "2026-08-29T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "away": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802915,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "away": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802916,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "away": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802914,
+   "date": "2026-08-30",
+   "kickoffUtc": "2026-08-30T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "away": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802926,
+   "date": "2026-09-03",
+   "kickoffUtc": "2026-09-03T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "away": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802922,
+   "date": "2026-09-04",
+   "kickoffUtc": "2026-09-04T17:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "away": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802925,
+   "date": "2026-09-04",
+   "kickoffUtc": "2026-09-04T19:05:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "away": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802921,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "away": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802920,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "away": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802924,
+   "date": "2026-09-05",
+   "kickoffUtc": "2026-09-05T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "away": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802927,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "away": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "homeGoals": 2,
+   "awayGoals": 6,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802919,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "away": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802923,
+   "date": "2026-09-06",
+   "kickoffUtc": "2026-09-06T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "away": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802935,
+   "date": "2026-09-11",
+   "kickoffUtc": "2026-09-11T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "away": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802936,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "away": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802928,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "away": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802930,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "away": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802933,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "away": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802934,
+   "date": "2026-09-12",
+   "kickoffUtc": "2026-09-12T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "away": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802932,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802931,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "away": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802929,
+   "date": "2026-09-13",
+   "kickoffUtc": "2026-09-13T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802941,
+   "date": "2026-09-18",
+   "kickoffUtc": "2026-09-18T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "away": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802943,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "away": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802937,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "away": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802939,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "away": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802940,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "away": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802944,
+   "date": "2026-09-19",
+   "kickoffUtc": "2026-09-19T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "away": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "homeGoals": 3,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802938,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "away": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802942,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "away": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802945,
+   "date": "2026-09-20",
+   "kickoffUtc": "2026-09-20T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802947,
+   "date": "2026-10-09",
+   "kickoffUtc": "2026-10-09T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "away": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802948,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802946,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "away": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802949,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "away": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802950,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "away": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "homeGoals": 2,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802952,
+   "date": "2026-10-10",
+   "kickoffUtc": "2026-10-10T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "away": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802951,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "away": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802953,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "away": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "homeGoals": 4,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802954,
+   "date": "2026-10-11",
+   "kickoffUtc": "2026-10-11T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "away": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802957,
+   "date": "2026-10-16",
+   "kickoffUtc": "2026-10-16T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "away": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "homeGoals": 0,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802962,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802958,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802963,
+   "date": "2026-10-17",
+   "kickoffUtc": "2026-10-17T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "away": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802955,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T13:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "away": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "homeGoals": 2,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802956,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "away": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "homeGoals": 1,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802959,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "away": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802961,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T15:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "away": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "homeGoals": 4,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802960,
+   "date": "2026-10-18",
+   "kickoffUtc": "2026-10-18T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "away": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802966,
+   "date": "2026-10-23",
+   "kickoffUtc": "2026-10-23T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "away": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802967,
+   "date": "2026-10-24",
+   "kickoffUtc": "2026-10-24T18:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "away": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "homeGoals": 2,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802969,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "away": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802964,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "away": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802965,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "away": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802968,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "away": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "homeGoals": 4,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802970,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "away": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "homeGoals": 3,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802971,
+   "date": "2026-10-25",
+   "kickoffUtc": "2026-10-25T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "away": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "homeGoals": 0,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802972,
+   "date": "2026-10-26",
+   "kickoffUtc": "2026-10-26T19:30:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "away": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802973,
+   "date": "2026-10-30",
+   "kickoffUtc": "2026-10-30T18:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 1,
+   "awayGoals": 5,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802978,
+   "date": "2026-10-30",
+   "kickoffUtc": "2026-10-30T18:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "away": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "homeGoals": 5,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802974,
+   "date": "2026-10-30",
+   "kickoffUtc": "2026-10-30T20:05:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802981,
+   "date": "2026-10-31",
+   "kickoffUtc": "2026-10-31T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "away": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802980,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "away": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "homeGoals": 5,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802976,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "away": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802979,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "away": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802977,
+   "date": "2026-11-01",
+   "kickoffUtc": "2026-11-01T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "away": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802975,
+   "date": "2026-11-02",
+   "kickoffUtc": "2026-11-02T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "away": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802989,
+   "date": "2026-11-06",
+   "kickoffUtc": "2026-11-06T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "away": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802983,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T18:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "away": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802987,
+   "date": "2026-11-07",
+   "kickoffUtc": "2026-11-07T20:05:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "away": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802988,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "away": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802982,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "away": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802984,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "away": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "homeGoals": 2,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802985,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "away": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "homeGoals": 0,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802986,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "away": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802990,
+   "date": "2026-11-08",
+   "kickoffUtc": "2026-11-08T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "away": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "homeGoals": 1,
+   "awayGoals": 2,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802999,
+   "date": "2026-11-20",
+   "kickoffUtc": "2026-11-20T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "10242",
+    "name": "Troyes",
+    "shortName": "Troyes"
+   },
+   "away": {
+    "teamId": "9746",
+    "name": "Le Havre",
+    "shortName": "Le Havre"
+   },
+   "homeGoals": 3,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802996,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9831",
+    "name": "Nice",
+    "shortName": "Nice"
+   },
+   "away": {
+    "teamId": "9847",
+    "name": "PSG",
+    "shortName": "PSG"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802991,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8588",
+    "name": "Lens",
+    "shortName": "Lens"
+   },
+   "away": {
+    "teamId": "9941",
+    "name": "Toulouse",
+    "shortName": "Toulouse"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802992,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8639",
+    "name": "Lille",
+    "shortName": "Lille"
+   },
+   "away": {
+    "teamId": "9748",
+    "name": "Lyon",
+    "shortName": "Lyon"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802995,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9829",
+    "name": "Monaco",
+    "shortName": "Monaco"
+   },
+   "away": {
+    "teamId": "8583",
+    "name": "Auxerre",
+    "shortName": "Auxerre"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802998,
+   "date": "2026-11-21",
+   "kickoffUtc": "2026-11-21T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "9848",
+    "name": "Strasbourg",
+    "shortName": "Strasbourg"
+   },
+   "away": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "homeGoals": 0,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802997,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T14:00:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "away": {
+    "teamId": "8121",
+    "name": "Angers",
+    "shortName": "Angers"
+   },
+   "homeGoals": 4,
+   "awayGoals": 0,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802993,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T16:15:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8689",
+    "name": "Lorient",
+    "shortName": "Lorient"
+   },
+   "away": {
+    "teamId": "9851",
+    "name": "Rennes",
+    "shortName": "Rennes"
+   },
+   "homeGoals": 1,
+   "awayGoals": 1,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5802994,
+   "date": "2026-11-22",
+   "kickoffUtc": "2026-11-22T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8592",
+    "name": "Marseille",
+    "shortName": "Marseille"
+   },
+   "away": {
+    "teamId": "8682",
+    "name": "Le Mans",
+    "shortName": "Le Mans"
+   },
+   "homeGoals": 2,
+   "awayGoals": 3,
+   "homeXg": null,
+   "awayXg": null
+  },
+  {
+   "id": 5803002,
+   "date": "2026-11-27",
+   "kickoffUtc": "2026-11-27T19:45:00Z",
+   "season": "2026/2027",
+   "home": {
+    "teamId": "8521",
+    "name": "Brest",
+    "shortName": "Brest"
+   },
+   "away": {
+    "teamId": "6379",
+    "name": "Paris FC",
+    "shortName": "Paris FC"
+   },
+   "homeGoals": 1,
+   "awayGoals": 0,
+   "homeXg": 2.31,
+   "awayXg": 1.96
+  }
+ ]
+}
